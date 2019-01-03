@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,coin,bought,fomo,stoch rsi,order,befor,line,time,fall,level
+iter1_cv_split2,bought,stoch rsi,befor,rsi,stoch,level,good,coin,order,wait
+iter1_cv_split3,bought,level,befor,coin,fomo,breakout,fib level,line,start,fall
+iter1_cv_split4,level,stoch rsi,stoch,rsi,bought,daili,good,fomo,order,sat
+iter1_cv_split5,level,coin,good,stoch rsi,befor,rsi,stoch,bought,breakout,order
+iter2_cv_split1,bought,level,good,stoch rsi,befor,rsi,stoch,fib level,fall,amp
+iter2_cv_split2,level,stoch rsi,coin,rsi,stoch,bought,fomo,sat,order,fib level
+iter2_cv_split3,befor,bought,coin,order,fall,target,stoch,stoch rsi,line,rsi
+iter2_cv_split4,level,coin,stoch rsi,rsi,stoch,befor,good,bought,daili,breakout
+iter2_cv_split5,bought,stoch rsi,befor,rsi,stoch,coin,level,good,daili,day
+iter3_cv_split1,level,befor,coin,bought,stoch rsi,rsi,stoch,fomo,breakout,target
+iter3_cv_split2,good,level,stoch rsi,rsi,stoch,fomo,bought,sat,order,fall
+iter3_cv_split3,level,bought,target,order,fib level,sat,stoch rsi,fib,befor,wait
+iter3_cv_split4,bought,befor,stoch,stoch rsi,rsi,good,coin,daili,breakout,fib
+iter3_cv_split5,level,bought,coin,stoch rsi,daili,rsi,stoch,befor,fomo,order
+iter4_cv_split1,level,bought,stoch rsi,rsi,stoch,daili,befor,fomo,breakout,line
+iter4_cv_split2,level,rsi,stoch rsi,befor,stoch,bought,breakout,order,coin,fall
+iter4_cv_split3,bought,level,coin,daili,fomo,good,wait,fib level,befor,fall
+iter4_cv_split4,befor,coin,level,stoch rsi,rsi,stoch,fomo,fall,order,good
+iter4_cv_split5,bought,level,good,stoch rsi,stoch,befor,rsi,coin,target,order
+iter5_cv_split1,rsi,stoch rsi,stoch,daili,bought,level,good,befor,order,target
+iter5_cv_split2,bought,level,stoch rsi,daili,rsi,stoch,fomo,coin,order,fib level
+iter5_cv_split3,level,bought,coin,befor,fomo,wait,line,fall,good,everi
+iter5_cv_split4,level,daili,befor,stoch rsi,stoch,rsi,fall,coin,breakout,order
+iter5_cv_split5,bought,level,stoch rsi,befor,rsi,stoch,good,coin,breakout,fib level
+iter6_cv_split1,befor,bought,level,good,stoch rsi,daili,rsi,stoch,order,breakout
+iter6_cv_split2,level,stoch rsi,rsi,stoch,bought,daili,wait,befor,fomo,breakout
+iter6_cv_split3,coin,level,befor,bought,fall,order,good,stoch rsi,support,rsi
+iter6_cv_split4,level,bought,coin,good,daili,stoch,stoch rsi,rsi,fomo,wait
+iter6_cv_split5,bought,befor,stoch rsi,coin,rsi,stoch,level,sat,order,breakout
+iter7_cv_split1,befor,level,coin,stoch rsi,rsi,stoch,bought,fall,order,sat
+iter7_cv_split2,level,bought,target,daili,rsi,stoch rsi,stoch,fomo,wait,fib level
+iter7_cv_split3,level,bought,good,befor,coin,start,fomo,daili,fall,wait
+iter7_cv_split4,stoch rsi,rsi,stoch,coin,befor,bought,wait,order,good,breakout
+iter7_cv_split5,level,good,befor,stoch rsi,rsi,stoch,fomo,bought,sat,order
+iter8_cv_split1,level,stoch rsi,stoch,bought,rsi,befor,coin,daili,good,fib level
+iter8_cv_split2,bought,level,target,good,fomo,coin,order,wait,fall,befor
+iter8_cv_split3,stoch rsi,rsi,stoch,coin,bought,good,wait,order,breakout,fib level
+iter8_cv_split4,level,bought,befor,daili,stoch rsi,rsi,fomo,stoch,breakout,fib level
+iter8_cv_split5,level,befor,stoch rsi,rsi,stoch,coin,order,fall,sat,daili
+iter9_cv_split1,level,stoch rsi,befor,rsi,stoch,daili,bought,order,good,breakout
+iter9_cv_split2,bought,level,stoch,stoch rsi,rsi,befor,coin,target,fomo,breakout
+iter9_cv_split3,level,good,befor,coin,bought,fomo,sat,order,daili,stoch rsi
+iter9_cv_split4,bought,level,daili,stoch rsi,wait,rsi,stoch,fomo,fall,coin
+iter9_cv_split5,bought,level,coin,order,day,fall,good,befor,entri,wait
+iter10_cv_split1,level,stoch rsi,befor,rsi,bought,stoch,coin,fomo,breakout,fib level
+iter10_cv_split2,befor,level,coin,rsi,stoch rsi,stoch,target,daili,fomo,bought
+iter10_cv_split3,bought,stoch rsi,level,rsi,stoch,daili,day,coin,fib level,line
+iter10_cv_split4,level,daili,bought,coin,order,fall,good,sat,line,support line
+iter10_cv_split5,bought,level,befor,good,stoch rsi,rsi,stoch,fall,order,breakout
+iter11_cv_split1,stoch,stoch rsi,rsi,daili,bought,fomo,coin,order,level,start
+iter11_cv_split2,stoch rsi,coin,rsi,stoch,bought,good,level,befor,daili,wait
+iter11_cv_split3,bought,befor,level,fomo,good,target,order,breakout,stoch rsi,line
+iter11_cv_split4,level,bought,stoch rsi,coin,befor,rsi,stoch,breakout,fib level,fall
+iter11_cv_split5,level,befor,stoch rsi,rsi,stoch,fall,coin,bought,order,breakout
+iter12_cv_split1,bought,befor,good,daili,fomo,level,breakout,order,sat,entri
+iter12_cv_split2,befor,bought,stoch rsi,level,rsi,stoch,fomo,coin,line,good
+iter12_cv_split3,level,stoch rsi,befor,bought,rsi,stoch,coin,fall,order,breakout
+iter12_cv_split4,level,bought,good,rsi,stoch rsi,coin,stoch,daili,fib level,fall
+iter12_cv_split5,level,bought,coin,good,stoch,stoch rsi,befor,rsi,order,breakout
+iter13_cv_split1,bought,befor,level,fomo,order,breakout,fib level,fall,sat,wait
+iter13_cv_split2,stoch rsi,rsi,stoch,bought,coin,level,good,befor,fall,order
+iter13_cv_split3,level,good,daili,stoch rsi,rsi,stoch,fomo,bought,befor,coin
+iter13_cv_split4,bought,befor,level,fomo,breakout,order,target,coin,wait,good
+iter13_cv_split5,level,stoch,stoch rsi,coin,rsi,bought,line,fib level,fib,fall
+iter14_cv_split1,level,fomo,bought,coin,order,line,fall,good,stoch rsi,target
+iter14_cv_split2,level,bought,coin,befor,stoch rsi,rsi,stoch,fomo,fib level,fall
+iter14_cv_split3,level,befor,bought,coin,wait,fomo,good,order,breakout,daili
+iter14_cv_split4,level,rsi,stoch rsi,stoch,befor,daili,bought,coin,breakout,fib level
+iter14_cv_split5,bought,level,stoch rsi,rsi,stoch,good,befor,order,breakout,target
+iter15_cv_split1,level,coin,stoch rsi,befor,rsi,stoch,bought,sat,breakout,order
+iter15_cv_split2,level,bought,stoch rsi,good,rsi,daili,stoch,fomo,order,fall
+iter15_cv_split3,bought,level,coin,good,wait,fall,fomo,line,daili,befor
+iter15_cv_split4,stoch rsi,stoch,rsi,befor,bought,level,coin,order,good,breakout
+iter15_cv_split5,befor,stoch rsi,bought,rsi,stoch,level,coin,target,start,fall
+iter16_cv_split1,level,bought,stoch,rsi,stoch rsi,befor,order,breakout,daili,fib level
+iter16_cv_split2,level,coin,bought,befor,wait,fomo,breakout,fib level,stoch rsi,line
+iter16_cv_split3,level,bought,good,fall,fomo,target,daili,stoch rsi,coin,amp
+iter16_cv_split4,befor,stoch rsi,bought,rsi,stoch,coin,target,order,line,fall
+iter16_cv_split5,level,coin,good,stoch rsi,befor,daili,rsi,stoch,bought,order
+iter17_cv_split1,level,befor,bought,stoch rsi,rsi,stoch,fomo,order,breakout,sat
+iter17_cv_split2,stoch rsi,level,befor,rsi,stoch,bought,order,coin,sat,good
+iter17_cv_split3,bought,level,good,daili,coin,fomo,fib,fib level,fall,sat
+iter17_cv_split4,bought,coin,rsi,stoch rsi,level,good,befor,stoch,fall,order
+iter17_cv_split5,level,bought,stoch rsi,coin,rsi,stoch,fomo,good,wait,fib level
+iter18_cv_split1,level,coin,rsi,stoch rsi,befor,stoch,fall,order,fib level,fib
+iter18_cv_split2,bought,level,daili,coin,sat,fib level,line,fall,stoch rsi,fib
+iter18_cv_split3,bought,befor,level,good,stoch rsi,coin,rsi,stoch,fomo,order
+iter18_cv_split4,level,bought,stoch,stoch rsi,good,rsi,coin,order,breakout,target
+iter18_cv_split5,level,stoch rsi,befor,bought,rsi,stoch,good,fomo,daili,coin
+iter19_cv_split1,bought,befor,level,start,fomo,order,daili,breakout,fall,target
+iter19_cv_split2,level,bought,coin,good,stoch rsi,befor,wait,rsi,stoch,breakout
+iter19_cv_split3,level,stoch rsi,rsi,befor,stoch,coin,line,bought,order,breakout
+iter19_cv_split4,stoch rsi,befor,rsi,stoch,good,coin,level,daili,fomo,bought
+iter19_cv_split5,bought,level,coin,order,fib level,fall,good,sat,stoch rsi,wait
+iter20_cv_split1,level,bought,good,stoch,stoch rsi,coin,rsi,wait,order,fib
+iter20_cv_split2,level,bought,stoch rsi,befor,rsi,stoch,fomo,fall,target,order
+iter20_cv_split3,bought,level,befor,good,coin,fall,stoch rsi,daili,rsi,stoch
+iter20_cv_split4,level,befor,coin,stoch rsi,rsi,stoch,fomo,bought,order,wait
+iter20_cv_split5,bought,stoch rsi,rsi,stoch,befor,level,daili,coin,breakout,fib level
+iter21_cv_split1,bought,level,coin,befor,rsi,stoch rsi,stoch,order,breakout,fib level
+iter21_cv_split2,level,bought,coin,good,order,support,fall,daili,stoch rsi,befor
+iter21_cv_split3,coin,daili,good,befor,level,fomo,fall,bought,sat,order
+iter21_cv_split4,level,befor,stoch rsi,bought,rsi,stoch,good,breakout,fib level,wait
+iter21_cv_split5,level,stoch rsi,rsi,bought,stoch,wait,fomo,order,breakout,fib level
+iter22_cv_split1,stoch rsi,befor,rsi,stoch,coin,daili,bought,good,target,fall
+iter22_cv_split2,bought,level,order,coin,good,wait,day,target,retrac,everi alt
+iter22_cv_split3,level,bought,daili,befor,fall,fomo,coin,breakout,stoch rsi,good
+iter22_cv_split4,level,stoch rsi,stoch,rsi,bought,befor,fomo,coin,order,wait
+iter22_cv_split5,stoch rsi,befor,rsi,stoch,bought,good,level,daili,coin,order
+iter23_cv_split1,stoch rsi,rsi,stoch,befor,bought,level,good,coin,target,daili
+iter23_cv_split2,level,good,coin,fomo,bought,line,fall,stoch rsi,wait,day
+iter23_cv_split3,level,bought,befor,fomo,coin,order,fall,good,amp,stoch rsi
+iter23_cv_split4,level,coin,rsi,stoch,stoch rsi,befor,bought,breakout,daili,sat
+iter23_cv_split5,bought,befor,level,stoch rsi,rsi,stoch,fomo,coin,order,target
+iter24_cv_split1,level,bought,coin,stoch rsi,rsi,stoch,order,wait,target,fib level
+iter24_cv_split2,coin,stoch rsi,stoch,level,rsi,good,befor,bought,order,fib
+iter24_cv_split3,stoch rsi,befor,bought,rsi,stoch,level,daili,fomo,order,fall
+iter24_cv_split4,befor,bought,wait,level,fomo,target,breakout,good,retrac,everi alt
+iter24_cv_split5,level,bought,rsi,stoch rsi,daili,stoch,fomo,breakout,coin,fib level
+iter25_cv_split1,bought,coin,befor,stoch rsi,rsi,stoch,fall,order,good,sat
+iter25_cv_split2,bought,befor,coin,level,good,stoch rsi,rsi,stoch,breakout,start
+iter25_cv_split3,level,stoch rsi,stoch,rsi,fomo,bought,order,sat,fib level,fib
+iter25_cv_split4,level,bought,befor,daili,fomo,coin,breakout,order,good,sat
+iter25_cv_split5,level,stoch rsi,befor,rsi,stoch,good,daili,bought,order,breakout
+iter26_cv_split1,level,stoch,stoch rsi,rsi,target,bought,good,daili,befor,coin
+iter26_cv_split2,stoch rsi,rsi,stoch,bought,level,wait,befor,good,order,breakout
+iter26_cv_split3,level,bought,coin,daili,fomo,order,good,sat,stoch rsi,line
+iter26_cv_split4,level,befor,stoch rsi,rsi,good,stoch,bought,coin,breakout,line
+iter26_cv_split5,bought,befor,level,coin,fomo,order,breakout,line,fall,stoch rsi
+iter27_cv_split1,level,bought,befor,fomo,order,breakout,wait,amp,coin,fall
+iter27_cv_split2,level,rsi,stoch,stoch rsi,target,bought,daili,coin,befor,fomo
+iter27_cv_split3,stoch rsi,rsi,stoch,level,befor,coin,order,fall,good,sat
+iter27_cv_split4,bought,good,level,stoch rsi,rsi,stoch,sat,order,fib level,befor
+iter27_cv_split5,bought,befor,coin,level,stoch rsi,rsi,stoch,fomo,good,breakout
+iter28_cv_split1,level,bought,good,daili,stoch rsi,befor,rsi,stoch,fall,fomo
+iter28_cv_split2,bought,level,befor,coin,breakout,start,wait,good,amp,stoch rsi
+iter28_cv_split3,stoch rsi,rsi,stoch,coin,level,befor,bought,order,good,breakout
+iter28_cv_split4,befor,bought,level,stoch,stoch rsi,rsi,fomo,order,fall,target
+iter28_cv_split5,level,bought,coin,good,daili,rsi,stoch rsi,stoch,order,fib level
+iter29_cv_split1,bought,befor,level,stoch rsi,daili,rsi,stoch,order,breakout,coin
+iter29_cv_split2,bought,good,stoch rsi,befor,rsi,stoch,start,fomo,coin,target
+iter29_cv_split3,level,coin,stoch rsi,befor,rsi,stoch,good,bought,breakout,fib level
+iter29_cv_split4,level,stoch,stoch rsi,coin,rsi,fomo,bought,wait,order,fib
+iter29_cv_split5,bought,daili,level,rsi,stoch rsi,befor,stoch,fomo,order,fib level
+iter30_cv_split1,level,coin,bought,sat,order,fib level,daili,good,stoch rsi,fib
+iter30_cv_split2,level,befor,stoch rsi,rsi,stoch,bought,start,fall,order,breakout
+iter30_cv_split3,level,coin,stoch rsi,rsi,befor,stoch,bought,good,fomo,daili
+iter30_cv_split4,bought,level,stoch rsi,rsi,stoch,fomo,order,fall,good,abov
+iter30_cv_split5,bought,befor,coin,good,stoch rsi,stoch,level,rsi,wait,breakout
+iter31_cv_split1,bought,stoch rsi,rsi,stoch,befor,daili,coin,fomo,wait,fib level
+iter31_cv_split2,level,coin,good,stoch rsi,befor,rsi,stoch,fomo,order,fall
+iter31_cv_split3,level,bought,target,order,day,coin,line,amp,rebuy,everi alt
+iter31_cv_split4,level,stoch rsi,befor,rsi,stoch,coin,daili,fall,bought,order
+iter31_cv_split5,level,bought,befor,good,daili,stoch rsi,stoch,rsi,sat,breakout
+iter32_cv_split1,bought,rsi,stoch rsi,befor,stoch,daili,fomo,order,wait,breakout
+iter32_cv_split2,level,befor,stoch rsi,rsi,stoch,bought,order,breakout,coin,fib level
+iter32_cv_split3,befor,level,bought,coin,stoch rsi,good,rsi,stoch,order,breakout
+iter32_cv_split4,level,coin,good,befor,fall,fomo,bought,entri,stoch rsi,line
+iter32_cv_split5,level,bought,daili,stoch,stoch rsi,coin,rsi,fomo,order,sat
+iter33_cv_split1,level,befor,coin,stoch rsi,daili,rsi,stoch,bought,fall,target
+iter33_cv_split2,level,stoch,stoch rsi,befor,rsi,bought,coin,breakout,sat,order
+iter33_cv_split3,level,stoch rsi,rsi,befor,bought,stoch,good,fomo,wait,order
+iter33_cv_split4,bought,befor,level,stoch rsi,wait,rsi,stoch,fomo,order,breakout
+iter33_cv_split5,bought,level,coin,fall,fomo,stoch rsi,wait,fib level,good,sat
+iter34_cv_split1,level,bought,rsi,stoch rsi,befor,daili,stoch,fomo,coin,order
+iter34_cv_split2,stoch rsi,befor,rsi,stoch,level,coin,bought,fomo,fall,good
+iter34_cv_split3,level,befor,wait,fomo,bought,good,breakout,stoch rsi,coin,day
+iter34_cv_split4,bought,coin,good,level,order,line,fall,daili,day,rebuy
+iter34_cv_split5,bought,level,stoch rsi,rsi,stoch,good,befor,coin,order,breakout
+iter35_cv_split1,level,bought,daili,stoch,stoch rsi,rsi,fall,fomo,coin,sat
+iter35_cv_split2,befor,level,coin,stoch rsi,rsi,stoch,bought,fomo,good,order
+iter35_cv_split3,bought,stoch rsi,rsi,stoch,befor,level,good,breakout,fib level,sat
+iter35_cv_split4,bought,coin,level,good,order,support,fall,daili,line,wait
+iter35_cv_split5,level,stoch rsi,befor,rsi,stoch,bought,coin,daili,fomo,breakout
+iter36_cv_split1,befor,bought,good,daili,coin,stoch rsi,rsi,stoch,level,fall
+iter36_cv_split2,level,bought,coin,fomo,order,fib level,good,sat,wait,stoch rsi
+iter36_cv_split3,level,bought,stoch rsi,rsi,stoch,fomo,coin,order,fib level,line
+iter36_cv_split4,level,befor,bought,stoch rsi,stoch,good,rsi,coin,order,breakout
+iter36_cv_split5,level,rsi,stoch rsi,stoch,good,befor,bought,order,breakout,target
+iter37_cv_split1,stoch rsi,rsi,bought,stoch,level,coin,befor,wait,fib level,line
+iter37_cv_split2,stoch rsi,level,rsi,stoch,good,daili,fomo,bought,order,breakout
+iter37_cv_split3,level,bought,fomo,coin,wait,befor,line,daili,rebuy,everi alt
+iter37_cv_split4,level,befor,bought,daili,stoch rsi,rsi,stoch,coin,order,good
+iter37_cv_split5,befor,coin,level,bought,good,stoch rsi,rsi,stoch,fomo,fall
+iter38_cv_split1,level,bought,befor,stoch rsi,rsi,stoch,fomo,coin,wait,target
+iter38_cv_split2,coin,befor,stoch rsi,rsi,stoch,bought,level,good,line,daili
+iter38_cv_split3,bought,level,stoch rsi,rsi,befor,stoch,wait,daili,fall,order
+iter38_cv_split4,bought,level,fomo,coin,order,fall,good,wait,daili,day
+iter38_cv_split5,level,stoch rsi,stoch,rsi,good,befor,coin,bought,order,fib
+iter39_cv_split1,level,bought,stoch rsi,rsi,stoch,good,befor,daili,wait,target
+iter39_cv_split2,level,bought,befor,stoch rsi,rsi,stoch,order,breakout,fib level,daili
+iter39_cv_split3,level,coin,stoch rsi,wait,daili,rsi,stoch,fomo,bought,fib level
+iter39_cv_split4,level,coin,rsi,stoch,stoch rsi,befor,bought,order,fib level,fib
+iter39_cv_split5,befor,coin,bought,good,fomo,order,fall,stoch rsi,masternod,daili
+iter40_cv_split1,befor,level,stoch rsi,rsi,stoch,bought,sat,order,line,start
+iter40_cv_split2,bought,level,stoch rsi,stoch,good,daili,rsi,fomo,coin,wait
+iter40_cv_split3,bought,befor,level,coin,good,stoch rsi,rsi,stoch,fall,breakout
+iter40_cv_split4,coin,befor,level,good,daili,stoch rsi,rsi,stoch,bought,target
+iter40_cv_split5,level,bought,daili,befor,rsi,stoch rsi,fomo,stoch,order,breakout
+iter41_cv_split1,level,befor,bought,coin,breakout,stoch rsi,line,fall,rsi,stoch
+iter41_cv_split2,bought,stoch rsi,rsi,stoch,level,befor,daili,fomo,coin,fib level
+iter41_cv_split3,befor,bought,level,good,stoch rsi,coin,rsi,stoch,fomo,order
+iter41_cv_split4,level,good,stoch rsi,coin,rsi,stoch,fomo,order,fib level,wait
+iter41_cv_split5,level,bought,befor,stoch,stoch rsi,rsi,coin,target,order,good
+iter42_cv_split1,level,bought,good,stoch rsi,rsi,stoch,coin,daili,day,wait
+iter42_cv_split2,level,bought,stoch rsi,befor,rsi,stoch,fomo,coin,order,breakout
+iter42_cv_split3,level,befor,good,coin,stoch rsi,rsi,stoch,fall,bought,order
+iter42_cv_split4,level,bought,befor,rsi,stoch rsi,stoch,fomo,sat,order,target
+iter42_cv_split5,coin,befor,good,bought,daili,stoch,stoch rsi,line,start,rsi
+iter43_cv_split1,level,bought,stoch rsi,stoch,rsi,befor,daili,breakout,fib level,fib
+iter43_cv_split2,bought,level,daili,fall,fomo,sat,order,fib level,good,rsi
+iter43_cv_split3,level,stoch rsi,rsi,stoch,befor,coin,daili,bought,order,target
+iter43_cv_split4,coin,good,befor,fomo,bought,order,wait,level,fall,day
+iter43_cv_split5,level,stoch rsi,befor,bought,rsi,stoch,coin,good,fall,sat
+iter44_cv_split1,befor,level,bought,target,stoch rsi,coin,rsi,stoch,order,breakout
+iter44_cv_split2,level,bought,daili,good,befor,fomo,breakout,wait,rsi,stoch rsi
+iter44_cv_split3,bought,befor,level,coin,stoch rsi,rsi,stoch,fomo,fall,wait
+iter44_cv_split4,level,coin,stoch rsi,good,rsi,stoch,line,bought,sat,order
+iter44_cv_split5,level,stoch rsi,stoch,bought,rsi,befor,fomo,order,fall,good
+iter45_cv_split1,stoch rsi,level,rsi,stoch,bought,line,fib level,wait,befor,good
+iter45_cv_split2,level,befor,bought,coin,good,stoch rsi,rsi,stoch,fomo,breakout
+iter45_cv_split3,level,stoch rsi,befor,rsi,stoch,daili,bought,fall,order,breakout
+iter45_cv_split4,level,bought,coin,good,order,daili,fib level,fib,sat,wait
+iter45_cv_split5,bought,befor,level,coin,fomo,good,order,fall,wait,stoch rsi
+iter46_cv_split1,level,stoch rsi,befor,rsi,stoch,bought,line,fomo,coin,order
+iter46_cv_split2,level,befor,coin,good,stoch rsi,stoch,rsi,bought,breakout,fib level
+iter46_cv_split3,stoch rsi,befor,bought,rsi,stoch,good,coin,day,level,order
+iter46_cv_split4,bought,level,coin,fomo,wait,order,fall,good,line,target
+iter46_cv_split5,bought,level,rsi,stoch rsi,stoch,fall,fomo,order,daili,fib level
+iter47_cv_split1,level,stoch rsi,rsi,stoch,bought,good,coin,fomo,order,sat
+iter47_cv_split2,level,befor,bought,stoch,stoch rsi,coin,target,rsi,daili,fall
+iter47_cv_split3,level,bought,coin,daili,rsi,stoch rsi,stoch,order,target,fib level
+iter47_cv_split4,level,bought,befor,breakout,order,sat,good,daili,stoch rsi,line
+iter47_cv_split5,befor,bought,good,stoch rsi,level,rsi,stoch,coin,fomo,breakout
+iter48_cv_split1,coin,good,daili,line,bought,stoch rsi,order,fall,sat,rsi
+iter48_cv_split2,level,bought,befor,fomo,coin,order,stoch rsi,line,rsi,stoch
+iter48_cv_split3,level,bought,befor,stoch rsi,rsi,stoch,coin,fomo,order,good
+iter48_cv_split4,level,daili,stoch,rsi,stoch rsi,befor,wait,fomo,bought,breakout
+iter48_cv_split5,level,stoch rsi,rsi,stoch,bought,good,target,befor,coin,breakout
+iter49_cv_split1,bought,stoch rsi,wait,befor,rsi,stoch,coin,order,line,fall
+iter49_cv_split2,level,coin,good,bought,daili,order,stoch rsi,stoch,line,fall
+iter49_cv_split3,level,good,stoch rsi,befor,rsi,stoch,bought,coin,breakout,order
+iter49_cv_split4,bought,level,befor,stoch rsi,coin,rsi,stoch,fomo,fall,order
+iter49_cv_split5,bought,level,befor,rsi,stoch rsi,stoch,fomo,breakout,fib level,fall
+iter50_cv_split1,level,befor,fomo,bought,order,fall,good,daili,stoch rsi,stoch
+iter50_cv_split2,bought,level,good,coin,befor,fomo,fall,target,breakout,stoch rsi
+iter50_cv_split3,bought,befor,stoch rsi,coin,rsi,stoch,good,level,daili,order
+iter50_cv_split4,level,bought,stoch rsi,wait,rsi,stoch,coin,fib level,amp,sat
+iter50_cv_split5,stoch rsi,befor,level,rsi,stoch,coin,bought,order,breakout,fib level
+iter51_cv_split1,befor,bought,good,stoch rsi,rsi,coin,daili,stoch,fomo,breakout
+iter51_cv_split2,level,stoch rsi,stoch,rsi,befor,bought,fomo,order,start,sat
+iter51_cv_split3,befor,coin,level,bought,order,breakout,fib level,fall,fib,stoch rsi
+iter51_cv_split4,level,bought,good,fall,fomo,wait,order,stoch rsi,daili,line
+iter51_cv_split5,level,stoch rsi,rsi,stoch,bought,coin,good,befor,wait,target
+iter52_cv_split1,level,coin,good,rsi,stoch rsi,stoch,daili,fomo,bought,wait
+iter52_cv_split2,level,stoch rsi,rsi,bought,stoch,befor,good,coin,daili,fib level
+iter52_cv_split3,level,befor,bought,stoch,stoch rsi,rsi,fomo,order,coin,line
+iter52_cv_split4,bought,stoch rsi,rsi,stoch,level,befor,fomo,order,breakout,fib level
+iter52_cv_split5,bought,level,befor,wait,coin,fall,breakout,order,day,good
+iter53_cv_split1,befor,level,target,bought,good,daili,stoch,stoch rsi,rsi,fomo
+iter53_cv_split2,befor,bought,level,stoch rsi,rsi,stoch,fall,coin,order,wait
+iter53_cv_split3,level,bought,stoch rsi,rsi,stoch,coin,befor,daili,fomo,breakout
+iter53_cv_split4,good,rsi,stoch rsi,befor,stoch,level,bought,order,daili,fall
+iter53_cv_split5,level,bought,coin,good,daili,fomo,fib level,fall,wait,stoch rsi
+iter54_cv_split1,bought,coin,daili,fomo,fall,level,sat,good,stoch rsi,wait
+iter54_cv_split2,level,bought,coin,befor,stoch rsi,rsi,stoch,good,breakout,fall
+iter54_cv_split3,level,befor,stoch rsi,rsi,stoch,coin,order,breakout,fib level,good
+iter54_cv_split4,bought,level,stoch rsi,rsi,stoch,daili,good,coin,befor,fomo
+iter54_cv_split5,befor,bought,level,daili,stoch,rsi,stoch rsi,order,fall,good
+iter55_cv_split1,level,stoch,stoch rsi,rsi,befor,good,order,breakout,fib,fib level
+iter55_cv_split2,level,stoch rsi,rsi,stoch,befor,good,daili,fall,fomo,bought
+iter55_cv_split3,bought,level,coin,befor,fomo,breakout,fall,daili,rsi,stoch rsi
+iter55_cv_split4,bought,level,coin,fomo,fib level,line,fall,good,stoch rsi,wait
+iter55_cv_split5,bought,coin,good,level,stoch rsi,befor,rsi,stoch,order,wait
+iter56_cv_split1,level,bought,coin,stoch,stoch rsi,good,rsi,target,fomo,daili
+iter56_cv_split2,good,daili,stoch rsi,befor,rsi,stoch,fall,bought,coin,order
+iter56_cv_split3,level,befor,bought,daili,stoch rsi,rsi,stoch,fomo,order,line
+iter56_cv_split4,coin,bought,befor,target,level,wait,order,breakout,fall,stoch rsi
+iter56_cv_split5,level,befor,stoch rsi,rsi,bought,stoch,good,fomo,coin,breakout
+iter57_cv_split1,level,bought,good,daili,rsi,stoch rsi,stoch,fomo,order,fib level
+iter57_cv_split2,level,bought,stoch rsi,befor,coin,rsi,stoch,order,breakout,fib level
+iter57_cv_split3,level,stoch rsi,befor,rsi,stoch,bought,coin,wait,order,breakout
+iter57_cv_split4,bought,coin,level,good,daili,stoch rsi,line,fall,befor,wait
+iter57_cv_split5,befor,level,bought,stoch rsi,stoch,rsi,fomo,fall,order,daili
+iter58_cv_split1,bought,befor,level,stoch rsi,rsi,stoch,order,breakout,daili,fib level
+iter58_cv_split2,bought,coin,level,good,rsi,stoch rsi,stoch,fomo,fall,daili
+iter58_cv_split3,level,bought,fomo,wait,order,stoch,stoch rsi,line,fall,good
+iter58_cv_split4,befor,stoch rsi,coin,rsi,stoch,level,good,bought,fall,order
+iter58_cv_split5,level,bought,stoch rsi,coin,befor,wait,rsi,stoch,fomo,breakout
+iter59_cv_split1,bought,coin,level,rsi,stoch rsi,stoch,befor,order,breakout,daili
+iter59_cv_split2,befor,coin,stoch rsi,rsi,stoch,bought,level,sat,order,line
+iter59_cv_split3,level,bought,daili,fall,order,good,stoch rsi,line,abov,rsi
+iter59_cv_split4,level,stoch rsi,coin,befor,rsi,stoch,bought,good,daili,fomo
+iter59_cv_split5,bought,level,befor,stoch rsi,rsi,stoch,fomo,order,breakout,fib level
+iter60_cv_split1,level,stoch rsi,rsi,befor,bought,stoch,daili,order,breakout,sat
+iter60_cv_split2,stoch rsi,rsi,bought,stoch,befor,good,coin,level,fall,everi
+iter60_cv_split3,level,befor,stoch rsi,rsi,stoch,fomo,bought,coin,order,breakout
+iter60_cv_split4,level,bought,good,coin,order,wait,stoch rsi,stoch,line,target
+iter60_cv_split5,bought,level,coin,good,befor,fomo,breakout,fall,wait,stoch rsi
+iter61_cv_split1,level,bought,befor,rsi,stoch rsi,stoch,order,fib level,fall,good
+iter61_cv_split2,coin,bought,fomo,breakout,fall,good,stoch rsi,befor,daili,masternod
+iter61_cv_split3,level,befor,coin,stoch rsi,stoch,good,rsi,bought,fall,fomo
+iter61_cv_split4,bought,level,stoch rsi,wait,daili,rsi,stoch,good,target,fib level
+iter61_cv_split5,level,stoch rsi,befor,coin,rsi,stoch,bought,order,breakout,fib level
+iter62_cv_split1,level,good,stoch rsi,rsi,stoch,bought,sat,order,coin,fib level
+iter62_cv_split2,bought,coin,level,rsi,stoch rsi,stoch,fomo,order,daili,befor
+iter62_cv_split3,level,stoch rsi,rsi,stoch,bought,good,wait,befor,coin,daili
+iter62_cv_split4,level,bought,befor,line,breakout,fib level,stoch rsi,fall,sat,fib
+iter62_cv_split5,befor,coin,bought,good,stoch rsi,stoch,level,target,rsi,fomo
+iter63_cv_split1,level,coin,bought,target,order,fall,good,sat,stoch rsi,masternod
+iter63_cv_split2,level,stoch rsi,rsi,stoch,bought,wait,daili,coin,fall,fomo
+iter63_cv_split3,level,bought,befor,fomo,order,breakout,stoch rsi,entri,line,target
+iter63_cv_split4,coin,befor,good,stoch rsi,rsi,stoch,bought,sat,order,fall
+iter63_cv_split5,level,bought,befor,stoch rsi,rsi,stoch,good,daili,fomo,coin
+iter64_cv_split1,daili,rsi,stoch rsi,stoch,level,bought,befor,coin,order,breakout
+iter64_cv_split2,level,bought,coin,wait,fomo,order,fib level,sat,stoch rsi,fib
+iter64_cv_split3,bought,level,befor,good,stoch rsi,rsi,stoch,fomo,target,wait
+iter64_cv_split4,stoch rsi,good,rsi,stoch,level,coin,bought,order,line,fall
+iter64_cv_split5,level,befor,good,stoch rsi,coin,rsi,stoch,bought,order,breakout
+iter65_cv_split1,coin,level,daili,bought,good,stoch,stoch rsi,befor,wait,rsi
+iter65_cv_split2,bought,befor,stoch rsi,level,rsi,stoch,coin,breakout,fib level,day
+iter65_cv_split3,level,stoch rsi,coin,rsi,stoch,bought,befor,order,fib level,fall
+iter65_cv_split4,target,good,level,fomo,bought,coin,order,daili,time,befor
+iter65_cv_split5,level,stoch rsi,bought,rsi,stoch,good,befor,fomo,order,sat
+iter66_cv_split1,level,stoch rsi,bought,rsi,stoch,coin,befor,daili,fomo,order
+iter66_cv_split2,bought,daili,stoch rsi,rsi,target,stoch,level,line,start,good
+iter66_cv_split3,level,befor,bought,coin,good,daili,fomo,breakout,order,fall
+iter66_cv_split4,level,befor,bought,stoch rsi,stoch,rsi,fomo,order,breakout,fib level
+iter66_cv_split5,bought,coin,level,stoch rsi,rsi,stoch,good,fall,befor,line
+iter67_cv_split1,level,coin,bought,fomo,target,order,day,fall,befor,masternod
+iter67_cv_split2,stoch rsi,bought,rsi,stoch,level,befor,coin,wait,fall,fomo
+iter67_cv_split3,befor,level,bought,good,stoch rsi,stoch,coin,rsi,order,target
+iter67_cv_split4,level,good,stoch rsi,daili,rsi,stoch,bought,order,fib level,line
+iter67_cv_split5,bought,befor,level,stoch rsi,rsi,stoch,daili,coin,breakout,fib level
+iter68_cv_split1,bought,level,fall,fomo,sat,order,stoch rsi,coin,fib level,good
+iter68_cv_split2,level,stoch rsi,stoch,rsi,bought,good,befor,order,breakout,fib level
+iter68_cv_split3,level,stoch rsi,coin,befor,rsi,stoch,fomo,bought,breakout,fall
+iter68_cv_split4,bought,befor,level,coin,good,rsi,stoch rsi,stoch,fomo,breakout
+iter68_cv_split5,befor,stoch rsi,level,rsi,stoch,bought,coin,order,fall,target
+iter69_cv_split1,level,rsi,stoch rsi,befor,bought,stoch,order,breakout,fib level,good
+iter69_cv_split2,bought,befor,good,stoch rsi,coin,daili,rsi,stoch,fomo,order
+iter69_cv_split3,bought,level,coin,wait,line,fall,good,daili,rebuy,everi alt
+iter69_cv_split4,level,befor,daili,stoch rsi,stoch,coin,rsi,fomo,bought,sat
+iter69_cv_split5,level,stoch rsi,rsi,stoch,coin,bought,breakout,fib level,line,fall
+iter70_cv_split1,bought,befor,coin,level,good,wait,breakout,line,fall,rsi
+iter70_cv_split2,stoch rsi,befor,rsi,stoch,bought,level,daili,coin,fomo,fall
+iter70_cv_split3,level,good,stoch rsi,rsi,stoch,fomo,bought,coin,order,sat
+iter70_cv_split4,level,bought,befor,coin,order,start,daili,sat,stoch,stoch rsi
+iter70_cv_split5,level,stoch rsi,rsi,stoch,bought,wait,befor,fomo,breakout,fib level
+iter71_cv_split1,befor,stoch,stoch rsi,rsi,coin,level,target,bought,order,breakout
+iter71_cv_split2,bought,level,befor,coin,wait,fall,stoch rsi,line,daili,rsi
+iter71_cv_split3,stoch rsi,rsi,stoch,coin,befor,bought,level,sat,order,target
+iter71_cv_split4,level,good,stoch rsi,rsi,stoch,fomo,bought,order,fib level,sat
+iter71_cv_split5,level,bought,good,befor,fomo,breakout,amp,fall,wait,daili
+iter72_cv_split1,stoch rsi,rsi,stoch,level,coin,good,befor,fall,daili,entri
+iter72_cv_split2,level,stoch rsi,befor,rsi,bought,stoch,good,daili,order,target
+iter72_cv_split3,bought,level,coin,fomo,order,fall,daili,good,line,day
+iter72_cv_split4,bought,befor,level,stoch rsi,rsi,stoch,fomo,coin,fib level,sat
+iter72_cv_split5,level,befor,bought,stoch rsi,wait,rsi,stoch,order,breakout,target
+iter73_cv_split1,bought,coin,level,good,stoch rsi,wait,rsi,stoch,order,fib level
+iter73_cv_split2,level,stoch rsi,rsi,stoch,good,befor,fomo,daili,sat,time
+iter73_cv_split3,level,bought,line,fomo,stoch rsi,fib level,fall,wait,rsi,stoch
+iter73_cv_split4,level,befor,stoch rsi,stoch,bought,rsi,good,coin,target,order
+iter73_cv_split5,befor,coin,bought,fomo,level,breakout,order,fall,good,stoch rsi
+iter74_cv_split1,stoch rsi,befor,rsi,bought,stoch,level,daili,fomo,coin,order
+iter74_cv_split2,bought,befor,good,level,coin,breakout,fall,stoch rsi,support,masternod
+iter74_cv_split3,bought,level,fomo,coin,fib level,befor,fall,sat,wait,daili
+iter74_cv_split4,level,stoch rsi,rsi,stoch,good,coin,bought,order,fib level,fall
+iter74_cv_split5,level,stoch,stoch rsi,rsi,befor,fall,fomo,order,bought,breakout
+iter75_cv_split1,level,stoch rsi,bought,rsi,stoch,good,befor,fomo,fib level,start
+iter75_cv_split2,befor,bought,coin,daili,good,stoch rsi,rsi,stoch,fomo,fall
+iter75_cv_split3,level,stoch rsi,rsi,stoch,bought,order,daili,fib level,line,fall
+iter75_cv_split4,level,bought,befor,coin,breakout,order,fall,amp,retrac,everi alt
+iter75_cv_split5,bought,stoch rsi,stoch,befor,level,rsi,coin,daili,target,fomo
+iter76_cv_split1,bought,level,befor,fomo,daili,breakout,order,fall,sat,wait
+iter76_cv_split2,befor,level,stoch rsi,rsi,stoch,good,coin,bought,order,wait
+iter76_cv_split3,level,bought,befor,good,stoch rsi,coin,daili,rsi,stoch,breakout
+iter76_cv_split4,level,stoch rsi,rsi,stoch,bought,fall,coin,order,line,fib level
+iter76_cv_split5,bought,coin,fomo,order,level,good,stoch rsi,rsi,befor,line
+iter77_cv_split1,level,coin,daili,stoch,stoch rsi,befor,rsi,bought,breakout,sat
+iter77_cv_split2,befor,stoch rsi,rsi,stoch,good,coin,bought,fomo,order,level
+iter77_cv_split3,bought,level,befor,stoch rsi,rsi,stoch,fomo,order,wait,breakout
+iter77_cv_split4,bought,stoch rsi,befor,rsi,stoch,level,coin,day,fall,good
+iter77_cv_split5,level,bought,coin,order,stoch rsi,fib level,line,fall,good,sat
+iter78_cv_split1,coin,wait,bought,befor,level,stoch rsi,rsi,stoch,sat,order
+iter78_cv_split2,level,befor,good,rsi,stoch rsi,stoch,coin,order,daili,line
+iter78_cv_split3,bought,befor,level,stoch rsi,coin,rsi,stoch,fall,good,line
+iter78_cv_split4,level,bought,stoch,stoch rsi,rsi,fomo,fib,fib level,good,wait
+iter78_cv_split5,level,bought,stoch rsi,good,rsi,stoch,befor,fall,fomo,coin
+iter79_cv_split1,stoch rsi,rsi,stoch,befor,level,good,coin,daili,fomo,bought
+iter79_cv_split2,bought,level,daili,stoch rsi,coin,wait,rsi,stoch,fomo,good
+iter79_cv_split3,level,stoch rsi,rsi,befor,bought,stoch,coin,fall,order,breakout
+iter79_cv_split4,bought,level,daili,stoch,stoch rsi,befor,rsi,fomo,coin,breakout
+iter79_cv_split5,level,befor,bought,breakout,order,coin,support,fall,good,line
+iter80_cv_split1,level,befor,coin,bought,stoch rsi,stoch,rsi,fomo,daili,breakout
+iter80_cv_split2,level,stoch rsi,rsi,bought,stoch,good,befor,order,breakout,coin
+iter80_cv_split3,level,bought,good,daili,rsi,stoch rsi,wait,stoch,fomo,order
+iter80_cv_split4,stoch rsi,level,rsi,stoch,befor,bought,coin,order,breakout,fib level
+iter80_cv_split5,bought,level,coin,fomo,fall,good,target,daili,befor,line
+iter81_cv_split1,level,bought,rsi,stoch rsi,stoch,target,order,wait,breakout,fib level
+iter81_cv_split2,level,bought,stoch rsi,rsi,stoch,befor,daili,fall,fomo,coin
+iter81_cv_split3,bought,befor,stoch rsi,rsi,stoch,coin,wait,breakout,entri,line
+iter81_cv_split4,level,stoch rsi,befor,rsi,stoch,coin,good,daili,line,everi
+iter81_cv_split5,bought,daili,coin,wait,fomo,good,level,sat,order,fall
+iter82_cv_split1,bought,level,rsi,stoch rsi,stoch,befor,daili,fib level,fall,good
+iter82_cv_split2,level,bought,stoch rsi,stoch,coin,befor,rsi,fomo,good,order
+iter82_cv_split3,level,stoch rsi,befor,coin,rsi,bought,stoch,target,good,daili
+iter82_cv_split4,level,bought,coin,stoch rsi,order,line,good,rsi,sat,stoch
+iter82_cv_split5,befor,bought,coin,fomo,level,order,good,stoch rsi,line,masternod
+iter83_cv_split1,level,stoch rsi,rsi,stoch,bought,good,daili,coin,wait,befor
+iter83_cv_split2,level,bought,befor,fall,fomo,coin,order,fib level,fib,sat
+iter83_cv_split3,bought,good,coin,line,stoch rsi,order,fall,sat,rsi,stoch
+iter83_cv_split4,level,bought,befor,good,stoch rsi,rsi,stoch,fomo,coin,order
+iter83_cv_split5,level,stoch rsi,befor,rsi,stoch,coin,bought,breakout,fib level,fall
+iter84_cv_split1,bought,befor,stoch rsi,rsi,coin,stoch,fomo,level,order,good
+iter84_cv_split2,level,bought,good,stoch,stoch rsi,rsi,fall,coin,fib level,fib
+iter84_cv_split3,level,stoch rsi,rsi,stoch,coin,befor,target,good,daili,start
+iter84_cv_split4,level,befor,bought,fomo,breakout,fib level,fall,wait,fib,stoch rsi
+iter84_cv_split5,bought,befor,level,daili,stoch rsi,rsi,stoch,order,coin,wait
+iter85_cv_split1,befor,bought,good,stoch rsi,rsi,stoch,level,order,breakout,coin
+iter85_cv_split2,bought,level,coin,good,daili,stoch rsi,rsi,stoch,fomo,fall
+iter85_cv_split3,level,bought,stoch rsi,befor,daili,rsi,stoch,breakout,sat,order
+iter85_cv_split4,level,befor,stoch,stoch rsi,rsi,bought,fomo,coin,order,fall
+iter85_cv_split5,level,bought,coin,stoch rsi,rsi,stoch,befor,daili,fomo,breakout
+iter86_cv_split1,level,befor,bought,stoch rsi,rsi,stoch,fomo,good,breakout,wait
+iter86_cv_split2,bought,coin,level,befor,good,stoch rsi,rsi,stoch,fomo,fall
+iter86_cv_split3,level,stoch rsi,coin,rsi,stoch,bought,good,order,fib level,start
+iter86_cv_split4,level,befor,bought,target,good,daili,rsi,stoch rsi,stoch,order
+iter86_cv_split5,bought,level,coin,fomo,order,befor,fall,daili,target,stoch
+iter87_cv_split1,level,stoch,stoch rsi,rsi,fomo,bought,order,wait,fib level,fib
+iter87_cv_split2,level,stoch rsi,rsi,stoch,good,coin,fall,bought,order,sat
+iter87_cv_split3,befor,bought,good,coin,daili,level,fomo,fall,sat,stoch rsi
+iter87_cv_split4,bought,coin,befor,level,stoch rsi,rsi,stoch,breakout,good,line
+iter87_cv_split5,bought,befor,level,stoch rsi,rsi,stoch,fomo,coin,order,breakout
+iter88_cv_split1,target,bought,level,good,daili,stoch,stoch rsi,befor,rsi,fomo
+iter88_cv_split2,level,bought,rsi,stoch rsi,wait,befor,stoch,coin,fomo,breakout
+iter88_cv_split3,level,befor,bought,coin,stoch rsi,rsi,stoch,fomo,order,breakout
+iter88_cv_split4,level,befor,bought,good,stoch rsi,daili,rsi,stoch,coin,breakout
+iter88_cv_split5,bought,stoch rsi,rsi,stoch,daili,start,order,coin,line,fall
+iter89_cv_split1,bought,stoch rsi,stoch,befor,rsi,start,target,breakout,fib,fib level
+iter89_cv_split2,level,coin,rsi,stoch rsi,befor,stoch,fomo,bought,daili,good
+iter89_cv_split3,level,bought,coin,good,daili,order,befor,line,fall,sat
+iter89_cv_split4,level,coin,befor,stoch rsi,rsi,stoch,fomo,bought,fall,order
+iter89_cv_split5,bought,level,stoch rsi,rsi,stoch,good,befor,coin,order,wait
+iter90_cv_split1,stoch rsi,befor,rsi,stoch,bought,coin,level,wait,order,target
+iter90_cv_split2,level,befor,coin,bought,good,stoch rsi,rsi,stoch,fomo,fall
+iter90_cv_split3,level,good,coin,bought,breakout,order,fall,stoch rsi,line,befor
+iter90_cv_split4,level,stoch rsi,stoch,bought,rsi,befor,fomo,order,daili,fib level
+iter90_cv_split5,bought,level,coin,daili,amp,line,fall,fomo,stoch rsi,rsi
+iter91_cv_split1,level,coin,daili,stoch,stoch rsi,good,rsi,bought,fall,sat
+iter91_cv_split2,level,bought,stoch rsi,befor,rsi,stoch,coin,target,breakout,fall
+iter91_cv_split3,bought,befor,stoch rsi,rsi,stoch,daili,level,good,fomo,order
+iter91_cv_split4,level,befor,bought,good,daili,stoch rsi,rsi,fomo,stoch,sat
+iter91_cv_split5,level,coin,bought,befor,fomo,order,fall,stoch rsi,line,day
+iter92_cv_split1,bought,level,coin,stoch rsi,rsi,stoch,good,order,wait,fib level
+iter92_cv_split2,level,befor,bought,coin,good,stoch rsi,rsi,stoch,order,breakout
+iter92_cv_split3,level,bought,stoch,stoch rsi,rsi,target,befor,coin,daili,breakout
+iter92_cv_split4,befor,coin,level,stoch rsi,rsi,stoch,fomo,bought,order,breakout
+iter92_cv_split5,level,bought,daili,stoch rsi,rsi,stoch,fomo,good,befor,target
+iter93_cv_split1,befor,target,order,stoch rsi,line,day,fall,good,rsi,stoch
+iter93_cv_split2,bought,level,rsi,stoch rsi,befor,stoch,fomo,coin,breakout,fib level
+iter93_cv_split3,bought,level,stoch rsi,rsi,stoch,daili,befor,fomo,target,breakout
+iter93_cv_split4,level,coin,stoch,stoch rsi,rsi,befor,bought,fomo,order,good
+iter93_cv_split5,level,bought,coin,good,daili,fomo,order,fall,wait,befor
+iter94_cv_split1,level,bought,stoch rsi,rsi,stoch,fall,fomo,order,daili,line
+iter94_cv_split2,level,bought,stoch rsi,befor,daili,rsi,stoch,breakout,sat,order
+iter94_cv_split3,befor,bought,stoch,stoch rsi,rsi,daili,coin,wait,order,level
+iter94_cv_split4,level,bought,coin,stoch rsi,rsi,stoch,wait,order,fib level,befor
+iter94_cv_split5,befor,coin,bought,good,stoch rsi,rsi,stoch,fomo,target,line
+iter95_cv_split1,level,coin,stoch rsi,good,daili,rsi,stoch,fomo,bought,order
+iter95_cv_split2,bought,level,stoch rsi,befor,rsi,stoch,target,wait,breakout,coin
+iter95_cv_split3,bought,level,befor,stoch rsi,rsi,stoch,coin,order,breakout,good
+iter95_cv_split4,level,stoch rsi,rsi,stoch,befor,good,coin,bought,order,sat
+iter95_cv_split5,befor,bought,level,fomo,order,start,coin,sat,entri,stoch rsi
+iter96_cv_split1,level,befor,bought,stoch rsi,good,daili,rsi,stoch,wait,breakout
+iter96_cv_split2,befor,bought,coin,fomo,sat,order,level,fall,rsi,stoch rsi
+iter96_cv_split3,level,bought,stoch rsi,befor,rsi,stoch,order,good,breakout,fib level
+iter96_cv_split4,level,coin,stoch,stoch rsi,rsi,target,order,fib,fib level,fall
+iter96_cv_split5,bought,coin,befor,good,stoch rsi,rsi,stoch,fomo,wait,fall
+iter97_cv_split1,befor,bought,stoch rsi,level,rsi,stoch,daili,line,breakout,order
+iter97_cv_split2,level,stoch,stoch rsi,coin,bought,rsi,befor,order,sat,fib
+iter97_cv_split3,befor,bought,stoch rsi,rsi,stoch,fomo,coin,level,fall,entri
+iter97_cv_split4,level,bought,stoch rsi,rsi,stoch,good,coin,befor,fomo,breakout
+iter97_cv_split5,level,good,fomo,bought,order,daili,coin,wait,day,abov
+iter98_cv_split1,level,stoch rsi,rsi,stoch,befor,fomo,bought,wait,breakout,fib level
+iter98_cv_split2,bought,level,daili,stoch rsi,stoch,befor,rsi,sat,order,fall
+iter98_cv_split3,coin,bought,level,good,wait,order,befor,day,fall,stoch rsi
+iter98_cv_split4,bought,level,stoch rsi,coin,rsi,stoch,befor,daili,fomo,order
+iter98_cv_split5,level,befor,daili,good,stoch rsi,rsi,fall,stoch,bought,coin
+iter99_cv_split1,befor,stoch rsi,bought,rsi,stoch,level,good,breakout,fib level,fib
+iter99_cv_split2,daili,level,good,stoch rsi,rsi,stoch,wait,coin,bought,order
+iter99_cv_split3,level,bought,stoch rsi,rsi,stoch,coin,target,befor,daili,day
+iter99_cv_split4,level,bought,coin,fomo,line,fall,wait,befor,everi alt,flag
+iter99_cv_split5,level,befor,bought,good,stoch rsi,coin,daili,rsi,stoch,fomo
+iter100_cv_split1,level,bought,coin,fomo,rsi,stoch rsi,wait,order,daili,sat
+iter100_cv_split2,level,coin,befor,stoch rsi,rsi,stoch,bought,order,breakout,fib level
+iter100_cv_split3,bought,level,good,daili,stoch rsi,befor,rsi,stoch,coin,fib level
+iter100_cv_split4,level,stoch,stoch rsi,befor,bought,rsi,good,target,fomo,order
+iter100_cv_split5,level,befor,bought,good,stoch rsi,rsi,stoch,order,breakout,target

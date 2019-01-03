@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,stop,got,profit,fill,stop loss,loss,cloud,incom,revers incom,time alreadi
+iter1_cv_split2,stop,profit,loss,fill,got,stop loss,cloud,set stop,short,start
+iter1_cv_split3,stop,got,loss,profit,fill,dump,stop loss,short,cloud,set stop
+iter1_cv_split4,stop,profit,dump,got,set stop,loss,set,cloud,short,start
+iter1_cv_split5,stop,profit,fill,got,dump,loss,short,let,start,incom
+iter2_cv_split1,stop,profit,got,dump,loss,stop loss,cloud,start,bitcoin die,die
+iter2_cv_split2,stop,got,loss,fill,dump,stop loss,set stop,let,set,profit
+iter2_cv_split3,stop,profit,fill,dump,got,loss,cloud,short,start,let
+iter2_cv_split4,stop,profit,loss,got,stop loss,cloud,let,set stop,short,set
+iter2_cv_split5,stop,got,profit,fill,loss,set stop,cloud,set,short,start
+iter3_cv_split1,stop,got,dump,start,loss,short,cloud,let,set stop,profit
+iter3_cv_split2,stop,profit,fill,got,dump,cloud,start,let,revers incom,incom
+iter3_cv_split3,stop,got,profit,loss,fill,stop loss,cloud,short,set stop,set
+iter3_cv_split4,stop,profit,got,loss,fill,dump,stop loss,set stop,short,set
+iter3_cv_split5,stop,profit,loss,stop loss,cloud,set stop,set,incom,revers incom,die time
+iter4_cv_split1,stop,profit,loss,cloud,stop loss,short,set stop,start,set,incom
+iter4_cv_split2,stop,got,fill,dump,loss,profit,cloud,set stop,set,let
+iter4_cv_split3,stop,got,profit,fill,dump,stop loss,loss,cloud,let,start
+iter4_cv_split4,stop,got,loss,profit,fill,stop loss,short,set,set stop,incom
+iter4_cv_split5,profit,stop,got,dump,loss,cloud,short,let,start,revers incom
+iter5_cv_split1,stop,loss,fill,got,stop loss,cloud,set,set stop,short,let
+iter5_cv_split2,profit,stop,got,fill,stop loss,loss,cloud,start,incom,revers incom
+iter5_cv_split3,stop,got,loss,profit,fill,dump,cloud,stop loss,set stop,let
+iter5_cv_split4,stop,profit,dump,got,set stop,loss,start,short,set,revers
+iter5_cv_split5,profit,stop,got,dump,loss,cloud,short,let,start,incom
+iter6_cv_split1,stop,profit,dump,got,cloud,incom,revers incom,die,die time,time alreadi
+iter6_cv_split2,stop,fill,got,dump,loss,cloud,short,let,profit,bitcoin die
+iter6_cv_split3,stop,profit,got,loss,fill,stop loss,short,set,set stop,start
+iter6_cv_split4,stop,profit,loss,got,stop loss,set stop,cloud,set,short,let
+iter6_cv_split5,stop,profit,got,loss,dump,fill,cloud,start,stop loss,short
+iter7_cv_split1,stop,profit,fill,got,dump,loss,short,start,let,revers incom
+iter7_cv_split2,stop,fill,got,loss,cloud,short,set stop,profit,let,set
+iter7_cv_split3,stop,got,loss,profit,fill,dump,stop loss,cloud,set stop,let
+iter7_cv_split4,stop,got,loss,profit,dump,stop loss,let,cloud,set stop,set
+iter7_cv_split5,stop,profit,got,loss,stop loss,cloud,start,incom,revers incom,bitcoin die
+iter8_cv_split1,stop,got,profit,fill,dump,loss,stop loss,let,start,revers incom
+iter8_cv_split2,stop,got,dump,loss,cloud,short,profit,let,revers incom,incom
+iter8_cv_split3,stop,got,profit,fill,dump,loss,cloud,set stop,set,let
+iter8_cv_split4,stop,profit,loss,stop loss,set stop,short,cloud,start,set,revers incom
+iter8_cv_split5,stop,profit,got,loss,fill,cloud,stop loss,short,set,set stop
+iter9_cv_split1,stop,got,loss,fill,dump,profit,short,stop loss,cloud,let
+iter9_cv_split2,profit,stop,loss,stop loss,cloud,set stop,short,set,start,die time
+iter9_cv_split3,stop,profit,fill,got,dump,loss,cloud,let,revers incom,incom
+iter9_cv_split4,stop,profit,got,fill,stop loss,loss,start,incom,revers incom,bitcoin die
+iter9_cv_split5,stop,got,profit,dump,loss,cloud,let,set stop,short,set
+iter10_cv_split1,profit,stop,loss,stop loss,cloud,got,short,set stop,set,let
+iter10_cv_split2,stop,dump,loss,cloud,profit,short,incom,revers incom,revers,die
+iter10_cv_split3,stop,got,profit,fill,dump,loss,set stop,cloud,let,set
+iter10_cv_split4,stop,profit,got,fill,dump,stop loss,loss,cloud,start,let
+iter10_cv_split5,stop,got,profit,loss,fill,stop loss,short,set stop,set,start
+iter11_cv_split1,stop,got,loss,profit,fill,cloud,stop loss,set,set stop,revers incom
+iter11_cv_split2,profit,stop,loss,let,start,cloud,short,die,time alreadi,bitcoin die
+iter11_cv_split3,stop,loss,profit,dump,got,stop loss,cloud,short,set stop,start
+iter11_cv_split4,stop,got,profit,fill,dump,stop loss,loss,cloud,start,let
+iter11_cv_split5,stop,profit,got,fill,dump,loss,set stop,short,set,start
+iter12_cv_split1,stop,got,fill,stop loss,loss,cloud,profit,incom,revers incom,die
+iter12_cv_split2,profit,stop,got,loss,dump,stop loss,cloud,set stop,set,let
+iter12_cv_split3,stop,got,loss,profit,fill,dump,stop loss,set stop,short,set
+iter12_cv_split4,stop,profit,loss,got,dump,stop loss,cloud,set stop,short,start
+iter12_cv_split5,profit,stop,fill,short,let,cloud,start,revers incom,incom,die time
+iter13_cv_split1,stop,got,loss,profit,stop loss,short,cloud,set stop,set,start
+iter13_cv_split2,profit,stop,fill,got,dump,short,start,let,revers incom,incom
+iter13_cv_split3,stop,profit,loss,fill,stop loss,let,got,set,set stop,cloud
+iter13_cv_split4,stop,profit,got,fill,dump,stop loss,loss,cloud,let,start
+iter13_cv_split5,stop,loss,profit,dump,got,cloud,stop loss,set stop,set,revers incom
+iter14_cv_split1,stop,profit,loss,fill,got,stop loss,cloud,start,set stop,set
+iter14_cv_split2,stop,got,profit,dump,cloud,loss,set stop,set,let,incom
+iter14_cv_split3,stop,profit,dump,loss,cloud,short,start,revers incom,incom,revers
+iter14_cv_split4,stop,got,profit,fill,dump,loss,stop loss,let,incom,revers incom
+iter14_cv_split5,stop,got,profit,loss,fill,dump,stop loss,cloud,short,set stop
+iter15_cv_split1,profit,stop,got,loss,cloud,short,start,bitcoin die,die,die time
+iter15_cv_split2,profit,stop,short,loss,cloud,set stop,set,start,revers incom,incom
+iter15_cv_split3,stop,profit,got,fill,loss,stop loss,dump,let,start,revers incom
+iter15_cv_split4,stop,got,loss,fill,dump,stop loss,cloud,short,set stop,let
+iter15_cv_split5,stop,profit,got,loss,fill,dump,cloud,stop loss,set,set stop
+iter16_cv_split1,stop,profit,fill,let,loss,cloud,incom,revers incom,bitcoin die,die
+iter16_cv_split2,stop,got,profit,dump,cloud,loss,short,set stop,let,set
+iter16_cv_split3,stop,profit,loss,dump,stop loss,got,start,set stop,short,set
+iter16_cv_split4,stop,got,loss,profit,fill,dump,stop loss,cloud,set stop,set
+iter16_cv_split5,stop,profit,got,fill,loss,stop loss,cloud,start,revers,revers incom
+iter17_cv_split1,stop,profit,dump,got,stop loss,loss,cloud,start,incom,revers incom
+iter17_cv_split2,stop,got,profit,fill,dump,loss,cloud,set,set stop,let
+iter17_cv_split3,profit,stop,fill,loss,cloud,short,let,start,revers incom,incom
+iter17_cv_split4,stop,got,profit,loss,fill,dump,stop loss,short,set stop,let
+iter17_cv_split5,stop,got,loss,fill,stop loss,profit,short,start,cloud,set stop
+iter18_cv_split1,stop,profit,fill,got,dump,loss,let,revers incom,incom,revers
+iter18_cv_split2,stop,got,fill,loss,set stop,cloud,set,profit,short,incom
+iter18_cv_split3,profit,stop,loss,stop loss,set stop,cloud,set,short,start,incom
+iter18_cv_split4,profit,stop,got,dump,stop loss,loss,cloud,start,let,incom
+iter18_cv_split5,stop,got,profit,loss,fill,dump,cloud,stop loss,short,set
+iter19_cv_split1,stop,got,fill,dump,cloud,loss,set stop,short,profit,set
+iter19_cv_split2,profit,stop,got,loss,stop loss,short,start,set stop,set,incom
+iter19_cv_split3,stop,profit,loss,stop loss,cloud,short,set stop,start,set,revers incom
+iter19_cv_split4,stop,got,profit,fill,dump,stop loss,loss,let,cloud,start
+iter19_cv_split5,stop,profit,fill,got,dump,loss,cloud,let,incom,revers incom
+iter20_cv_split1,stop,got,profit,dump,stop loss,loss,cloud,start,let,incom
+iter20_cv_split2,stop,got,profit,loss,fill,stop loss,short,set,set stop,start
+iter20_cv_split3,profit,stop,loss,fill,got,stop loss,cloud,set stop,short,let
+iter20_cv_split4,stop,got,profit,fill,dump,cloud,set stop,loss,set,let
+iter20_cv_split5,stop,profit,dump,loss,cloud,short,revers incom,incom,die time,die
+iter21_cv_split1,stop,profit,loss,got,stop loss,cloud,set stop,set,incom,revers incom
+iter21_cv_split2,stop,got,fill,dump,stop loss,loss,profit,cloud,let,start
+iter21_cv_split3,stop,profit,loss,fill,got,stop loss,short,let,set,set stop
+iter21_cv_split4,stop,profit,fill,dump,got,loss,cloud,short,let,bitcoin die
+iter21_cv_split5,stop,got,profit,dump,loss,cloud,short,set stop,set,start
+iter22_cv_split1,stop,profit,got,loss,cloud,short,start,incom,revers,revers incom
+iter22_cv_split2,stop,profit,fill,got,loss,set stop,cloud,short,set,start
+iter22_cv_split3,profit,stop,got,fill,dump,stop loss,loss,start,let,incom
+iter22_cv_split4,stop,profit,loss,got,dump,stop loss,short,cloud,set stop,set
+iter22_cv_split5,stop,got,loss,profit,fill,dump,stop loss,cloud,set stop,let
+iter23_cv_split1,profit,stop,got,loss,short,start,incom,revers incom,die,bitcoin die
+iter23_cv_split2,stop,got,fill,dump,cloud,short,loss,profit,set stop,set
+iter23_cv_split3,stop,got,loss,profit,fill,dump,stop loss,set stop,short,cloud
+iter23_cv_split4,stop,profit,loss,fill,got,stop loss,cloud,set stop,let,set
+iter23_cv_split5,stop,profit,dump,got,loss,stop loss,cloud,start,incom,revers incom
+iter24_cv_split1,stop,profit,got,dump,stop loss,loss,let,start,incom,revers incom
+iter24_cv_split2,stop,got,loss,fill,dump,stop loss,cloud,let,set stop,profit
+iter24_cv_split3,stop,profit,fill,got,loss,set stop,set,cloud,short,start
+iter24_cv_split4,stop,profit,fill,got,dump,loss,cloud,short,let,incom
+iter24_cv_split5,stop,profit,loss,dump,got,stop loss,set stop,short,cloud,set
+iter25_cv_split1,profit,stop,got,stop loss,loss,let,start,incom,revers incom,bitcoin die
+iter25_cv_split2,stop,got,profit,loss,fill,short,stop loss,cloud,set stop,set
+iter25_cv_split3,stop,got,profit,loss,fill,dump,cloud,stop loss,let,start
+iter25_cv_split4,stop,profit,fill,got,dump,loss,cloud,short,start,let
+iter25_cv_split5,stop,profit,dump,got,loss,set stop,cloud,set,revers,incom
+iter26_cv_split1,stop,profit,got,fill,dump,stop loss,loss,cloud,let,start
+iter26_cv_split2,stop,fill,got,loss,profit,set stop,set,short,start,let
+iter26_cv_split3,stop,profit,fill,got,dump,loss,cloud,let,revers incom,incom
+iter26_cv_split4,stop,profit,got,loss,fill,stop loss,cloud,short,set stop,set
+iter26_cv_split5,stop,loss,profit,dump,got,stop loss,short,cloud,start,set stop
+iter27_cv_split1,stop,loss,profit,stop loss,got,set stop,short,cloud,set,let
+iter27_cv_split2,stop,got,profit,fill,cloud,loss,start,set stop,short,set
+iter27_cv_split3,stop,got,profit,fill,dump,loss,stop loss,cloud,let,start
+iter27_cv_split4,stop,profit,loss,dump,got,stop loss,cloud,set stop,set,incom
+iter27_cv_split5,stop,profit,fill,got,dump,loss,short,let,start,incom
+iter28_cv_split1,profit,stop,got,loss,dump,stop loss,set stop,set,short,let
+iter28_cv_split2,stop,loss,profit,fill,got,stop loss,let,cloud,set stop,set
+iter28_cv_split3,stop,got,profit,loss,fill,dump,start,cloud,stop loss,short
+iter28_cv_split4,stop,profit,got,cloud,loss,stop loss,start,incom,revers incom,bitcoin die
+iter28_cv_split5,stop,fill,got,dump,cloud,short,profit,let,start,incom
+iter29_cv_split1,stop,loss,profit,stop loss,set stop,start,cloud,set,short,incom
+iter29_cv_split2,stop,got,dump,profit,cloud,loss,let,set,set stop,revers incom
+iter29_cv_split3,stop,got,profit,loss,fill,dump,stop loss,cloud,let,set stop
+iter29_cv_split4,profit,stop,fill,got,dump,short,loss,cloud,let,start
+iter29_cv_split5,stop,profit,got,dump,fill,loss,stop loss,let,start,revers incom
+iter30_cv_split1,stop,profit,dump,cloud,got,loss,stop loss,start,incom,revers incom
+iter30_cv_split2,profit,stop,fill,got,dump,loss,let,incom,revers incom,bitcoin die
+iter30_cv_split3,stop,profit,loss,fill,got,stop loss,cloud,set,set stop,short
+iter30_cv_split4,stop,got,dump,loss,profit,set stop,cloud,set,let,short
+iter30_cv_split5,stop,got,profit,loss,fill,stop loss,set stop,cloud,short,set
+iter31_cv_split1,stop,profit,fill,got,dump,cloud,loss,let,incom,revers incom
+iter31_cv_split2,stop,got,profit,fill,dump,cloud,let,start,bitcoin die,die
+iter31_cv_split3,stop,profit,loss,got,stop loss,let,cloud,start,set stop,short
+iter31_cv_split4,stop,profit,loss,dump,got,stop loss,short,set stop,start,set
+iter31_cv_split5,stop,got,loss,profit,fill,stop loss,set stop,cloud,short,set
+iter32_cv_split1,profit,stop,got,loss,cloud,short,start,die,die time,bitcoin die
+iter32_cv_split2,stop,got,profit,loss,fill,dump,stop loss,cloud,set stop,let
+iter32_cv_split3,stop,got,profit,fill,dump,let,cloud,start,revers incom,incom
+iter32_cv_split4,stop,profit,loss,stop loss,short,set,set stop,start,incom,revers incom
+iter32_cv_split5,stop,got,loss,fill,dump,stop loss,cloud,profit,set stop,short
+iter33_cv_split1,stop,profit,got,loss,dump,stop loss,set,set stop,cloud,let
+iter33_cv_split2,stop,profit,fill,got,cloud,short,start,loss,die time,time alreadi
+iter33_cv_split3,stop,dump,got,loss,cloud,short,profit,set stop,set,start
+iter33_cv_split4,profit,stop,got,fill,dump,loss,stop loss,cloud,start,let
+iter33_cv_split5,stop,loss,profit,fill,got,stop loss,set stop,short,set,let
+iter34_cv_split1,stop,dump,fill,got,start,profit,short,let,incom,revers incom
+iter34_cv_split2,stop,got,profit,loss,dump,stop loss,cloud,short,let,set
+iter34_cv_split3,stop,got,loss,profit,fill,dump,cloud,stop loss,set stop,set
+iter34_cv_split4,stop,profit,fill,got,loss,stop loss,cloud,start,revers incom,incom
+iter34_cv_split5,stop,profit,loss,dump,got,stop loss,cloud,set stop,short,set
+iter35_cv_split1,stop,profit,fill,got,dump,loss,let,die time,time alreadi,die
+iter35_cv_split2,stop,loss,dump,cloud,got,stop loss,short,set stop,set,profit
+iter35_cv_split3,stop,got,profit,fill,loss,set stop,set,cloud,short,start
+iter35_cv_split4,stop,got,profit,fill,dump,stop loss,loss,cloud,let,incom
+iter35_cv_split5,stop,profit,loss,fill,got,stop loss,start,cloud,set stop,short
+iter36_cv_split1,stop,got,fill,dump,loss,short,set,set stop,let,incom
+iter36_cv_split2,stop,got,profit,fill,dump,stop loss,loss,cloud,let,start
+iter36_cv_split3,profit,stop,loss,stop loss,cloud,set stop,set,short,start,revers incom
+iter36_cv_split4,stop,profit,fill,got,dump,loss,let,cloud,die time,die
+iter36_cv_split5,stop,profit,got,loss,fill,stop loss,cloud,short,set stop,set
+iter37_cv_split1,stop,profit,got,dump,cloud,short,loss,set stop,start,set
+iter37_cv_split2,stop,profit,fill,got,dump,loss,cloud,let,bitcoin die,die
+iter37_cv_split3,stop,profit,loss,fill,got,stop loss,short,cloud,set stop,set
+iter37_cv_split4,stop,got,fill,dump,stop loss,loss,cloud,let,profit,incom
+iter37_cv_split5,profit,stop,got,loss,dump,stop loss,set,set stop,short,let
+iter38_cv_split1,stop,loss,profit,stop loss,got,set stop,let,cloud,set,short
+iter38_cv_split2,stop,profit,loss,dump,got,stop loss,start,cloud,short,set stop
+iter38_cv_split3,stop,profit,fill,got,dump,short,let,start,incom,revers incom
+iter38_cv_split4,stop,got,profit,fill,dump,loss,stop loss,cloud,let,revers incom
+iter38_cv_split5,stop,profit,got,loss,fill,stop loss,short,cloud,set stop,set
+iter39_cv_split1,profit,stop,loss,got,stop loss,cloud,let,set stop,short,start
+iter39_cv_split2,stop,profit,loss,got,stop loss,set stop,set,incom,revers incom,die time
+iter39_cv_split3,stop,got,profit,fill,dump,stop loss,loss,cloud,let,start
+iter39_cv_split4,stop,profit,fill,got,dump,loss,cloud,short,let,revers incom
+iter39_cv_split5,stop,got,fill,dump,short,profit,loss,cloud,set,set stop
+iter40_cv_split1,stop,got,profit,loss,fill,cloud,stop loss,set,set stop,revers incom
+iter40_cv_split2,profit,got,stop,let,cloud,start,incom,revers incom,time alreadi,die
+iter40_cv_split3,stop,got,profit,loss,fill,dump,stop loss,short,set stop,let
+iter40_cv_split4,stop,loss,profit,dump,stop loss,got,cloud,short,set stop,set
+iter40_cv_split5,stop,profit,dump,fill,got,loss,cloud,short,start,let
+iter41_cv_split1,profit,stop,dump,loss,cloud,short,start,incom,revers incom,bitcoin die
+iter41_cv_split2,stop,profit,got,dump,stop loss,loss,start,cloud,let,die
+iter41_cv_split3,stop,loss,profit,fill,got,stop loss,let,cloud,set stop,set
+iter41_cv_split4,stop,got,profit,loss,fill,dump,stop loss,short,set stop,set
+iter41_cv_split5,stop,got,fill,profit,loss,cloud,set stop,short,set,start
+iter42_cv_split1,stop,got,fill,dump,profit,loss,cloud,let,set stop,short
+iter42_cv_split2,profit,stop,dump,got,cloud,let,start,incom,revers incom,becaus
+iter42_cv_split3,stop,profit,loss,fill,got,stop loss,short,set stop,set,start
+iter42_cv_split4,stop,got,loss,profit,fill,dump,stop loss,start,short,set stop
+iter42_cv_split5,stop,loss,profit,dump,got,stop loss,cloud,set,set stop,revers incom
+iter43_cv_split1,stop,loss,fill,got,stop loss,cloud,let,profit,set stop,set
+iter43_cv_split2,profit,stop,fill,got,dump,short,let,start,revers incom,incom
+iter43_cv_split3,stop,profit,got,loss,fill,stop loss,set stop,cloud,short,set
+iter43_cv_split4,stop,got,profit,fill,dump,loss,stop loss,cloud,let,incom
+iter43_cv_split5,stop,profit,loss,dump,got,stop loss,cloud,short,start,set
+iter44_cv_split1,stop,profit,loss,stop loss,cloud,set stop,short,set,die time,bitcoin die
+iter44_cv_split2,stop,profit,fill,got,dump,let,cloud,revers incom,incom,die time
+iter44_cv_split3,stop,got,loss,fill,dump,stop loss,profit,short,set stop,let
+iter44_cv_split4,stop,profit,got,loss,cloud,stop loss,short,set stop,set,start
+iter44_cv_split5,stop,profit,got,fill,stop loss,loss,dump,cloud,start,let
+iter45_cv_split1,profit,stop,fill,got,dump,let,cloud,short,start,incom
+iter45_cv_split2,stop,profit,loss,stop loss,cloud,set stop,set,revers incom,revers,incom
+iter45_cv_split3,stop,got,profit,fill,dump,stop loss,loss,start,let,revers incom
+iter45_cv_split4,stop,profit,got,loss,dump,cloud,stop loss,set stop,short,let
+iter45_cv_split5,stop,got,loss,fill,dump,stop loss,set,set stop,short,cloud
+iter46_cv_split1,stop,got,profit,loss,fill,dump,stop loss,cloud,set stop,set
+iter46_cv_split2,stop,profit,dump,short,loss,cloud,start,revers,incom,revers incom
+iter46_cv_split3,stop,got,fill,dump,cloud,loss,profit,set stop,set,let
+iter46_cv_split4,stop,loss,profit,fill,got,stop loss,cloud,set stop,short,set
+iter46_cv_split5,profit,stop,got,dump,loss,stop loss,start,let,incom,revers incom
+iter47_cv_split1,stop,got,profit,fill,cloud,loss,set stop,short,set,start
+iter47_cv_split2,stop,loss,profit,dump,got,stop loss,cloud,set stop,set,revers incom
+iter47_cv_split3,stop,profit,fill,got,stop loss,loss,cloud,start,let,incom
+iter47_cv_split4,stop,profit,got,loss,dump,stop loss,short,set stop,let,set
+iter47_cv_split5,stop,fill,got,dump,let,loss,cloud,short,profit,incom
+iter48_cv_split1,stop,profit,fill,got,dump,cloud,let,die time,time alreadi,bitcoin die
+iter48_cv_split2,profit,stop,loss,stop loss,cloud,set stop,short,set,start,revers incom
+iter48_cv_split3,stop,got,profit,loss,dump,cloud,stop loss,set stop,set,short
+iter48_cv_split4,stop,got,fill,dump,cloud,short,loss,profit,set stop,set
+iter48_cv_split5,stop,got,loss,profit,fill,dump,short,stop loss,set stop,let
+iter49_cv_split1,profit,stop,loss,stop loss,cloud,revers incom,incom,die time,bitcoin die,die
+iter49_cv_split2,stop,got,loss,fill,dump,stop loss,cloud,let,set stop,set
+iter49_cv_split3,stop,got,loss,profit,fill,dump,stop loss,cloud,set stop,short
+iter49_cv_split4,stop,profit,fill,got,loss,short,start,incom,revers incom,die
+iter49_cv_split5,stop,got,profit,dump,loss,short,cloud,set stop,let,start
+iter50_cv_split1,stop,profit,loss,stop loss,cloud,set stop,set,incom,revers incom,welcom
+iter50_cv_split2,stop,got,loss,profit,dump,stop loss,set stop,short,set,start
+iter50_cv_split3,stop,profit,fill,got,loss,cloud,short,revers incom,incom,time alreadi
+iter50_cv_split4,stop,got,profit,loss,fill,dump,stop loss,cloud,short,set stop
+iter50_cv_split5,stop,got,profit,fill,dump,cloud,start,let,bitcoin die,die time
+iter51_cv_split1,profit,stop,got,fill,dump,stop loss,loss,cloud,let,revers incom
+iter51_cv_split2,stop,loss,profit,dump,stop loss,got,cloud,short,set,set stop
+iter51_cv_split3,stop,fill,dump,got,start,cloud,short,let,profit,revers incom
+iter51_cv_split4,stop,got,profit,loss,fill,dump,stop loss,let,short,set stop
+iter51_cv_split5,profit,stop,loss,got,stop loss,short,cloud,set stop,set,start
+iter52_cv_split1,stop,dump,got,cloud,profit,start,incom,revers,revers incom,bitcoin die
+iter52_cv_split2,profit,stop,got,fill,short,loss,cloud,start,incom,revers incom
+iter52_cv_split3,stop,profit,loss,fill,got,stop loss,short,cloud,set,set stop
+iter52_cv_split4,stop,got,loss,profit,fill,dump,stop loss,set stop,cloud,set
+iter52_cv_split5,stop,got,profit,loss,dump,stop loss,let,short,set stop,set
+iter53_cv_split1,stop,profit,loss,got,stop loss,start,cloud,set stop,short,set
+iter53_cv_split2,stop,profit,fill,got,dump,let,start,incom,revers incom,time alreadi
+iter53_cv_split3,stop,profit,got,loss,fill,dump,stop loss,cloud,start,let
+iter53_cv_split4,stop,got,fill,dump,loss,set,set stop,short,profit,cloud
+iter53_cv_split5,stop,profit,loss,dump,got,stop loss,cloud,set stop,set,revers incom
+iter54_cv_split1,stop,got,profit,loss,fill,dump,stop loss,cloud,let,short
+iter54_cv_split2,stop,loss,profit,fill,stop loss,got,cloud,set stop,set,incom
+iter54_cv_split3,stop,got,loss,profit,dump,stop loss,short,cloud,let,set stop
+iter54_cv_split4,stop,profit,loss,got,dump,stop loss,short,set stop,set,start
+iter54_cv_split5,stop,profit,fill,got,dump,cloud,start,let,revers incom,incom
+iter55_cv_split1,stop,got,fill,cloud,loss,short,set stop,set,incom,revers incom
+iter55_cv_split2,stop,profit,fill,got,dump,loss,let,short,start,incom
+iter55_cv_split3,stop,profit,got,loss,fill,dump,stop loss,start,short,cloud
+iter55_cv_split4,profit,stop,loss,stop loss,cloud,start,revers incom,incom,die,bitcoin die
+iter55_cv_split5,stop,profit,got,loss,dump,stop loss,cloud,set stop,set,let
+iter56_cv_split1,stop,loss,profit,dump,got,cloud,stop loss,short,set stop,set
+iter56_cv_split2,stop,got,loss,profit,fill,dump,stop loss,short,let,set stop
+iter56_cv_split3,profit,stop,got,loss,short,set stop,set,cloud,start,let
+iter56_cv_split4,stop,got,profit,loss,fill,stop loss,set stop,cloud,set,revers incom
+iter56_cv_split5,stop,profit,fill,got,dump,cloud,let,start,incom,revers incom
+iter57_cv_split1,stop,profit,loss,dump,stop loss,got,cloud,start,set stop,short
+iter57_cv_split2,profit,stop,got,loss,set stop,cloud,set,let,revers incom,incom
+iter57_cv_split3,stop,got,profit,loss,fill,dump,stop loss,cloud,short,set stop
+iter57_cv_split4,stop,profit,fill,got,dump,let,cloud,start,incom,revers incom
+iter57_cv_split5,stop,profit,got,loss,fill,stop loss,start,short,set,set stop
+iter58_cv_split1,stop,got,profit,loss,stop loss,cloud,set stop,short,set,incom
+iter58_cv_split2,stop,got,profit,fill,dump,cloud,start,let,revers incom,revers
+iter58_cv_split3,stop,profit,loss,stop loss,cloud,set stop,set,incom,revers incom,die time
+iter58_cv_split4,stop,profit,fill,got,dump,loss,short,let,start,incom
+iter58_cv_split5,stop,got,loss,profit,fill,dump,stop loss,cloud,set stop,short
+iter59_cv_split1,stop,loss,profit,cloud,stop loss,short,set stop,set,time alreadi,die time
+iter59_cv_split2,stop,profit,got,loss,fill,stop loss,cloud,set,set stop,revers incom
+iter59_cv_split3,stop,profit,fill,got,dump,loss,short,let,start,incom
+iter59_cv_split4,stop,got,fill,dump,loss,set stop,short,cloud,set,start
+iter59_cv_split5,profit,got,stop,dump,loss,stop loss,cloud,start,let,revers incom
+iter60_cv_split1,stop,got,loss,fill,dump,stop loss,cloud,set stop,let,short
+iter60_cv_split2,stop,profit,loss,stop loss,short,start,cloud,set,set stop,revers incom
+iter60_cv_split3,stop,got,profit,fill,loss,short,set stop,start,set,revers
+iter60_cv_split4,stop,profit,got,fill,loss,stop loss,dump,cloud,let,incom
+iter60_cv_split5,stop,profit,dump,got,cloud,loss,short,let,start,die time
+iter61_cv_split1,stop,dump,start,profit,cloud,short,revers incom,incom,die time,die
+iter61_cv_split2,stop,profit,loss,fill,got,stop loss,let,cloud,set stop,set
+iter61_cv_split3,stop,profit,got,fill,stop loss,loss,dump,let,start,incom
+iter61_cv_split4,stop,got,profit,loss,fill,stop loss,short,cloud,set stop,set
+iter61_cv_split5,stop,got,loss,profit,dump,stop loss,short,cloud,set stop,set
+iter62_cv_split1,stop,got,loss,profit,stop loss,short,set stop,start,set,revers incom
+iter62_cv_split2,stop,profit,dump,cloud,start,incom,revers incom,becaus greed,short becaus,becaus
+iter62_cv_split3,stop,profit,got,loss,fill,dump,stop loss,set stop,short,cloud
+iter62_cv_split4,stop,loss,fill,got,stop loss,profit,let,cloud,set stop,short
+iter62_cv_split5,stop,got,profit,fill,dump,cloud,loss,set stop,set,let
+iter63_cv_split1,stop,got,profit,fill,dump,stop loss,loss,cloud,let,becaus
+iter63_cv_split2,stop,got,profit,loss,fill,stop loss,short,start,set stop,set
+iter63_cv_split3,profit,stop,loss,stop loss,set stop,cloud,start,short,set,incom
+iter63_cv_split4,stop,got,profit,fill,cloud,dump,loss,set,set stop,let
+iter63_cv_split5,stop,profit,fill,got,dump,loss,short,cloud,let,start
+iter64_cv_split1,stop,got,fill,dump,stop loss,loss,cloud,profit,let,die time
+iter64_cv_split2,stop,got,dump,profit,cloud,short,start,let,incom,revers incom
+iter64_cv_split3,stop,profit,loss,fill,got,cloud,stop loss,short,set stop,let
+iter64_cv_split4,stop,profit,got,loss,fill,stop loss,short,cloud,set,set stop
+iter64_cv_split5,stop,profit,loss,dump,got,stop loss,set stop,set,incom,revers incom
+iter65_cv_split1,stop,loss,profit,dump,got,stop loss,set stop,set,revers incom,incom
+iter65_cv_split2,got,profit,stop,dump,cloud,loss,short,let,set stop,set
+iter65_cv_split3,stop,profit,fill,got,cloud,start,incom,revers incom,die time,time alreadi
+iter65_cv_split4,stop,loss,profit,fill,got,stop loss,short,let,cloud,set
+iter65_cv_split5,stop,got,profit,loss,fill,dump,stop loss,cloud,short,set stop
+iter66_cv_split1,stop,loss,profit,fill,got,stop loss,let,cloud,short,set stop
+iter66_cv_split2,stop,profit,got,loss,fill,dump,stop loss,set stop,set,let
+iter66_cv_split3,stop,dump,got,loss,profit,cloud,set stop,short,start,set
+iter66_cv_split4,stop,profit,fill,got,cloud,loss,short,start,incom,revers incom
+iter66_cv_split5,stop,got,profit,dump,stop loss,loss,cloud,let,start,revers incom
+iter67_cv_split1,stop,got,fill,dump,loss,cloud,let,set stop,short,set
+iter67_cv_split2,stop,got,profit,fill,dump,loss,stop loss,let,incom,revers incom
+iter67_cv_split3,stop,profit,loss,fill,got,stop loss,cloud,set stop,set,short
+iter67_cv_split4,stop,loss,profit,got,stop loss,cloud,start,set stop,short,set
+iter67_cv_split5,profit,stop,got,dump,loss,short,cloud,let,start,revers incom
+iter68_cv_split1,profit,stop,got,dump,loss,let,short,start,die,bitcoin die
+iter68_cv_split2,stop,profit,loss,stop loss,cloud,set stop,set,revers incom,incom,bitcoin die
+iter68_cv_split3,stop,got,profit,loss,fill,dump,stop loss,start,short,cloud
+iter68_cv_split4,got,profit,stop,fill,dump,cloud,start,let,revers incom,incom
+iter68_cv_split5,stop,got,loss,profit,fill,stop loss,set stop,set,cloud,short
+iter69_cv_split1,profit,stop,got,fill,stop loss,loss,cloud,revers incom,incom,bitcoin die
+iter69_cv_split2,stop,loss,dump,got,stop loss,cloud,set stop,profit,short,set
+iter69_cv_split3,stop,profit,fill,got,loss,set stop,let,short,set,cloud
+iter69_cv_split4,profit,stop,got,dump,loss,short,let,start,revers,revers incom
+iter69_cv_split5,stop,got,loss,profit,fill,dump,stop loss,cloud,start,short
+iter70_cv_split1,stop,got,loss,dump,cloud,stop loss,let,short,set stop,set
+iter70_cv_split2,profit,stop,dump,got,stop loss,loss,start,incom,revers,revers incom
+iter70_cv_split3,stop,profit,fill,got,dump,loss,cloud,short,let,start
+iter70_cv_split4,stop,got,profit,fill,dump,loss,cloud,set stop,let,set
+iter70_cv_split5,stop,profit,loss,fill,got,stop loss,short,cloud,set stop,set
+iter71_cv_split1,stop,got,profit,fill,dump,loss,stop loss,cloud,let,revers incom
+iter71_cv_split2,stop,dump,loss,start,cloud,profit,short,incom,revers incom,time alreadi
+iter71_cv_split3,stop,profit,got,loss,fill,cloud,stop loss,set,set stop,short
+iter71_cv_split4,profit,stop,loss,got,stop loss,short,set stop,let,set,start
+iter71_cv_split5,stop,got,profit,fill,dump,loss,set stop,short,cloud,set
+iter72_cv_split1,stop,got,loss,profit,fill,stop loss,short,set,set stop,incom
+iter72_cv_split2,profit,stop,cloud,loss,short,start,incom,revers incom,die,die time
+iter72_cv_split3,stop,got,fill,dump,cloud,loss,profit,start,set stop,short
+iter72_cv_split4,stop,profit,got,loss,dump,stop loss,cloud,set stop,let,set
+iter72_cv_split5,stop,got,profit,fill,dump,loss,stop loss,cloud,start,let
+iter73_cv_split1,stop,got,profit,loss,fill,stop loss,set stop,short,set,revers incom
+iter73_cv_split2,stop,profit,dump,got,cloud,short,loss,start,let,revers incom
+iter73_cv_split3,stop,profit,loss,fill,got,stop loss,cloud,let,set stop,set
+iter73_cv_split4,stop,got,fill,dump,profit,cloud,let,start,revers incom,incom
+iter73_cv_split5,stop,profit,loss,dump,stop loss,got,start,set stop,cloud,set
+iter74_cv_split1,stop,got,fill,dump,cloud,loss,short,set,set stop,let
+iter74_cv_split2,stop,got,profit,fill,cloud,loss,stop loss,start,bitcoin die,die
+iter74_cv_split3,profit,stop,fill,got,dump,loss,cloud,short,let,start
+iter74_cv_split4,stop,profit,loss,got,dump,stop loss,cloud,set stop,set,incom
+iter74_cv_split5,profit,stop,loss,got,stop loss,let,set stop,start,short,set
+iter75_cv_split1,stop,profit,fill,got,dump,loss,short,cloud,let,die time
+iter75_cv_split2,profit,stop,loss,got,stop loss,set stop,set,short,let,start
+iter75_cv_split3,stop,profit,got,fill,dump,stop loss,loss,cloud,let,start
+iter75_cv_split4,stop,got,fill,dump,loss,short,start,cloud,set stop,let
+iter75_cv_split5,stop,profit,loss,got,stop loss,cloud,set stop,set,revers incom,incom
+iter76_cv_split1,profit,stop,loss,got,stop loss,cloud,short,set stop,set,let
+iter76_cv_split2,stop,got,loss,fill,stop loss,cloud,short,profit,set stop,set
+iter76_cv_split3,stop,profit,loss,dump,got,stop loss,set stop,cloud,set,die time
+iter76_cv_split4,stop,got,profit,fill,dump,loss,let,set stop,short,set
+iter76_cv_split5,stop,profit,fill,got,dump,cloud,let,start,incom,revers incom
+iter77_cv_split1,stop,profit,loss,stop loss,cloud,start,incom,revers incom,revers,time alreadi
+iter77_cv_split2,stop,profit,fill,dump,got,short,loss,let,start,revers incom
+iter77_cv_split3,stop,profit,got,loss,fill,stop loss,cloud,short,set stop,set
+iter77_cv_split4,stop,got,fill,dump,loss,profit,cloud,set stop,set,let
+iter77_cv_split5,profit,stop,got,loss,dump,stop loss,cloud,set stop,set,short
+iter78_cv_split1,stop,profit,got,loss,cloud,short,start,revers incom,incom,bitcoin die
+iter78_cv_split2,profit,fill,got,stop,let,cloud,start,incom,revers incom,bitcoin die
+iter78_cv_split3,stop,got,loss,fill,dump,stop loss,short,cloud,let,profit
+iter78_cv_split4,stop,profit,loss,dump,got,stop loss,cloud,set stop,set,incom
+iter78_cv_split5,stop,profit,got,loss,fill,dump,stop loss,set stop,let,short
+iter79_cv_split1,stop,profit,dump,stop loss,loss,got,cloud,revers incom,revers,incom
+iter79_cv_split2,stop,got,loss,profit,dump,stop loss,let,cloud,short,start
+iter79_cv_split3,profit,stop,fill,loss,short,let,start,revers incom,incom,die time
+iter79_cv_split4,stop,got,profit,fill,dump,loss,cloud,set stop,set,let
+iter79_cv_split5,stop,got,profit,loss,fill,stop loss,cloud,short,set stop,set
+iter80_cv_split1,stop,got,profit,fill,dump,cloud,loss,short,start,set stop
+iter80_cv_split2,stop,loss,profit,fill,got,stop loss,cloud,set stop,set,incom
+iter80_cv_split3,stop,profit,got,dump,stop loss,loss,cloud,start,incom,revers incom
+iter80_cv_split4,stop,profit,dump,got,loss,cloud,short,let,revers incom,incom
+iter80_cv_split5,stop,got,profit,loss,fill,dump,stop loss,let,short,set
+iter81_cv_split1,stop,profit,got,fill,stop loss,loss,cloud,start,die time,bitcoin die
+iter81_cv_split2,stop,profit,fill,got,dump,loss,let,short,start,incom
+iter81_cv_split3,stop,profit,fill,got,loss,cloud,let,set stop,set,revers incom
+iter81_cv_split4,stop,got,loss,profit,dump,stop loss,cloud,short,set stop,set
+iter81_cv_split5,stop,loss,dump,got,stop loss,set stop,short,cloud,profit,set
+iter82_cv_split1,profit,stop,loss,fill,got,stop loss,cloud,set stop,start,set
+iter82_cv_split2,stop,profit,got,short,loss,cloud,start,incom,revers incom,time alreadi
+iter82_cv_split3,stop,got,profit,fill,dump,loss,set stop,set,let,revers incom
+iter82_cv_split4,stop,profit,got,fill,cloud,dump,stop loss,loss,let,start
+iter82_cv_split5,stop,loss,dump,stop loss,got,set,set stop,cloud,short,profit
+iter83_cv_split1,stop,loss,dump,got,stop loss,cloud,short,set stop,profit,set
+iter83_cv_split2,stop,got,profit,loss,fill,stop loss,short,set stop,set,incom
+iter83_cv_split3,profit,stop,fill,got,loss,stop loss,cloud,let,start,incom
+iter83_cv_split4,stop,got,profit,dump,loss,cloud,set stop,start,short,set
+iter83_cv_split5,stop,profit,fill,dump,got,loss,cloud,let,revers incom,incom
+iter84_cv_split1,stop,loss,fill,got,stop loss,short,cloud,set stop,profit,start
+iter84_cv_split2,stop,profit,got,loss,fill,dump,stop loss,let,short,set stop
+iter84_cv_split3,stop,got,loss,profit,fill,stop loss,cloud,set,set stop,revers incom
+iter84_cv_split4,stop,profit,dump,cloud,short,start,revers incom,incom,revers,bitcoin die
+iter84_cv_split5,stop,profit,got,dump,stop loss,loss,cloud,let,start,incom
+iter85_cv_split1,stop,fill,loss,stop loss,got,cloud,profit,start,let,revers incom
+iter85_cv_split2,stop,profit,got,dump,loss,let,incom,revers incom,die time,die
+iter85_cv_split3,stop,got,loss,profit,fill,dump,stop loss,cloud,let,set stop
+iter85_cv_split4,stop,profit,loss,dump,got,stop loss,cloud,short,set,set stop
+iter85_cv_split5,stop,got,profit,fill,loss,cloud,set stop,short,start,set
+iter86_cv_split1,stop,got,profit,fill,stop loss,loss,cloud,start,revers incom,incom
+iter86_cv_split2,stop,profit,fill,got,dump,loss,short,start,let,die
+iter86_cv_split3,stop,profit,loss,fill,got,stop loss,set stop,cloud,set,short
+iter86_cv_split4,stop,profit,got,loss,dump,stop loss,let,cloud,set stop,set
+iter86_cv_split5,stop,profit,dump,got,loss,cloud,set stop,set,short,start
+iter87_cv_split1,stop,profit,fill,got,cloud,revers incom,incom,revers,die,die time
+iter87_cv_split2,stop,got,loss,fill,dump,stop loss,profit,short,set stop,let
+iter87_cv_split3,stop,profit,loss,dump,got,stop loss,set,set stop,cloud,short
+iter87_cv_split4,stop,profit,loss,fill,got,stop loss,cloud,short,set stop,let
+iter87_cv_split5,stop,got,dump,short,cloud,loss,set stop,profit,set,let
+iter88_cv_split1,stop,profit,dump,got,loss,set stop,cloud,set,incom,revers incom
+iter88_cv_split2,stop,got,profit,fill,cloud,loss,stop loss,start,incom,revers incom
+iter88_cv_split3,stop,profit,fill,loss,cloud,short,let,start,bitcoin die,die
+iter88_cv_split4,stop,got,profit,loss,dump,stop loss,set stop,short,let,start
+iter88_cv_split5,stop,got,loss,profit,fill,dump,stop loss,short,cloud,set
+iter89_cv_split1,profit,stop,loss,dump,got,stop loss,cloud,set stop,set,incom
+iter89_cv_split2,stop,profit,fill,got,dump,cloud,loss,let,short,start
+iter89_cv_split3,stop,got,fill,dump,set stop,loss,set,short,profit,cloud
+iter89_cv_split4,stop,profit,loss,fill,got,stop loss,short,let,set stop,set
+iter89_cv_split5,stop,got,profit,fill,stop loss,loss,cloud,start,incom,revers incom
+iter90_cv_split1,stop,profit,got,fill,dump,loss,stop loss,cloud,let,revers incom
+iter90_cv_split2,stop,loss,profit,fill,got,cloud,stop loss,let,short,set
+iter90_cv_split3,stop,profit,loss,got,stop loss,cloud,start,set stop,short,set
+iter90_cv_split4,stop,got,dump,set stop,loss,cloud,short,profit,set,let
+iter90_cv_split5,stop,profit,fill,got,dump,loss,short,let,start,revers incom
+iter91_cv_split1,stop,got,profit,loss,fill,stop loss,short,set stop,set,incom
+iter91_cv_split2,profit,stop,loss,stop loss,start,cloud,revers incom,incom,bitcoin die,time alreadi
+iter91_cv_split3,stop,profit,got,loss,fill,dump,stop loss,cloud,set stop,set
+iter91_cv_split4,stop,profit,fill,dump,got,loss,cloud,let,incom,revers incom
+iter91_cv_split5,stop,got,dump,short,cloud,loss,profit,start,set stop,set
+iter92_cv_split1,stop,fill,profit,got,loss,set stop,let,set,cloud,incom
+iter92_cv_split2,stop,profit,dump,got,cloud,stop loss,loss,revers incom,incom,die
+iter92_cv_split3,stop,profit,got,loss,fill,dump,stop loss,set stop,cloud,set
+iter92_cv_split4,stop,profit,got,loss,stop loss,short,cloud,start,set stop,set
+iter92_cv_split5,stop,profit,fill,got,dump,loss,let,short,start,incom
+iter93_cv_split1,stop,profit,dump,got,cloud,start,incom,revers incom,die time,time alreadi
+iter93_cv_split2,stop,profit,fill,got,dump,let,cloud,loss,short,start
+iter93_cv_split3,stop,profit,got,loss,fill,dump,stop loss,set stop,let,set
+iter93_cv_split4,stop,profit,loss,fill,got,stop loss,cloud,short,start,set stop
+iter93_cv_split5,stop,got,loss,profit,fill,stop loss,set stop,cloud,short,set
+iter94_cv_split1,stop,profit,loss,dump,got,stop loss,set stop,set,bitcoin die,time alreadi
+iter94_cv_split2,got,profit,stop,cloud,start,incom,revers incom,die time,die,time alreadi
+iter94_cv_split3,stop,profit,fill,got,dump,cloud,loss,short,start,let
+iter94_cv_split4,stop,profit,got,loss,fill,dump,stop loss,cloud,short,let
+iter94_cv_split5,stop,loss,fill,got,stop loss,short,let,cloud,set stop,set
+iter95_cv_split1,stop,profit,fill,got,loss,cloud,let,set stop,short,start
+iter95_cv_split2,stop,got,profit,fill,loss,stop loss,cloud,start,incom,revers incom
+iter95_cv_split3,stop,profit,got,loss,dump,stop loss,short,let,start,set stop
+iter95_cv_split4,stop,profit,dump,cloud,loss,short,start,revers incom,incom,bitcoin die
+iter95_cv_split5,stop,got,loss,profit,fill,dump,stop loss,cloud,set,set stop
+iter96_cv_split1,stop,profit,fill,got,loss,stop loss,let,start,revers,revers incom
+iter96_cv_split2,stop,profit,dump,got,loss,cloud,set stop,set,short,start
+iter96_cv_split3,stop,got,loss,fill,dump,profit,stop loss,cloud,set stop,let
+iter96_cv_split4,stop,profit,fill,got,dump,loss,cloud,short,start,let
+iter96_cv_split5,stop,got,loss,profit,fill,stop loss,cloud,short,set stop,set
+iter97_cv_split1,stop,got,loss,profit,dump,stop loss,cloud,set stop,let,set
+iter97_cv_split2,stop,got,fill,dump,cloud,short,loss,profit,set stop,set
+iter97_cv_split3,stop,profit,loss,got,stop loss,set stop,set,cloud,short,start
+iter97_cv_split4,stop,profit,fill,got,stop loss,loss,cloud,let,start,incom
+iter97_cv_split5,stop,profit,fill,dump,got,loss,short,start,let,incom
+iter98_cv_split1,stop,loss,profit,got,stop loss,set stop,short,cloud,set,start
+iter98_cv_split2,stop,profit,fill,loss,cloud,let,short,revers incom,incom,short becaus
+iter98_cv_split3,stop,got,fill,dump,profit,loss,cloud,set stop,short,start
+iter98_cv_split4,stop,profit,got,loss,fill,dump,stop loss,cloud,set stop,let
+iter98_cv_split5,stop,profit,got,fill,dump,stop loss,loss,let,start,incom
+iter99_cv_split1,stop,got,profit,loss,fill,dump,cloud,stop loss,let,short
+iter99_cv_split2,stop,profit,got,dump,stop loss,loss,let,incom,revers,revers incom
+iter99_cv_split3,stop,profit,fill,got,loss,short,set stop,set,cloud,start
+iter99_cv_split4,stop,profit,dump,cloud,loss,short,start,die time,die,bitcoin die
+iter99_cv_split5,stop,got,loss,fill,dump,stop loss,profit,set stop,set,cloud
+iter100_cv_split1,stop,loss,fill,got,stop loss,short,set stop,let,profit,set
+iter100_cv_split2,profit,stop,fill,got,dump,start,loss,short,cloud,let
+iter100_cv_split3,stop,got,dump,loss,cloud,short,profit,set stop,set,start
+iter100_cv_split4,stop,profit,loss,dump,got,stop loss,cloud,set,set stop,incom
+iter100_cv_split5,stop,profit,got,fill,loss,stop loss,cloud,start,incom,revers incom

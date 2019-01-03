@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,good,dip,imo,nice,bought,high,look,bounc,befor,hodl
+iter1_cv_split2,good,bought,dip,high,imo,undervalu,look,consolid,cheap,longterm
+iter1_cv_split3,good,high,imo,support,level,bought,look,hold,good imo,nice
+iter1_cv_split4,good,high,dip,imo,nice,alreadi,bounc,bought,anticip,good imo
+iter1_cv_split5,good,high,dip,imo,bounc,breakout,anticip,bought,good imo,undervalu
+iter2_cv_split1,good,support,dip,high,nice,imo,level,strong,bought,bounc
+iter2_cv_split2,good,imo,high,dip,undervalu,bought,anticip,look,good imo,cheap
+iter2_cv_split3,good,high,imo,bought,hold,undervalu,longterm,nice,dip,look
+iter2_cv_split4,good,imo,high,bought,look,hold,insid,undervalu,cheap,befor
+iter2_cv_split5,good,dip,high,imo,nice,bought,alreadi,bounc,hold,undervalu
+iter3_cv_split1,good,high,dip,imo,bounc,nice,anticip,undervalu,bought,btc
+iter3_cv_split2,good,imo,high,bought,hold,bounc,good imo,level,st,team
+iter3_cv_split3,good,high,dip,imo,bought,nice,hold,look,hodl,anticip
+iter3_cv_split4,good,imo,dip,high,bought,level,nice,good imo,undervalu,bounc
+iter3_cv_split5,good,breakout,high,dip,bought,imo,look,bounc,good imo,undervalu
+iter4_cv_split1,good,imo,dip,nice,level,bounc,bought,high,good imo,undervalu
+iter4_cv_split2,good,dip,imo,high,support,nice,hold,bought,undervalu,anticip
+iter4_cv_split3,good,high,dip,bought,support,imo,alreadi,anticip,good imo,bounc
+iter4_cv_split4,good,imo,dip,high,undervalu,bought,cheap,consolid,hold,bounc
+iter4_cv_split5,good,high,imo,bought,level,bounc,nice,look,hodl,hold
+iter5_cv_split1,good,high,dip,imo,bought,bounc,undervalu,anticip,look,longterm
+iter5_cv_split2,good,high,dip,imo,breakout,nice,undervalu,bought,alreadi,bounc
+iter5_cv_split3,good,dip,imo,high,bounc,nice,anticip,insid,good imo,expect
+iter5_cv_split4,good,support,imo,nice,dip,bought,bounc,level,high,look
+iter5_cv_split5,good,high,imo,bought,anticip,undervalu,look,hold,good imo,cheap
+iter6_cv_split1,good,imo,dip,high,look,level,undervalu,good imo,time,alreadi
+iter6_cv_split2,good,dip,imo,nice,high,bought,anticip,cheap,good imo,level
+iter6_cv_split3,good,high,dip,imo,bounc,nice,bought,anticip,undervalu,hold
+iter6_cv_split4,good,support,high,imo,bought,bounc,nice,look,breakout,undervalu
+iter6_cv_split5,good,dip,high,imo,bought,hold,strong,activ,septemb,babi
+iter7_cv_split1,good,high,dip,bought,imo,support,undervalu,anticip,nice,befor
+iter7_cv_split2,good,high,support,imo,dip,hold,nice,good imo,undervalu,hodl
+iter7_cv_split3,good,imo,high,dip,bought,look,nice,anticip,level,good imo
+iter7_cv_split4,good,imo,dip,nice,high,bounc,anticip,hodl,undervalu,septemb
+iter7_cv_split5,good,high,dip,imo,bought,breakout,undervalu,look,hold,nice
+iter8_cv_split1,good,imo,high,support,bought,hold,bounc,septemb,anticip,good imo
+iter8_cv_split2,good,dip,imo,high,bought,nice,look,bounc,longterm,undervalu
+iter8_cv_split3,good,support,high,imo,bought,anticip,look,hodl,insid,hold
+iter8_cv_split4,good,dip,high,imo,level,undervalu,bounc,bought,alreadi,nice
+iter8_cv_split5,good,high,imo,dip,nice,volum,hold,cheap,breakout,undervalu
+iter9_cv_split1,good,high,dip,imo,bought,hold,undervalu,look,anticip,nice
+iter9_cv_split2,good,imo,high,support,dip,bought,level,look,cheap,hold
+iter9_cv_split3,good,high,imo,dip,nice,bought,longterm,support,undervalu,alreadi
+iter9_cv_split4,good,high,imo,undervalu,bought,bounc,nice,look,breakout,insid
+iter9_cv_split5,good,dip,imo,bounc,bought,high,breakout,nice,anticip,good imo
+iter10_cv_split1,good,imo,high,bought,bounc,anticip,good imo,activ,team,ledger
+iter10_cv_split2,good,high,imo,dip,bought,nice,look,bounc,undervalu,longterm
+iter10_cv_split3,good,high,bought,volum,hold,bounc,nice,undervalu,st,level
+iter10_cv_split4,good,support,dip,imo,high,undervalu,nice,cheap,look,bought
+iter10_cv_split5,good,imo,support,high,dip,bought,nice,level,good imo,hodl
+iter11_cv_split1,good,imo,dip,high,undervalu,bounc,nice,insid,look,hold
+iter11_cv_split2,good,imo,high,dip,bought,bounc,anticip,longterm,consolid,good imo
+iter11_cv_split3,good,high,nice,breakout,bought,imo,support,bounc,alreadi,level
+iter11_cv_split4,high,good,dip,support,imo,bought,undervalu,hodl,cheap,nice
+iter11_cv_split5,good,imo,dip,high,bought,look,nice,hold,hodl,good imo
+iter12_cv_split1,good,dip,imo,high,nice,bought,longterm,undervalu,look,hodl
+iter12_cv_split2,good,high,imo,look,bought,hodl,bounc,anticip,nice,undervalu
+iter12_cv_split3,good,high,dip,imo,nice,bounc,bought,anticip,level,good imo
+iter12_cv_split4,good,imo,high,bought,undervalu,bounc,longterm,hold,septemb,cheap
+iter12_cv_split5,good,dip,support,high,bought,imo,look,nice,bounc,cheap
+iter13_cv_split1,good,high,imo,bought,hold,volum,undervalu,cheap,later,babi
+iter13_cv_split2,good,dip,imo,high,nice,support,bought,hold,undervalu,anticip
+iter13_cv_split3,good,support,high,imo,dip,bounc,bought,nice,hold,look
+iter13_cv_split4,good,dip,imo,high,bought,alreadi,undervalu,volum,nice,good imo
+iter13_cv_split5,good,imo,high,bought,nice,breakout,undervalu,bounc,level,anticip
+iter14_cv_split1,good,imo,support,high,nice,breakout,look,bought,bounc,anticip
+iter14_cv_split2,good,high,imo,undervalu,nice,bought,hodl,strong,good imo,breakout
+iter14_cv_split3,good,dip,high,look,bought,imo,level,hold,cheap,insid
+iter14_cv_split4,good,imo,dip,high,support,bounc,nice,undervalu,bought,longterm
+iter14_cv_split5,good,high,dip,imo,bought,hold,undervalu,look,anticip,hodl
+iter15_cv_split1,good,dip,high,bought,imo,nice,bounc,good imo,level,time
+iter15_cv_split2,good,dip,imo,high,bought,hold,undervalu,hodl,befor,cheap
+iter15_cv_split3,good,imo,high,support,bought,bounc,anticip,breakout,good imo,hodl
+iter15_cv_split4,good,dip,high,nice,imo,bought,look,alreadi,undervalu,longterm
+iter15_cv_split5,good,high,imo,dip,breakout,undervalu,nice,bounc,btc,insid
+iter16_cv_split1,good,dip,imo,high,bought,nice,alreadi,level,undervalu,insid
+iter16_cv_split2,good,high,imo,dip,nice,breakout,hold,bought,anticip,bounc
+iter16_cv_split3,good,dip,bought,imo,high,undervalu,hold,anticip,breakout,nice
+iter16_cv_split4,good,high,imo,dip,bought,look,good imo,hodl,cheap,hold
+iter16_cv_split5,good,high,imo,look,nice,bounc,anticip,good imo,bought,septemb
+iter17_cv_split1,good,high,imo,bought,insid,nice,good imo,look,anticip,triangl
+iter17_cv_split2,good,imo,dip,high,nice,bought,good imo,hold,bounc,cheap
+iter17_cv_split3,good,imo,high,dip,bought,breakout,support,level,bounc,nice
+iter17_cv_split4,good,high,dip,bought,imo,look,breakout,cheap,hodl,undervalu
+iter17_cv_split5,good,high,dip,imo,undervalu,bounc,nice,bought,strong,anticip
+iter18_cv_split1,good,dip,bought,high,imo,hold,hodl,alreadi,consolid,undervalu
+iter18_cv_split2,good,high,imo,dip,bought,nice,level,anticip,good imo,cheap
+iter18_cv_split3,good,high,imo,bounc,nice,bought,undervalu,alreadi,consolid,activ
+iter18_cv_split4,good,high,support,imo,dip,nice,look,undervalu,level,bought
+iter18_cv_split5,good,imo,high,dip,look,bought,good imo,undervalu,insid,anticip
+iter19_cv_split1,good,high,bought,imo,undervalu,insid,nice,bounc,longterm,babi
+iter19_cv_split2,good,dip,imo,high,support,bought,nice,breakout,level,anticip
+iter19_cv_split3,good,imo,high,dip,look,bought,undervalu,level,good imo,cheap
+iter19_cv_split4,good,imo,high,bought,dip,good imo,undervalu,nice,consolid,septemb
+iter19_cv_split5,good,high,support,dip,imo,bounc,nice,hold,good imo,cheap
+iter20_cv_split1,good,dip,imo,look,high,bounc,bought,breakout,undervalu,anticip
+iter20_cv_split2,good,high,bought,imo,support,undervalu,nice,anticip,look,longterm
+iter20_cv_split3,good,high,imo,dip,breakout,bought,undervalu,hold,good imo,cheap
+iter20_cv_split4,good,high,dip,imo,nice,bought,bounc,good imo,undervalu,cheap
+iter20_cv_split5,good,high,dip,imo,alreadi,hold,bounc,good imo,nice,hodl
+iter21_cv_split1,good,high,imo,support,bought,bounc,good imo,hodl,insid,nice
+iter21_cv_split2,good,high,imo,dip,undervalu,bounc,bought,nice,cheap,alreadi
+iter21_cv_split3,good,dip,high,imo,nice,bought,undervalu,bounc,breakout,level
+iter21_cv_split4,good,dip,support,high,imo,level,bought,look,bounc,hodl
+iter21_cv_split5,good,imo,dip,bought,nice,high,look,longterm,good imo,undervalu
+iter22_cv_split1,good,high,imo,support,look,bounc,bought,undervalu,level,cheap
+iter22_cv_split2,good,imo,dip,support,high,nice,hold,bounc,bought,good imo
+iter22_cv_split3,good,high,dip,imo,nice,bought,hold,alreadi,breakout,btc
+iter22_cv_split4,good,dip,bought,look,high,imo,undervalu,consolid,nice,anticip
+iter22_cv_split5,good,high,imo,bounc,nice,undervalu,bought,alreadi,hold,good imo
+iter23_cv_split1,good,dip,bought,imo,breakout,high,nice,undervalu,cheap,insid
+iter23_cv_split2,good,imo,high,support,dip,nice,bounc,bought,breakout,anticip
+iter23_cv_split3,good,high,dip,imo,bought,undervalu,alreadi,level,good imo,hold
+iter23_cv_split4,good,high,bounc,imo,nice,hold,hodl,look,consolid,anticip
+iter23_cv_split5,good,support,imo,look,level,high,bought,nice,undervalu,good imo
+iter24_cv_split1,good,imo,dip,high,look,bought,level,hodl,bounc,hold
+iter24_cv_split2,good,dip,high,imo,bought,nice,good imo,consolid,undervalu,breakout
+iter24_cv_split3,good,support,high,imo,nice,bought,level,undervalu,bounc,cheap
+iter24_cv_split4,good,high,imo,bought,undervalu,nice,look,anticip,alreadi,activ
+iter24_cv_split5,good,dip,support,high,imo,bought,bounc,nice,look,anticip
+iter25_cv_split1,good,high,imo,bought,breakout,undervalu,dip,anticip,good imo,nice
+iter25_cv_split2,good,high,dip,support,imo,undervalu,bought,nice,hold,consolid
+iter25_cv_split3,good,dip,high,support,imo,bought,look,nice,bounc,undervalu
+iter25_cv_split4,good,imo,support,high,bought,level,nice,look,cheap,bounc
+iter25_cv_split5,good,imo,dip,high,nice,look,bounc,good imo,bought,hodl
+iter26_cv_split1,good,support,high,dip,imo,bought,bounc,nice,anticip,undervalu
+iter26_cv_split2,good,high,dip,imo,bought,undervalu,good imo,alreadi,septemb,babi
+iter26_cv_split3,good,high,dip,imo,bought,nice,bounc,hodl,cheap,longterm
+iter26_cv_split4,good,dip,imo,high,bought,hold,level,longterm,alreadi,good imo
+iter26_cv_split5,good,imo,support,high,look,nice,bought,level,undervalu,bounc
+iter27_cv_split1,good,high,dip,bought,imo,anticip,team,bounc,nice,look
+iter27_cv_split2,good,dip,imo,hold,undervalu,bought,high,breakout,bounc,hodl
+iter27_cv_split3,good,dip,imo,high,nice,support,breakout,undervalu,bounc,hodl
+iter27_cv_split4,good,high,support,imo,bought,bounc,dip,look,volum,anticip
+iter27_cv_split5,good,imo,high,bought,look,level,nice,anticip,good imo,undervalu
+iter28_cv_split1,good,high,support,nice,imo,bought,look,bounc,anticip,turn
+iter28_cv_split2,good,dip,high,imo,bought,level,undervalu,hold,good imo,hodl
+iter28_cv_split3,good,high,dip,imo,bought,look,nice,alreadi,anticip,undervalu
+iter28_cv_split4,good,dip,imo,nice,support,bought,high,bounc,breakout,anticip
+iter28_cv_split5,good,imo,high,undervalu,look,anticip,bounc,good imo,nice,cheap
+iter29_cv_split1,good,high,dip,imo,bought,look,anticip,undervalu,good imo,befor
+iter29_cv_split2,good,high,imo,bought,nice,anticip,team,hold,good imo,cheap
+iter29_cv_split3,good,imo,nice,high,undervalu,bounc,strong,look,anticip,bought
+iter29_cv_split4,good,imo,support,bought,high,bounc,nice,longterm,good imo,hodl
+iter29_cv_split5,good,dip,high,bought,bounc,imo,hold,hodl,cheap,nice
+iter30_cv_split1,good,imo,high,dip,bought,undervalu,anticip,look,good imo,hodl
+iter30_cv_split2,good,high,breakout,imo,support,nice,anticip,look,bought,hold
+iter30_cv_split3,good,dip,high,imo,nice,bounc,look,alreadi,time,hold
+iter30_cv_split4,good,dip,bought,imo,high,nice,undervalu,septemb,longterm,bounc
+iter30_cv_split5,good,support,high,dip,imo,bought,level,bounc,hodl,veri
+iter31_cv_split1,good,high,support,dip,imo,bought,level,bounc,alreadi,hodl
+iter31_cv_split2,good,high,dip,imo,look,bought,hold,anticip,nice,team
+iter31_cv_split3,good,high,imo,dip,breakout,undervalu,nice,anticip,good imo,bounc
+iter31_cv_split4,good,high,imo,dip,support,bought,undervalu,bounc,hold,anticip
+iter31_cv_split5,good,dip,look,imo,nice,bought,high,hodl,insid,good imo
+iter32_cv_split1,good,dip,high,bought,imo,undervalu,nice,hold,longterm,consolid
+iter32_cv_split2,good,imo,dip,high,bought,look,good imo,cheap,nice,hold
+iter32_cv_split3,good,high,imo,breakout,alreadi,anticip,bounc,good imo,undervalu,hodl
+iter32_cv_split4,good,imo,high,bought,dip,support,nice,level,undervalu,bounc
+iter32_cv_split5,good,imo,support,high,level,bounc,nice,hold,btc,cheap
+iter33_cv_split1,good,support,dip,high,look,imo,nice,bought,level,undervalu
+iter33_cv_split2,good,high,dip,imo,bounc,nice,breakout,anticip,cheap,bought
+iter33_cv_split3,good,support,imo,dip,bought,high,anticip,hodl,longterm,alreadi
+iter33_cv_split4,good,imo,high,dip,bought,nice,hold,breakout,good imo,cheap
+iter33_cv_split5,good,dip,high,support,imo,undervalu,look,bounc,good imo,bought
+iter34_cv_split1,good,high,support,dip,bought,imo,hodl,anticip,undervalu,bounc
+iter34_cv_split2,good,imo,high,nice,support,longterm,bought,anticip,look,good imo
+iter34_cv_split3,good,dip,high,imo,bought,bounc,hold,undervalu,cheap,nice
+iter34_cv_split4,good,high,dip,imo,breakout,bought,undervalu,look,anticip,bounc
+iter34_cv_split5,good,imo,dip,high,bounc,bought,team,alreadi,hodl,cheap
+iter35_cv_split1,good,high,look,bought,imo,hold,bounc,longterm,alreadi,nice
+iter35_cv_split2,good,imo,high,bought,dip,undervalu,anticip,strong,good imo,cheap
+iter35_cv_split3,good,dip,imo,high,nice,bought,undervalu,support,anticip,look
+iter35_cv_split4,good,high,imo,level,btc,breakout,look,nice,hold,bounc
+iter35_cv_split5,good,high,imo,dip,support,bought,undervalu,nice,bounc,cheap
+iter36_cv_split1,good,high,dip,imo,bought,nice,level,look,cheap,undervalu
+iter36_cv_split2,good,dip,high,bought,imo,bounc,nice,level,undervalu,good imo
+iter36_cv_split3,good,high,imo,bought,dip,bounc,nice,hold,anticip,undervalu
+iter36_cv_split4,good,imo,high,undervalu,hodl,good imo,bought,hold,breakout,anticip
+iter36_cv_split5,good,high,imo,dip,look,nice,bought,anticip,hold,bounc
+iter37_cv_split1,good,high,imo,dip,bought,bounc,undervalu,nice,consolid,alreadi
+iter37_cv_split2,good,high,imo,dip,support,undervalu,bounc,insid,good imo,cheap
+iter37_cv_split3,good,imo,dip,high,level,nice,anticip,bought,hold,hodl
+iter37_cv_split4,good,dip,bought,nice,look,imo,support,high,hold,team
+iter37_cv_split5,good,high,support,breakout,imo,bought,undervalu,alreadi,anticip,bounc
+iter38_cv_split1,good,high,dip,support,imo,bought,hold,cheap,nice,good imo
+iter38_cv_split2,good,imo,bought,high,bounc,anticip,undervalu,good imo,level,consolid
+iter38_cv_split3,good,high,imo,dip,support,bought,level,look,undervalu,breakout
+iter38_cv_split4,good,look,high,bought,bounc,imo,undervalu,alreadi,nice,dip
+iter38_cv_split5,good,dip,high,imo,nice,look,undervalu,bought,hodl,hold
+iter39_cv_split1,good,imo,high,bought,support,look,undervalu,anticip,good imo,consolid
+iter39_cv_split2,good,high,nice,imo,bought,bounc,anticip,cheap,alreadi,hold
+iter39_cv_split3,good,imo,high,dip,bought,undervalu,good imo,bounc,look,befor
+iter39_cv_split4,good,high,dip,imo,nice,undervalu,good imo,bought,hold,hodl
+iter39_cv_split5,good,dip,high,imo,bought,nice,support,bounc,anticip,longterm
+iter40_cv_split1,good,high,dip,imo,nice,look,bought,hold,anticip,consolid
+iter40_cv_split2,good,dip,breakout,bought,high,imo,strong,nice,bounc,alreadi
+iter40_cv_split3,good,imo,high,support,level,anticip,breakout,undervalu,hodl,turn
+iter40_cv_split4,good,high,dip,imo,bought,longterm,undervalu,nice,good imo,btc
+iter40_cv_split5,good,imo,bought,high,bounc,nice,alreadi,hodl,undervalu,good imo
+iter41_cv_split1,good,high,imo,bought,look,bounc,nice,level,insid,undervalu
+iter41_cv_split2,good,high,dip,imo,bought,anticip,undervalu,insid,look,bounc
+iter41_cv_split3,good,support,imo,high,bought,hold,good imo,undervalu,cheap,nice
+iter41_cv_split4,good,high,imo,dip,support,nice,level,bounc,bought,breakout
+iter41_cv_split5,good,dip,imo,high,breakout,nice,bought,cheap,anticip,look
+iter42_cv_split1,good,high,dip,imo,bought,nice,undervalu,breakout,bounc,team
+iter42_cv_split2,good,bought,high,imo,dip,anticip,undervalu,good imo,bounc,babi
+iter42_cv_split3,good,dip,imo,support,nice,high,look,bounc,hold,bought
+iter42_cv_split4,good,high,imo,dip,level,bounc,anticip,look,hold,good imo
+iter42_cv_split5,good,high,support,dip,imo,bought,look,nice,hold,level
+iter43_cv_split1,good,dip,imo,high,level,bought,nice,bounc,good imo,hodl
+iter43_cv_split2,good,high,imo,bought,support,hold,anticip,good imo,cheap,undervalu
+iter43_cv_split3,good,dip,high,support,nice,imo,bought,look,anticip,longterm
+iter43_cv_split4,good,high,imo,nice,undervalu,breakout,longterm,bought,hodl,septemb
+iter43_cv_split5,good,imo,high,dip,bounc,nice,undervalu,bought,look,cheap
+iter44_cv_split1,good,high,bought,dip,imo,nice,level,undervalu,alreadi,hold
+iter44_cv_split2,good,imo,support,dip,high,bounc,bought,hold,team,cheap
+iter44_cv_split3,good,imo,high,dip,look,level,anticip,good imo,bought,undervalu
+iter44_cv_split4,good,high,imo,dip,bought,undervalu,longterm,anticip,hodl,alreadi
+iter44_cv_split5,good,high,look,nice,bounc,imo,cheap,bought,recommend,anticip
+iter45_cv_split1,good,imo,look,high,nice,bought,good imo,bounc,undervalu,cheap
+iter45_cv_split2,good,imo,high,bought,dip,nice,bounc,good imo,hodl,btc
+iter45_cv_split3,good,support,high,imo,dip,bounc,undervalu,bought,anticip,nice
+iter45_cv_split4,good,dip,high,level,imo,support,breakout,nice,hold,alreadi
+iter45_cv_split5,good,high,dip,imo,bought,alreadi,cheap,look,st,undervalu
+iter46_cv_split1,good,dip,high,imo,bought,look,nice,hold,bounc,insid
+iter46_cv_split2,good,high,imo,support,dip,bounc,hodl,undervalu,strong,alreadi
+iter46_cv_split3,good,dip,imo,high,bought,hold,nice,anticip,undervalu,alreadi
+iter46_cv_split4,good,imo,nice,high,bought,breakout,undervalu,bounc,hold,anticip
+iter46_cv_split5,good,high,dip,bought,imo,undervalu,cheap,look,bounc,hodl
+iter47_cv_split1,good,imo,high,dip,nice,undervalu,bought,bounc,hold,level
+iter47_cv_split2,good,high,dip,imo,look,undervalu,nice,bought,babi,anticip
+iter47_cv_split3,good,dip,high,imo,bought,look,level,nice,hodl,undervalu
+iter47_cv_split4,good,high,dip,imo,support,bought,anticip,longterm,undervalu,septemb
+iter47_cv_split5,good,support,bought,imo,bounc,high,dip,hold,insid,good imo
+iter48_cv_split1,good,high,imo,dip,look,strong,bought,nice,hold,consolid
+iter48_cv_split2,good,imo,high,support,nice,bought,volum,bounc,good imo,hodl
+iter48_cv_split3,good,support,dip,high,imo,undervalu,bought,hodl,longterm,turn
+iter48_cv_split4,good,high,dip,imo,bought,nice,bounc,undervalu,anticip,breakout
+iter48_cv_split5,good,high,bought,imo,level,hold,look,bounc,anticip,good imo
+iter49_cv_split1,good,high,support,bought,imo,bounc,hold,hodl,anticip,undervalu
+iter49_cv_split2,good,high,imo,support,dip,bought,undervalu,look,hold,consolid
+iter49_cv_split3,good,imo,dip,high,nice,bounc,longterm,good imo,hodl,undervalu
+iter49_cv_split4,good,dip,bought,imo,nice,breakout,high,bounc,anticip,cheap
+iter49_cv_split5,good,dip,high,imo,nice,level,bought,undervalu,look,good imo
+iter50_cv_split1,good,imo,bought,dip,high,breakout,nice,look,anticip,bounc
+iter50_cv_split2,good,high,imo,support,hold,undervalu,anticip,bought,hodl,cheap
+iter50_cv_split3,good,imo,high,support,level,hold,look,hodl,undervalu,good imo
+iter50_cv_split4,good,high,dip,imo,bought,nice,bounc,good imo,undervalu,babi
+iter50_cv_split5,good,dip,support,high,bought,nice,expect,hold,bounc,imo
+iter51_cv_split1,good,high,imo,dip,undervalu,bounc,hodl,bought,strong,st
+iter51_cv_split2,good,dip,imo,high,bought,support,level,hold,undervalu,good imo
+iter51_cv_split3,good,dip,nice,imo,level,look,high,bought,alreadi,hold
+iter51_cv_split4,good,high,support,imo,bought,nice,bounc,anticip,good imo,cheap
+iter51_cv_split5,good,high,imo,dip,look,bought,hold,nice,anticip,team
+iter52_cv_split1,good,imo,dip,bought,nice,high,level,anticip,insid,hodl
+iter52_cv_split2,good,high,imo,bought,dip,bounc,babi,sat,anticip,hold
+iter52_cv_split3,good,dip,high,bought,imo,undervalu,nice,bounc,breakout,septemb
+iter52_cv_split4,good,dip,imo,high,bounc,alreadi,hold,hodl,undervalu,good imo
+iter52_cv_split5,good,high,imo,nice,bought,undervalu,alreadi,look,breakout,bounc
+iter53_cv_split1,good,dip,high,support,imo,level,nice,bounc,bought,good imo
+iter53_cv_split2,good,dip,high,imo,bought,nice,undervalu,anticip,team,consolid
+iter53_cv_split3,good,support,imo,high,bought,bounc,anticip,breakout,hodl,undervalu
+iter53_cv_split4,good,imo,high,bought,nice,cheap,longterm,look,alreadi,undervalu
+iter53_cv_split5,good,dip,high,imo,breakout,bought,nice,bounc,cheap,undervalu
+iter54_cv_split1,good,high,imo,dip,bought,undervalu,bounc,breakout,hodl,activ
+iter54_cv_split2,good,dip,imo,high,bought,nice,hodl,cheap,babi,alreadi
+iter54_cv_split3,good,dip,imo,nice,support,bought,level,high,anticip,breakout
+iter54_cv_split4,good,high,look,imo,bounc,bought,undervalu,hold,longterm,anticip
+iter54_cv_split5,good,high,imo,undervalu,bought,anticip,nice,breakout,good imo,hodl
+iter55_cv_split1,good,high,imo,dip,look,bounc,bought,hold,cheap,undervalu
+iter55_cv_split2,good,high,dip,imo,bought,bounc,undervalu,hodl,alreadi,hold
+iter55_cv_split3,good,imo,bought,high,look,level,undervalu,anticip,hodl,btc
+iter55_cv_split4,good,imo,dip,high,nice,bought,good imo,bounc,undervalu,consolid
+iter55_cv_split5,good,high,support,nice,imo,hold,level,anticip,bounc,cheap
+iter56_cv_split1,good,dip,imo,support,high,level,hold,nice,bought,longterm
+iter56_cv_split2,good,dip,high,support,imo,bought,breakout,undervalu,look,hold
+iter56_cv_split3,good,high,imo,bought,bounc,nice,look,undervalu,breakout,anticip
+iter56_cv_split4,good,imo,high,bought,nice,bounc,good imo,insid,st,team
+iter56_cv_split5,good,imo,high,nice,look,anticip,undervalu,hodl,bounc,bought
+iter57_cv_split1,good,imo,high,bought,bounc,breakout,undervalu,alreadi,nice,longterm
+iter57_cv_split2,good,support,dip,high,imo,bought,nice,level,bounc,hold
+iter57_cv_split3,high,good,dip,imo,nice,undervalu,look,bounc,anticip,hold
+iter57_cv_split4,good,high,bought,imo,hold,look,good imo,consolid,cheap,babi
+iter57_cv_split5,good,imo,dip,high,support,bought,level,look,nice,bounc
+iter58_cv_split1,good,dip,imo,high,bounc,undervalu,bought,hold,cheap,hodl
+iter58_cv_split2,good,imo,high,dip,support,bounc,bought,nice,anticip,undervalu
+iter58_cv_split3,good,dip,high,look,bought,imo,nice,breakout,bounc,support
+iter58_cv_split4,good,imo,high,dip,nice,look,bought,undervalu,anticip,cheap
+iter58_cv_split5,good,high,imo,level,bought,dip,good imo,nice,hold,hodl
+iter59_cv_split1,good,imo,support,high,bought,level,bounc,alreadi,good imo,hodl
+iter59_cv_split2,good,high,dip,bought,imo,nice,hold,bounc,undervalu,insid
+iter59_cv_split3,good,dip,imo,high,support,bought,look,undervalu,insid,cheap
+iter59_cv_split4,good,imo,high,nice,anticip,hodl,good imo,bounc,time,bought
+iter59_cv_split5,good,dip,high,imo,breakout,look,nice,bought,anticip,undervalu
+iter60_cv_split1,good,imo,nice,high,bounc,undervalu,dip,anticip,good imo,level
+iter60_cv_split2,good,support,bought,high,dip,imo,look,alreadi,hold,bounc
+iter60_cv_split3,good,high,dip,imo,bought,look,nice,undervalu,hodl,cheap
+iter60_cv_split4,good,dip,high,imo,support,bought,nice,anticip,good imo,team
+iter60_cv_split5,good,imo,high,dip,bounc,nice,breakout,good imo,undervalu,bought
+iter61_cv_split1,good,dip,imo,high,bought,breakout,support,nice,look,good imo
+iter61_cv_split2,good,high,imo,nice,bounc,support,bought,befor,level,anticip
+iter61_cv_split3,good,dip,imo,high,undervalu,bought,anticip,longterm,bounc,hodl
+iter61_cv_split4,good,high,bought,dip,hold,alreadi,imo,bounc,nice,look
+iter61_cv_split5,good,imo,high,dip,look,hold,level,good imo,hodl,bought
+iter62_cv_split1,good,high,dip,alreadi,bought,bounc,imo,level,breakout,befor
+iter62_cv_split2,good,dip,high,imo,nice,bought,look,anticip,undervalu,bounc
+iter62_cv_split3,good,imo,high,support,breakout,good imo,nice,hodl,cheap,bought
+iter62_cv_split4,good,high,imo,dip,bought,nice,undervalu,look,good imo,hold
+iter62_cv_split5,good,dip,imo,high,bought,undervalu,nice,bounc,let,hold
+iter63_cv_split1,good,high,imo,support,nice,dip,bounc,undervalu,bought,anticip
+iter63_cv_split2,good,dip,imo,bought,hold,look,high,anticip,insid,good imo
+iter63_cv_split3,good,support,imo,dip,high,bought,longterm,hold,level,bounc
+iter63_cv_split4,good,high,dip,nice,imo,bought,consolid,insid,cheap,look
+iter63_cv_split5,good,high,imo,dip,bought,undervalu,level,bounc,nice,babi
+iter64_cv_split1,good,imo,high,bounc,bought,hold,activ,team,cheap,anticip
+iter64_cv_split2,good,dip,high,bought,imo,nice,undervalu,look,anticip,good imo
+iter64_cv_split3,good,high,nice,imo,dip,bounc,breakout,undervalu,look,alreadi
+iter64_cv_split4,good,dip,high,imo,bought,level,nice,breakout,bounc,anticip
+iter64_cv_split5,good,imo,high,support,dip,bought,bounc,hold,hodl,undervalu
+iter65_cv_split1,good,dip,high,imo,bought,undervalu,look,nice,longterm,consolid
+iter65_cv_split2,good,imo,high,bought,anticip,hodl,good imo,bounc,nice,breakout
+iter65_cv_split3,good,dip,high,imo,support,nice,undervalu,bought,look,level
+iter65_cv_split4,good,dip,support,imo,high,nice,bought,undervalu,insid,hold
+iter65_cv_split5,good,support,high,imo,level,bounc,expect,cheap,anticip,alreadi
+iter66_cv_split1,good,high,imo,nice,bounc,look,undervalu,hold,anticip,hodl
+iter66_cv_split2,good,high,imo,dip,bought,nice,undervalu,anticip,strong,bounc
+iter66_cv_split3,good,dip,imo,support,bought,level,befor,nice,bounc,undervalu
+iter66_cv_split4,good,imo,high,level,breakout,bought,look,hold,good imo,nice
+iter66_cv_split5,good,high,dip,bought,imo,anticip,cheap,undervalu,insid,longterm
+iter67_cv_split1,good,high,bought,dip,imo,nice,look,undervalu,breakout,cheap
+iter67_cv_split2,good,high,imo,dip,bought,undervalu,good imo,cheap,insid,abov
+iter67_cv_split3,good,imo,support,bought,high,bounc,longterm,nice,undervalu,hodl
+iter67_cv_split4,good,support,high,bounc,imo,breakout,nice,bought,alreadi,anticip
+iter67_cv_split5,good,imo,dip,high,nice,level,bought,longterm,hold,anticip
+iter68_cv_split1,good,imo,high,dip,support,look,nice,bought,undervalu,longterm
+iter68_cv_split2,good,dip,high,bounc,level,nice,anticip,imo,hodl,bought
+iter68_cv_split3,good,high,imo,bought,nice,anticip,bounc,septemb,alreadi,look
+iter68_cv_split4,good,high,imo,support,bounc,undervalu,bought,hold,insid,level
+iter68_cv_split5,good,imo,dip,bought,high,breakout,undervalu,nice,anticip,consolid
+iter69_cv_split1,good,imo,dip,high,bought,look,alreadi,good imo,nice,bounc
+iter69_cv_split2,good,dip,imo,high,support,bought,anticip,bounc,strong,undervalu
+iter69_cv_split3,good,high,nice,bought,imo,breakout,look,bounc,anticip,hold
+iter69_cv_split4,good,high,imo,undervalu,nice,bought,level,hold,insid,good imo
+iter69_cv_split5,good,high,dip,imo,support,hold,bought,befor,cheap,hodl
+iter70_cv_split1,good,high,bought,imo,hold,bounc,cheap,undervalu,insid,nice
+iter70_cv_split2,good,dip,high,imo,bought,alreadi,undervalu,longterm,hold,bounc
+iter70_cv_split3,good,dip,imo,support,high,bought,nice,look,anticip,bounc
+iter70_cv_split4,good,support,imo,dip,nice,high,bought,look,breakout,level
+iter70_cv_split5,good,high,imo,dip,nice,bounc,undervalu,septemb,hodl,babi
+iter71_cv_split1,good,dip,imo,bought,high,look,nice,bounc,anticip,longterm
+iter71_cv_split2,good,high,dip,imo,support,bounc,hold,cheap,undervalu,insid
+iter71_cv_split3,good,high,dip,imo,undervalu,nice,bounc,hodl,befor,insid
+iter71_cv_split4,high,good,imo,bought,dip,look,anticip,alreadi,undervalu,st
+iter71_cv_split5,good,bought,support,nice,imo,high,good imo,undervalu,cheap,activ
+iter72_cv_split1,good,imo,support,dip,high,bought,hold,undervalu,anticip,look
+iter72_cv_split2,good,dip,high,imo,nice,undervalu,look,bounc,bought,hodl
+iter72_cv_split3,good,high,imo,dip,bought,hodl,consolid,news,alreadi,anticip
+iter72_cv_split4,good,support,dip,nice,bought,imo,high,bounc,anticip,alreadi
+iter72_cv_split5,good,high,imo,bought,bounc,strong,level,good imo,hodl,insid
+iter73_cv_split1,good,dip,high,support,imo,bought,level,hold,undervalu,cheap
+iter73_cv_split2,good,dip,support,high,imo,nice,bounc,good imo,look,undervalu
+iter73_cv_split3,good,dip,bought,imo,high,look,bounc,longterm,hold,hodl
+iter73_cv_split4,good,imo,high,dip,bought,nice,breakout,anticip,undervalu,alreadi
+iter73_cv_split5,good,high,imo,nice,dip,bounc,undervalu,bought,level,anticip
+iter74_cv_split1,good,imo,breakout,dip,high,bought,hold,nice,hodl,alreadi
+iter74_cv_split2,good,dip,high,imo,nice,hold,bounc,hodl,undervalu,turn
+iter74_cv_split3,good,imo,high,look,bought,undervalu,nice,anticip,insid,alreadi
+iter74_cv_split4,good,imo,dip,high,bought,nice,anticip,bounc,look,undervalu
+iter74_cv_split5,good,high,support,bought,bounc,imo,consolid,anticip,cheap,level
+iter75_cv_split1,good,high,imo,dip,bought,undervalu,bounc,look,nice,anticip
+iter75_cv_split2,good,dip,high,imo,bought,breakout,anticip,good imo,hold,bounc
+iter75_cv_split3,good,support,dip,imo,high,nice,bought,bounc,good imo,cheap
+iter75_cv_split4,good,imo,high,bought,support,level,nice,breakout,undervalu,longterm
+iter75_cv_split5,good,dip,high,imo,alreadi,bought,nice,hodl,cheap,undervalu
+iter76_cv_split1,good,high,imo,dip,bought,undervalu,alreadi,anticip,nice,bounc
+iter76_cv_split2,good,high,nice,imo,level,bought,look,breakout,bounc,volum
+iter76_cv_split3,good,imo,dip,high,look,nice,hold,hodl,longterm,bought
+iter76_cv_split4,good,high,imo,support,bought,hold,bounc,undervalu,good imo,cheap
+iter76_cv_split5,good,dip,high,imo,bought,nice,hold,longterm,good imo,insid
+iter77_cv_split1,good,dip,high,nice,imo,bought,look,anticip,hold,bounc
+iter77_cv_split2,good,imo,high,nice,bought,hold,undervalu,bounc,good imo,insid
+iter77_cv_split3,good,high,imo,level,dip,bought,undervalu,anticip,good imo,septemb
+iter77_cv_split4,good,dip,imo,support,high,bought,bounc,hold,insid,cheap
+iter77_cv_split5,good,high,imo,support,dip,bought,look,bounc,good imo,hodl
+iter78_cv_split1,good,high,imo,bought,nice,bounc,cheap,btc,babi,insid
+iter78_cv_split2,good,imo,dip,high,bought,hold,nice,cheap,good imo,bounc
+iter78_cv_split3,good,dip,high,imo,nice,bought,undervalu,bounc,look,anticip
+iter78_cv_split4,good,high,imo,support,look,consolid,anticip,bought,cheap,longterm
+iter78_cv_split5,good,dip,support,imo,high,bought,level,undervalu,breakout,anticip
+iter79_cv_split1,good,dip,high,imo,support,bought,nice,bounc,alreadi,babi
+iter79_cv_split2,good,support,imo,bought,high,hold,anticip,hodl,bounc,good imo
+iter79_cv_split3,good,high,nice,level,imo,breakout,cheap,bought,look,activ
+iter79_cv_split4,good,imo,high,dip,undervalu,bought,breakout,bounc,nice,cheap
+iter79_cv_split5,good,high,dip,imo,bought,undervalu,bounc,nice,insid,look
+iter80_cv_split1,good,imo,high,look,undervalu,anticip,hold,hodl,befor,recommend
+iter80_cv_split2,good,high,dip,bought,nice,bounc,hold,imo,look,undervalu
+iter80_cv_split3,good,dip,imo,high,bounc,bought,alreadi,undervalu,good imo,nice
+iter80_cv_split4,good,imo,dip,high,support,bought,nice,breakout,level,anticip
+iter80_cv_split5,good,imo,high,bought,support,nice,level,anticip,hodl,st
+iter81_cv_split1,good,imo,high,dip,nice,look,undervalu,breakout,bought,alreadi
+iter81_cv_split2,good,dip,high,imo,nice,bounc,hold,anticip,look,cheap
+iter81_cv_split3,good,high,dip,imo,bought,nice,bounc,look,anticip,hodl
+iter81_cv_split4,good,support,imo,bought,high,level,anticip,good imo,septemb,undervalu
+iter81_cv_split5,good,high,dip,imo,bought,level,undervalu,cheap,st,babi
+iter82_cv_split1,good,high,dip,imo,bought,nice,anticip,good imo,septemb,bounc
+iter82_cv_split2,good,high,dip,imo,support,level,look,bought,bounc,nice
+iter82_cv_split3,good,imo,high,bought,nice,undervalu,anticip,hold,good imo,hodl
+iter82_cv_split4,good,dip,imo,bought,high,undervalu,hold,support,cheap,consolid
+iter82_cv_split5,good,imo,bounc,look,high,level,nice,anticip,undervalu,cheap
+iter83_cv_split1,good,look,bought,dip,imo,high,nice,bounc,undervalu,anticip
+iter83_cv_split2,good,dip,high,imo,support,bought,longterm,undervalu,hodl,anticip
+iter83_cv_split3,good,high,nice,imo,bought,support,hold,breakout,bounc,hodl
+iter83_cv_split4,good,high,imo,nice,bounc,bought,volum,hold,good imo,undervalu
+iter83_cv_split5,good,dip,imo,high,bought,level,btc,alreadi,cheap,nice
+iter84_cv_split1,good,high,dip,support,imo,breakout,bought,level,bounc,alreadi
+iter84_cv_split2,good,imo,high,dip,level,undervalu,nice,bounc,bought,hodl
+iter84_cv_split3,good,high,imo,bought,good imo,cheap,undervalu,hold,septemb,sat
+iter84_cv_split4,good,imo,high,nice,bounc,bought,hold,anticip,undervalu,consolid
+iter84_cv_split5,good,dip,support,high,imo,look,bought,bounc,nice,anticip
+iter85_cv_split1,good,high,imo,support,strong,bounc,bought,nice,good imo,undervalu
+iter85_cv_split2,good,dip,imo,bounc,look,high,bought,nice,hold,hodl
+iter85_cv_split3,good,dip,high,imo,level,bounc,bought,nice,breakout,insid
+iter85_cv_split4,good,high,imo,dip,undervalu,bought,anticip,longterm,hodl,nice
+iter85_cv_split5,good,high,dip,imo,bought,nice,look,level,anticip,good imo
+iter86_cv_split1,good,imo,dip,bought,high,bounc,nice,cheap,hold,good imo
+iter86_cv_split2,good,high,support,imo,dip,look,good imo,hold,undervalu,alreadi
+iter86_cv_split3,good,high,bought,support,imo,nice,undervalu,activ,cheap,bounc
+iter86_cv_split4,good,dip,imo,high,bought,nice,anticip,breakout,consolid,babi
+iter86_cv_split5,good,high,imo,look,dip,nice,bounc,undervalu,level,hodl
+iter87_cv_split1,good,imo,high,bought,look,undervalu,nice,anticip,longterm,dip
+iter87_cv_split2,good,dip,high,bought,hold,imo,anticip,bounc,cheap,support
+iter87_cv_split3,good,support,imo,high,level,cheap,nice,bounc,hold,babi
+iter87_cv_split4,good,dip,high,look,imo,nice,bought,undervalu,anticip,septemb
+iter87_cv_split5,good,dip,high,imo,bought,bounc,nice,hold,undervalu,good imo
+iter88_cv_split1,good,dip,imo,high,nice,support,bought,hold,breakout,bounc
+iter88_cv_split2,good,imo,dip,high,bought,level,anticip,good imo,undervalu,nice
+iter88_cv_split3,good,dip,high,imo,nice,undervalu,hodl,bought,alreadi,bounc
+iter88_cv_split4,good,high,bought,imo,undervalu,alreadi,look,nice,bounc,cheap
+iter88_cv_split5,good,high,imo,dip,bought,level,bounc,hold,look,cheap
+iter89_cv_split1,good,high,imo,undervalu,nice,bought,bounc,good imo,hodl,septemb
+iter89_cv_split2,good,high,bought,imo,nice,anticip,insid,befor,bounc,longterm
+iter89_cv_split3,good,support,high,imo,dip,bought,longterm,strong,breakout,nice
+iter89_cv_split4,good,dip,look,high,imo,level,hold,breakout,consolid,bought
+iter89_cv_split5,good,dip,imo,high,bought,undervalu,nice,hodl,bounc,time
+iter90_cv_split1,good,high,support,dip,imo,bounc,undervalu,level,good imo,strong
+iter90_cv_split2,good,high,dip,imo,nice,bought,alreadi,longterm,hold,bounc
+iter90_cv_split3,good,dip,bought,imo,high,undervalu,anticip,good imo,hodl,team
+iter90_cv_split4,good,high,imo,look,btc,bought,bounc,breakout,insid,nice
+iter90_cv_split5,good,imo,high,bought,bounc,nice,look,hold,hodl,undervalu
+iter91_cv_split1,good,imo,high,dip,bought,hold,insid,breakout,undervalu,nice
+iter91_cv_split2,good,imo,dip,high,bought,alreadi,breakout,look,anticip,nice
+iter91_cv_split3,good,dip,high,nice,bounc,imo,bought,cheap,undervalu,let
+iter91_cv_split4,good,imo,bought,high,undervalu,look,dip,bounc,hodl,insid
+iter91_cv_split5,good,high,support,imo,look,nice,bounc,bought,anticip,cheap
+iter92_cv_split1,good,dip,high,imo,breakout,alreadi,look,hodl,hold,cheap
+iter92_cv_split2,good,imo,high,bought,dip,support,level,nice,anticip,good imo
+iter92_cv_split3,good,nice,high,imo,support,bought,undervalu,bounc,look,alreadi
+iter92_cv_split4,good,high,dip,imo,nice,anticip,volum,undervalu,hodl,befor
+iter92_cv_split5,good,imo,high,bought,bounc,hodl,insid,longterm,level,hold
+iter93_cv_split1,good,high,dip,imo,undervalu,bought,level,good imo,team,hold
+iter93_cv_split2,good,imo,dip,high,support,bought,alreadi,nice,bounc,breakout
+iter93_cv_split3,good,dip,high,imo,bounc,nice,anticip,hold,btc,expect
+iter93_cv_split4,good,look,imo,high,dip,bought,nice,breakout,undervalu,longterm
+iter93_cv_split5,good,high,support,bought,imo,undervalu,nice,dip,anticip,breakout
+iter94_cv_split1,good,dip,imo,high,bought,nice,anticip,undervalu,cheap,longterm
+iter94_cv_split2,good,high,imo,bought,undervalu,nice,anticip,insid,septemb,cheap
+iter94_cv_split3,good,dip,imo,high,bought,bounc,look,alreadi,hold,nice
+iter94_cv_split4,good,dip,high,imo,nice,bought,bounc,hodl,sat,alreadi
+iter94_cv_split5,good,high,imo,level,hold,bounc,volum,good imo,consolid,cheap
+iter95_cv_split1,good,high,imo,dip,undervalu,good imo,nice,bought,alreadi,bounc
+iter95_cv_split2,good,high,dip,imo,support,bounc,bought,anticip,nice,undervalu
+iter95_cv_split3,good,high,imo,dip,look,bought,bounc,hold,undervalu,nice
+iter95_cv_split4,good,dip,bought,support,imo,nice,level,high,longterm,team
+iter95_cv_split5,good,high,imo,dip,support,bought,hold,insid,alreadi,cheap
+iter96_cv_split1,good,support,high,imo,level,nice,bounc,bought,look,anticip
+iter96_cv_split2,good,imo,high,bounc,bought,breakout,insid,strong,hold,good imo
+iter96_cv_split3,good,dip,high,imo,bought,alreadi,hold,consolid,bounc,hodl
+iter96_cv_split4,good,imo,dip,high,bought,hodl,team,undervalu,longterm,turn
+iter96_cv_split5,good,imo,high,nice,dip,bought,breakout,undervalu,look,longterm
+iter97_cv_split1,good,high,dip,bought,bounc,imo,nice,breakout,anticip,hold
+iter97_cv_split2,good,imo,dip,bought,nice,high,undervalu,longterm,breakout,cheap
+iter97_cv_split3,good,high,imo,dip,undervalu,bought,anticip,look,hold,hodl
+iter97_cv_split4,good,high,support,imo,bought,level,hold,anticip,cheap,bounc
+iter97_cv_split5,good,dip,imo,high,undervalu,bounc,nice,look,breakout,befor
+iter98_cv_split1,good,high,breakout,nice,imo,bounc,hold,cheap,undervalu,hodl
+iter98_cv_split2,good,high,dip,imo,bought,hold,look,undervalu,babi,nice
+iter98_cv_split3,good,dip,imo,bought,high,bounc,anticip,look,nice,good imo
+iter98_cv_split4,good,high,imo,bought,nice,longterm,anticip,good imo,recommend,alreadi
+iter98_cv_split5,good,imo,high,support,bought,undervalu,bounc,breakout,look,anticip
+iter99_cv_split1,good,dip,high,breakout,bounc,imo,hold,bought,nice,hodl
+iter99_cv_split2,good,imo,bought,level,look,high,undervalu,bounc,hodl,longterm
+iter99_cv_split3,good,dip,high,imo,support,nice,bought,bounc,good imo,hodl
+iter99_cv_split4,good,high,imo,bought,nice,good imo,cheap,undervalu,activ,bounc
+iter99_cv_split5,good,high,imo,dip,level,undervalu,hold,anticip,look,good imo
+iter100_cv_split1,good,high,imo,dip,support,bought,undervalu,nice,look,good imo
+iter100_cv_split2,good,high,imo,nice,undervalu,hodl,cheap,bought,look,hold
+iter100_cv_split3,good,dip,imo,high,support,nice,bought,hold,bounc,anticip
+iter100_cv_split4,good,dip,high,imo,bought,support,look,bounc,anticip,alreadi
+iter100_cv_split5,good,imo,high,bought,nice,bounc,longterm,babi,cheap,anticip

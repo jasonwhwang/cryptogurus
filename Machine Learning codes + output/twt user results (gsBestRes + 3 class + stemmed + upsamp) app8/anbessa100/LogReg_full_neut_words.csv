@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,updat,amp,start,scenario,use,readi,becom,best,updat breakout,bag
+iter1_cv_split2,updat,market,target,mani,chart,bag,best,use,amp,anoth
+iter1_cv_split3,new,updat,start,target,money,sinc,best,amp,like,daili
+iter1_cv_split4,updat,market,target,anoth,today,amp,money,use,updat hit,like
+iter1_cv_split5,updat,market,readi,bag,like,start,money,amp,best,project
+iter2_cv_split1,updat,amp,market,target,new,start,total,soon,like,today
+iter2_cv_split2,updat,market,scenario,start,amp,updat breakout,money,bag,target,usd
+iter2_cv_split3,updat,start,amp,readi,becom,breakout,use,like,money,purpl
+iter2_cv_split4,updat,break,wait,amp,bag,updat breakout,target,best,anoth,use
+iter2_cv_split5,updat,sinc,new,target,money,best,like,becom,bag,readi
+iter3_cv_split1,updat,new,bag,patienc,break,money,start,best,amp,soon
+iter3_cv_split2,updat,market,breakout,like,money,use,becom,total,cap,market cap
+iter3_cv_split3,updat,market,amp,bag,best,scenario,chart,new,start,becom
+iter3_cv_split4,updat,amp,target,breakout,start,chart,like,mani,don,best
+iter3_cv_split5,updat,start,sinc,target,realli,purpl,marketcap,updat breakout,great,launch
+iter4_cv_split1,updat,new,target,bag,money,break,like,becom,best,start
+iter4_cv_split2,updat,scenario,amp,like,start,use,today,anoth,updat breakout,becom
+iter4_cv_split3,updat,use,amp,soon,becom,best,project,new,usd,don
+iter4_cv_split4,updat,market,breakout,bag,start,sinc,chart,total,cap,market cap
+iter4_cv_split5,updat,market,amp,like,money,start,readi,target,usd,best
+iter5_cv_split1,updat,updat breakout,breakout,coin,bag,money,anoth,use,gt,break
+iter5_cv_split2,updat,amp,break,new,scenario,money,bag,like,mani,best
+iter5_cv_split3,updat,start,market,new,amp,readi,target,becom,cap,market cap
+iter5_cv_split4,updat,start,scenario,target,best,becom,anoth,new,amp,usd
+iter5_cv_split5,updat,market,resist,great,money,best,amp,target,use,month
+iter6_cv_split1,updat,market,best,total,cap,market cap,target,bag,amp,becom
+iter6_cv_split2,updat,start,target,usd,money,use,like,becom,today,bag
+iter6_cv_split3,updat,market,amp,chart,best,money,scenario,start,target,use
+iter6_cv_split4,updat,amp,new,start,break,check,money,use,target,anoth
+iter6_cv_split5,updat,new,amp,like,scenario,start,wait,updat hit,hit,bag
+iter7_cv_split1,market,updat,new,amp,sinc,total,market cap,cap,best,bag
+iter7_cv_split2,updat,amp,start,money,usd,target,updat breakout,becom,interest,use
+iter7_cv_split3,updat,start,money,scenario,like,target,best,break,new,becom
+iter7_cv_split4,updat,chart,amp,start,mani,bag,new,roadmap,like,great
+iter7_cv_split5,updat,market,amp,patienc,market cap,cap,target,best,money,break
+iter8_cv_split1,updat,market,new,updat breakout,use,cap,market cap,best,money,anoth
+iter8_cv_split2,updat,bag,start,like,sinc,target,new,usd,money,don
+iter8_cv_split3,updat,market,amp,new,best,money,target,like,updat breakout,don
+iter8_cv_split4,updat,amp,target,start,readi,bag,wait,becom,updat hit,project
+iter8_cv_split5,updat,chart,scenario,break,like,coin,interest,money,best,new
+iter9_cv_split1,amp,updat,start,bag,new,break,updat breakout,best,target,money
+iter9_cv_split2,updat,target,break,readi,start,scenario,use,sinc,amp,like
+iter9_cv_split3,updat,amp,best,money,updat breakout,target,becom,use,usd,don
+iter9_cv_split4,market,updat,like,money,scenario,target,usd,anoth,best,cap
+iter9_cv_split5,updat,new,bag,money,gt,updat breakout,like,becom,realli,doesn
+iter10_cv_split1,updat,market,scenario,chart,like,break,becom,launch,money,use
+iter10_cv_split2,updat,new,best,money,like,target,becom,start,don,amp
+iter10_cv_split3,updat,market,amp,new,best,scenario,updat breakout,mani,bag,target
+iter10_cv_split4,updat,market,bag,new,roadmap,start,sinc,total,anoth,break
+iter10_cv_split5,updat,start,amp,usd,money,today,target,anoth,updat hit,bag
+iter11_cv_split1,updat,market,start,amp,bag,target,money,new,great,best
+iter11_cv_split2,updat,amp,new,breakout,updat breakout,continu,chart,target,money,becom
+iter11_cv_split3,updat,market,target,break,best,like,new,start,cap,market cap
+iter11_cv_split4,updat,amp,scenario,bag,money,boom,readi,today,start,becom
+iter11_cv_split5,updat,break,updat breakout,use,becom,start,bag,target,accumul,best
+iter12_cv_split1,updat,break,target,like,breakout,best,updat breakout,mani,anoth,start
+iter12_cv_split2,updat,start,new,amp,bag,target,scenario,sinc,money,mani
+iter12_cv_split3,updat,chart,market,amp,resist,start,today,target,sinc,money
+iter12_cv_split4,updat,amp,breakout,scenario,readi,hit,target,money,gt,bag
+iter12_cv_split5,updat,readi,new,start,money,market,amp,becom,best,bag
+iter13_cv_split1,updat,amp,start,market,bag,use,new,break,readi,project
+iter13_cv_split2,updat,amp,new,money,soon,becom,best,bag,use,purpl
+iter13_cv_split3,updat,breakout,updat breakout,best,break,target,new,anoth,gt,becom
+iter13_cv_split4,updat,market,new,scenario,cap,market cap,start,mani,don,updat breakout
+iter13_cv_split5,updat,amp,target,bag,usd,like,sinc,readi,start,updat breakout
+iter14_cv_split1,updat,start,chart,best,money,like,amp,interest,sinc,roadmap
+iter14_cv_split2,market,break,updat,new,readi,money,becom,best,updat hit,amp
+iter14_cv_split3,updat,new,amp,target,bag,start,ath,updat breakout,patienc,wait
+iter14_cv_split4,updat,breakout,start,target,great,becom,use,sinc,bag,like
+iter14_cv_split5,updat,scenario,anoth,amp,today,break,coin,start,bag,becom
+iter15_cv_split1,updat,new,today,anoth,scenario,sinc,start,amp,updat breakout,like
+iter15_cv_split2,updat,start,amp,bag,breakout,like,money,becom,new,best
+iter15_cv_split3,updat,market,scenario,break,target,money,best,coin,becom,start
+iter15_cv_split4,updat,amp,target,start,best,money,boom,readi,usd,use
+iter15_cv_split5,market,like,bag,new,best,updat,break,use,chart,amp
+iter16_cv_split1,updat,target,bag,money,start,best,break,readi,like,day
+iter16_cv_split2,updat,market,chart,new,resist,like,start,bag,money,today
+iter16_cv_split3,updat,amp,new,start,chart,target,continu,don,best,money
+iter16_cv_split4,updat,amp,breakout,sinc,bag,break,updat breakout,target,wait,launch
+iter16_cv_split5,updat,market,scenario,break,amp,best,start,use,total,like
+iter17_cv_split1,updat,breakout,new,like,bag,amp,best,money,start,use
+iter17_cv_split2,updat,start,readi,money,updat hit,target,like,hit,wait,anoth
+iter17_cv_split3,updat,scenario,target,amp,start,use,break,don,purpl,real
+iter17_cv_split4,updat,market,target,btc,becom,start,best,boom,amp,bag
+iter17_cv_split5,updat,amp,market,anoth,new,coin,money,best,updat breakout,like
+iter18_cv_split1,updat,new,anoth,great,start,break,bag,money,mani,like
+iter18_cv_split2,updat,market,target,chart,new,becom,best,amp,soon,break
+iter18_cv_split3,updat,market,continu,money,today,start,bag,amp,target,wait
+iter18_cv_split4,updat,amp,break,start,target,updat breakout,best,use,interest,doesn
+iter18_cv_split5,updat,amp,scenario,like,new,check,don,money,best,bag
+iter19_cv_split1,updat,chart,amp,target,updat breakout,becom,bag,usd,daili,money
+iter19_cv_split2,updat,like,market,readi,best,money,bag,coin,patienc,daili
+iter19_cv_split3,updat,amp,new,start,anoth,break,like,becom,best,use
+iter19_cv_split4,updat,amp,updat breakout,use,break,breakout,target,new,start,money
+iter19_cv_split5,updat,market,new,start,amp,like,target,money,total,bag
+iter20_cv_split1,updat,market,bag,new,use,market cap,cap,amp,start,total
+iter20_cv_split2,updat,start,chart,amp,like,scenario,break,money,becom,new
+iter20_cv_split3,updat,amp,target,hit,readi,marketcap,usd,money,best,anoth
+iter20_cv_split4,updat,breakout,amp,target,money,best,new,start,sinc,like
+iter20_cv_split5,updat,market,start,readi,like,mani,becom,bag,usd,today
+iter21_cv_split1,updat,market,amp,scenario,cap,market cap,break,money,use,hit
+iter21_cv_split2,updat,new,amp,best,start,breakout,check,scenario,money,updat breakout
+iter21_cv_split3,updat,market,bag,like,anoth,amp,usd,money,mani,chart
+iter21_cv_split4,updat,target,continu,start,becom,interest,amp,boom,readi,daili
+iter21_cv_split5,updat,break,new,target,start,money,sinc,like,becom,updat breakout
+iter22_cv_split1,updat,start,target,best,anoth,breakout,hit,new,becom,money
+iter22_cv_split2,updat,like,break,amp,start,money,bag,mani,best,project
+iter22_cv_split3,updat,market,start,market cap,cap,amp,updat breakout,best,bag,target
+iter22_cv_split4,updat,new,amp,bag,target,don,accumul,becom,best,break
+iter22_cv_split5,amp,new,chart,target,money,btc,don,sinc,use,start
+iter23_cv_split1,updat,break,market,roadmap,best,target,readi,anoth,amp,coin
+iter23_cv_split2,updat,start,amp,bag,chart,new,target,usd,today,don
+iter23_cv_split3,updat,new,target,bag,amp,breakout,readi,start,best,sinc
+iter23_cv_split4,updat,breakout,amp,scenario,new,updat breakout,money,like,target,bag
+iter23_cv_split5,updat,market,like,money,use,start,soon,becom,amp,daili
+iter24_cv_split1,updat,amp,anoth,target,start,sinc,bag,accumul,today,day
+iter24_cv_split2,updat,market,amp,start,money,target,best,break,bag,readi
+iter24_cv_split3,updat,market,target,start,use,chart,readi,amp,new,becom
+iter24_cv_split4,updat,bag,scenario,amp,best,sinc,break,new,money,becom
+iter24_cv_split5,updat,like,new,anoth,updat breakout,best,today,boom,target,amp
+iter25_cv_split1,updat,market,break,chart,like,start,target,anoth,amp,don
+iter25_cv_split2,amp,updat,breakout,bag,updat breakout,money,new,mani,becom,use
+iter25_cv_split3,updat,market,bag,soon,new,start,amp,target,becom,interest
+iter25_cv_split4,updat,start,money,best,sinc,coin,break,readi,updat breakout,target
+iter25_cv_split5,updat,amp,new,like,scenario,target,money,best,use,bag
+iter26_cv_split1,updat,market,start,new,amp,cap,market cap,readi,target,money
+iter26_cv_split2,updat,chart,amp,target,becom,break,updat breakout,updat hit,bag,like
+iter26_cv_split3,updat,break,bag,amp,scenario,new,like,start,use,becom
+iter26_cv_split4,market,like,scenario,anoth,readi,usd,start,interest,money,best
+iter26_cv_split5,updat,soon,new,best,money,amp,bag,start,target,becom
+iter27_cv_split1,updat,new,updat breakout,breakout,scenario,market,ath,bag,becom,best
+iter27_cv_split2,updat,chart,market,like,bag,amp,start,money,best,updat look
+iter27_cv_split3,updat,like,target,coin,money,best,break,usd,start,sinc
+iter27_cv_split4,updat,amp,start,roadmap,target,use,bag,wait,daili,becom
+iter27_cv_split5,updat,soon,start,target,anoth,best,money,use,new,becom
+iter28_cv_split1,updat,scenario,new,start,anoth,chart,like,best,use,sinc
+iter28_cv_split2,updat,market,new,start,money,updat breakout,great,bag,readi,usd
+iter28_cv_split3,updat,amp,best,break,updat breakout,money,bag,roadmap,don,use
+iter28_cv_split4,updat,market,like,bag,target,amp,new,start,break,patienc
+iter28_cv_split5,updat,amp,target,new,start,money,continu,best,readi,bag
+iter29_cv_split1,updat,money,target,readi,amp,new,interest,best,chart,wait
+iter29_cv_split2,updat,start,amp,new,scenario,sinc,like,becom,don,updat breakout
+iter29_cv_split3,market,bag,break,market cap,cap,like,updat,new,total,continu
+iter29_cv_split4,resist,updat,amp,today,chart,target,anoth,money,sinc,usd
+iter29_cv_split5,updat,amp,target,like,start,bag,use,breakout,roadmap,anoth
+iter30_cv_split1,updat,scenario,money,amp,mani,target,best,need,sinc,new
+iter30_cv_split2,updat,market,amp,start,bag,new,total,like,anoth,becom
+iter30_cv_split3,updat,market,break,readi,don,use,purpl,best,chart,bag
+iter30_cv_split4,start,updat,amp,break,bag,target,readi,new,money,best
+iter30_cv_split5,updat,new,like,money,usd,wait,target,breakout,coin,amp
+iter31_cv_split1,updat,readi,money,best,target,start,becom,amp,break,bag
+iter31_cv_split2,updat,amp,start,wait,anoth,target,scenario,great,use,usd
+iter31_cv_split3,market,new,updat,target,bag,like,amp,best,daili,becom
+iter31_cv_split4,updat,breakout,amp,anoth,best,new,bag,scenario,target,becom
+iter31_cv_split5,updat,start,sinc,money,use,mani,don,usd,becom,best
+iter32_cv_split1,updat,market,breakout,start,readi,new,amp,target,becom,usd
+iter32_cv_split2,updat,money,best,break,anoth,updat breakout,purpl,quick,boom,like
+iter32_cv_split3,updat,amp,new,use,great,bag,usd,mani,becom,best
+iter32_cv_split4,updat,market,start,accumul,amp,don,money,best,break,sinc
+iter32_cv_split5,updat,bag,like,target,scenario,chart,new,money,anoth,usd
+iter33_cv_split1,updat,new,market,scenario,start,target,best,updat breakout,ath,amp
+iter33_cv_split2,updat,amp,bag,target,start,best,break,readi,becom,daili
+iter33_cv_split3,updat,amp,start,use,chart,money,breakout,like,mani,sinc
+iter33_cv_split4,updat,market,start,break,market cap,cap,money,best,great,use
+iter33_cv_split5,updat,don,like,scenario,target,new,amp,becom,break,updat breakout
+iter34_cv_split1,updat,start,money,best,sinc,soon,readi,becom,target,anoth
+iter34_cv_split2,updat,amp,resist,readi,breakout,best,bag,like,start,becom
+iter34_cv_split3,updat,market,scenario,money,updat breakout,breakout,best,use,amp,usd
+iter34_cv_split4,updat,start,amp,target,like,money,use,break,bag,mani
+iter34_cv_split5,updat,new,market,amp,bag,start,break,chart,target,today
+iter35_cv_split1,updat,market,amp,breakout,scenario,target,start,becom,money,usd
+iter35_cv_split2,updat,market,like,break,anoth,total,use,amp,new,best
+iter35_cv_split3,updat,start,break,amp,becom,use,bag,breakout,readi,like
+iter35_cv_split4,amp,start,bag,best,new,mani,project,target,money,break
+iter35_cv_split5,updat,new,chart,target,money,bag,great,sinc,becom,usd
+iter36_cv_split1,updat,bag,updat breakout,break,new,breakout,start,money,best,amp
+iter36_cv_split2,updat,market,new,becom,best,great,like,wait,money,interest
+iter36_cv_split3,updat,amp,coin,don,sinc,money,readi,break,anoth,best
+iter36_cv_split4,updat,like,scenario,amp,target,chart,money,becom,best,new
+iter36_cv_split5,updat,market,start,target,bag,use,anoth,cap,market cap,boom
+iter37_cv_split1,updat,market,amp,updat breakout,start,use,sinc,break,wait,becom
+iter37_cv_split2,updat,new,amp,target,bag,like,updat breakout,breakout,readi,start
+iter37_cv_split3,updat,scenario,like,breakout,use,best,readi,start,chart,project
+iter37_cv_split4,updat,market,break,amp,new,money,start,bag,today,becom
+iter37_cv_split5,updat,start,money,target,hit,mani,gt,best,break,like
+iter38_cv_split1,updat,break,don,scenario,coin,bag,project,target,amp,use
+iter38_cv_split2,updat,market,target,like,updat breakout,new,market cap,cap,hit,chart
+iter38_cv_split3,updat,market,start,amp,new,use,best,anoth,doesn,becom
+iter38_cv_split4,updat,amp,bag,mani,best,money,start,new,scenario,wait
+iter38_cv_split5,updat,amp,bag,resist,best,start,target,becom,money,new
+iter39_cv_split1,updat,amp,resist,target,new,break,start,use,hit,bag
+iter39_cv_split2,updat,amp,target,use,like,money,patienc,start,bag,new
+iter39_cv_split3,updat,market,market cap,cap,bag,new,start,scenario,money,don
+iter39_cv_split4,updat,amp,best,start,money,boom,target,sinc,realli,updat boom
+iter39_cv_split5,updat,market,like,anoth,updat breakout,best,soon,readi,accumul,wait
+iter40_cv_split1,updat,amp,bag,scenario,target,chart,start,best,updat breakout,use
+iter40_cv_split2,updat,market,start,scenario,amp,readi,continu,like,becom,money
+iter40_cv_split3,updat,market,target,amp,new,break,bag,hit,like,best
+iter40_cv_split4,updat,start,breakout,money,new,amp,mani,great,usd,anoth
+iter40_cv_split5,updat,new,best,like,target,wait,mani,money,doesn,realli
+iter41_cv_split1,updat,amp,target,break,start,updat breakout,don,best,gt,use
+iter41_cv_split2,updat,amp,breakout,new,bag,don,money,scenario,target,becom
+iter41_cv_split3,updat,new,like,target,anoth,money,soon,readi,usd,wait
+iter41_cv_split4,updat,market,chart,use,new,like,start,best,becom,money
+iter41_cv_split5,updat,bag,amp,scenario,best,start,becom,money,anoth,new
+iter42_cv_split1,updat,money,great,amp,use,best,sinc,bag,new,target
+iter42_cv_split2,updat,new,break,market,don,readi,updat breakout,money,total,wait
+iter42_cv_split3,updat,market,start,scenario,target,amp,like,check,becom,best
+iter42_cv_split4,updat,amp,like,start,updat breakout,new,bag,anoth,continu,mani
+iter42_cv_split5,updat,start,target,bag,amp,best,use,becom,daili,chart
+iter43_cv_split1,updat,amp,breakout,great,bag,like,target,start,best,updat breakout
+iter43_cv_split2,updat,new,market,break,start,target,money,best,hit,use
+iter43_cv_split3,updat,scenario,new,readi,becom,mani,money,amp,chart,bag
+iter43_cv_split4,market,amp,start,new,readi,target,scenario,updat,use,cap
+iter43_cv_split5,updat,like,usd,money,today,chart,bag,becom,best,sinc
+iter44_cv_split1,updat,amp,new,like,market,start,use,break,target,sinc
+iter44_cv_split2,updat,scenario,breakout,coin,start,money,today,best,target,bag
+iter44_cv_split3,bag,amp,updat breakout,target,start,becom,use,updat,great,smart
+iter44_cv_split4,updat,readi,best,money,soon,like,becom,sinc,anoth,daili
+iter44_cv_split5,updat,amp,market,new,start,target,best,updat hit,break,cap
+iter45_cv_split1,updat,market,new,scenario,breakout,bag,cap,market cap,like,money
+iter45_cv_split2,updat,market,amp,target,break,like,interest,scenario,use,purpl
+iter45_cv_split3,updat,break,start,updat breakout,bag,target,money,best,mani,chart
+iter45_cv_split4,updat,start,anoth,today,amp,money,readi,like,onli,best
+iter45_cv_split5,updat,amp,new,best,resist,target,start,readi,becom,money
+iter46_cv_split1,updat,amp,start,money,accumul,sinc,usd,target,break,real
+iter46_cv_split2,updat,amp,target,like,breakout,soon,bag,new,don,start
+iter46_cv_split3,updat,like,chart,great,updat breakout,bag,best,sinc,becom,use
+iter46_cv_split4,start,new,target,readi,usd,use,updat,like,best,chart
+iter46_cv_split5,updat,market,scenario,break,new,best,money,bag,marketcap,target
+iter47_cv_split1,updat,chart,scenario,amp,new,money,best,anoth,bag,becom
+iter47_cv_split2,updat,market,new,break,bag,becom,start,interest,need,total
+iter47_cv_split3,updat,amp,target,breakout,updat breakout,start,great,best,use,new
+iter47_cv_split4,updat,like,amp,start,money,updat breakout,best,use,sinc,target
+iter47_cv_split5,updat,money,start,market cap,cap,break,readi,wait,hit,updat hit
+iter48_cv_split1,updat,bag,start,target,new,readi,money,best,anoth,hit
+iter48_cv_split2,updat,market,amp,start,new,money,scenario,bag,like,best
+iter48_cv_split3,updat,market,break,cap,market cap,new,like,money,best,sinc
+iter48_cv_split4,updat,amp,scenario,break,becom,use,target,purpl,best,realli
+iter48_cv_split5,updat,amp,breakout,target,bag,start,becom,new,use,need
+iter49_cv_split1,updat,market,bag,amp,start,new,best,money,hit,market cap
+iter49_cv_split2,updat,market,new,anoth,like,break,bag,soon,amp,target
+iter49_cv_split3,updat,start,break,like,target,money,best,chart,soon,usd
+iter49_cv_split4,updat,continu,scenario,amp,new,becom,like,target,readi,roadmap
+iter49_cv_split5,updat,updat breakout,amp,scenario,start,money,bag,target,check,becom
+iter50_cv_split1,updat,new,readi,start,patienc,target,sinc,like,best,amp
+iter50_cv_split2,updat,market,scenario,bag,becom,money,use,breakout,readi,target
+iter50_cv_split3,amp,updat,continu,money,gt,mani,best,project,bag,target
+iter50_cv_split4,updat,break,market,updat breakout,amp,usd,target,start,becom,best
+iter50_cv_split5,updat,new,start,breakout,bag,money,soon,best,need,updat breakout
+iter51_cv_split1,updat,break,becom,best,money,updat hit,new,bag,hit,month
+iter51_cv_split2,updat,market,amp,start,readi,target,use,break,new,anoth
+iter51_cv_split3,updat,continu,new,amp,updat breakout,today,start,like,anoth,becom
+iter51_cv_split4,updat,target,start,amp,bag,chart,money,best,readi,sinc
+iter51_cv_split5,updat,market,scenario,updat breakout,like,cap,market cap,amp,target,money
+iter52_cv_split1,updat,like,amp,usd,scenario,chart,new,money,best,bag
+iter52_cv_split2,updat,use,new,amp,readi,bag,continu,target,wait,boom
+iter52_cv_split3,updat,market,start,break,amp,new,sinc,target,becom,updat hit
+iter52_cv_split4,updat,market,updat breakout,money,amp,becom,best,bag,breakout,break
+iter52_cv_split5,start,target,best,money,updat,amp,bag,new,sinc,interest
+iter53_cv_split1,updat,new,start,money,chart,breakout,like,usd,interest,anoth
+iter53_cv_split2,updat,breakout,market,scenario,chart,best,break,wait,amp,readi
+iter53_cv_split3,updat,amp,market,bag,target,money,break,like,start,becom
+iter53_cv_split4,updat,amp,updat breakout,target,best,updat look,new,roadmap,becom,use
+iter53_cv_split5,updat,start,new,target,money,soon,amp,like,becom,daili
+iter54_cv_split1,updat,amp,becom,money,best,usd,target,anoth,updat look,purpl
+iter54_cv_split2,updat,amp,market,use,best,new,bag,readi,target,becom
+iter54_cv_split3,updat,like,start,scenario,interest,target,break,project,new,anoth
+iter54_cv_split4,updat,market,breakout,amp,updat breakout,start,new,mani,money,cap
+iter54_cv_split5,updat,new,bag,target,like,amp,scenario,chart,best,money
+iter55_cv_split1,updat,amp,sinc,target,money,new,best,start,purpl,real
+iter55_cv_split2,updat,bag,new,start,amp,money,updat breakout,break,like,best
+iter55_cv_split3,updat,money,readi,becom,don,boom,bag,usd,like,mani
+iter55_cv_split4,updat,start,break,market,bag,target,scenario,use,updat breakout,new
+iter55_cv_split5,updat,market,amp,target,like,start,new,anoth,best,hit
+iter56_cv_split1,updat,resist,amp,break,bag,breakout,target,best,money,boom
+iter56_cv_split2,updat,new,like,target,money,interest,start,anoth,patienc,amp
+iter56_cv_split3,updat,market,amp,new,best,becom,cap,market cap,target,daili
+iter56_cv_split4,updat,start,scenario,chart,like,target,mani,sinc,updat breakout,use
+iter56_cv_split5,market,breakout,bag,updat,readi,scenario,start,money,updat breakout,new
+iter57_cv_split1,updat,market,scenario,start,best,money,market cap,cap,target,becom
+iter57_cv_split2,updat,new,like,amp,break,bag,chart,wait,readi,daili
+iter57_cv_split3,updat,amp,bag,best,start,interest,don,new,target,anoth
+iter57_cv_split4,updat,breakout,start,market,use,new,becom,money,chart,boom
+iter57_cv_split5,updat,target,mani,start,updat breakout,sinc,money,best,purpl,real
+iter58_cv_split1,updat,amp,readi,scenario,money,becom,start,bag,new,like
+iter58_cv_split2,updat,amp,resist,start,new,target,updat breakout,best,becom,use
+iter58_cv_split3,updat,market,target,bag,new,great,start,best,market cap,cap
+iter58_cv_split4,updat,new,money,continu,start,anoth,roadmap,like,target,break
+iter58_cv_split5,updat,break,like,usd,anoth,best,sinc,bag,interest,money
+iter59_cv_split1,updat,like,market,readi,updat breakout,target,money,hit,sinc,new
+iter59_cv_split2,updat,amp,new,chart,great,target,usd,money,becom,best
+iter59_cv_split3,updat,amp,start,scenario,becom,best,use,breakout,launch,money
+iter59_cv_split4,updat,market,break,start,new,chart,money,bag,target,mani
+iter59_cv_split5,updat,don,scenario,sinc,bag,amp,best,new,target,realli
+iter60_cv_split1,updat,amp,market,target,new,bag,like,accumul,money,updat breakout
+iter60_cv_split2,updat,start,scenario,use,becom,anoth,break,money,boom,target
+iter60_cv_split3,updat,breakout,market,amp,total,bag,start,money,becom,best
+iter60_cv_split4,updat,new,readi,money,break,best,start,sinc,target,becom
+iter60_cv_split5,updat,amp,scenario,like,great,chart,start,best,anoth,bag
+iter61_cv_split1,updat,amp,break,new,start,bag,money,market,sinc,target
+iter61_cv_split2,updat,amp,target,chart,like,best,money,new,mani,interest
+iter61_cv_split3,updat,start,scenario,like,today,anoth,patienc,coin,wait,don
+iter61_cv_split4,updat,breakout,market,updat breakout,bag,readi,new,market cap,cap,wait
+iter61_cv_split5,updat,amp,best,bag,like,anoth,use,target,becom,money
+iter62_cv_split1,updat,bag,best,target,start,becom,usd,mani,readi,patienc
+iter62_cv_split2,updat,amp,scenario,start,roadmap,sinc,usd,new,target,becom
+iter62_cv_split3,updat,start,like,use,amp,money,best,great,anoth,wait
+iter62_cv_split4,updat,breakout,new,target,updat breakout,break,best,money,mani,readi
+iter62_cv_split5,updat,market,like,amp,bag,new,money,best,total,soon
+iter63_cv_split1,updat,market,scenario,like,start,best,money,don,use,accumul
+iter63_cv_split2,updat,today,new,best,use,target,becom,quick,doesn,sinc
+iter63_cv_split3,updat,chart,amp,like,target,new,updat breakout,usd,use,updat look
+iter63_cv_split4,updat,market,bag,amp,cap,market cap,start,new,scenario,money
+iter63_cv_split5,updat,new,amp,money,start,wait,becom,updat hit,bag,target
+iter64_cv_split1,updat,new,market,start,bag,like,money,updat breakout,use,target
+iter64_cv_split2,updat,new,start,target,best,anoth,usd,mani,breakout,becom
+iter64_cv_split3,updat,scenario,amp,break,target,money,best,sinc,new,bag
+iter64_cv_split4,updat,amp,target,bag,like,money,roadmap,hit,break,readi
+iter64_cv_split5,updat,market,breakout,readi,money,start,interest,best,marketcap,usd
+iter65_cv_split1,updat,break,scenario,amp,market,new,target,like,start,total
+iter65_cv_split2,amp,updat,usd,readi,like,money,start,use,mani,best
+iter65_cv_split3,updat,new,don,breakout,best,money,updat breakout,usd,target,real
+iter65_cv_split4,updat,start,market,money,becom,best,bag,chart,anoth,daili
+iter65_cv_split5,updat,amp,use,bag,money,like,new,target,sinc,purpl
+iter66_cv_split1,updat,market,cap,market cap,start,total,readi,money,best,target
+iter66_cv_split2,updat,amp,bag,scenario,chart,updat breakout,new,start,becom,today
+iter66_cv_split3,updat,like,target,great,anoth,coin,new,usd,money,start
+iter66_cv_split4,updat,bag,use,new,sinc,project,becom,best,start,amp
+iter66_cv_split5,updat,amp,break,new,breakout,start,continu,target,readi,updat breakout
+iter67_cv_split1,updat,like,scenario,bag,money,start,best,patienc,updat hit,boom
+iter67_cv_split2,updat,amp,market,start,break,bag,scenario,best,use,total
+iter67_cv_split3,updat,market,chart,break,new,target,like,anoth,becom,wait
+iter67_cv_split4,amp,updat,new,target,chart,readi,becom,money,best,gt
+iter67_cv_split5,updat,anoth,money,best,don,breakout,like,start,target,interest
+iter68_cv_split1,updat,market,start,amp,updat breakout,scenario,breakout,market cap,cap,check
+iter68_cv_split2,updat,start,new,money,bag,sinc,amp,becom,accumul,updat breakout
+iter68_cv_split3,amp,break,target,updat,like,best,readi,new,usd,roadmap
+iter68_cv_split4,updat,amp,new,start,money,bag,marketcap,launch,best,great
+iter68_cv_split5,updat,market,target,readi,best,scenario,like,usd,money,chart
+iter69_cv_split1,updat,target,updat breakout,new,start,best,great,breakout,money,becom
+iter69_cv_split2,updat,soon,new,anoth,start,scenario,bag,money,don,best
+iter69_cv_split3,updat,amp,like,readi,coin,target,bag,usd,start,new
+iter69_cv_split4,updat,market,like,start,break,money,use,total,cap,market cap
+iter69_cv_split5,amp,updat,market,scenario,becom,best,chart,onli,money,quick
+iter70_cv_split1,updat,new,bag,start,hit,target,amp,becom,best,money
+iter70_cv_split2,updat,market,break,amp,readi,money,anoth,becom,best,gt
+iter70_cv_split3,updat,new,target,like,best,coin,money,usd,bag,wait
+iter70_cv_split4,updat,use,start,target,sinc,usd,scenario,becom,best,game
+iter70_cv_split5,updat,amp,market,breakout,updat breakout,start,like,mani,target,interest
+iter71_cv_split1,updat,market,start,updat breakout,target,great,new,anoth,money,best
+iter71_cv_split2,updat,amp,like,scenario,start,updat breakout,use,breakout,becom,readi
+iter71_cv_split3,updat,amp,bag,target,new,becom,don,interest,sinc,patienc
+iter71_cv_split4,updat,break,new,start,money,best,bag,use,daili,breakout
+iter71_cv_split5,updat,chart,market,new,resist,best,readi,amp,continu,target
+iter72_cv_split1,updat,amp,new,scenario,market,bag,usd,best,start,today
+iter72_cv_split2,updat,market,bag,becom,money,best,new,quick,realli,break
+iter72_cv_split3,updat,target,interest,start,bag,amp,becom,scenario,money,purpl
+iter72_cv_split4,updat,like,amp,use,chart,start,money,best,updat hit,bag
+iter72_cv_split5,updat,breakout,break,amp,target,like,start,updat breakout,launch,best
+iter73_cv_split1,updat,like,amp,best,becom,money,sinc,target,onli,real
+iter73_cv_split2,updat,start,target,amp,updat breakout,great,break,new,purpl,best
+iter73_cv_split3,updat,amp,new,breakout,money,bag,mani,start,use,wait
+iter73_cv_split4,market,updat,readi,chart,target,break,usd,scenario,use,bag
+iter73_cv_split5,updat,market,bag,best,start,cap,market cap,project,becom,target
+iter74_cv_split1,updat,readi,money,best,becom,target,hit,like,daili,purpl
+iter74_cv_split2,updat,market,chart,target,start,amp,like,usd,readi,new
+iter74_cv_split3,updat,amp,breakout,target,scenario,start,new,bag,use,sinc
+iter74_cv_split4,updat,start,breakout,don,use,amp,bag,like,best,money
+iter74_cv_split5,updat,new,market,updat breakout,bag,amp,money,break,mani,use
+iter75_cv_split1,updat,amp,target,updat breakout,chart,anoth,best,scenario,new,real
+iter75_cv_split2,updat,new,readi,start,scenario,money,target,becom,best,boom
+iter75_cv_split3,updat,market,breakout,start,break,like,new,money,amp,usd
+iter75_cv_split4,updat,market,target,start,today,becom,anoth,money,best,sinc
+iter75_cv_split5,updat,amp,bag,like,patienc,updat breakout,becom,best,hit,doesn
+iter76_cv_split1,updat,amp,start,new,readi,becom,don,usd,target,roadmap
+iter76_cv_split2,updat,scenario,sinc,break,bag,like,money,best,use,coin
+iter76_cv_split3,updat,market,new,target,amp,use,start,great,total,market cap
+iter76_cv_split4,updat,amp,scenario,chart,new,start,best,like,mani,readi
+iter76_cv_split5,updat,target,start,money,chart,breakout,like,amp,anoth,best
+iter77_cv_split1,updat,new,market,break,sinc,like,start,becom,money,wait
+iter77_cv_split2,updat,bag,new,start,use,target,amp,best,chart,quick
+iter77_cv_split3,updat,market,readi,like,market cap,cap,usd,target,amp,break
+iter77_cv_split4,updat,amp,target,start,money,best,roadmap,becom,mani,doesn
+iter77_cv_split5,updat,scenario,money,best,soon,target,start,launch,use,updat hit
+iter78_cv_split1,updat,market,amp,marketcap,readi,bag,breakout,becom,interest,money
+iter78_cv_split2,updat,start,market,target,bag,readi,best,sinc,money,scenario
+iter78_cv_split3,updat,scenario,break,amp,becom,check,money,best,use,new
+iter78_cv_split4,updat,new,anoth,amp,chart,like,use,becom,today,usd
+iter78_cv_split5,updat,like,target,amp,start,best,hit,break,bag,new
+iter79_cv_split1,updat,updat breakout,new,amp,breakout,best,money,sinc,bag,usd
+iter79_cv_split2,updat,target,like,new,don,break,readi,start,usd,today
+iter79_cv_split3,updat,start,scenario,chart,amp,target,readi,like,becom,money
+iter79_cv_split4,updat,amp,market,best,money,use,new,bag,becom,btc
+iter79_cv_split5,updat,market,anoth,break,start,new,interest,like,coin,usd
+iter80_cv_split1,updat,amp,market,start,break,bag,best,use,like,anoth
+iter80_cv_split2,updat,new,amp,breakout,start,break,today,target,continu,money
+iter80_cv_split3,updat,like,money,target,becom,scenario,best,don,amp,anoth
+iter80_cv_split4,updat,chart,target,start,soon,new,scenario,best,bag,readi
+iter80_cv_split5,updat,market,money,total,amp,start,use,boom,chart,readi
+iter81_cv_split1,updat,break,market,like,target,money,new,mani,don,start
+iter81_cv_split2,amp,updat,break,money,sinc,bag,becom,best,start,target
+iter81_cv_split3,updat,start,amp,becom,best,use,bag,great,wait,daili
+iter81_cv_split4,updat,readi,target,scenario,soon,best,updat breakout,money,use,becom
+iter81_cv_split5,updat,new,amp,anoth,like,start,marketcap,breakout,bag,target
+iter82_cv_split1,updat,start,usd,best,target,don,sinc,coin,new,readi
+iter82_cv_split2,market,updat,amp,break,like,new,money,use,total,market cap
+iter82_cv_split3,updat,market,scenario,break,like,target,updat breakout,anoth,interest,best
+iter82_cv_split4,updat,amp,resist,bag,start,new,money,becom,use,hit
+iter82_cv_split5,updat,amp,chart,breakout,target,scenario,start,money,bag,new
+iter83_cv_split1,updat,new,amp,scenario,bag,don,best,target,money,updat hit
+iter83_cv_split2,updat,amp,start,market,target,money,btc,use,hit,like
+iter83_cv_split3,updat,bag,readi,like,money,usd,coin,target,mani,becom
+iter83_cv_split4,updat,amp,like,new,best,sinc,becom,money,anoth,usd
+iter83_cv_split5,updat,start,market,break,bag,target,anoth,today,great,becom
+iter84_cv_split1,updat,break,target,start,best,amp,launch,bag,hit,like
+iter84_cv_split2,updat,continu,new,breakout,updat breakout,amp,becom,mani,bag,like
+iter84_cv_split3,updat,market,start,new,amp,breakout,target,money,best,today
+iter84_cv_split4,updat,start,amp,readi,best,like,money,realli,updat hit,real
+iter84_cv_split5,updat,scenario,market,sinc,bag,updat breakout,amp,total,new,becom
+iter85_cv_split1,updat,start,anoth,updat breakout,target,new,launch,use,like,amp
+iter85_cv_split2,updat,market,new,like,money,market cap,cap,bag,best,use
+iter85_cv_split3,updat,amp,break,chart,bag,project,don,target,becom,best
+iter85_cv_split4,amp,target,updat,breakout,start,best,money,patienc,bag,new
+iter85_cv_split5,updat,scenario,market,amp,usd,start,mani,money,anoth,new
+iter86_cv_split1,updat,break,start,readi,target,scenario,becom,don,bag,like
+iter86_cv_split2,updat,start,amp,like,money,use,target,best,new,anoth
+iter86_cv_split3,updat,bag,amp,market,sinc,new,today,anoth,boom,like
+iter86_cv_split4,updat,market,amp,updat breakout,best,scenario,new,target,becom,usd
+iter86_cv_split5,updat,amp,new,money,bag,becom,interest,best,mani,breakout
+iter87_cv_split1,updat,break,target,amp,start,sinc,updat hit,new,mani,great
+iter87_cv_split2,market,start,amp,scenario,target,new,updat,money,becom,bag
+iter87_cv_split3,updat,use,bag,readi,amp,start,best,like,target,market
+iter87_cv_split4,updat,amp,bag,money,best,accumul,updat breakout,like,use,becom
+iter87_cv_split5,updat,new,like,scenario,usd,chart,money,today,becom,daili
+iter88_cv_split1,updat,new,like,start,money,patienc,chart,amp,becom,bag
+iter88_cv_split2,updat,new,readi,market,bag,best,start,updat breakout,soon,money
+iter88_cv_split3,updat,continu,target,start,gt,come,boom,abov,amp,updat breakout
+iter88_cv_split4,updat,amp,start,becom,mani,best,like,bag,roadmap,wait
+iter88_cv_split5,updat,break,amp,scenario,use,money,breakout,target,sinc,new
+iter89_cv_split1,start,break,best,new,like,don,scenario,money,use,target
+iter89_cv_split2,updat,start,bag,amp,money,new,best,wait,use,like
+iter89_cv_split3,updat,market,scenario,anoth,amp,bag,start,market cap,cap,usd
+iter89_cv_split4,updat,new,amp,sinc,break,target,mani,best,money,accumul
+iter89_cv_split5,updat,market,updat breakout,breakout,chart,amp,target,total,readi,market cap
+iter90_cv_split1,updat,like,new,amp,don,money,readi,wait,great,use
+iter90_cv_split2,updat,start,market,scenario,updat breakout,chart,bag,like,btc,money
+iter90_cv_split3,updat,new,target,amp,becom,anoth,usd,best,interest,daili
+iter90_cv_split4,updat,start,new,money,amp,use,bag,like,becom,best
+iter90_cv_split5,updat,market,resist,amp,breakout,best,usd,cap,market cap,bag
+iter91_cv_split1,updat,market,amp,becom,target,best,gt,readi,bag,continu
+iter91_cv_split2,updat,new,break,bag,start,target,money,best,anoth,wait
+iter91_cv_split3,updat,like,amp,breakout,money,chart,new,start,mani,use
+iter91_cv_split4,updat,start,money,use,amp,becom,best,sinc,soon,usd
+iter91_cv_split5,updat,market,amp,start,new,updat breakout,scenario,coin,like,break
+iter92_cv_split1,updat,market,break,scenario,new,bag,money,cap,market cap,amp
+iter92_cv_split2,updat,bag,new,start,amp,money,target,best,use,usd
+iter92_cv_split3,updat,breakout,updat breakout,scenario,start,like,target,wait,becom,money
+iter92_cv_split4,updat,amp,readi,target,best,sinc,chart,new,like,becom
+iter92_cv_split5,updat,market,amp,like,continu,start,new,coin,target,great
+iter93_cv_split1,updat,breakout,amp,start,new,bag,scenario,mani,close,marketcap
+iter93_cv_split2,updat,market,target,break,amp,best,money,start,hit,like
+iter93_cv_split3,updat,breakout,money,break,updat breakout,amp,target,best,use,bag
+iter93_cv_split4,updat,new,best,break,money,target,like,bag,continu,start
+iter93_cv_split5,updat,like,chart,best,amp,new,becom,don,start,money
+iter94_cv_split1,updat,best,money,break,new,anoth,mani,daili,real,boom
+iter94_cv_split2,updat,amp,market,start,coin,like,best,break,becom,usd
+iter94_cv_split3,updat,market,readi,new,use,total,bag,market cap,cap,amp
+iter94_cv_split4,updat,target,money,new,wait,best,smart,bag,interest,continu
+iter94_cv_split5,updat,scenario,bag,like,amp,start,check,new,becom,target
+iter95_cv_split1,updat,breakout,market,scenario,sinc,updat breakout,readi,like,target,money
+iter95_cv_split2,updat,new,chart,best,money,start,bag,like,amp,use
+iter95_cv_split3,amp,updat,market,target,start,anoth,best,break,bag,like
+iter95_cv_split4,updat,new,amp,becom,boom,like,readi,bag,daili,real
+iter95_cv_split5,updat,start,money,great,use,new,mani,becom,scenario,check
+iter96_cv_split1,updat,breakout,new,target,amp,sinc,break,bag,best,updat breakout
+iter96_cv_split2,updat,scenario,new,amp,start,money,like,becom,wait,target
+iter96_cv_split3,updat,resist,amp,start,bag,money,best,roadmap,target,use
+iter96_cv_split4,market,updat,readi,break,total,market cap,cap,bag,new,like
+iter96_cv_split5,updat,start,market,anoth,money,use,soon,amp,gt,chart
+iter97_cv_split1,updat,amp,target,start,scenario,money,best,coin,like,accumul
+iter97_cv_split2,market,updat,break,new,becom,best,mani,total,cap,market cap
+iter97_cv_split3,updat,start,bag,updat breakout,scenario,money,becom,don,use,boom
+iter97_cv_split4,updat,breakout,market,amp,start,new,like,updat breakout,target,break
+iter97_cv_split5,updat,amp,like,money,best,sinc,bag,usd,new,great
+iter98_cv_split1,market,updat,amp,break,money,readi,bag,interest,use,best
+iter98_cv_split2,updat,bag,new,target,breakout,money,hit,roadmap,soon,like
+iter98_cv_split3,updat,start,sinc,amp,best,updat breakout,like,becom,new,use
+iter98_cv_split4,updat,breakout,scenario,updat breakout,start,amp,becom,best,money,like
+iter98_cv_split5,updat,amp,coin,target,bag,start,new,becom,launch,accumul
+iter99_cv_split1,updat,amp,break,new,roadmap,readi,becom,money,bag,use
+iter99_cv_split2,updat,market,start,like,new,target,amp,best,hit,bag
+iter99_cv_split3,updat,target,start,amp,best,new,continu,money,boom,break
+iter99_cv_split4,updat,market,amp,bag,scenario,start,becom,use,total,chart
+iter99_cv_split5,updat,updat breakout,best,money,readi,breakout,new,start,amp,chart
+iter100_cv_split1,updat,market,amp,money,start,becom,sinc,daili,best,doesn
+iter100_cv_split2,updat,amp,scenario,start,readi,target,break,breakout,purpl,real
+iter100_cv_split3,updat,like,new,chart,amp,money,bag,don,becom,usd
+iter100_cv_split4,updat,market,new,start,bag,anoth,target,like,becom,best
+iter100_cv_split5,updat,new,money,best,updat breakout,amp,use,readi,like,bag

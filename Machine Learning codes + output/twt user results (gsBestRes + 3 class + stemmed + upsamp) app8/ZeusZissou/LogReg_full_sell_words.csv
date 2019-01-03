@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,doe,valu,current,resist,price,lose,shitcoin,holder denial,mustread,mustread holder
+iter1_cv_split2,doe,sell,resist,transfer,lose,credit,scale,current,valu,mustread
+iter1_cv_split3,scale,peopl,lose,current,valu,price,doe,shitcoin,credit,play
+iter1_cv_split4,doe,sell,current,scale,valu,price,transfer,peopl,credit,play
+iter1_cv_split5,doe,sell,valu,scale,resist,transfer,current,peopl,credit,shitcoin
+iter2_cv_split1,doe,sell,resist,transfer,lose,credit,play,valu,scale,current
+iter2_cv_split2,doe,current,valu,resist,transfer,lose,price,shitcoin,credit,denial
+iter2_cv_split3,doe,sell,valu,scale,resist,peopl,current,shitcoin,play,mustread
+iter2_cv_split4,sell,scale,price,peopl,current,doe,credit,play,mustread holder,mustread
+iter2_cv_split5,sell,current,valu,doe,scale,transfer,lose,price,play,credit
+iter3_cv_split1,doe,current,valu,scale,resist,price,lose,credit,play,denial
+iter3_cv_split2,sell,valu,current,doe,scale,resist,price,transfer,lose,peopl
+iter3_cv_split3,doe,sell,resist,transfer,peopl,credit,shitcoin,denial,holder denial,mustread holder
+iter3_cv_split4,doe,valu,current,sell,resist,transfer,lose,price,play,coin
+iter3_cv_split5,sell,scale,current,doe,price,credit,peopl,shitcoin,play,mustread holder
+iter4_cv_split1,valu,current,doe,sell,transfer,lose,price,credit,scale,denial
+iter4_cv_split2,scale,current,price,shitcoin,credit,play,mustread,mustread holder,denial,holder denial
+iter4_cv_split3,doe,valu,current,scale,resist,transfer,peopl,shitcoin,sell,play
+iter4_cv_split4,doe,sell,scale,resist,transfer,lose,peopl,credit,play,valu
+iter4_cv_split5,doe,sell,valu,current,resist,lose,price,credit,peopl,shitcoin
+iter5_cv_split1,sell,scale,price,current,doe,peopl,play,holder denial,denial,mustread
+iter5_cv_split2,doe,valu,current,resist,transfer,price,lose,shitcoin,credit,holder denial
+iter5_cv_split3,doe,sell,scale,resist,lose,credit,shitcoin,peopl,valu,play
+iter5_cv_split4,sell,valu,current,doe,scale,resist,transfer,lose,price,credit
+iter5_cv_split5,doe,valu,current,sell,transfer,credit,play,scale,holder denial,mustread
+iter6_cv_split1,valu,sell,current,doe,scale,resist,peopl,credit,shitcoin,play
+iter6_cv_split2,doe,current,scale,valu,transfer,price,shitcoin,sell,play,denial
+iter6_cv_split3,doe,current,valu,sell,resist,transfer,price,lose,credit,scale
+iter6_cv_split4,doe,valu,current,lose,transfer,peopl,credit,shitcoin,price,mustread
+iter6_cv_split5,sell,resist,scale,lose,doe,peopl,credit,play,shitcoin,mustread holder
+iter7_cv_split1,valu,scale,resist,transfer,lose,doe,current,price,credit,shitcoin
+iter7_cv_split2,doe,sell,valu,current,scale,resist,price,lose,peopl,credit
+iter7_cv_split3,doe,current,scale,valu,transfer,peopl,credit,shitcoin,sell,play
+iter7_cv_split4,sell,resist,lose,current,price,valu,doe,play,scale,tri
+iter7_cv_split5,doe,sell,transfer,lose,credit,peopl,shitcoin,valu,current,mustread holder
+iter8_cv_split1,sell,valu,doe,scale,resist,price,transfer,lose,current,peopl
+iter8_cv_split2,sell,resist,current,valu,doe,credit,shitcoin,peopl,mustread holder,denial
+iter8_cv_split3,doe,current,scale,valu,transfer,price,credit,play,denial,mustread
+iter8_cv_split4,doe,valu,current,resist,sell,transfer,lose,price,credit,play
+iter8_cv_split5,doe,scale,resist,transfer,lose,peopl,shitcoin,credit,play,sell
+iter9_cv_split1,sell,scale,lose,price,valu,current,doe,shitcoin,peopl,credit
+iter9_cv_split2,doe,valu,current,resist,transfer,credit,play,scale,denial,mustread
+iter9_cv_split3,doe,sell,resist,transfer,lose,peopl,shitcoin,valu,current,tri
+iter9_cv_split4,doe,valu,scale,resist,transfer,lose,price,peopl,current,credit
+iter9_cv_split5,sell,current,doe,scale,valu,transfer,price,peopl,shitcoin,credit
+iter10_cv_split1,doe,sell,resist,lose,credit,scale,play,valu,mustread holder,mustread
+iter10_cv_split2,doe,current,valu,resist,transfer,lose,price,shitcoin,credit,holder denial
+iter10_cv_split3,sell,scale,current,peopl,shitcoin,doe,credit,mustread,mustread holder,denial
+iter10_cv_split4,sell,valu,current,doe,scale,transfer,lose,price,peopl,credit
+iter10_cv_split5,doe,sell,valu,scale,resist,transfer,lose,price,current,peopl
+iter11_cv_split1,sell,current,valu,doe,scale,resist,price,lose,play,peopl
+iter11_cv_split2,resist,scale,price,peopl,lose,valu,current,doe,shitcoin,credit
+iter11_cv_split3,doe,current,valu,sell,resist,transfer,credit,scale,mustread,mustread holder
+iter11_cv_split4,doe,current,valu,transfer,price,credit,shitcoin,mustread,holder denial,denial
+iter11_cv_split5,doe,sell,scale,transfer,lose,peopl,credit,valu,shitcoin,play
+iter12_cv_split1,sell,current,doe,credit,play,scale,holder denial,denial,mustread,mustread holder
+iter12_cv_split2,sell,valu,current,doe,resist,transfer,lose,shitcoin,peopl,price
+iter12_cv_split3,doe,scale,transfer,lose,credit,shitcoin,valu,mustread holder,mustread,denial
+iter12_cv_split4,doe,sell,valu,scale,resist,price,transfer,lose,current,peopl
+iter12_cv_split5,doe,current,valu,scale,resist,lose,peopl,price,play,shitcoin
+iter13_cv_split1,current,valu,doe,resist,transfer,price,lose,credit,mustread holder,holder denial
+iter13_cv_split2,doe,current,sell,valu,scale,resist,transfer,peopl,shitcoin,short financi
+iter13_cv_split3,doe,sell,scale,resist,transfer,lose,peopl,credit,play,mustread
+iter13_cv_split4,sell,scale,price,doe,current,credit,peopl,shitcoin,play,holder denial
+iter13_cv_split5,doe,valu,scale,resist,lose,current,credit,shitcoin,price,play
+iter14_cv_split1,sell,scale,price,lose,current,valu,doe,peopl,play,credit
+iter14_cv_split2,valu,current,doe,scale,resist,price,transfer,lose,peopl,sell
+iter14_cv_split3,doe,sell,resist,transfer,lose,credit,current,valu,holder denial,denial
+iter14_cv_split4,doe,sell,current,scale,valu,peopl,shitcoin,credit,play,denial
+iter14_cv_split5,doe,valu,scale,resist,transfer,lose,price,shitcoin,current,credit
+iter15_cv_split1,doe,valu,resist,transfer,lose,current,price,credit,scale,holder denial
+iter15_cv_split2,sell,scale,resist,lose,doe,play,credit,peopl,tri,bankrupt short
+iter15_cv_split3,doe,sell,current,valu,transfer,shitcoin,peopl,credit,mustread holder,holder denial
+iter15_cv_split4,sell,valu,current,doe,scale,resist,transfer,lose,price,peopl
+iter15_cv_split5,doe,valu,current,scale,resist,lose,price,credit,peopl,shitcoin
+iter16_cv_split1,doe,sell,resist,transfer,peopl,shitcoin,credit,current,mustread,mustread holder
+iter16_cv_split2,sell,scale,price,current,doe,credit,shitcoin,peopl,play,mustread holder
+iter16_cv_split3,valu,current,resist,transfer,doe,lose,price,credit,play,scale
+iter16_cv_split4,doe,current,valu,scale,transfer,price,lose,peopl,shitcoin,play
+iter16_cv_split5,doe,sell,valu,scale,resist,transfer,lose,peopl,price,play
+iter17_cv_split1,scale,resist,lose,peopl,doe,shitcoin,sell,tri,play,holder denial
+iter17_cv_split2,doe,current,sell,valu,transfer,credit,holder denial,denial,mustread,mustread holder
+iter17_cv_split3,doe,valu,scale,resist,price,current,lose,credit,play,shitcoin
+iter17_cv_split4,current,sell,valu,doe,scale,transfer,lose,peopl,price,credit
+iter17_cv_split5,doe,valu,current,sell,scale,resist,transfer,lose,price,credit
+iter18_cv_split1,doe,scale,resist,transfer,lose,peopl,shitcoin,sell,credit,play
+iter18_cv_split2,doe,sell,current,scale,valu,transfer,peopl,credit,tri,mustread
+iter18_cv_split3,sell,resist,price,lose,current,valu,doe,credit,holder denial,denial
+iter18_cv_split4,doe,valu,current,sell,scale,transfer,lose,price,peopl,play
+iter18_cv_split5,current,valu,scale,resist,transfer,lose,doe,price,credit,shitcoin
+iter19_cv_split1,doe,current,valu,resist,lose,credit,price,play,scale,mustread
+iter19_cv_split2,scale,lose,current,doe,price,peopl,valu,shitcoin,play,tri
+iter19_cv_split3,sell,current,doe,scale,valu,transfer,peopl,credit,shitcoin,play
+iter19_cv_split4,doe,sell,valu,scale,resist,transfer,lose,price,peopl,credit
+iter19_cv_split5,doe,sell,resist,transfer,lose,peopl,shitcoin,credit,current,valu
+iter20_cv_split1,doe,sell,scale,lose,transfer,credit,peopl,current,mustread,holder denial
+iter20_cv_split2,doe,valu,current,scale,resist,transfer,shitcoin,play,sell,mustread holder
+iter20_cv_split3,sell,current,peopl,price,doe,shitcoin,credit,mustread,mustread holder,holder denial
+iter20_cv_split4,valu,doe,resist,sell,transfer,price,lose,current,credit,scale
+iter20_cv_split5,doe,valu,current,scale,resist,transfer,lose,price,peopl,credit
+iter21_cv_split1,doe,resist,transfer,lose,credit,shitcoin,valu,holder denial,mustread,denial
+iter21_cv_split2,sell,current,doe,scale,valu,price,transfer,peopl,shitcoin,play
+iter21_cv_split3,resist,lose,doe,current,valu,price,credit,play,scale,mustread
+iter21_cv_split4,doe,sell,valu,scale,transfer,current,peopl,shitcoin,credit,play
+iter21_cv_split5,doe,current,sell,valu,scale,resist,transfer,lose,price,peopl
+iter22_cv_split1,sell,valu,doe,scale,resist,transfer,current,peopl,credit,play
+iter22_cv_split2,sell,resist,price,lose,valu,current,doe,shitcoin,credit,peopl
+iter22_cv_split3,doe,current,scale,valu,transfer,price,peopl,shitcoin,play,tri
+iter22_cv_split4,doe,sell,resist,lose,credit,valu,scale,play,current,mustread holder
+iter22_cv_split5,doe,current,valu,scale,transfer,lose,price,credit,play,sell
+iter23_cv_split1,doe,sell,scale,resist,credit,peopl,shitcoin,play,valu,current
+iter23_cv_split2,doe,current,valu,scale,price,transfer,lose,credit,play,shitcoin
+iter23_cv_split3,sell,valu,current,doe,resist,price,transfer,lose,shitcoin,peopl
+iter23_cv_split4,sell,scale,peopl,current,doe,price,credit,shitcoin,play,denial
+iter23_cv_split5,doe,valu,resist,sell,transfer,lose,price,current,credit,play
+iter24_cv_split1,doe,scale,valu,transfer,price,peopl,shitcoin,current,credit,sell
+iter24_cv_split2,doe,valu,current,scale,resist,price,transfer,lose,credit,play
+iter24_cv_split3,sell,scale,resist,lose,peopl,credit,play,shitcoin,mustread,mustread holder
+iter24_cv_split4,doe,current,valu,sell,scale,lose,price,peopl,shitcoin,play
+iter24_cv_split5,doe,valu,current,sell,resist,transfer,credit,mustread,mustread holder,denial
+iter25_cv_split1,doe,sell,scale,resist,lose,peopl,current,play,mustread,denial
+iter25_cv_split2,doe,sell,valu,resist,transfer,price,lose,current,peopl,shitcoin
+iter25_cv_split3,doe,current,valu,scale,transfer,lose,price,shitcoin,credit,holder denial
+iter25_cv_split4,current,doe,sell,valu,transfer,price,credit,play,scale,holder denial
+iter25_cv_split5,sell,scale,resist,peopl,valu,current,doe,credit,shitcoin,play
+iter26_cv_split1,doe,valu,current,resist,transfer,price,lose,play,credit,scale
+iter26_cv_split2,sell,scale,price,lose,current,valu,peopl,shitcoin,credit,play
+iter26_cv_split3,doe,sell,scale,resist,transfer,peopl,shitcoin,play,mustread holder,mustread
+iter26_cv_split4,doe,sell,current,scale,valu,transfer,price,credit,shitcoin,peopl
+iter26_cv_split5,doe,sell,valu,resist,transfer,lose,current,peopl,price,credit
+iter27_cv_split1,sell,scale,resist,peopl,valu,doe,play,credit,shitcoin,denial
+iter27_cv_split2,doe,current,valu,transfer,price,credit,play,mustread holder,holder denial,denial
+iter27_cv_split3,doe,scale,transfer,lose,peopl,shitcoin,play,valu,current,sell
+iter27_cv_split4,doe,sell,valu,current,resist,transfer,lose,price,peopl,shitcoin
+iter27_cv_split5,current,sell,valu,doe,scale,resist,transfer,price,lose,credit
+iter28_cv_split1,doe,sell,lose,transfer,credit,play,scale,valu,current,mustread
+iter28_cv_split2,doe,valu,resist,transfer,price,lose,shitcoin,credit,current,sell
+iter28_cv_split3,doe,current,valu,scale,resist,price,lose,peopl,credit,play
+iter28_cv_split4,sell,scale,resist,valu,current,doe,credit,shitcoin,peopl,mustread holder
+iter28_cv_split5,sell,current,doe,scale,valu,transfer,price,peopl,shitcoin,play
+iter29_cv_split1,doe,valu,current,sell,price,transfer,lose,play,credit,scale
+iter29_cv_split2,doe,scale,valu,transfer,price,current,credit,shitcoin,play,sell
+iter29_cv_split3,doe,current,valu,scale,resist,transfer,peopl,shitcoin,sell,denial
+iter29_cv_split4,doe,sell,resist,transfer,lose,shitcoin,credit,peopl,valu,mustread
+iter29_cv_split5,sell,scale,resist,peopl,lose,valu,price,current,credit,shitcoin
+iter30_cv_split1,doe,valu,scale,resist,transfer,price,lose,credit,shitcoin,current
+iter30_cv_split2,doe,sell,current,scale,valu,transfer,credit,peopl,shitcoin,tri
+iter30_cv_split3,sell,scale,lose,current,doe,price,valu,peopl,credit,play
+iter30_cv_split4,valu,current,doe,sell,resist,transfer,lose,price,credit,play
+iter30_cv_split5,doe,sell,resist,transfer,lose,peopl,shitcoin,valu,denial,mustread
+iter31_cv_split1,sell,resist,lose,doe,credit,scale,play,mustread,mustread holder,denial
+iter31_cv_split2,doe,sell,current,scale,valu,shitcoin,credit,peopl,denial,holder denial
+iter31_cv_split3,doe,current,valu,resist,transfer,lose,price,shitcoin,mustread holder,holder denial
+iter31_cv_split4,doe,sell,current,valu,scale,price,transfer,lose,peopl,play
+iter31_cv_split5,sell,valu,doe,scale,resist,transfer,price,lose,peopl,current
+iter32_cv_split1,sell,price,lose,valu,current,doe,credit,play,scale,mustread
+iter32_cv_split2,doe,scale,resist,transfer,lose,play,valu,current,mustread,mustread holder
+iter32_cv_split3,current,valu,doe,scale,resist,transfer,peopl,credit,shitcoin,sell
+iter32_cv_split4,doe,sell,valu,scale,resist,transfer,lose,peopl,price,current
+iter32_cv_split5,doe,sell,current,valu,transfer,price,peopl,shitcoin,credit,holder denial
+iter33_cv_split1,doe,current,valu,resist,transfer,lose,price,peopl,shitcoin,credit
+iter33_cv_split2,sell,valu,current,doe,scale,resist,transfer,peopl,lose,price
+iter33_cv_split3,doe,valu,current,resist,price,lose,credit,scale,holder denial,denial
+iter33_cv_split4,doe,sell,scale,valu,transfer,price,peopl,credit,shitcoin,current
+iter33_cv_split5,sell,resist,scale,doe,credit,shitcoin,peopl,play,holder denial,denial
+iter34_cv_split1,current,valu,sell,doe,scale,transfer,lose,price,peopl,credit
+iter34_cv_split2,doe,valu,current,scale,resist,transfer,credit,sell,holder denial,mustread holder
+iter34_cv_split3,sell,scale,price,doe,peopl,credit,shitcoin,play,holder denial,mustread
+iter34_cv_split4,doe,valu,current,resist,lose,price,shitcoin,peopl,credit,sell
+iter34_cv_split5,doe,sell,resist,transfer,lose,play,scale,valu,holder denial,mustread
+iter35_cv_split1,doe,current,valu,sell,resist,transfer,lose,price,play,credit
+iter35_cv_split2,sell,scale,resist,valu,current,doe,credit,peopl,shitcoin,play
+iter35_cv_split3,doe,sell,valu,scale,transfer,peopl,lose,price,current,shitcoin
+iter35_cv_split4,doe,scale,resist,transfer,lose,credit,peopl,shitcoin,play,current
+iter35_cv_split5,doe,current,valu,transfer,price,shitcoin,credit,mustread,mustread holder,denial
+iter36_cv_split1,doe,valu,current,resist,sell,transfer,credit,play,tri,scale
+iter36_cv_split2,doe,scale,transfer,lose,current,shitcoin,play,valu,denial,holder denial
+iter36_cv_split3,sell,current,valu,doe,resist,price,lose,peopl,shitcoin,credit
+iter36_cv_split4,sell,scale,doe,price,peopl,current,credit,shitcoin,play,tri
+iter36_cv_split5,doe,valu,scale,resist,transfer,price,lose,peopl,credit,shitcoin
+iter37_cv_split1,doe,current,valu,sell,resist,price,lose,credit,bankrupt short,crisi
+iter37_cv_split2,doe,valu,current,scale,resist,transfer,lose,peopl,price,shitcoin
+iter37_cv_split3,sell,scale,doe,credit,shitcoin,peopl,play,tri,mustread holder,mustread
+iter37_cv_split4,doe,current,valu,scale,resist,transfer,credit,play,sell,mustread
+iter37_cv_split5,valu,sell,doe,scale,resist,transfer,peopl,price,lose,current
+iter38_cv_split1,doe,scale,resist,transfer,lose,peopl,credit,current,sell,valu
+iter38_cv_split2,sell,scale,resist,price,lose,valu,peopl,doe,credit,shitcoin
+iter38_cv_split3,doe,current,sell,valu,transfer,price,mustread,denial,holder denial,mustread holder
+iter38_cv_split4,valu,current,scale,transfer,lose,doe,shitcoin,price,credit,play
+iter38_cv_split5,doe,sell,valu,current,scale,resist,transfer,credit,play,peopl
+iter39_cv_split1,sell,scale,lose,price,valu,current,peopl,doe,shitcoin,credit
+iter39_cv_split2,doe,current,sell,scale,valu,price,peopl,shitcoin,denial,holder denial
+iter39_cv_split3,doe,valu,current,resist,transfer,credit,mustread holder,denial,holder denial,mustread
+iter39_cv_split4,doe,scale,resist,transfer,lose,credit,valu,play,current,sell
+iter39_cv_split5,valu,sell,doe,scale,resist,transfer,price,current,lose,peopl
+iter40_cv_split1,doe,valu,current,scale,resist,transfer,lose,price,credit,mustread holder
+iter40_cv_split2,sell,scale,price,current,peopl,doe,shitcoin,credit,play,denial
+iter40_cv_split3,sell,doe,scale,resist,transfer,lose,peopl,credit,shitcoin,play
+iter40_cv_split4,doe,sell,valu,resist,transfer,current,shitcoin,peopl,credit,holder denial
+iter40_cv_split5,doe,current,valu,sell,resist,lose,price,play,scale,mustread holder
+iter41_cv_split1,doe,sell,current,valu,price,transfer,shitcoin,peopl,credit,tri
+iter41_cv_split2,doe,sell,current,valu,scale,resist,price,lose,credit,peopl
+iter41_cv_split3,sell,scale,resist,credit,peopl,shitcoin,play,denial,holder denial,mustread holder
+iter41_cv_split4,doe,valu,resist,transfer,price,lose,current,credit,scale,play
+iter41_cv_split5,doe,valu,current,scale,resist,transfer,lose,price,play,sell
+iter42_cv_split1,doe,sell,transfer,credit,play,current,scale,denial,holder denial,mustread holder
+iter42_cv_split2,doe,valu,scale,transfer,price,lose,current,credit,play,mustread holder
+iter42_cv_split3,doe,valu,current,scale,resist,price,lose,sell,peopl,credit
+iter42_cv_split4,sell,resist,current,valu,doe,peopl,credit,shitcoin,mustread,holder denial
+iter42_cv_split5,doe,sell,valu,current,scale,resist,transfer,lose,price,play
+iter43_cv_split1,doe,scale,resist,transfer,credit,current,play,valu,mustread holder,mustread
+iter43_cv_split2,doe,sell,valu,resist,transfer,price,peopl,lose,shitcoin,current
+iter43_cv_split3,scale,resist,price,current,lose,valu,doe,peopl,credit,shitcoin
+iter43_cv_split4,doe,sell,current,scale,price,valu,transfer,play,peopl,shitcoin
+iter43_cv_split5,valu,current,doe,sell,resist,transfer,lose,price,credit,scale
+iter44_cv_split1,doe,scale,resist,transfer,credit,play,sell,valu,mustread holder,mustread
+iter44_cv_split2,sell,resist,lose,doe,price,current,valu,credit,tri,bankrupt
+iter44_cv_split3,sell,valu,doe,scale,transfer,current,price,lose,peopl,shitcoin
+iter44_cv_split4,doe,sell,current,scale,valu,price,peopl,credit,shitcoin,holder denial
+iter44_cv_split5,doe,valu,current,scale,resist,transfer,lose,price,peopl,play
+iter45_cv_split1,doe,current,scale,valu,price,transfer,shitcoin,play,mustread,mustread holder
+iter45_cv_split2,doe,sell,valu,scale,resist,current,peopl,credit,shitcoin,play
+iter45_cv_split3,sell,resist,lose,valu,doe,current,price,credit,scale,tri
+iter45_cv_split4,doe,sell,scale,resist,transfer,lose,credit,peopl,play,current
+iter45_cv_split5,valu,current,doe,resist,transfer,peopl,lose,price,credit,shitcoin
+iter46_cv_split1,doe,sell,current,valu,transfer,price,peopl,credit,shitcoin,holder denial
+iter46_cv_split2,sell,scale,resist,price,peopl,lose,valu,doe,shitcoin,credit
+iter46_cv_split3,doe,valu,sell,current,scale,transfer,play,credit,peopl,short financi
+iter46_cv_split4,valu,current,doe,sell,resist,transfer,price,lose,play,tri
+iter46_cv_split5,doe,scale,resist,transfer,lose,credit,shitcoin,current,play,valu
+iter47_cv_split1,doe,valu,current,lose,transfer,price,credit,play,scale,mustread holder
+iter47_cv_split2,doe,sell,valu,resist,transfer,price,lose,peopl,current,shitcoin
+iter47_cv_split3,doe,sell,valu,current,scale,resist,transfer,credit,peopl,mustread
+iter47_cv_split4,doe,sell,scale,transfer,credit,shitcoin,play,peopl,current,tri
+iter47_cv_split5,sell,scale,resist,price,lose,peopl,current,valu,credit,shitcoin
+iter48_cv_split1,doe,valu,current,scale,resist,price,transfer,lose,peopl,play
+iter48_cv_split2,doe,valu,transfer,current,shitcoin,price,credit,mustread,mustread holder,holder denial
+iter48_cv_split3,sell,scale,resist,price,lose,peopl,valu,current,doe,shitcoin
+iter48_cv_split4,doe,valu,current,sell,lose,transfer,price,credit,scale,holder denial
+iter48_cv_split5,sell,doe,scale,resist,transfer,credit,play,shitcoin,current,peopl
+iter49_cv_split1,doe,valu,current,scale,transfer,price,lose,peopl,play,credit
+iter49_cv_split2,doe,valu,resist,sell,transfer,lose,price,current,credit,scale
+iter49_cv_split3,doe,sell,scale,resist,credit,shitcoin,peopl,play,valu,denial
+iter49_cv_split4,doe,current,valu,transfer,price,shitcoin,credit,sell,denial,mustread holder
+iter49_cv_split5,sell,scale,resist,current,lose,price,valu,peopl,play,shitcoin
+iter50_cv_split1,doe,resist,sell,transfer,lose,play,scale,current,denial,holder denial
+iter50_cv_split2,doe,sell,valu,current,scale,transfer,lose,price,peopl,credit
+iter50_cv_split3,scale,resist,price,lose,valu,credit,shitcoin,mustread holder,denial,holder denial
+iter50_cv_split4,current,doe,scale,valu,transfer,price,peopl,credit,shitcoin,play
+iter50_cv_split5,doe,valu,sell,current,resist,peopl,credit,shitcoin,holder denial,denial
+iter51_cv_split1,doe,valu,current,sell,price,lose,transfer,denial,mustread,holder denial
+iter51_cv_split2,doe,sell,valu,scale,resist,lose,price,current,credit,peopl
+iter51_cv_split3,sell,doe,scale,resist,transfer,lose,peopl,shitcoin,credit,play
+iter51_cv_split4,scale,resist,lose,valu,current,price,credit,play,mustread holder,denial
+iter51_cv_split5,doe,current,scale,valu,transfer,peopl,credit,shitcoin,play,holder denial
+iter52_cv_split1,doe,current,valu,resist,price,transfer,lose,peopl,credit,sell
+iter52_cv_split2,sell,scale,price,current,doe,peopl,credit,shitcoin,play,short financi
+iter52_cv_split3,valu,current,doe,sell,transfer,lose,price,play,tri,scale
+iter52_cv_split4,doe,valu,sell,scale,resist,transfer,current,peopl,credit,shitcoin
+iter52_cv_split5,doe,scale,resist,transfer,lose,credit,sell,shitcoin,play,current
+iter53_cv_split1,scale,price,lose,peopl,valu,doe,current,credit,shitcoin,play
+iter53_cv_split2,doe,valu,current,resist,transfer,credit,holder denial,mustread holder,mustread,denial
+iter53_cv_split3,doe,sell,scale,resist,transfer,lose,peopl,valu,current,mustread
+iter53_cv_split4,sell,current,doe,scale,valu,price,credit,shitcoin,peopl,play
+iter53_cv_split5,doe,sell,valu,scale,resist,transfer,price,lose,peopl,current
+iter54_cv_split1,scale,resist,price,current,lose,valu,credit,play,mustread holder,mustread
+iter54_cv_split2,doe,valu,current,sell,resist,price,lose,scale,holder denial,denial
+iter54_cv_split3,sell,doe,scale,valu,transfer,current,peopl,credit,shitcoin,play
+iter54_cv_split4,doe,sell,scale,transfer,lose,credit,play,shitcoin,peopl,valu
+iter54_cv_split5,doe,valu,current,resist,transfer,lose,peopl,price,shitcoin,credit
+iter55_cv_split1,doe,sell,resist,transfer,peopl,shitcoin,credit,holder denial,denial,mustread holder
+iter55_cv_split2,scale,resist,price,current,lose,valu,shitcoin,play,bankrupt,crisi
+iter55_cv_split3,doe,sell,scale,valu,price,current,peopl,credit,shitcoin,play
+iter55_cv_split4,valu,current,doe,resist,sell,transfer,lose,credit,price,scale
+iter55_cv_split5,doe,valu,current,scale,resist,transfer,lose,price,peopl,credit
+iter56_cv_split1,doe,current,valu,sell,scale,shitcoin,peopl,play,mustread holder,mustread
+iter56_cv_split2,doe,scale,transfer,credit,shitcoin,play,current,mustread holder,denial,mustread
+iter56_cv_split3,sell,valu,current,doe,scale,resist,transfer,price,lose,peopl
+iter56_cv_split4,doe,valu,scale,resist,price,transfer,lose,peopl,sell,current
+iter56_cv_split5,sell,resist,lose,valu,doe,current,price,credit,holder denial,denial
+iter57_cv_split1,sell,valu,doe,scale,resist,transfer,current,credit,peopl,play
+iter57_cv_split2,sell,scale,doe,peopl,credit,shitcoin,play,holder denial,denial,mustread holder
+iter57_cv_split3,doe,current,valu,sell,resist,price,transfer,lose,credit,tri
+iter57_cv_split4,doe,current,valu,scale,resist,transfer,lose,price,shitcoin,play
+iter57_cv_split5,doe,sell,valu,current,scale,transfer,lose,peopl,price,credit
+iter58_cv_split1,sell,lose,doe,peopl,shitcoin,credit,tri,mustread,mustread holder,holder denial
+iter58_cv_split2,doe,sell,valu,scale,resist,transfer,price,lose,current,peopl
+iter58_cv_split3,doe,valu,current,resist,transfer,lose,price,credit,play,scale
+iter58_cv_split4,sell,current,doe,scale,valu,transfer,credit,peopl,play,shitcoin
+iter58_cv_split5,doe,current,valu,scale,resist,lose,peopl,price,credit,shitcoin
+iter59_cv_split1,doe,valu,resist,lose,price,current,credit,play,scale,holder denial
+iter59_cv_split2,doe,current,valu,price,transfer,lose,peopl,shitcoin,credit,sell
+iter59_cv_split3,sell,scale,price,current,peopl,doe,credit,denial,mustread holder,mustread
+iter59_cv_split4,sell,valu,current,doe,scale,resist,transfer,lose,price,peopl
+iter59_cv_split5,doe,sell,scale,resist,transfer,credit,shitcoin,peopl,play,tri
+iter60_cv_split1,doe,scale,resist,transfer,lose,credit,shitcoin,play,valu,mustread holder
+iter60_cv_split2,valu,current,doe,sell,resist,lose,price,credit,play,scale
+iter60_cv_split3,doe,valu,current,resist,transfer,peopl,credit,shitcoin,mustread holder,holder denial
+iter60_cv_split4,sell,scale,current,price,peopl,doe,credit,play,holder denial,denial
+iter60_cv_split5,doe,sell,current,valu,scale,lose,transfer,price,peopl,play
+iter61_cv_split1,doe,current,sell,scale,valu,transfer,price,peopl,shitcoin,play
+iter61_cv_split2,doe,valu,current,sell,resist,credit,mustread holder,mustread,denial,holder denial
+iter61_cv_split3,doe,scale,resist,transfer,lose,credit,play,holder denial,mustread,denial
+iter61_cv_split4,sell,scale,resist,lose,valu,price,peopl,credit,shitcoin,play
+iter61_cv_split5,doe,current,valu,scale,resist,transfer,lose,price,peopl,credit
+iter62_cv_split1,doe,scale,transfer,peopl,credit,shitcoin,current,play,mustread,holder denial
+iter62_cv_split2,doe,valu,resist,transfer,lose,current,credit,price,sell,denial
+iter62_cv_split3,doe,sell,current,valu,scale,resist,transfer,credit,shitcoin,peopl
+iter62_cv_split4,sell,valu,current,doe,scale,resist,lose,price,credit,shitcoin
+iter62_cv_split5,sell,resist,price,lose,valu,doe,current,play,scale,tri
+iter63_cv_split1,sell,resist,lose,price,valu,doe,current,credit,scale,denial
+iter63_cv_split2,doe,valu,scale,resist,transfer,current,shitcoin,credit,play,sell
+iter63_cv_split3,doe,scale,resist,transfer,peopl,lose,play,shitcoin,sell,holder denial
+iter63_cv_split4,current,valu,sell,doe,scale,lose,credit,price,shitcoin,peopl
+iter63_cv_split5,doe,sell,current,valu,transfer,peopl,price,credit,holder denial,denial
+iter64_cv_split1,doe,current,scale,valu,transfer,price,shitcoin,credit,play,mustread holder
+iter64_cv_split2,doe,sell,valu,resist,transfer,peopl,current,shitcoin,mustread,mustread holder
+iter64_cv_split3,sell,resist,lose,price,valu,current,credit,scale,play,mustread holder
+iter64_cv_split4,doe,sell,current,valu,scale,resist,lose,price,credit,shitcoin
+iter64_cv_split5,doe,sell,scale,resist,transfer,lose,peopl,credit,shitcoin,current
+iter65_cv_split1,doe,sell,scale,transfer,peopl,play,shitcoin,current,tri,coin
+iter65_cv_split2,sell,resist,current,lose,price,valu,peopl,shitcoin,credit,mustread holder
+iter65_cv_split3,doe,current,valu,scale,transfer,peopl,shitcoin,credit,mustread,denial
+iter65_cv_split4,doe,valu,current,resist,transfer,lose,price,credit,scale,play
+iter65_cv_split5,doe,sell,valu,scale,resist,price,transfer,lose,peopl,credit
+iter66_cv_split1,sell,scale,lose,price,current,valu,doe,credit,peopl,shitcoin
+iter66_cv_split2,doe,sell,valu,current,resist,transfer,shitcoin,peopl,mustread,denial
+iter66_cv_split3,doe,sell,transfer,credit,scale,play,holder denial,denial,mustread,mustread holder
+iter66_cv_split4,sell,current,valu,doe,scale,resist,transfer,lose,peopl,price
+iter66_cv_split5,doe,valu,current,scale,resist,price,lose,shitcoin,credit,play
+iter67_cv_split1,doe,current,scale,valu,price,peopl,credit,shitcoin,sell,holder denial
+iter67_cv_split2,sell,valu,doe,scale,resist,transfer,peopl,current,play,credit
+iter67_cv_split3,doe,sell,scale,transfer,lose,peopl,shitcoin,play,current,valu
+iter67_cv_split4,sell,resist,lose,price,valu,current,credit,doe,peopl,mustread holder
+iter67_cv_split5,doe,current,valu,resist,transfer,lose,price,credit,play,scale
+iter68_cv_split1,doe,current,valu,sell,resist,transfer,lose,price,mustread holder,mustread
+iter68_cv_split2,doe,sell,valu,scale,transfer,price,lose,current,peopl,play
+iter68_cv_split3,scale,resist,lose,shitcoin,credit,play,denial,mustread holder,mustread,holder denial
+iter68_cv_split4,current,doe,scale,valu,transfer,peopl,price,credit,shitcoin,play
+iter68_cv_split5,doe,sell,valu,current,scale,resist,transfer,peopl,credit,shitcoin
+iter69_cv_split1,doe,sell,current,scale,valu,transfer,price,credit,play,shitcoin
+iter69_cv_split2,doe,valu,resist,peopl,transfer,price,lose,current,shitcoin,credit
+iter69_cv_split3,doe,valu,current,resist,sell,lose,price,scale,play,mustread
+iter69_cv_split4,sell,scale,resist,peopl,doe,credit,shitcoin,play,tri,denial
+iter69_cv_split5,valu,current,scale,transfer,price,lose,doe,credit,shitcoin,sell
+iter70_cv_split1,doe,sell,resist,lose,credit,play,current,valu,scale,mustread holder
+iter70_cv_split2,doe,current,scale,valu,transfer,price,peopl,credit,sell,mustread holder
+iter70_cv_split3,sell,valu,doe,scale,transfer,lose,current,price,play,peopl
+iter70_cv_split4,doe,sell,valu,current,scale,resist,transfer,peopl,shitcoin,play
+iter70_cv_split5,resist,lose,price,shitcoin,valu,current,credit,holder denial,denial,mustread
+iter71_cv_split1,doe,sell,current,valu,resist,price,transfer,lose,peopl,holder denial
+iter71_cv_split2,sell,doe,resist,scale,transfer,peopl,credit,shitcoin,valu,play
+iter71_cv_split3,doe,valu,scale,resist,transfer,lose,price,current,credit,shitcoin
+iter71_cv_split4,sell,resist,lose,price,valu,current,doe,credit,play,scale
+iter71_cv_split5,doe,sell,current,scale,valu,transfer,peopl,price,shitcoin,credit
+iter72_cv_split1,doe,current,valu,resist,price,lose,credit,play,scale,tri
+iter72_cv_split2,doe,scale,transfer,credit,shitcoin,play,current,mustread holder,denial,mustread
+iter72_cv_split3,doe,sell,valu,current,transfer,lose,price,peopl,denial,mustread holder
+iter72_cv_split4,sell,scale,resist,valu,current,credit,doe,shitcoin,peopl,coin
+iter72_cv_split5,sell,valu,doe,scale,resist,transfer,lose,peopl,price,current
+iter73_cv_split1,doe,scale,resist,lose,peopl,credit,sell,play,denial,mustread holder
+iter73_cv_split2,doe,valu,scale,resist,transfer,current,credit,shitcoin,play,holder denial
+iter73_cv_split3,sell,scale,current,lose,price,valu,doe,peopl,shitcoin,credit
+iter73_cv_split4,doe,valu,current,sell,resist,price,transfer,lose,mustread,mustread holder
+iter73_cv_split5,sell,current,doe,scale,valu,transfer,price,peopl,credit,shitcoin
+iter74_cv_split1,doe,sell,scale,valu,transfer,price,current,peopl,shitcoin,play
+iter74_cv_split2,doe,current,valu,resist,price,transfer,lose,credit,play,scale
+iter74_cv_split3,scale,price,current,lose,valu,doe,peopl,credit,shitcoin,play
+iter74_cv_split4,doe,sell,valu,current,resist,credit,peopl,shitcoin,mustread holder,holder denial
+iter74_cv_split5,sell,doe,scale,resist,transfer,lose,peopl,credit,shitcoin,current
+iter75_cv_split1,doe,valu,sell,resist,transfer,lose,price,current,play,scale
+iter75_cv_split2,scale,price,resist,valu,lose,doe,peopl,current,shitcoin,credit
+iter75_cv_split3,doe,current,valu,transfer,shitcoin,price,credit,sell,mustread holder,denial
+iter75_cv_split4,doe,current,sell,valu,scale,resist,peopl,credit,shitcoin,mustread holder
+iter75_cv_split5,sell,doe,scale,transfer,lose,credit,shitcoin,peopl,play,valu
+iter76_cv_split1,doe,current,valu,resist,lose,peopl,price,shitcoin,sell,mustread holder
+iter76_cv_split2,doe,sell,resist,transfer,credit,play,valu,scale,mustread,denial
+iter76_cv_split3,doe,scale,valu,price,transfer,current,credit,shitcoin,play,denial
+iter76_cv_split4,sell,valu,current,doe,scale,transfer,price,lose,credit,shitcoin
+iter76_cv_split5,sell,scale,resist,lose,price,valu,doe,current,peopl,credit
+iter77_cv_split1,doe,resist,transfer,lose,shitcoin,credit,current,valu,sell,denial
+iter77_cv_split2,current,doe,scale,price,valu,transfer,peopl,credit,sell,play
+iter77_cv_split3,doe,sell,valu,scale,resist,transfer,peopl,current,credit,shitcoin
+iter77_cv_split4,doe,valu,current,sell,resist,transfer,lose,price,scale,tri
+iter77_cv_split5,sell,scale,lose,current,valu,doe,peopl,price,credit,shitcoin
+iter78_cv_split1,doe,valu,current,resist,lose,transfer,price,credit,scale,holder denial
+iter78_cv_split2,sell,current,doe,scale,valu,transfer,peopl,shitcoin,credit,play
+iter78_cv_split3,scale,resist,lose,play,shitcoin,holder,holder denial,denial,mustread,mustread holder
+iter78_cv_split4,doe,sell,valu,scale,resist,lose,price,credit,peopl,current
+iter78_cv_split5,doe,current,sell,valu,resist,transfer,price,lose,peopl,shitcoin
+iter79_cv_split1,doe,current,valu,transfer,lose,price,credit,holder denial,denial,mustread
+iter79_cv_split2,sell,scale,resist,price,lose,valu,doe,current,peopl,play
+iter79_cv_split3,doe,valu,current,scale,resist,transfer,peopl,credit,shitcoin,sell
+iter79_cv_split4,doe,sell,scale,resist,transfer,lose,credit,peopl,play,shitcoin
+iter79_cv_split5,sell,current,doe,scale,valu,transfer,peopl,price,shitcoin,credit
+iter80_cv_split1,doe,transfer,credit,play,scale,current,denial,mustread,holder denial,mustread holder
+iter80_cv_split2,valu,doe,scale,resist,transfer,peopl,price,lose,current,shitcoin
+iter80_cv_split3,sell,scale,current,price,lose,valu,doe,peopl,credit,shitcoin
+iter80_cv_split4,doe,sell,valu,current,scale,resist,transfer,credit,peopl,play
+iter80_cv_split5,doe,sell,current,valu,resist,lose,price,credit,shitcoin,peopl
+iter81_cv_split1,doe,valu,scale,resist,transfer,price,lose,current,credit,shitcoin
+iter81_cv_split2,doe,current,sell,valu,transfer,price,credit,denial,holder denial,mustread
+iter81_cv_split3,sell,doe,scale,transfer,lose,peopl,play,current,shitcoin,valu
+iter81_cv_split4,doe,sell,current,valu,scale,resist,credit,peopl,play,denial
+iter81_cv_split5,sell,scale,resist,lose,price,current,valu,doe,shitcoin,peopl
+iter82_cv_split1,doe,sell,valu,scale,resist,transfer,lose,price,current,credit
+iter82_cv_split2,scale,current,lose,price,valu,credit,shitcoin,play,mustread,denial
+iter82_cv_split3,current,doe,sell,valu,transfer,price,credit,scale,holder denial,denial
+iter82_cv_split4,doe,sell,current,valu,scale,resist,transfer,peopl,shitcoin,play
+iter82_cv_split5,doe,sell,resist,lose,shitcoin,credit,peopl,valu,holder denial,mustread holder
+iter83_cv_split1,doe,current,scale,valu,price,credit,shitcoin,play,denial,mustread
+iter83_cv_split2,doe,current,sell,valu,scale,transfer,lose,price,credit,peopl
+iter83_cv_split3,sell,resist,lose,price,peopl,valu,doe,current,holder denial,denial
+iter83_cv_split4,doe,sell,scale,resist,transfer,peopl,credit,shitcoin,play,valu
+iter83_cv_split5,valu,current,doe,resist,price,transfer,lose,credit,play,scale
+iter84_cv_split1,sell,scale,price,lose,current,valu,peopl,doe,play,credit
+iter84_cv_split2,doe,scale,valu,transfer,price,current,shitcoin,credit,sell,mustread holder
+iter84_cv_split3,doe,valu,current,sell,resist,peopl,credit,shitcoin,mustread holder,holder denial
+iter84_cv_split4,doe,sell,scale,resist,transfer,lose,peopl,shitcoin,play,valu
+iter84_cv_split5,valu,current,doe,resist,transfer,lose,price,credit,scale,play
+iter85_cv_split1,doe,valu,current,scale,resist,price,lose,credit,play,mustread
+iter85_cv_split2,doe,sell,current,valu,transfer,price,shitcoin,peopl,denial,mustread
+iter85_cv_split3,doe,scale,resist,transfer,lose,peopl,credit,shitcoin,play,valu
+iter85_cv_split4,sell,resist,lose,price,valu,doe,current,credit,scale,play
+iter85_cv_split5,doe,current,sell,valu,scale,transfer,peopl,play,credit,shitcoin
+iter86_cv_split1,sell,current,valu,doe,scale,resist,price,lose,peopl,play
+iter86_cv_split2,doe,sell,scale,valu,transfer,current,price,shitcoin,peopl,credit
+iter86_cv_split3,doe,resist,transfer,lose,credit,tri,valu,scale,current,denial
+iter86_cv_split4,doe,valu,current,scale,transfer,credit,play,shitcoin,mustread holder,holder denial
+iter86_cv_split5,sell,resist,price,lose,doe,valu,current,credit,shitcoin,peopl
+iter87_cv_split1,scale,price,peopl,doe,sell,credit,shitcoin,play,mustread holder,mustread
+iter87_cv_split2,doe,current,valu,sell,scale,transfer,lose,price,shitcoin,peopl
+iter87_cv_split3,sell,valu,current,doe,resist,transfer,lose,price,peopl,credit
+iter87_cv_split4,doe,sell,scale,resist,lose,peopl,shitcoin,play,valu,mustread holder
+iter87_cv_split5,doe,valu,current,resist,transfer,credit,play,scale,mustread holder,holder denial
+iter88_cv_split1,doe,sell,valu,current,scale,price,transfer,lose,peopl,play
+iter88_cv_split2,doe,current,valu,scale,resist,transfer,lose,price,credit,shitcoin
+iter88_cv_split3,doe,sell,transfer,peopl,credit,shitcoin,denial,holder denial,mustread holder,mustread
+iter88_cv_split4,doe,valu,resist,transfer,lose,price,current,play,credit,scale
+iter88_cv_split5,sell,scale,resist,lose,valu,price,peopl,current,shitcoin,credit
+iter89_cv_split1,valu,current,doe,sell,resist,lose,price,credit,scale,play
+iter89_cv_split2,doe,sell,valu,current,scale,transfer,peopl,play,shitcoin,mustread holder
+iter89_cv_split3,doe,valu,resist,transfer,lose,price,shitcoin,current,credit,sell
+iter89_cv_split4,sell,scale,resist,lose,doe,credit,peopl,play,mustread holder,denial
+iter89_cv_split5,doe,current,scale,valu,transfer,price,peopl,credit,shitcoin,sell
+iter90_cv_split1,sell,scale,price,current,doe,peopl,credit,shitcoin,holder denial,denial
+iter90_cv_split2,doe,valu,current,scale,resist,peopl,lose,price,credit,play
+iter90_cv_split3,doe,scale,resist,transfer,shitcoin,credit,play,valu,denial,mustread holder
+iter90_cv_split4,doe,current,valu,resist,sell,transfer,lose,price,credit,tri
+iter90_cv_split5,sell,current,valu,doe,scale,resist,transfer,lose,price,shitcoin
+iter91_cv_split1,scale,resist,price,lose,valu,credit,play,shitcoin,denial,holder denial
+iter91_cv_split2,doe,current,sell,valu,price,credit,play,scale,holder denial,mustread
+iter91_cv_split3,doe,sell,resist,transfer,peopl,credit,shitcoin,current,denial,mustread
+iter91_cv_split4,doe,valu,current,scale,resist,transfer,lose,price,peopl,sell
+iter91_cv_split5,sell,valu,current,doe,scale,transfer,price,lose,shitcoin,peopl
+iter92_cv_split1,doe,sell,current,scale,valu,price,credit,peopl,shitcoin,mustread
+iter92_cv_split2,doe,current,valu,scale,transfer,price,lose,shitcoin,credit,play
+iter92_cv_split3,doe,current,valu,sell,resist,transfer,credit,holder denial,mustread holder,mustread
+iter92_cv_split4,doe,sell,scale,resist,transfer,lose,peopl,shitcoin,valu,play
+iter92_cv_split5,sell,scale,resist,lose,current,valu,credit,peopl,price,play
+iter93_cv_split1,doe,current,scale,valu,price,credit,peopl,shitcoin,play,mustread
+iter93_cv_split2,doe,valu,scale,resist,transfer,current,credit,shitcoin,play,holder denial
+iter93_cv_split3,sell,resist,lose,peopl,doe,shitcoin,credit,holder denial,denial,mustread holder
+iter93_cv_split4,doe,sell,valu,current,scale,resist,transfer,lose,price,peopl
+iter93_cv_split5,valu,current,doe,resist,sell,transfer,lose,credit,price,play
+iter94_cv_split1,doe,sell,current,scale,valu,transfer,peopl,price,shitcoin,play
+iter94_cv_split2,doe,current,valu,resist,price,transfer,lose,credit,denial,mustread
+iter94_cv_split3,sell,valu,doe,scale,resist,transfer,price,lose,current,peopl
+iter94_cv_split4,doe,scale,resist,transfer,lose,shitcoin,credit,play,current,valu
+iter94_cv_split5,sell,scale,resist,valu,current,shitcoin,doe,peopl,credit,play
+iter95_cv_split1,current,valu,doe,sell,resist,price,transfer,lose,credit,mustread holder
+iter95_cv_split2,doe,scale,resist,transfer,lose,peopl,credit,valu,mustread,denial
+iter95_cv_split3,doe,current,sell,scale,valu,transfer,peopl,shitcoin,play,denial
+iter95_cv_split4,doe,sell,valu,scale,resist,lose,credit,price,current,peopl
+iter95_cv_split5,scale,resist,lose,price,valu,current,credit,shitcoin,play,sell
+iter96_cv_split1,doe,sell,current,valu,price,transfer,lose,peopl,credit,mustread holder
+iter96_cv_split2,doe,scale,resist,transfer,lose,peopl,credit,shitcoin,sell,play
+iter96_cv_split3,sell,scale,resist,current,valu,peopl,doe,shitcoin,play,holder denial
+iter96_cv_split4,doe,current,valu,transfer,price,credit,play,scale,holder denial,denial
+iter96_cv_split5,sell,valu,current,doe,scale,resist,transfer,lose,price,peopl
+iter97_cv_split1,doe,sell,current,valu,scale,resist,lose,price,credit,peopl
+iter97_cv_split2,doe,valu,current,scale,transfer,price,lose,credit,shitcoin,denial
+iter97_cv_split3,sell,price,doe,current,credit,holder denial,mustread,mustread holder,denial,tri
+iter97_cv_split4,doe,sell,valu,scale,resist,transfer,current,shitcoin,credit,play
+iter97_cv_split5,sell,doe,scale,resist,transfer,lose,peopl,shitcoin,play,valu
+iter98_cv_split1,doe,valu,scale,resist,transfer,lose,price,peopl,current,credit
+iter98_cv_split2,doe,current,sell,valu,price,transfer,credit,scale,mustread holder,denial
+iter98_cv_split3,sell,resist,lose,peopl,doe,shitcoin,holder denial,denial,mustread,mustread holder
+iter98_cv_split4,sell,valu,current,doe,scale,resist,credit,peopl,shitcoin,play
+iter98_cv_split5,doe,current,valu,scale,resist,transfer,lose,price,credit,shitcoin
+iter99_cv_split1,sell,valu,current,doe,scale,resist,transfer,peopl,play,credit
+iter99_cv_split2,doe,sell,scale,valu,transfer,price,current,peopl,credit,play
+iter99_cv_split3,doe,sell,transfer,lose,shitcoin,peopl,credit,current,holder denial,denial
+iter99_cv_split4,sell,resist,lose,current,doe,valu,price,play,scale,tri
+iter99_cv_split5,doe,valu,current,scale,resist,lose,price,shitcoin,credit,play
+iter100_cv_split1,doe,resist,transfer,lose,credit,scale,current,mustread holder,denial,mustread
+iter100_cv_split2,doe,current,sell,valu,scale,transfer,lose,price,play,shitcoin
+iter100_cv_split3,doe,sell,valu,scale,resist,transfer,current,peopl,credit,play
+iter100_cv_split4,sell,scale,peopl,price,current,credit,shitcoin,play,holder denial,denial
+iter100_cv_split5,doe,valu,current,resist,lose,price,credit,shitcoin,sell,mustread holder

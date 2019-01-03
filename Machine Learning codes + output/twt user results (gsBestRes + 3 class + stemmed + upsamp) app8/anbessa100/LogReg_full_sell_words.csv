@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,hamp,escap,resist,escap downtrend,far,expect,downtrend,probabl,mayb,pullback
+iter1_cv_split2,moon,escap,hamp,expect,price,escap downtrend,far,support,downtrend,hope
+iter1_cv_split3,moon,far,escap,hope,exampl,probabl,mayb,hamp,volum,rsi
+iter1_cv_split4,hamp,resist,support,far,price level,exampl,hope,mayb,hamp confirm,pullback
+iter1_cv_split5,hamp,moon,escap,escap downtrend,price,expect,downtrend,probabl,price level,exampl
+iter2_cv_split1,escap,hamp,moon,escap downtrend,far,resist,probabl,downtrend,exampl,mayb
+iter2_cv_split2,hamp,escap,resist,moon,expect,support,escap downtrend,price level,downtrend,hope
+iter2_cv_split3,moon,hamp,price,support,far,escap,expect,hope,price level,exampl
+iter2_cv_split4,hamp,escap,resist,moon,support,escap downtrend,price,downtrend,far,price level
+iter2_cv_split5,price,moon,price level,pullback,exampl,hamp,week,rsi,manag expect,manag
+iter3_cv_split1,hamp,price,escap,escap downtrend,far,expect,downtrend,price level,mayb,rsi
+iter3_cv_split2,hamp,moon,resist,escap,far,probabl,support,hope,exampl,pullback
+iter3_cv_split3,hamp,escap,moon,expect,escap downtrend,downtrend,price level,mayb,pullback,probabl
+iter3_cv_split4,escap,moon,hamp,escap downtrend,far,downtrend,hope,exampl,mayb,oversold
+iter3_cv_split5,moon,price,far,escap,price level,hope,exampl,probabl,hamp,pullback
+iter4_cv_split1,moon,escap,escap downtrend,far,downtrend,hope,resist,exampl,pullback,hamp
+iter4_cv_split2,hamp,price,moon,far,expect,escap,price level,probabl,exampl,resist
+iter4_cv_split3,hamp,escap,moon,escap downtrend,price level,probabl,downtrend,mayb,pullback,hamp confirm
+iter4_cv_split4,moon,escap,hamp,price,escap downtrend,downtrend,price level,hope,exampl,probabl
+iter4_cv_split5,hamp,resist,support,expect,far,hope,mayb,pullback,hamp confirm,oversold
+iter5_cv_split1,resist,moon,hamp,support,far,expect,hope,exampl,mayb,pullback
+iter5_cv_split2,hamp,escap,support,price,escap downtrend,moon,expect,downtrend,hope,price level
+iter5_cv_split3,hamp,moon,escap,resist,price,escap downtrend,far,support,price level,downtrend
+iter5_cv_split4,escap,resist,hamp,far,escap downtrend,downtrend,exampl,mayb,probabl,pullback
+iter5_cv_split5,moon,escap,price,escap downtrend,downtrend,price level,probabl,exampl,hamp,volum
+iter6_cv_split1,moon,escap,escap downtrend,support,far,downtrend,hope,exampl,pullback,resist
+iter6_cv_split2,moon,escap,far,escap downtrend,resist,hope,downtrend,probabl,exampl,mayb
+iter6_cv_split3,hamp,escap,resist,moon,support,escap downtrend,expect,downtrend,price level,mayb
+iter6_cv_split4,hamp,price,expect,escap,price level,probabl,mayb,hamp confirm,oversold,dip
+iter6_cv_split5,hamp,moon,price,expect,far,escap,support,probabl,hope,price level
+iter7_cv_split1,hamp,escap,price,escap downtrend,expect,downtrend,pullback,probabl,price level,resist
+iter7_cv_split2,moon,escap,escap downtrend,far,hope,downtrend,probabl,exampl,hamp,rsi
+iter7_cv_split3,hamp,escap,moon,support,escap downtrend,downtrend,hope,exampl,mayb,probabl
+iter7_cv_split4,expect,price,moon,support,far,hope,price level,pullback,hamp confirm,resist
+iter7_cv_split5,hamp,moon,resist,price,far,escap,expect,support,price level,exampl
+iter8_cv_split1,escap,hamp,price,moon,escap downtrend,downtrend,price level,exampl,mayb,probabl
+iter8_cv_split2,resist,hamp,price,moon,expect,support,far,price level,hope,exampl
+iter8_cv_split3,moon,escap,hamp,escap downtrend,downtrend,probabl,exampl,mayb,pullback,resist
+iter8_cv_split4,escap,hamp,moon,escap downtrend,support,expect,far,downtrend,hope,probabl
+iter8_cv_split5,hamp,resist,moon,expect,far,escap,support,price level,probabl,mayb
+iter9_cv_split1,hamp,price,escap downtrend,escap,far,support,expect,hope,downtrend,price level
+iter9_cv_split2,escap,moon,escap downtrend,far,downtrend,resist,hope,probabl,pullback,exampl
+iter9_cv_split3,hamp,escap,price,moon,escap downtrend,downtrend,price level,exampl,mayb,probabl
+iter9_cv_split4,hamp,escap,resist,moon,support,escap downtrend,expect,far,price level,downtrend
+iter9_cv_split5,moon,hamp,price,hope,price level,mayb,probabl,exampl,pullback,resist
+iter10_cv_split1,support,escap downtrend,escap,downtrend,price level,hope,exampl,resist,pullback,hamp confirm
+iter10_cv_split2,moon,hamp,far,escap,price,hope,price level,probabl,exampl,mayb
+iter10_cv_split3,moon,hamp,resist,far,escap,pullback,hope,probabl,mayb,oversold
+iter10_cv_split4,hamp,escap,resist,price,escap downtrend,far,expect,downtrend,probabl,price level
+iter10_cv_split5,hamp,moon,escap,expect,escap downtrend,downtrend,exampl,mayb,hamp confirm,oversold
+iter11_cv_split1,hamp,moon,resist,support,expect,escap,price,far,price level,hope
+iter11_cv_split2,moon,price,far,escap,escap downtrend,downtrend,price level,hope,exampl,mayb
+iter11_cv_split3,escap,resist,hamp,escap downtrend,far,downtrend,probabl,pullback,oversold,rsi
+iter11_cv_split4,hamp,moon,escap,price level,pullback,probabl,exampl,hamp confirm,price,week
+iter11_cv_split5,moon,hamp,escap,escap downtrend,support,expect,downtrend,hope,resist,probabl
+iter12_cv_split1,moon,escap,escap downtrend,downtrend,far,hope,exampl,mayb,pullback,resist
+iter12_cv_split2,escap,hamp,moon,support,far,escap downtrend,downtrend,price level,hope,resist
+iter12_cv_split3,moon,escap,hamp,escap downtrend,far,hope,downtrend,exampl,probabl,mayb
+iter12_cv_split4,hamp,resist,moon,price,far,expect,probabl,support,pullback,price level
+iter12_cv_split5,hamp,escap,moon,price,expect,escap downtrend,downtrend,price level,pullback,exampl
+iter13_cv_split1,hamp,moon,expect,price,far,support,escap,price level,probabl,exampl
+iter13_cv_split2,price,escap downtrend,escap,downtrend,price level,mayb,pullback,hamp,volum,rsi
+iter13_cv_split3,hamp,resist,moon,price,far,expect,escap,price level,exampl,probabl
+iter13_cv_split4,hamp,escap,moon,support,escap downtrend,expect,far,downtrend,price level,probabl
+iter13_cv_split5,moon,escap,far,escap downtrend,hope,downtrend,exampl,pullback,hamp,resist
+iter14_cv_split1,moon,escap,price,escap downtrend,downtrend,price level,exampl,pullback,hamp,rsi
+iter14_cv_split2,hamp,escap,resist,moon,escap downtrend,support,price,expect,far,downtrend
+iter14_cv_split3,moon,hamp,escap,hope,probabl,exampl,resist,mayb,oversold,support
+iter14_cv_split4,resist,hamp,price,far,expect,pullback,price level,exampl,rsi,oversold
+iter14_cv_split5,hamp,escap,moon,support,far,escap downtrend,price level,downtrend,hope,mayb
+iter15_cv_split1,escap,resist,hamp,moon,escap downtrend,downtrend,hope,probabl,pullback,mayb
+iter15_cv_split2,moon,price,far,escap,probabl,price level,hope,exampl,hamp,level
+iter15_cv_split3,hamp,escap,moon,price,escap downtrend,expect,downtrend,price level,pullback,exampl
+iter15_cv_split4,resist,hamp,moon,price,support,escap downtrend,escap,downtrend,far,expect
+iter15_cv_split5,hamp,moon,price,support,escap,far,expect,hope,price level,probabl
+iter16_cv_split1,moon,escap,hamp,resist,far,escap downtrend,hope,downtrend,exampl,pullback
+iter16_cv_split2,moon,hamp,price,escap,price level,probabl,exampl,mayb,level,manag
+iter16_cv_split3,moon,escap,hamp,expect,support,escap downtrend,far,downtrend,hope,exampl
+iter16_cv_split4,resist,hamp,price,expect,support,price level,hope,pullback,mayb,volum
+iter16_cv_split5,hamp,escap,resist,escap downtrend,expect,far,downtrend,price level,probabl,mayb
+iter17_cv_split1,hamp,resist,price,moon,far,escap,support,hope,expect,price level
+iter17_cv_split2,hamp,moon,support,price,escap downtrend,escap,expect,far,downtrend,price level
+iter17_cv_split3,escap,moon,escap downtrend,downtrend,probabl,pullback,hamp,exampl,volum,week
+iter17_cv_split4,moon,escap,hamp,price,escap downtrend,price level,downtrend,probabl,hope,exampl
+iter17_cv_split5,hamp,moon,expect,far,escap,exampl,mayb,probabl,resist,hamp confirm
+iter18_cv_split1,moon,escap,price,downtrend,escap downtrend,price level,hope,probabl,pullback,hamp
+iter18_cv_split2,hamp,escap,expect,moon,escap downtrend,downtrend,probabl,pullback,mayb,hamp confirm
+iter18_cv_split3,hamp,escap,moon,escap downtrend,support,far,downtrend,price level,resist,exampl
+iter18_cv_split4,resist,hamp,moon,far,escap,probabl,exampl,pullback,rsi,oversold
+iter18_cv_split5,hamp,price,moon,support,expect,far,hope,price level,exampl,mayb
+iter19_cv_split1,escap,moon,hamp,support,price,escap downtrend,downtrend,expect,hope,exampl
+iter19_cv_split2,escap,hamp,moon,escap downtrend,downtrend,probabl,pullback,mayb,volum,rsi
+iter19_cv_split3,moon,resist,hamp,far,hope,mayb,probabl,pullback,oversold,rsi
+iter19_cv_split4,hamp,escap,moon,escap downtrend,support,far,downtrend,hope,resist,price level
+iter19_cv_split5,resist,hamp,escap,escap downtrend,expect,price,far,downtrend,price level,exampl
+iter20_cv_split1,hamp,moon,escap,resist,support,expect,escap downtrend,far,downtrend,hope
+iter20_cv_split2,expect,escap downtrend,escap,downtrend,price level,pullback,exampl,hamp confirm,volum,hamp
+iter20_cv_split3,escap,hamp,moon,escap downtrend,far,downtrend,hope,mayb,probabl,oversold
+iter20_cv_split4,hamp,moon,resist,price,support,far,hope,price level,exampl,probabl
+iter20_cv_split5,moon,escap,hamp,price,escap downtrend,downtrend,price level,hope,pullback,exampl
+iter21_cv_split1,escap,hamp,moon,escap downtrend,far,downtrend,price level,hope,exampl,mayb
+iter21_cv_split2,hamp,escap,resist,moon,support,price,escap downtrend,expect,hope,downtrend
+iter21_cv_split3,escap,hamp,moon,expect,far,escap downtrend,resist,downtrend,pullback,probabl
+iter21_cv_split4,moon,escap,hamp,escap downtrend,downtrend,exampl,probabl,pullback,oversold,resist
+iter21_cv_split5,hamp,support,price,moon,far,expect,price level,hope,exampl,resist
+iter22_cv_split1,moon,hamp,resist,escap,hope,probabl,mayb,pullback,rsi,oversold
+iter22_cv_split2,hamp,price,escap,expect,probabl,price level,mayb,hamp confirm,oversold,confirm
+iter22_cv_split3,hamp,escap,resist,moon,expect,escap downtrend,far,price level,support,downtrend
+iter22_cv_split4,support,moon,expect,far,escap,escap downtrend,downtrend,hope,exampl,hamp confirm
+iter22_cv_split5,moon,escap,hamp,escap downtrend,price,resist,downtrend,far,price level,hope
+iter23_cv_split1,moon,hamp,price,far,escap,resist,price level,probabl,exampl,hope
+iter23_cv_split2,resist,hamp,price,far,expect,price level,exampl,pullback,mayb,hamp confirm
+iter23_cv_split3,moon,escap,hamp,expect,support,escap downtrend,far,downtrend,hope,resist
+iter23_cv_split4,hamp,escap,moon,escap downtrend,expect,support,hope,downtrend,price level,exampl
+iter23_cv_split5,escap,hamp,moon,escap downtrend,downtrend,mayb,probabl,pullback,oversold,rsi
+iter24_cv_split1,moon,escap,hamp,escap downtrend,far,downtrend,mayb,hope,probabl,market
+iter24_cv_split2,hamp,escap,moon,price,support,escap downtrend,expect,far,downtrend,hope
+iter24_cv_split3,hamp,resist,moon,escap,far,hope,exampl,pullback,mayb,accumul
+iter24_cv_split4,hamp,moon,price,escap,expect,resist,price level,exampl,probabl,pullback
+iter24_cv_split5,hamp,moon,price,escap downtrend,escap,expect,price level,downtrend,pullback,exampl
+iter25_cv_split1,escap,hamp,moon,price,far,escap downtrend,expect,support,downtrend,probabl
+iter25_cv_split2,hamp,moon,price,escap,resist,pullback,price level,probabl,exampl,mayb
+iter25_cv_split3,hamp,escap,moon,escap downtrend,price level,downtrend,pullback,probabl,exampl,hamp confirm
+iter25_cv_split4,moon,escap,escap downtrend,downtrend,far,hope,volum,exampl,mayb,hamp
+iter25_cv_split5,hamp,moon,support,price,far,escap,expect,resist,hope,price level
+iter26_cv_split1,hamp,escap,resist,price,expect,escap downtrend,far,price level,downtrend,probabl
+iter26_cv_split2,moon,escap,hamp,price,support,escap downtrend,downtrend,expect,pullback,hope
+iter26_cv_split3,hamp,moon,expect,support,price,far,hope,price level,exampl,mayb
+iter26_cv_split4,resist,hamp,moon,escap,far,hope,exampl,probabl,mayb,pullback
+iter26_cv_split5,moon,escap,hamp,escap downtrend,downtrend,probabl,exampl,mayb,market,continu
+iter27_cv_split1,hamp,support,far,escap,escap downtrend,downtrend,expect,price level,hope,exampl
+iter27_cv_split2,moon,hamp,support,price,escap,hope,price level,probabl,exampl,pullback
+iter27_cv_split3,escap,resist,hamp,moon,escap downtrend,far,downtrend,exampl,probabl,pullback
+iter27_cv_split4,moon,escap,hamp,price,escap downtrend,far,price level,downtrend,hope,mayb
+iter27_cv_split5,hamp,moon,expect,escap,mayb,pullback,hamp confirm,resist,oversold,rsi
+iter28_cv_split1,escap,hamp,moon,escap downtrend,price level,downtrend,mayb,exampl,pullback,probabl
+iter28_cv_split2,hamp,moon,resist,support,expect,far,escap,hope,exampl,pullback
+iter28_cv_split3,hamp,support,moon,escap downtrend,escap,price,far,downtrend,expect,price level
+iter28_cv_split4,escap,resist,hamp,far,escap downtrend,downtrend,probabl,mayb,pullback,oversold
+iter28_cv_split5,moon,hamp,price,expect,support,escap,hope,price level,probabl,exampl
+iter29_cv_split1,hamp,price,moon,escap,expect,far,probabl,price level,exampl,hamp confirm
+iter29_cv_split2,resist,hamp,moon,support,escap downtrend,escap,price,downtrend,far,hope
+iter29_cv_split3,hamp,escap,expect,price,moon,escap downtrend,support,downtrend,hope,price level
+iter29_cv_split4,hamp,moon,escap,price level,pullback,exampl,mayb,continu,volum,level
+iter29_cv_split5,moon,escap,resist,hamp,escap downtrend,far,downtrend,probabl,hope,mayb
+iter30_cv_split1,support,price,moon,escap,escap downtrend,downtrend,expect,resist,pullback,price level
+iter30_cv_split2,escap,hamp,price,moon,escap downtrend,price level,downtrend,mayb,probabl,pullback
+iter30_cv_split3,hamp,expect,moon,price,far,escap,price level,exampl,resist,probabl
+iter30_cv_split4,hamp,moon,resist,far,support,escap,price level,hope,exampl,probabl
+iter30_cv_split5,escap,moon,hamp,escap downtrend,far,hope,downtrend,probabl,exampl,mayb
+iter31_cv_split1,moon,escap,escap downtrend,downtrend,probabl,exampl,hamp,pullback,rsi,manag
+iter31_cv_split2,hamp,escap,support,moon,escap downtrend,far,hope,downtrend,price level,exampl
+iter31_cv_split3,hamp,escap,resist,price,moon,expect,far,escap downtrend,pullback,downtrend
+iter31_cv_split4,resist,far,hope,mayb,hamp,pullback,oversold,rsi,market,expect return
+iter31_cv_split5,hamp,moon,resist,price,escap,support,expect,price level,hope,mayb
+iter32_cv_split1,hamp,moon,price,escap,pullback,price level,exampl,probabl,mayb,resist
+iter32_cv_split2,moon,price,escap,escap downtrend,far,downtrend,price level,resist,hope,rsi
+iter32_cv_split3,hamp,moon,price,expect,support,escap,hope,exampl,price level,mayb
+iter32_cv_split4,escap,hamp,moon,escap downtrend,expect,far,downtrend,resist,exampl,pullback
+iter32_cv_split5,escap,hamp,far,escap downtrend,hope,probabl,downtrend,mayb,resist,moon
+iter33_cv_split1,resist,escap,escap downtrend,far,downtrend,hope,exampl,pullback,mayb,hamp
+iter33_cv_split2,hamp,moon,support,price,escap,expect,far,pullback,hope,probabl
+iter33_cv_split3,hamp,escap,price,moon,expect,escap downtrend,far,downtrend,price level,mayb
+iter33_cv_split4,moon,escap,hamp,escap downtrend,price,downtrend,hope,price level,exampl,probabl
+iter33_cv_split5,hamp,moon,price,escap,price level,probabl,resist,exampl,pullback,mayb
+iter34_cv_split1,hamp,escap,expect,escap downtrend,downtrend,price level,mayb,probabl,pullback,hamp confirm
+iter34_cv_split2,moon,escap,hamp,price,escap downtrend,far,price level,downtrend,hope,exampl
+iter34_cv_split3,hamp,moon,price,expect,far,support,hope,probabl,resist,price level
+iter34_cv_split4,moon,escap,resist,hamp,escap downtrend,far,downtrend,hope,pullback,exampl
+iter34_cv_split5,price,support,escap,escap downtrend,expect,hope,downtrend,price level,resist,pullback
+iter35_cv_split1,hamp,expect,escap,escap downtrend,far,support,price level,hope,downtrend,exampl
+iter35_cv_split2,hamp,escap,moon,resist,price,escap downtrend,downtrend,far,expect,support
+iter35_cv_split3,escap,hamp,moon,escap downtrend,downtrend,exampl,probabl,mayb,oversold,price
+iter35_cv_split4,hamp,moon,resist,support,escap,hope,exampl,pullback,mayb,hamp confirm
+iter35_cv_split5,moon,price,far,escap,price level,probabl,hope,pullback,hamp,rsi
+iter36_cv_split1,moon,escap,hamp,far,escap downtrend,hope,downtrend,exampl,mayb,expect return
+iter36_cv_split2,resist,moon,far,hope,exampl,pullback,volum,hamp,oversold,rsi
+iter36_cv_split3,hamp,escap,moon,escap downtrend,price,expect,resist,downtrend,pullback,price level
+iter36_cv_split4,hamp,escap,resist,escap downtrend,far,downtrend,price level,probabl,mayb,pullback
+iter36_cv_split5,moon,hamp,support,price,far,expect,escap,price level,exampl,hope
+iter37_cv_split1,moon,escap,hamp,support,escap downtrend,far,price,downtrend,expect,hope
+iter37_cv_split2,hamp,price,far,expect,escap downtrend,escap,downtrend,price level,exampl,mayb
+iter37_cv_split3,hamp,escap,resist,moon,support,escap downtrend,far,downtrend,hope,exampl
+iter37_cv_split4,moon,hamp,price,price level,probabl,mayb,exampl,pullback,rsi,volum
+iter37_cv_split5,escap,resist,hamp,moon,escap downtrend,downtrend,hope,probabl,pullback,mayb
+iter38_cv_split1,hamp,moon,escap,far,price level,hope,exampl,probabl,pullback,resist
+iter38_cv_split2,moon,hamp,resist,far,escap,probabl,hope,pullback,exampl,mayb
+iter38_cv_split3,hamp,escap,resist,expect,escap downtrend,far,downtrend,mayb,pullback,hamp confirm
+iter38_cv_split4,resist,hamp,price,moon,escap downtrend,escap,support,downtrend,far,expect
+iter38_cv_split5,moon,escap,hamp,price,expect,escap downtrend,price level,downtrend,exampl,probabl
+iter39_cv_split1,moon,escap,far,escap downtrend,hope,downtrend,probabl,exampl,pullback,rsi
+iter39_cv_split2,resist,hamp,moon,escap,escap downtrend,support,price,expect,downtrend,price level
+iter39_cv_split3,hamp,moon,resist,support,price,escap,far,expect,hope,price level
+iter39_cv_split4,hamp,escap,price,moon,support,escap downtrend,far,downtrend,hope,price level
+iter39_cv_split5,hamp,expect,escap,price level,exampl,mayb,probabl,pullback,hamp confirm,confirm
+iter40_cv_split1,escap,hamp,moon,support,expect,escap downtrend,downtrend,price level,hope,exampl
+iter40_cv_split2,hamp,moon,escap,resist,support,price,escap downtrend,expect,far,downtrend
+iter40_cv_split3,moon,escap,escap downtrend,pullback,downtrend,probabl,mayb,exampl,hamp,rsi
+iter40_cv_split4,hamp,escap,resist,expect,far,escap downtrend,downtrend,probabl,mayb,pullback
+iter40_cv_split5,hamp,price,moon,far,expect,support,price level,hope,mayb,hamp confirm
+iter41_cv_split1,moon,hamp,resist,escap,hope,probabl,exampl,pullback,mayb,rsi
+iter41_cv_split2,hamp,resist,far,support,expect,price level,exampl,hope,pullback,mayb
+iter41_cv_split3,escap,hamp,expect,price,escap downtrend,far,downtrend,price level,probabl,pullback
+iter41_cv_split4,moon,escap,hamp,escap downtrend,downtrend,exampl,mayb,pullback,probabl,volum
+iter41_cv_split5,hamp,moon,escap,support,price,escap downtrend,expect,far,downtrend,probabl
+iter42_cv_split1,hamp,support,moon,escap,price,resist,far,expect,probabl,price level
+iter42_cv_split2,hamp,escap,resist,moon,escap downtrend,far,expect,support,downtrend,hope
+iter42_cv_split3,moon,price,escap downtrend,escap,price level,downtrend,pullback,exampl,mayb,rsi
+iter42_cv_split4,hamp,moon,escap,support,escap downtrend,far,downtrend,hope,exampl,mayb
+iter42_cv_split5,hamp,resist,moon,escap,probabl,exampl,pullback,oversold,week,rsi
+iter43_cv_split1,moon,hamp,resist,far,escap,hope,probabl,mayb,exampl,pullback
+iter43_cv_split2,moon,price,escap,escap downtrend,far,downtrend,price level,hope,mayb,hamp
+iter43_cv_split3,escap,hamp,price,moon,expect,escap downtrend,downtrend,price level,pullback,probabl
+iter43_cv_split4,hamp,escap,moon,support,expect,escap downtrend,far,hope,downtrend,price level
+iter43_cv_split5,hamp,resist,moon,escap,far,expect,exampl,probabl,pullback,hamp confirm
+iter44_cv_split1,escap,hamp,moon,escap downtrend,far,downtrend,hope,pullback,resist,mayb
+iter44_cv_split2,hamp,moon,price,expect,escap,probabl,price level,resist,exampl,mayb
+iter44_cv_split3,escap,moon,escap downtrend,far,resist,downtrend,probabl,pullback,exampl,hamp
+iter44_cv_split4,hamp,moon,escap,price,far,escap downtrend,support,downtrend,hope,price level
+iter44_cv_split5,hamp,support,far,expect,hope,price level,exampl,mayb,volum,hamp confirm
+iter45_cv_split1,resist,hamp,escap,escap downtrend,downtrend,expect,price level,support,hope,exampl
+iter45_cv_split2,moon,price,far,escap,price level,probabl,hope,exampl,pullback,hamp
+iter45_cv_split3,hamp,escap,resist,moon,expect,far,escap downtrend,downtrend,pullback,probabl
+iter45_cv_split4,moon,escap,hamp,escap downtrend,resist,downtrend,exampl,pullback,rsi,oversold
+iter45_cv_split5,hamp,moon,price,support,far,escap,hope,price level,mayb,probabl
+iter46_cv_split1,hamp,moon,expect,support,escap,far,hope,exampl,mayb,hamp confirm
+iter46_cv_split2,moon,escap downtrend,escap,downtrend,mayb,resist,exampl,pullback,hamp,oversold
+iter46_cv_split3,escap,hamp,price,escap downtrend,far,expect,downtrend,price level,pullback,probabl
+iter46_cv_split4,moon,hamp,price,resist,escap,price level,hope,exampl,probabl,pullback
+iter46_cv_split5,hamp,escap,resist,moon,far,expect,escap downtrend,support,downtrend,hope
+iter47_cv_split1,hamp,escap,moon,resist,escap downtrend,expect,far,support,downtrend,hope
+iter47_cv_split2,resist,hamp,expect,price,support,downtrend,escap downtrend,escap,far,hope
+iter47_cv_split3,moon,escap,escap downtrend,hope,downtrend,probabl,exampl,hamp,oversold,rsi
+iter47_cv_split4,hamp,price,moon,expect,price level,probabl,exampl,mayb,hamp confirm,oversold
+iter47_cv_split5,moon,escap,hamp,price,escap downtrend,far,downtrend,price level,probabl,hope
+iter48_cv_split1,escap,hamp,resist,moon,escap downtrend,far,downtrend,hope,probabl,pullback
+iter48_cv_split2,hamp,moon,escap,expect,price,escap downtrend,downtrend,price level,probabl,exampl
+iter48_cv_split3,escap,hamp,moon,price,escap downtrend,price level,downtrend,mayb,exampl,probabl
+iter48_cv_split4,hamp,far,escap,escap downtrend,support,hope,expect,downtrend,price level,exampl
+iter48_cv_split5,moon,hamp,support,expect,resist,far,pullback,exampl,hope,hamp confirm
+iter49_cv_split1,moon,escap,resist,hamp,escap downtrend,far,downtrend,hope,probabl,mayb
+iter49_cv_split2,hamp,moon,escap,price,expect,escap downtrend,downtrend,price level,mayb,exampl
+iter49_cv_split3,price,escap downtrend,escap,price level,downtrend,pullback,hope,hamp,resist,support
+iter49_cv_split4,escap,hamp,moon,escap downtrend,far,support,hope,downtrend,price level,expect
+iter49_cv_split5,hamp,resist,moon,expect,far,exampl,probabl,mayb,pullback,hamp confirm
+iter50_cv_split1,moon,escap,resist,hamp,probabl,hope,pullback,support,accumul,oversold
+iter50_cv_split2,hamp,escap,resist,escap downtrend,far,price level,downtrend,exampl,pullback,expect
+iter50_cv_split3,moon,escap,hamp,escap downtrend,far,downtrend,hope,probabl,mayb,rsi
+iter50_cv_split4,resist,hamp,price,moon,support,expect,far,price level,hope,exampl
+iter50_cv_split5,hamp,moon,escap,price,escap downtrend,downtrend,price level,probabl,exampl,mayb
+iter51_cv_split1,hamp,moon,price,support,escap,probabl,price level,hope,mayb,resist
+iter51_cv_split2,moon,escap,escap downtrend,far,downtrend,resist,hope,exampl,mayb,probabl
+iter51_cv_split3,hamp,moon,escap downtrend,escap,far,expect,hope,downtrend,support,mayb
+iter51_cv_split4,hamp,price,expect,escap,probabl,price level,pullback,hamp confirm,rsi,volum
+iter51_cv_split5,hamp,escap,resist,moon,support,escap downtrend,expect,far,downtrend,price level
+iter52_cv_split1,escap,hamp,moon,escap downtrend,far,downtrend,hope,exampl,mayb,manag
+iter52_cv_split2,hamp,moon,escap,price,expect,escap downtrend,downtrend,price level,exampl,probabl
+iter52_cv_split3,resist,hamp,price,escap downtrend,escap,far,expect,downtrend,price level,exampl
+iter52_cv_split4,moon,escap,hamp,price,support,escap downtrend,far,downtrend,probabl,pullback
+iter52_cv_split5,resist,hamp,moon,far,hope,probabl,mayb,volum,pullback,oversold
+iter53_cv_split1,hamp,moon,escap,hope,exampl,pullback,probabl,mayb,resist,fund
+iter53_cv_split2,hamp,escap,moon,resist,price,escap downtrend,far,support,downtrend,expect
+iter53_cv_split3,escap,hamp,escap downtrend,downtrend,probabl,pullback,mayb,oversold,resist,volum
+iter53_cv_split4,moon,hamp,expect,support,price,far,escap,exampl,price level,hope
+iter53_cv_split5,hamp,moon,escap downtrend,escap,far,price,downtrend,support,hope,price level
+iter54_cv_split1,expect,price,support,escap downtrend,escap,far,downtrend,pullback,hope,price level
+iter54_cv_split2,moon,hamp,price,escap,price level,hope,exampl,resist,pullback,mayb
+iter54_cv_split3,escap,hamp,resist,far,escap downtrend,probabl,downtrend,exampl,mayb,pullback
+iter54_cv_split4,hamp,moon,escap,support,escap downtrend,far,downtrend,expect,hope,mayb
+iter54_cv_split5,hamp,moon,price,escap,price level,exampl,probabl,mayb,hamp confirm,oversold
+iter55_cv_split1,escap,hamp,moon,price,escap downtrend,far,expect,downtrend,price level,exampl
+iter55_cv_split2,hamp,moon,escap,price,support,escap downtrend,far,downtrend,price level,exampl
+iter55_cv_split3,resist,hamp,moon,support,expect,hope,mayb,pullback,hamp confirm,oversold
+iter55_cv_split4,hamp,escap,expect,escap downtrend,downtrend,price level,pullback,mayb,probabl,hamp confirm
+iter55_cv_split5,moon,far,escap,probabl,hope,volum,exampl,mayb,pullback,hamp
+iter56_cv_split1,moon,escap,hamp,escap downtrend,downtrend,pullback,probabl,exampl,rsi,scenario
+iter56_cv_split2,moon,escap,resist,hamp,escap downtrend,hope,downtrend,exampl,mayb,pullback
+iter56_cv_split3,hamp,moon,expect,price,far,support,escap,price level,hope,probabl
+iter56_cv_split4,support,escap,escap downtrend,expect,far,downtrend,price level,hope,exampl,hamp confirm
+iter56_cv_split5,hamp,resist,price,escap,far,expect,probabl,price level,pullback,mayb
+iter57_cv_split1,hamp,moon,resist,price,expect,far,support,escap,price level,exampl
+iter57_cv_split2,escap,hamp,moon,escap downtrend,far,downtrend,hope,mayb,probabl,rsi
+iter57_cv_split3,hamp,price,moon,far,escap,expect,price level,exampl,probabl,mayb
+iter57_cv_split4,escap,hamp,moon,support,far,escap downtrend,price level,downtrend,exampl,hope
+iter57_cv_split5,moon,escap downtrend,escap,downtrend,mayb,pullback,volum,hamp,rsi,resist
+iter58_cv_split1,hamp,moon,escap,escap downtrend,price,far,downtrend,expect,support,price level
+iter58_cv_split2,moon,price,far,escap,price level,exampl,probabl,hamp,expect return,fund manag
+iter58_cv_split3,moon,escap,hamp,escap downtrend,downtrend,probabl,exampl,mayb,pullback,resist
+iter58_cv_split4,hamp,escap,resist,support,escap downtrend,far,expect,hope,downtrend,price level
+iter58_cv_split5,resist,hamp,moon,support,far,hope,exampl,mayb,continu,hamp confirm
+iter59_cv_split1,moon,escap,escap downtrend,far,hope,downtrend,exampl,probabl,mayb,pullback
+iter59_cv_split2,hamp,escap,moon,price,support,escap downtrend,far,downtrend,price level,hope
+iter59_cv_split3,hamp,moon,escap,price,expect,resist,escap downtrend,price level,downtrend,pullback
+iter59_cv_split4,escap,escap downtrend,price,downtrend,moon,support,far,expect,price level,hope
+iter59_cv_split5,hamp,resist,expect,far,price level,probabl,exampl,mayb,pullback,hamp confirm
+iter60_cv_split1,moon,escap,hamp,resist,far,escap downtrend,hope,downtrend,exampl,pullback
+iter60_cv_split2,hamp,escap,moon,price,expect,escap downtrend,price level,downtrend,mayb,exampl
+iter60_cv_split3,resist,hamp,price,moon,support,expect,far,hope,price level,pullback
+iter60_cv_split4,moon,escap,hamp,escap downtrend,price,far,downtrend,price level,probabl,hope
+iter60_cv_split5,hamp,support,expect,far,escap,probabl,price level,hope,hamp confirm,market
+iter61_cv_split1,moon,escap,hamp,price,escap downtrend,expect,downtrend,price level,exampl,probabl
+iter61_cv_split2,escap,moon,far,escap downtrend,probabl,downtrend,exampl,mayb,hamp,rsi
+iter61_cv_split3,hamp,escap,resist,escap downtrend,expect,far,support,downtrend,price level,hope
+iter61_cv_split4,hamp,moon,resist,price,escap,support,hope,pullback,price level,mayb
+iter61_cv_split5,resist,support,hamp,moon,expect,far,hope,exampl,mayb,pullback
+iter62_cv_split1,moon,escap,hamp,resist,escap downtrend,far,downtrend,hope,exampl,mayb
+iter62_cv_split2,hamp,escap,resist,far,escap downtrend,downtrend,expect,probabl,pullback,price level
+iter62_cv_split3,escap,hamp,price,moon,escap downtrend,downtrend,price level,exampl,mayb,probabl
+iter62_cv_split4,expect,support,moon,price,far,price level,hope,hamp confirm,volum,oversold
+iter62_cv_split5,hamp,moon,price,escap,expect,price level,pullback,exampl,probabl,resist
+iter63_cv_split1,hamp,resist,moon,expect,price,far,escap,price level,pullback,exampl
+iter63_cv_split2,resist,hamp,moon,support,escap downtrend,escap,far,price,downtrend,hope
+iter63_cv_split3,moon,probabl,escap,exampl,pullback,volum,rsi,accumul,continu,return
+iter63_cv_split4,hamp,escap,moon,escap downtrend,far,support,downtrend,expect,hope,price level
+iter63_cv_split5,hamp,escap,moon,support,escap downtrend,expect,downtrend,hope,mayb,probabl
+iter64_cv_split1,moon,price,escap,escap downtrend,far,downtrend,price level,hope,exampl,mayb
+iter64_cv_split2,hamp,moon,escap,escap downtrend,support,far,downtrend,hope,expect,probabl
+iter64_cv_split3,escap,hamp,moon,expect,escap downtrend,downtrend,probabl,price level,exampl,pullback
+iter64_cv_split4,moon,hamp,escap,far,resist,hope,mayb,exampl,volum,oversold
+iter64_cv_split5,hamp,resist,price,escap,expect,price level,probabl,mayb,pullback,hamp confirm
+iter65_cv_split1,hamp,escap,resist,support,escap downtrend,far,downtrend,expect,price level,pullback
+iter65_cv_split2,hamp,moon,resist,support,price,far,escap,expect,price level,hope
+iter65_cv_split3,hamp,moon,escap,expect,escap downtrend,downtrend,volum,exampl,probabl,mayb
+iter65_cv_split4,price,expect,far,escap,escap downtrend,price level,downtrend,exampl,hamp confirm,oversold
+iter65_cv_split5,moon,far,escap,probabl,hope,exampl,mayb,hamp,rsi,market
+iter66_cv_split1,hamp,moon,resist,price,support,escap,far,price level,hope,pullback
+iter66_cv_split2,escap,hamp,moon,escap downtrend,resist,price level,downtrend,hope,probabl,exampl
+iter66_cv_split3,resist,far,escap downtrend,escap,downtrend,exampl,mayb,pullback,oversold,hamp
+iter66_cv_split4,escap,hamp,moon,expect,escap downtrend,downtrend,probabl,pullback,hamp confirm,oversold
+iter66_cv_split5,hamp,moon,support,expect,price,far,escap,hope,price level,probabl
+iter67_cv_split1,resist,hamp,escap,escap downtrend,expect,support,far,downtrend,price level,hope
+iter67_cv_split2,hamp,moon,escap,escap downtrend,price,support,far,downtrend,hope,price level
+iter67_cv_split3,moon,hamp,price,expect,escap,price level,probabl,exampl,pullback,hamp confirm
+iter67_cv_split4,hamp,resist,moon,far,escap,hope,probabl,mayb,pullback,oversold
+iter67_cv_split5,escap,hamp,moon,escap downtrend,far,downtrend,mayb,exampl,probabl,fund
+iter68_cv_split1,hamp,escap,resist,moon,price,escap downtrend,far,expect,downtrend,price level
+iter68_cv_split2,moon,escap,hamp,escap downtrend,downtrend,probabl,exampl,pullback,hamp confirm,rsi
+iter68_cv_split3,hamp,moon,price,support,expect,price level,hope,probabl,mayb,hamp confirm
+iter68_cv_split4,moon,escap,far,escap downtrend,downtrend,hope,probabl,exampl,hamp,rsi
+iter68_cv_split5,resist,hamp,escap,escap downtrend,support,far,downtrend,expect,price level,mayb
+iter69_cv_split1,moon,escap,hamp,escap downtrend,hope,downtrend,probabl,mayb,resist,oversold
+iter69_cv_split2,hamp,escap,expect,escap downtrend,downtrend,price level,probabl,pullback,hamp confirm,volum
+iter69_cv_split3,moon,hamp,price,far,support,price level,pullback,hope,exampl,probabl
+iter69_cv_split4,resist,hamp,moon,escap,escap downtrend,support,expect,far,downtrend,pullback
+iter69_cv_split5,escap,hamp,moon,escap downtrend,price,downtrend,far,probabl,price level,exampl
+iter70_cv_split1,moon,escap,far,escap downtrend,downtrend,hope,exampl,probabl,hamp,pullback
+iter70_cv_split2,hamp,moon,expect,support,far,escap,price level,hope,probabl,exampl
+iter70_cv_split3,hamp,escap,resist,moon,price,escap downtrend,downtrend,expect,price level,pullback
+iter70_cv_split4,hamp,resist,moon,escap,far,probabl,hope,mayb,pullback,oversold
+iter70_cv_split5,hamp,moon,price,escap,escap downtrend,expect,downtrend,price level,exampl,mayb
+iter71_cv_split1,hamp,moon,resist,support,price,expect,escap,hope,price level,exampl
+iter71_cv_split2,resist,moon,far,hope,exampl,pullback,hamp,oversold,rsi,accumul
+iter71_cv_split3,hamp,escap,resist,escap downtrend,far,downtrend,probabl,pullback,mayb,hamp confirm
+iter71_cv_split4,moon,escap,hamp,price,expect,escap downtrend,price level,downtrend,pullback,probabl
+iter71_cv_split5,moon,escap,hamp,escap downtrend,price,far,downtrend,hope,price level,mayb
+iter72_cv_split1,hamp,moon,escap,escap downtrend,price,price level,downtrend,pullback,mayb,probabl
+iter72_cv_split2,resist,hamp,price,expect,far,price level,mayb,pullback,oversold,hamp confirm
+iter72_cv_split3,escap,hamp,moon,support,expect,escap downtrend,far,downtrend,hope,exampl
+iter72_cv_split4,escap,hamp,price,moon,escap downtrend,downtrend,hope,price level,mayb,probabl
+iter72_cv_split5,moon,hamp,far,escap,hope,probabl,exampl,oversold,resist,week
+iter73_cv_split1,resist,escap downtrend,escap,downtrend,exampl,mayb,pullback,hamp,oversold,rsi
+iter73_cv_split2,moon,escap,hamp,price,escap downtrend,downtrend,price level,probabl,mayb,continu
+iter73_cv_split3,hamp,moon,price,far,expect,escap,support,price level,probabl,hope
+iter73_cv_split4,escap,hamp,support,escap downtrend,far,downtrend,price level,hope,probabl,pullback
+iter73_cv_split5,hamp,moon,resist,support,escap,far,expect,probabl,hope,exampl
+iter74_cv_split1,escap,hamp,resist,moon,escap downtrend,downtrend,hope,probabl,mayb,pullback
+iter74_cv_split2,moon,price,escap,escap downtrend,far,downtrend,hope,price level,resist,exampl
+iter74_cv_split3,hamp,escap,escap downtrend,far,expect,downtrend,price level,probabl,exampl,resist
+iter74_cv_split4,hamp,moon,price,support,expect,far,escap,price level,mayb,exampl
+iter74_cv_split5,moon,hamp,expect,escap,pullback,exampl,probabl,hamp confirm,rsi,oversold
+iter75_cv_split1,escap,hamp,escap downtrend,far,support,price level,hope,downtrend,probabl,pullback
+iter75_cv_split2,hamp,moon,escap,escap downtrend,price,expect,downtrend,price level,probabl,hamp confirm
+iter75_cv_split3,moon,hamp,price,far,escap,probabl,price level,hope,exampl,mayb
+iter75_cv_split4,hamp,escap,resist,moon,expect,escap downtrend,downtrend,exampl,pullback,probabl
+iter75_cv_split5,moon,far,volum,hope,exampl,mayb,oversold,resist,hamp,support
+iter76_cv_split1,moon,escap,hamp,resist,escap downtrend,downtrend,far,hope,exampl,pullback
+iter76_cv_split2,moon,hamp,support,far,expect,probabl,pullback,hope,exampl,resist
+iter76_cv_split3,hamp,escap,resist,price,expect,escap downtrend,far,price level,downtrend,probabl
+iter76_cv_split4,hamp,escap,moon,expect,escap downtrend,downtrend,probabl,price level,mayb,hamp confirm
+iter76_cv_split5,price,moon,escap downtrend,escap,far,hope,downtrend,price level,mayb,exampl
+iter77_cv_split1,resist,price,hamp,moon,far,expect,support,hope,price level,exampl
+iter77_cv_split2,escap,hamp,price,expect,escap downtrend,pullback,resist,downtrend,price level,probabl
+iter77_cv_split3,moon,hamp,resist,escap,far,hope,probabl,exampl,mayb,support
+iter77_cv_split4,hamp,moon,escap,price,expect,escap downtrend,downtrend,probabl,price level,rsi
+iter77_cv_split5,escap,hamp,moon,escap downtrend,far,downtrend,hope,price level,mayb,probabl
+iter78_cv_split1,hamp,escap,price,moon,escap downtrend,downtrend,probabl,price level,mayb,level
+iter78_cv_split2,hamp,moon,resist,support,expect,price,far,escap,price level,pullback
+iter78_cv_split3,hamp,resist,moon,escap,far,expect,support,hope,price level,exampl
+iter78_cv_split4,price,escap,escap downtrend,far,downtrend,expect,price level,pullback,hamp confirm,rsi
+iter78_cv_split5,moon,escap,escap downtrend,downtrend,hope,probabl,exampl,mayb,rsi,hamp
+iter79_cv_split1,moon,hamp,price,escap,price level,hope,exampl,probabl,mayb,volum
+iter79_cv_split2,hamp,escap,moon,price,escap downtrend,downtrend,probabl,price level,mayb,hamp confirm
+iter79_cv_split3,escap,moon,far,escap downtrend,resist,hope,downtrend,exampl,probabl,hamp
+iter79_cv_split4,hamp,moon,resist,support,expect,escap,price,far,hope,price level
+iter79_cv_split5,resist,hamp,escap,escap downtrend,far,downtrend,expect,exampl,pullback,hamp confirm
+iter80_cv_split1,resist,support,price,hamp,escap downtrend,escap,far,downtrend,price level,hope
+iter80_cv_split2,moon,escap,hamp,price,far,escap downtrend,price level,downtrend,hope,exampl
+iter80_cv_split3,hamp,moon,support,expect,far,probabl,hope,price level,resist,exampl
+iter80_cv_split4,moon,escap,escap downtrend,downtrend,probabl,hamp,exampl,pullback,oversold,rsi
+iter80_cv_split5,hamp,escap,resist,moon,expect,escap downtrend,far,downtrend,mayb,pullback
+iter81_cv_split1,moon,escap,hamp,support,expect,escap downtrend,far,price,downtrend,pullback
+iter81_cv_split2,hamp,price,escap,escap downtrend,far,expect,downtrend,price level,exampl,mayb
+iter81_cv_split3,hamp,resist,price,moon,escap,support,price level,hope,probabl,pullback
+iter81_cv_split4,moon,escap,far,resist,hope,probabl,hamp,pullback,exampl,mayb
+iter81_cv_split5,hamp,moon,escap,expect,escap downtrend,downtrend,mayb,exampl,hamp confirm,oversold
+iter82_cv_split1,resist,hamp,moon,escap downtrend,escap,price,far,support,expect,pullback
+iter82_cv_split2,moon,escap,escap downtrend,hope,downtrend,exampl,mayb,probabl,hamp,rsi
+iter82_cv_split3,hamp,resist,support,escap,far,price level,hope,mayb,probabl,pullback
+iter82_cv_split4,hamp,escap,price,moon,expect,escap downtrend,price level,downtrend,exampl,mayb
+iter82_cv_split5,moon,hamp,expect,support,escap,far,hope,probabl,pullback,resist
+iter83_cv_split1,escap,hamp,support,moon,price,escap downtrend,far,resist,probabl,hope
+iter83_cv_split2,escap,hamp,moon,escap downtrend,far,downtrend,probabl,mayb,exampl,oversold
+iter83_cv_split3,moon,price,escap downtrend,escap,price level,downtrend,exampl,pullback,mayb,hamp
+iter83_cv_split4,hamp,moon,expect,far,escap,support,price level,hope,mayb,hamp confirm
+iter83_cv_split5,hamp,moon,resist,escap,far,expect,support,hope,exampl,pullback
+iter84_cv_split1,escap,moon,far,escap downtrend,hope,downtrend,mayb,resist,hamp,pullback
+iter84_cv_split2,hamp,moon,escap downtrend,escap,downtrend,expect,far,support,hope,volum
+iter84_cv_split3,hamp,escap,resist,escap downtrend,far,downtrend,pullback,price level,exampl,probabl
+iter84_cv_split4,moon,hamp,support,price,escap,expect,hope,probabl,exampl,price level
+iter84_cv_split5,hamp,moon,price,expect,escap,probabl,price level,mayb,exampl,pullback
+iter85_cv_split1,moon,escap,hamp,escap downtrend,price,downtrend,pullback,price level,exampl,probabl
+iter85_cv_split2,price,far,price level,hope,resist,pullback,mayb,rsi,hamp,volum
+iter85_cv_split3,moon,hamp,resist,far,escap,hope,mayb,pullback,oversold,accumul
+iter85_cv_split4,hamp,escap,escap downtrend,far,downtrend,expect,price level,exampl,volum,probabl
+iter85_cv_split5,hamp,moon,escap,support,expect,escap downtrend,downtrend,hope,probabl,exampl
+iter86_cv_split1,hamp,expect,price level,mayb,exampl,resist,pullback,hamp confirm,continu,volum
+iter86_cv_split2,hamp,escap,resist,price,moon,escap downtrend,expect,far,downtrend,price level
+iter86_cv_split3,hamp,moon,price,escap,far,price level,hope,probabl,mayb,manag
+iter86_cv_split4,hamp,moon,escap,resist,price,support,escap downtrend,hope,downtrend,price level
+iter86_cv_split5,moon,escap,far,escap downtrend,downtrend,hope,probabl,hamp,oversold,rsi
+iter87_cv_split1,hamp,moon,escap,price,support,far,escap downtrend,expect,price level,downtrend
+iter87_cv_split2,escap,hamp,moon,escap downtrend,downtrend,price level,pullback,probabl,exampl,mayb
+iter87_cv_split3,moon,far,escap,hope,probabl,hamp,exampl,oversold,accumul,continu
+iter87_cv_split4,resist,hamp,expect,far,mayb,pullback,hamp confirm,rsi,oversold,confirm
+iter87_cv_split5,hamp,escap,resist,moon,price,escap downtrend,downtrend,support,hope,price level
+iter88_cv_split1,escap,moon,escap downtrend,price level,downtrend,exampl,pullback,hamp,volum,continu
+iter88_cv_split2,hamp,moon,escap,escap downtrend,expect,support,downtrend,resist,hope,exampl
+iter88_cv_split3,hamp,resist,price,moon,far,expect,escap,price level,exampl,probabl
+iter88_cv_split4,hamp,moon,expect,price,far,support,hope,price level,hamp confirm,oversold
+iter88_cv_split5,escap,resist,hamp,moon,escap downtrend,far,downtrend,probabl,hope,mayb
+iter89_cv_split1,hamp,expect,moon,escap,price level,exampl,probabl,pullback,hamp confirm,resist
+iter89_cv_split2,hamp,price,far,escap,price level,probabl,resist,mayb,hamp confirm,level
+iter89_cv_split3,resist,moon,escap downtrend,escap,far,downtrend,hope,mayb,exampl,pullback
+iter89_cv_split4,moon,escap,hamp,support,expect,escap downtrend,far,downtrend,hope,exampl
+iter89_cv_split5,moon,escap,hamp,price,escap downtrend,hope,downtrend,price level,pullback,resist
+iter90_cv_split1,expect,hamp,escap downtrend,escap,resist,downtrend,exampl,pullback,mayb,hamp confirm
+iter90_cv_split2,hamp,resist,support,far,escap,expect,probabl,price level,pullback,hope
+iter90_cv_split3,escap,moon,escap downtrend,far,downtrend,hope,pullback,exampl,hamp,resist
+iter90_cv_split4,moon,hamp,price,escap,support,price level,hope,exampl,probabl,mayb
+iter90_cv_split5,moon,escap,hamp,price,escap downtrend,far,downtrend,price level,hope,probabl
+iter91_cv_split1,hamp,moon,escap,price,expect,escap downtrend,far,support,downtrend,probabl
+iter91_cv_split2,escap,moon,hamp,escap downtrend,far,downtrend,hope,probabl,exampl,resist
+iter91_cv_split3,hamp,resist,moon,support,expect,escap,hope,probabl,mayb,pullback
+iter91_cv_split4,moon,expect,price,escap downtrend,escap,downtrend,price level,exampl,pullback,hamp confirm
+iter91_cv_split5,hamp,far,escap,price level,probabl,exampl,resist,pullback,mayb,continu
+iter92_cv_split1,hamp,moon,expect,far,escap,support,price level,probabl,hope,pullback
+iter92_cv_split2,hamp,resist,moon,escap,far,probabl,exampl,pullback,oversold,rsi
+iter92_cv_split3,moon,price,escap,escap downtrend,far,resist,downtrend,hope,price level,mayb
+iter92_cv_split4,hamp,moon,escap,price,escap downtrend,downtrend,price level,probabl,exampl,mayb
+iter92_cv_split5,hamp,escap,moon,support,escap downtrend,expect,far,downtrend,hope,mayb
+iter93_cv_split1,hamp,moon,escap,expect,escap downtrend,resist,downtrend,exampl,probabl,pullback
+iter93_cv_split2,moon,escap,hamp,price,escap downtrend,far,downtrend,resist,price level,mayb
+iter93_cv_split3,hamp,resist,support,far,escap,hope,price level,probabl,pullback,mayb
+iter93_cv_split4,escap downtrend,escap,moon,far,downtrend,hope,volum,exampl,oversold,rsi
+iter93_cv_split5,hamp,moon,price,expect,escap,price level,exampl,probabl,mayb,hamp confirm
+iter94_cv_split1,hamp,moon,expect,price,escap,probabl,pullback,price level,hamp confirm,resist
+iter94_cv_split2,hamp,escap,moon,price,escap downtrend,far,downtrend,price level,hope,support
+iter94_cv_split3,hamp,resist,moon,escap,far,expect,support,price level,hope,probabl
+iter94_cv_split4,hamp,price,escap downtrend,escap,expect,downtrend,price level,exampl,mayb,resist
+iter94_cv_split5,moon,escap,far,escap downtrend,downtrend,hope,probabl,exampl,pullback,rsi
+iter95_cv_split1,hamp,escap,resist,escap downtrend,far,expect,price level,downtrend,exampl,pullback
+iter95_cv_split2,moon,far,escap,hope,probabl,hamp,oversold,expect,continu,price
+iter95_cv_split3,hamp,moon,escap,support,far,escap downtrend,downtrend,price,expect,price level
+iter95_cv_split4,hamp,moon,expect,exampl,mayb,hamp confirm,pullback,resist,rsi,oversold
+iter95_cv_split5,escap,hamp,moon,price,escap downtrend,far,downtrend,price level,hope,pullback
+iter96_cv_split1,moon,escap,escap downtrend,far,hope,downtrend,probabl,pullback,hamp,oversold
+iter96_cv_split2,hamp,escap,expect,escap downtrend,far,price level,downtrend,exampl,resist,mayb
+iter96_cv_split3,hamp,moon,price,expect,price level,probabl,exampl,mayb,hamp confirm,continu
+iter96_cv_split4,moon,price,escap downtrend,escap,downtrend,far,price level,hope,exampl,mayb
+iter96_cv_split5,hamp,escap,resist,escap downtrend,moon,price,expect,downtrend,far,support
+iter97_cv_split1,escap,hamp,moon,escap downtrend,expect,downtrend,pullback,probabl,hamp confirm,rsi
+iter97_cv_split2,moon,hamp,escap,resist,price,escap downtrend,downtrend,support,price level,mayb
+iter97_cv_split3,hamp,resist,moon,support,far,expect,escap,hope,price level,exampl
+iter97_cv_split4,escap,hamp,moon,far,escap downtrend,downtrend,probabl,exampl,mayb,resist
+iter97_cv_split5,price,moon,far,price level,hope,exampl,hamp,expect return,manag expect,manag
+iter98_cv_split1,hamp,moon,escap,price,escap downtrend,support,downtrend,far,hope,mayb
+iter98_cv_split2,hamp,escap,resist,escap downtrend,price,expect,downtrend,probabl,price level,pullback
+iter98_cv_split3,moon,price,support,far,expect,volum,price level,hope,exampl,pullback
+iter98_cv_split4,hamp,moon,expect,escap,price level,exampl,probabl,mayb,hamp confirm,level
+iter98_cv_split5,moon,escap,escap downtrend,far,hope,downtrend,resist,exampl,mayb,hamp
+iter99_cv_split1,hamp,moon,resist,price,far,escap,support,expect,price level,hope
+iter99_cv_split2,resist,moon,escap downtrend,escap,far,downtrend,hope,mayb,pullback,exampl
+iter99_cv_split3,hamp,escap,price,escap downtrend,expect,downtrend,price level,probabl,mayb,hamp confirm
+iter99_cv_split4,moon,escap,hamp,price,escap downtrend,far,hope,price level,downtrend,mayb
+iter99_cv_split5,hamp,moon,support,expect,escap,hope,probabl,exampl,resist,pullback
+iter100_cv_split1,resist,hamp,price,expect,far,escap,escap downtrend,downtrend,price level,mayb
+iter100_cv_split2,escap,hamp,moon,support,escap downtrend,far,downtrend,expect,hope,pullback
+iter100_cv_split3,hamp,moon,escap,expect,escap downtrend,downtrend,exampl,probabl,mayb,hamp confirm
+iter100_cv_split4,moon,escap,escap downtrend,far,resist,downtrend,hope,mayb,exampl,probabl
+iter100_cv_split5,hamp,moon,support,price,far,expect,probabl,hope,price level,rsi

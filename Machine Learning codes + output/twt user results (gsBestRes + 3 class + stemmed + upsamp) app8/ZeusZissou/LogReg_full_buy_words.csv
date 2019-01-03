@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,bull,time,close,soon,rsi,bullish,look,breakout,div,huge
+iter1_cv_split2,bull,look,close,dip,huge,div,volum,cloud,time,breakout
+iter1_cv_split3,bull,look,close,cloud,time,soon,dip,div,huge,bull div
+iter1_cv_split4,bull,close,dip,look,cloud,rsi,bullish,volum,broke,bull div
+iter1_cv_split5,look,bull,close,huge,time,breakout,dip,bullish,volum,rsi
+iter2_cv_split1,bull,close,look,time,dip,huge,volum,breakout,bull div,rsi
+iter2_cv_split2,bull,close,look,huge,cloud,div,broke,trade,dip,bull div
+iter2_cv_split3,look,bull,close,rsi,dip,huge,time,breakout,soon,amp
+iter2_cv_split4,look,bull,close,cloud,volum,breakout,broke,bullish,dip,huge
+iter2_cv_split5,bull,close,dip,time,look,bullish,div,cloud,rsi,huge
+iter3_cv_split1,bull,close,look,time,dip,bullish,absolut,soon,huge,updat
+iter3_cv_split2,bull,look,bullish,close,breakout,volum,time,cloud,div,dip
+iter3_cv_split3,bull,close,look,dip,huge,cloud,rsi,div,broke,volum
+iter3_cv_split4,close,bull,huge,look,rsi,trade,break,cloud,market cap,time
+iter3_cv_split5,bull,look,close,time,dip,huge,rsi,div,volum,support
+iter4_cv_split1,bull,close,look,huge,time,div,support,broke,bull div,rsi
+iter4_cv_split2,bull,dip,cloud,close,look,soon,volum,breakout,div,huge
+iter4_cv_split3,look,close,bull,dip,cloud,bullish,rsi,broke,target,market cap
+iter4_cv_split4,bull,look,close,huge,div,rsi,dip,volum,soon,ico
+iter4_cv_split5,bull,close,look,time,cloud,breakout,rsi,dip,bullish,huge
+iter5_cv_split1,bull,close,time,dip,huge,cloud,rsi,look,soon,div
+iter5_cv_split2,bull,close,look,div,bullish,cloud,bull div,rsi,dip,volum
+iter5_cv_split3,bull,look,bullish,dip,time,rsi,cloud,broke,soon,div
+iter5_cv_split4,close,bull,look,huge,support,dip,eye,bull div,div,breakout
+iter5_cv_split5,close,look,bull,time,cloud,dip,bullish,huge,rsi,volum
+iter6_cv_split1,bull,look,huge,time,close,cloud,dip,volum,div,broke
+iter6_cv_split2,close,bull,look,dip,cloud,time,soon,breakout,bullish,rsi
+iter6_cv_split3,bull,look,huge,time,dip,volum,close,div,broke,bullish
+iter6_cv_split4,bull,close,huge,rsi,bullish,look,time,support,bull div,soon
+iter6_cv_split5,close,bull,look,dip,volum,cloud,rsi,breakout,div,huge
+iter7_cv_split1,bull,close,look,huge,dip,soon,time,rsi,div,cloud
+iter7_cv_split2,bull,close,time,look,div,cloud,dip,volum,huge,bull div
+iter7_cv_split3,bull,look,close,dip,bullish,breakout,cloud,div,soon,rsi
+iter7_cv_split4,close,bull,time,huge,cloud,rsi,look,dip,bullish,wedg
+iter7_cv_split5,bull,look,huge,close,broke,dip,support,updat,volum,ico
+iter8_cv_split1,bull,close,huge,look,bullish,time,div,dip,cloud,volum
+iter8_cv_split2,bull,close,look,huge,time,rsi,soon,eye,bullish,bull div
+iter8_cv_split3,bull,close,dip,look,time,cloud,rsi,bullish,trade,div
+iter8_cv_split4,bull,look,close,div,cloud,dip,huge,breakout,bull div,volum
+iter8_cv_split5,close,look,bull,dip,huge,rsi,wedg,soon,breakout,volum
+iter9_cv_split1,bull,look,close,time,trade,dip,cloud,soon,bullish,broke
+iter9_cv_split2,bull,look,close,huge,breakout,div,dip,time,soon,bull div
+iter9_cv_split3,bull,close,dip,rsi,cloud,huge,div,look,updat,breakout
+iter9_cv_split4,bull,look,dip,close,rsi,div,volum,bull div,cloud,broke
+iter9_cv_split5,bull,close,look,huge,bullish,time,cloud,rsi,broke,volum
+iter10_cv_split1,bull,look,time,close,div,huge,bull div,breakout,volum,hidden bull
+iter10_cv_split2,look,bull,close,cloud,rsi,dip,huge,time,bullish,broke
+iter10_cv_split3,bull,close,dip,cloud,look,volum,support,div,broke,bullish
+iter10_cv_split4,bull,look,close,dip,time,bullish,support,rsi,div,huge
+iter10_cv_split5,bull,close,look,huge,rsi,time,dip,breakout,trade,wedg
+iter11_cv_split1,bull,close,look,time,huge,rsi,broke,trade,cloud,bull flag
+iter11_cv_split2,bull,look,close,huge,dip,bullish,breakout,trade,div,volum
+iter11_cv_split3,close,bull,look,dip,rsi,soon,cloud,div,time,breakout
+iter11_cv_split4,bull,close,look,time,bullish,volum,dip,div,bull div,rsi
+iter11_cv_split5,bull,close,look,huge,dip,bullish,cloud,broke,div,rsi
+iter12_cv_split1,bull,close,time,dip,div,huge,look,bull div,rsi,breakout
+iter12_cv_split2,look,bull,close,huge,time,cloud,bullish,soon,breakout,volum
+iter12_cv_split3,bull,look,close,dip,cloud,soon,huge,bull flag,trade,time
+iter12_cv_split4,bull,close,look,huge,cloud,div,dip,volum,bull div,rsi
+iter12_cv_split5,bull,look,close,dip,time,rsi,div,bullish,cloud,bull div
+iter13_cv_split1,bull,close,rsi,cloud,look,dip,time,soon,broke,div
+iter13_cv_split2,bull,look,bullish,cloud,close,div,bull div,rsi,dip,hidden
+iter13_cv_split3,bull,look,time,dip,huge,close,rsi,breakout,love,target
+iter13_cv_split4,bull,close,look,huge,trade,dip,cloud,soon,bullish,support
+iter13_cv_split5,close,bull,look,time,huge,breakout,dip,volum,div,bullish
+iter14_cv_split1,bull,close,look,div,huge,time,bull div,dip,trade,soon
+iter14_cv_split2,bull,close,trade,dip,cloud,look,volum,bullish,time,rsi
+iter14_cv_split3,bull,huge,look,close,dip,rsi,cloud,bullish,time,absolut
+iter14_cv_split4,bull,look,close,volum,dip,cloud,time,div,breakout,bullish
+iter14_cv_split5,look,close,bull,huge,volum,bullish,breakout,time,rsi,cloud
+iter15_cv_split1,look,close,huge,dip,bull,div,volum,soon,trade,time
+iter15_cv_split2,bull,close,look,time,bullish,cloud,huge,bull flag,big,break
+iter15_cv_split3,bull,close,look,huge,volum,dip,bullish,broke,cloud,support
+iter15_cv_split4,bull,close,time,look,cloud,rsi,dip,div,huge,bull div
+iter15_cv_split5,bull,close,look,dip,rsi,volum,soon,breakout,time,div
+iter16_cv_split1,look,bull,close,volum,breakout,huge,time,rsi,dip,soon
+iter16_cv_split2,bull,close,look,dip,div,cloud,rsi,bullish,bull div,volum
+iter16_cv_split3,bull,close,look,huge,div,dip,bull div,rsi,time,soon
+iter16_cv_split4,bull,look,time,close,huge,div,love,volum,cloud,rsi
+iter16_cv_split5,close,bull,dip,bullish,look,cloud,breakout,time,volum,bull flag
+iter17_cv_split1,bull,close,huge,time,look,dip,div,cloud,bull div,rsi
+iter17_cv_split2,bull,close,look,dip,cloud,rsi,volum,time,breakout,broke
+iter17_cv_split3,bull,look,close,dip,div,bullish,bull div,broke,soon,rsi
+iter17_cv_split4,look,bull,close,huge,support,cloud,bullish,time,breakout,dip
+iter17_cv_split5,bull,close,look,time,bullish,huge,rsi,volum,div,dip
+iter18_cv_split1,bull,look,close,cloud,dip,volum,time,bullish,rsi,soon
+iter18_cv_split2,bull,close,time,look,bullish,dip,rsi,broke,div,market cap
+iter18_cv_split3,bull,look,close,cloud,huge,time,dip,bullish,breakout,trade
+iter18_cv_split4,bull,close,look,dip,huge,broke,bullish,cloud,support,updat
+iter18_cv_split5,bull,huge,close,div,breakout,soon,rsi,time,dip,look
+iter19_cv_split1,bull,close,cloud,dip,bullish,look,huge,ico,absolut,eye
+iter19_cv_split2,look,bull,close,time,rsi,div,trade,support,dip,soon
+iter19_cv_split3,bull,look,time,div,bullish,dip,huge,close,cloud,bull div
+iter19_cv_split4,bull,close,look,rsi,dip,volum,huge,breakout,soon,eye
+iter19_cv_split5,bull,close,look,time,huge,volum,cloud,dip,soon,rsi
+iter20_cv_split1,bull,close,look,cloud,dip,bullish,rsi,huge,time,support
+iter20_cv_split2,bull,close,look,div,time,bull div,bullish,rsi,broke,breakout
+iter20_cv_split3,close,bull,look,huge,cloud,dip,bullish,time,div,broke
+iter20_cv_split4,bull,close,huge,time,dip,look,bullish,div,bull div,rsi
+iter20_cv_split5,look,bull,dip,cloud,breakout,rsi,volum,soon,huge,close
+iter21_cv_split1,look,bull,close,huge,cloud,dip,trade,broke,soon,volum
+iter21_cv_split2,close,bull,look,time,rsi,div,huge,trade,dip,bull div
+iter21_cv_split3,close,bull,look,time,bullish,cloud,huge,dip,broke,soon
+iter21_cv_split4,bull,close,look,cloud,rsi,dip,div,volum,bullish,breakout
+iter21_cv_split5,bull,huge,look,support,dip,rsi,time,close,breakout,soon
+iter22_cv_split1,bull,close,look,time,huge,div,bull div,cloud,dip,bullish
+iter22_cv_split2,close,look,bull,dip,soon,cap,market cap,time,volum,rsi
+iter22_cv_split3,bull,look,close,dip,cloud,div,huge,soon,bull div,rsi
+iter22_cv_split4,bull,look,close,huge,bullish,cloud,bull div,div,rsi,broke
+iter22_cv_split5,bull,close,time,look,dip,huge,rsi,support,bullish,volum
+iter23_cv_split1,close,bull,look,dip,huge,soon,bullish,div,retest,eye
+iter23_cv_split2,bull,close,time,look,dip,div,soon,bullish,rsi,breakout
+iter23_cv_split3,bull,look,support,dip,huge,breakout,volum,close,bull div,rsi
+iter23_cv_split4,bull,close,look,volum,rsi,cloud,time,bullish,huge,dip
+iter23_cv_split5,bull,look,close,cloud,trade,dip,huge,rsi,div,soon
+iter24_cv_split1,bull,look,close,dip,huge,time,trade,volum,soon,updat
+iter24_cv_split2,bull,close,look,time,cloud,dip,broke,absolut,soon,trade
+iter24_cv_split3,bull,close,look,huge,cloud,dip,time,rsi,volum,div
+iter24_cv_split4,bull,look,close,huge,time,div,bullish,rsi,bull div,volum
+iter24_cv_split5,bull,close,look,dip,rsi,cloud,bullish,div,breakout,retest
+iter25_cv_split1,bull,look,time,dip,div,volum,breakout,close,bullish,bull div
+iter25_cv_split2,bull,dip,close,look,huge,cloud,div,time,rsi,bull flag
+iter25_cv_split3,close,bull,look,huge,cloud,soon,rsi,volum,broke,breakout
+iter25_cv_split4,close,bull,look,trade,time,cloud,rsi,bullish,breakout,huge
+iter25_cv_split5,bull,close,dip,look,rsi,time,huge,volum,div,updat
+iter26_cv_split1,bull,close,rsi,huge,trade,soon,time,look,dip,market cap
+iter26_cv_split2,bull,look,close,dip,cloud,div,trade,bull div,rsi,volum
+iter26_cv_split3,bull,look,div,huge,cloud,close,bull div,rsi,broke,volum
+iter26_cv_split4,look,close,bull,time,huge,bullish,dip,volum,ico,break
+iter26_cv_split5,bull,look,close,dip,huge,time,cloud,bullish,volum,breakout
+iter27_cv_split1,bull,close,look,cloud,bullish,volum,trade,broke,rsi,time
+iter27_cv_split2,look,dip,bull,close,huge,rsi,cloud,soon,resist,div
+iter27_cv_split3,bull,close,dip,huge,look,cloud,bullish,div,bull div,volum
+iter27_cv_split4,bull,close,look,time,div,huge,breakout,rsi,dip,bull div
+iter27_cv_split5,bull,time,look,rsi,breakout,volum,bullish,close,dip,soon
+iter28_cv_split1,bull,close,dip,look,huge,bullish,rsi,support,time,div
+iter28_cv_split2,close,bull,look,time,dip,breakout,rsi,div,huge,eye
+iter28_cv_split3,bull,close,look,huge,volum,dip,time,trade,cloud,div
+iter28_cv_split4,look,bull,time,close,rsi,volum,bullish,huge,soon,cloud
+iter28_cv_split5,bull,look,cloud,close,div,bull div,rsi,broke,breakout,soon
+iter29_cv_split1,bull,look,close,dip,volum,bullish,huge,trade,broke,cloud
+iter29_cv_split2,look,bull,huge,close,volum,breakout,target,dip,soon,flag
+iter29_cv_split3,bull,look,close,dip,bullish,time,soon,div,breakout,cloud
+iter29_cv_split4,bull,close,time,look,huge,cloud,rsi,dip,div,soon
+iter29_cv_split5,bull,close,look,cloud,bullish,dip,trade,bull div,time,rsi
+iter30_cv_split1,bull,look,cloud,close,time,div,rsi,updat,broke,volum
+iter30_cv_split2,close,bull,dip,rsi,look,soon,time,breakout,volum,huge
+iter30_cv_split3,bull,close,look,bullish,dip,div,soon,huge,bull flag,absolut
+iter30_cv_split4,bull,look,close,dip,huge,time,bull div,div,cloud,retest
+iter30_cv_split5,bull,look,close,huge,volum,cloud,div,time,bull div,bullish
+iter31_cv_split1,bull,close,look,rsi,dip,volum,cloud,bull div,broke,time
+iter31_cv_split2,bull,look,close,dip,huge,cloud,div,volum,breakout,time
+iter31_cv_split3,close,bull,look,time,dip,rsi,volum,eye,flag,bull flag
+iter31_cv_split4,bull,look,huge,bullish,close,div,cloud,time,bull div,dip
+iter31_cv_split5,look,close,bull,huge,soon,dip,time,amp,breakout,trade
+iter32_cv_split1,close,bull,dip,look,cloud,support,bullish,time,huge,broke
+iter32_cv_split2,bull,look,close,huge,rsi,time,volum,breakout,bull div,cloud
+iter32_cv_split3,bull,look,dip,huge,bullish,time,div,cloud,close,broke
+iter32_cv_split4,bull,close,rsi,look,time,soon,dip,trade,cloud,big
+iter32_cv_split5,bull,close,look,dip,rsi,div,huge,bull div,volum,soon
+iter33_cv_split1,bull,close,dip,look,bullish,huge,div,time,rsi,soon
+iter33_cv_split2,close,bull,dip,huge,look,cloud,rsi,breakout,volum,trade
+iter33_cv_split3,bull,look,close,huge,cloud,bullish,dip,div,time,bull div
+iter33_cv_split4,bull,look,close,volum,breakout,bull div,cloud,rsi,resist,div
+iter33_cv_split5,bull,time,look,soon,huge,cloud,trade,div,bullish,bull div
+iter34_cv_split1,bull,look,close,dip,bullish,div,time,huge,volum,broke
+iter34_cv_split2,bull,close,look,bullish,dip,breakout,rsi,absolut,time,huge
+iter34_cv_split3,bull,look,close,cloud,rsi,div,huge,bull div,dip,soon
+iter34_cv_split4,bull,huge,look,volum,dip,close,breakout,cloud,div,updat
+iter34_cv_split5,bull,close,look,time,trade,dip,bullish,cloud,broke,soon
+iter35_cv_split1,bull,close,time,dip,div,look,soon,love,bull div,bull flag
+iter35_cv_split2,bull,look,huge,cloud,dip,rsi,soon,updat,breakout,trade
+iter35_cv_split3,look,bull,close,huge,time,cloud,rsi,dip,volum,div
+iter35_cv_split4,bull,close,look,bullish,time,volum,rsi,broke,dip,huge
+iter35_cv_split5,bull,close,look,huge,dip,bullish,time,div,breakout,bull div
+iter36_cv_split1,bull,close,time,look,huge,cloud,bullish,trade,breakout,soon
+iter36_cv_split2,close,look,bull,huge,cloud,time,soon,support,bull div,dip
+iter36_cv_split3,bull,look,close,huge,cloud,dip,rsi,time,bullish,eye
+iter36_cv_split4,look,bull,dip,breakout,bullish,div,volum,love,bull div,rsi
+iter36_cv_split5,bull,close,dip,volum,div,rsi,look,bull div,updat,broke
+iter37_cv_split1,bull,look,huge,dip,div,volum,close,time,soon,breakout
+iter37_cv_split2,look,bull,close,rsi,dip,huge,bullish,cloud,div,market cap
+iter37_cv_split3,close,bull,look,dip,bullish,breakout,broke,volum,love,eye
+iter37_cv_split4,bull,look,huge,close,bullish,cloud,rsi,time,dip,div
+iter37_cv_split5,bull,close,time,look,huge,rsi,dip,bull div,cloud,div
+iter38_cv_split1,bull,look,close,dip,time,huge,bullish,soon,cloud,broke
+iter38_cv_split2,look,bull,dip,close,div,rsi,time,breakout,bull div,trade
+iter38_cv_split3,close,bull,look,time,huge,broke,cloud,volum,dip,soon
+iter38_cv_split4,bull,close,look,huge,cloud,bullish,rsi,breakout,market,bull flag
+iter38_cv_split5,bull,dip,div,huge,close,time,bull div,rsi,broke,look
+iter39_cv_split1,bull,close,dip,time,huge,cloud,rsi,div,look,bull div
+iter39_cv_split2,look,bull,close,time,dip,huge,volum,div,broke,soon
+iter39_cv_split3,bull,look,close,bullish,trade,div,broke,soon,dip,updat
+iter39_cv_split4,close,bull,look,time,rsi,cloud,volum,huge,breakout,dip
+iter39_cv_split5,bull,close,look,breakout,dip,soon,cloud,huge,bullish,time
+iter40_cv_split1,bull,close,look,dip,div,cloud,rsi,support,huge,bull div
+iter40_cv_split2,bull,close,look,div,bullish,time,broke,cloud,bull div,wedg
+iter40_cv_split3,bull,close,cloud,time,huge,dip,look,div,bullish,breakout
+iter40_cv_split4,bull,look,rsi,close,dip,soon,huge,trade,volum,updat
+iter40_cv_split5,look,close,bull,huge,time,dip,div,volum,bull div,bullish
+iter41_cv_split1,bull,close,look,cloud,time,dip,trade,soon,bullish,eye
+iter41_cv_split2,bull,look,close,cloud,div,time,breakout,dip,bull div,support
+iter41_cv_split3,bull,close,look,huge,rsi,div,cloud,bull div,dip,bullish
+iter41_cv_split4,bull,look,close,huge,soon,dip,broke,volum,breakout,rsi
+iter41_cv_split5,bull,look,time,close,huge,dip,cloud,rsi,bullish,updat
+iter42_cv_split1,look,close,trade,bullish,bull,huge,cloud,time,breakout,rsi
+iter42_cv_split2,bull,look,close,huge,cloud,time,bull div,dip,bullish,rsi
+iter42_cv_split3,bull,dip,look,close,huge,div,time,rsi,volum,bull flag
+iter42_cv_split4,bull,close,look,rsi,cloud,div,volum,soon,breakout,bull div
+iter42_cv_split5,bull,close,dip,look,time,div,bullish,bull div,broke,trade
+iter43_cv_split1,bull,close,dip,time,rsi,look,huge,volum,soon,absolut
+iter43_cv_split2,bull,look,close,volum,dip,huge,breakout,div,rsi,broke
+iter43_cv_split3,bull,look,close,huge,cloud,time,trade,bullish,breakout,soon
+iter43_cv_split4,bull,close,look,rsi,cloud,dip,div,huge,bullish,time
+iter43_cv_split5,bull,look,close,dip,time,cloud,div,big,bull flag,eye
+iter44_cv_split1,bull,close,dip,div,breakout,time,cloud,look,bull div,wedg
+iter44_cv_split2,bull,look,close,dip,huge,cloud,time,div,bullish,amp
+iter44_cv_split3,close,look,bull,dip,huge,soon,volum,broke,cloud,bullish
+iter44_cv_split4,bull,look,close,rsi,huge,breakout,volum,dip,div,soon
+iter44_cv_split5,bull,look,time,huge,close,rsi,bullish,div,cloud,broke
+iter45_cv_split1,bull,look,dip,support,huge,time,close,div,cloud,broke
+iter45_cv_split2,close,bull,look,huge,trade,dip,rsi,soon,volum,div
+iter45_cv_split3,bull,look,close,cloud,dip,rsi,time,bullish,soon,bull flag
+iter45_cv_split4,bull,close,look,time,huge,rsi,div,breakout,soon,bull div
+iter45_cv_split5,bull,close,look,dip,div,bull div,bullish,cloud,volum,time
+iter46_cv_split1,bull,look,huge,rsi,dip,close,cloud,soon,flag,bull flag
+iter46_cv_split2,bull,look,time,close,dip,volum,bullish,soon,cloud,breakout
+iter46_cv_split3,bull,close,look,time,huge,bull div,dip,div,volum,wedg
+iter46_cv_split4,bull,close,dip,huge,rsi,look,bullish,div,broke,soon
+iter46_cv_split5,close,bull,look,time,cloud,bullish,huge,rsi,div,dip
+iter47_cv_split1,bull,close,look,cloud,rsi,volum,div,huge,time,bull div
+iter47_cv_split2,close,bull,look,bullish,dip,cloud,soon,div,volum,hidden
+iter47_cv_split3,bull,close,look,time,dip,huge,rsi,broke,div,support
+iter47_cv_split4,bull,look,huge,dip,div,bullish,bull div,time,rsi,close
+iter47_cv_split5,look,bull,close,time,cloud,huge,dip,breakout,bullish,updat
+iter48_cv_split1,bull,look,close,dip,cloud,rsi,huge,breakout,time,trade
+iter48_cv_split2,bull,close,dip,look,rsi,div,time,bull flag,volum,love
+iter48_cv_split3,bull,look,close,cloud,time,soon,rsi,volum,bullish,updat
+iter48_cv_split4,bull,look,close,huge,support,bullish,breakout,time,volum,broke
+iter48_cv_split5,close,look,bull,dip,huge,time,cloud,broke,div,bullish
+iter49_cv_split1,bull,close,look,dip,div,time,rsi,bull div,volum,cloud
+iter49_cv_split2,bull,close,dip,look,huge,time,bullish,soon,breakout,cloud
+iter49_cv_split3,time,bull,look,close,trade,rsi,div,dip,bullish,breakout
+iter49_cv_split4,bull,look,huge,dip,bull div,cloud,rsi,close,updat,broke
+iter49_cv_split5,close,look,bull,trade,volum,cloud,huge,breakout,bullish,dip
+iter50_cv_split1,bull,close,time,dip,div,bull div,breakout,absolut,soon,huge
+iter50_cv_split2,bull,close,look,time,div,huge,bull div,cloud,broke,rsi
+iter50_cv_split3,bull,look,huge,dip,trade,close,cloud,rsi,div,volum
+iter50_cv_split4,bull,look,close,bullish,dip,breakout,rsi,cloud,soon,huge
+iter50_cv_split5,look,bull,close,volum,huge,dip,rsi,bullish,flag,bull flag
+iter51_cv_split1,look,bull,close,trade,dip,time,bullish,broke,huge,bull flag
+iter51_cv_split2,bull,look,close,dip,huge,cloud,time,support,rsi,volum
+iter51_cv_split3,bull,close,time,div,breakout,cloud,look,bull div,rsi,volum
+iter51_cv_split4,bull,close,look,bullish,dip,huge,div,bull div,rsi,cloud
+iter51_cv_split5,close,look,bull,cloud,huge,rsi,bullish,div,dip,time
+iter52_cv_split1,bull,close,look,dip,time,bullish,div,rsi,broke,huge
+iter52_cv_split2,bull,look,close,div,volum,bull div,cloud,bullish,soon,huge
+iter52_cv_split3,bull,close,look,cloud,dip,volum,breakout,broke,rsi,support
+iter52_cv_split4,bull,time,look,close,huge,dip,soon,rsi,div,bull div
+iter52_cv_split5,bull,look,close,time,huge,cloud,dip,rsi,soon,bullish
+iter53_cv_split1,bull,look,close,trade,cloud,dip,time,huge,div,breakout
+iter53_cv_split2,look,bull,close,dip,cloud,volum,soon,rsi,time,breakout
+iter53_cv_split3,bull,close,time,huge,look,rsi,dip,bullish,support,broke
+iter53_cv_split4,bull,close,huge,look,cloud,bullish,bull div,rsi,soon,div
+iter53_cv_split5,bull,look,time,close,dip,broke,breakout,div,soon,bullish
+iter54_cv_split1,bull,close,dip,huge,look,cloud,time,rsi,volum,div
+iter54_cv_split2,bull,close,look,time,bullish,huge,bull div,breakout,trade,support
+iter54_cv_split3,bull,look,rsi,time,dip,breakout,cloud,div,volum,close
+iter54_cv_split4,close,bull,look,cloud,huge,soon,dip,bullish,broke,updat
+iter54_cv_split5,bull,look,close,div,volum,bull div,dip,broke,time,bullish
+iter55_cv_split1,bull,close,look,huge,dip,time,cloud,div,bull div,bullish
+iter55_cv_split2,bull,look,close,dip,time,trade,div,rsi,cloud,bull div
+iter55_cv_split3,look,bull,close,huge,support,volum,dip,trade,rsi,cloud
+iter55_cv_split4,bull,close,div,breakout,time,bullish,soon,rsi,huge,look
+iter55_cv_split5,look,bull,close,rsi,dip,breakout,volum,bullish,huge,cloud
+iter56_cv_split1,close,bull,time,look,dip,bullish,huge,broke,rsi,volum
+iter56_cv_split2,bull,look,close,time,cloud,bullish,div,bull div,rsi,huge
+iter56_cv_split3,look,bull,close,dip,volum,rsi,div,trade,breakout,huge
+iter56_cv_split4,bull,look,close,huge,dip,div,volum,trade,rsi,cloud
+iter56_cv_split5,bull,close,dip,huge,cloud,broke,look,soon,breakout,bull flag
+iter57_cv_split1,look,close,bull,huge,dip,volum,rsi,cloud,soon,love
+iter57_cv_split2,close,bull,look,time,trade,bullish,huge,cloud,broke,breakout
+iter57_cv_split3,bull,close,dip,look,rsi,div,breakout,bullish,bull div,absolut
+iter57_cv_split4,bull,close,time,look,cloud,div,bullish,bull div,trade,huge
+iter57_cv_split5,bull,dip,huge,look,cloud,broke,updat,close,support,rsi
+iter58_cv_split1,bull,look,close,time,dip,cloud,rsi,huge,support,div
+iter58_cv_split2,bull,look,close,time,volum,div,rsi,dip,huge,breakout
+iter58_cv_split3,bull,close,look,bullish,cloud,target,dip,div,soon,trade
+iter58_cv_split4,bull,huge,breakout,soon,close,updat,cloud,look,bull div,eye
+iter58_cv_split5,close,look,bull,time,dip,huge,rsi,volum,cloud,bullish
+iter59_cv_split1,bull,look,dip,close,cloud,bullish,time,div,broke,rsi
+iter59_cv_split2,bull,look,close,div,time,huge,trade,bull div,dip,bullish
+iter59_cv_split3,bull,look,close,time,rsi,bullish,volum,cloud,soon,bull div
+iter59_cv_split4,close,bull,huge,look,breakout,volum,dip,broke,cloud,bull flag
+iter59_cv_split5,close,look,bull,dip,rsi,time,huge,soon,trade,updat
+iter60_cv_split1,bull,look,close,dip,huge,breakout,cloud,rsi,broke,volum
+iter60_cv_split2,look,bull,close,dip,huge,breakout,bullish,time,volum,broke
+iter60_cv_split3,bull,close,look,time,bull div,breakout,div,dip,rsi,volum
+iter60_cv_split4,bull,close,look,cloud,rsi,div,dip,bullish,volum,time
+iter60_cv_split5,bull,close,huge,cloud,look,time,bullish,ico,dip,soon
+iter61_cv_split1,bull,close,look,huge,cloud,rsi,dip,broke,div,updat
+iter61_cv_split2,bull,look,close,cloud,time,soon,bullish,volum,bull flag,run
+iter61_cv_split3,bull,close,look,dip,time,breakout,trade,bullish,div,huge
+iter61_cv_split4,close,look,dip,bull,huge,cloud,trade,div,bull div,time
+iter61_cv_split5,bull,close,look,time,rsi,volum,huge,breakout,bullish,broke
+iter62_cv_split1,look,bull,close,huge,time,div,cloud,support,dip,bull div
+iter62_cv_split2,bull,look,close,time,rsi,div,bullish,volum,bull div,cloud
+iter62_cv_split3,bull,look,close,rsi,volum,dip,huge,bullish,broke,time
+iter62_cv_split4,bull,close,look,dip,trade,bullish,cloud,rsi,div,time
+iter62_cv_split5,bull,close,dip,huge,div,look,cloud,time,bull div,broke
+iter63_cv_split1,look,bull,close,dip,cloud,rsi,breakout,huge,time,support
+iter63_cv_split2,bull,look,close,dip,cloud,volum,bullish,huge,div,broke
+iter63_cv_split3,bull,close,look,huge,bull div,time,div,rsi,soon,bullish
+iter63_cv_split4,bull,close,time,look,dip,rsi,huge,volum,bullish,broke
+iter63_cv_split5,bull,close,look,time,cloud,bullish,div,huge,bull div,breakout
+iter64_cv_split1,bull,close,look,huge,time,div,volum,support,bull div,rsi
+iter64_cv_split2,bull,close,dip,cloud,look,rsi,volum,time,bullish,broke
+iter64_cv_split3,look,bull,close,huge,volum,cloud,dip,div,breakout,bullish
+iter64_cv_split4,bull,time,close,dip,huge,cloud,breakout,div,bullish,rsi
+iter64_cv_split5,bull,look,close,dip,rsi,soon,bull flag,market cap,target,bullish
+iter65_cv_split1,bull,time,close,look,div,huge,bull div,rsi,bullish,broke
+iter65_cv_split2,bull,look,close,cloud,volum,dip,time,bull flag,soon,rsi
+iter65_cv_split3,bull,close,dip,huge,look,cloud,bullish,rsi,broke,volum
+iter65_cv_split4,bull,close,look,dip,rsi,div,huge,wedg,bull div,bullish
+iter65_cv_split5,bull,close,look,dip,time,huge,volum,breakout,cloud,soon
+iter66_cv_split1,look,close,bull,dip,support,time,rsi,cloud,updat,big
+iter66_cv_split2,bull,close,huge,look,rsi,bullish,broke,div,updat,volum
+iter66_cv_split3,bull,dip,close,huge,look,div,time,breakout,rsi,bull div
+iter66_cv_split4,close,bull,look,div,cloud,bull div,dip,time,bullish,hidden
+iter66_cv_split5,bull,look,time,huge,dip,bullish,close,trade,volum,cloud
+iter67_cv_split1,bull,look,support,close,huge,breakout,bullish,rsi,broke,dip
+iter67_cv_split2,bull,look,close,cloud,volum,div,dip,bull div,rsi,target
+iter67_cv_split3,bull,close,look,huge,div,dip,rsi,time,bull div,updat
+iter67_cv_split4,bull,close,time,look,dip,div,huge,bull div,absolut,bullish
+iter67_cv_split5,bull,look,close,dip,cloud,soon,rsi,time,bullish,volum
+iter68_cv_split1,bull,look,dip,breakout,close,volum,rsi,cloud,updat,huge
+iter68_cv_split2,bull,close,look,dip,huge,time,broke,div,cloud,trade
+iter68_cv_split3,bull,close,look,huge,div,cloud,volum,time,bull div,soon
+iter68_cv_split4,bull,look,close,rsi,time,cloud,div,bull div,dip,huge
+iter68_cv_split5,close,bull,look,time,bullish,dip,huge,volum,rsi,breakout
+iter69_cv_split1,bull,look,close,huge,dip,div,time,market cap,eye,bull div
+iter69_cv_split2,bull,look,close,huge,cloud,bull div,rsi,volum,soon,div
+iter69_cv_split3,look,close,bull,dip,cloud,bullish,soon,rsi,updat,broke
+iter69_cv_split4,bull,close,look,time,trade,cloud,bullish,rsi,volum,dip
+iter69_cv_split5,bull,close,time,dip,look,huge,div,bull div,breakout,rsi
+iter70_cv_split1,bull,close,look,huge,rsi,time,volum,dip,div,breakout
+iter70_cv_split2,close,bull,huge,look,time,breakout,rsi,cloud,soon,trade
+iter70_cv_split3,bull,dip,look,close,bullish,div,broke,cloud,bull div,rsi
+iter70_cv_split4,bull,look,close,time,dip,div,volum,bullish,bull div,broke
+iter70_cv_split5,look,close,dip,huge,bull,cloud,soon,rsi,volum,time
+iter71_cv_split1,bull,look,volum,close,broke,dip,huge,bull flag,absolut,breakout
+iter71_cv_split2,close,bull,time,look,cloud,huge,volum,dip,breakout,rsi
+iter71_cv_split3,bull,close,cloud,look,div,bullish,time,bull div,breakout,rsi
+iter71_cv_split4,look,close,bull,dip,huge,time,trade,broke,rsi,bull flag
+iter71_cv_split5,bull,look,close,huge,div,cloud,bullish,rsi,dip,time
+iter72_cv_split1,bull,close,look,dip,rsi,time,cloud,volum,div,soon
+iter72_cv_split2,bull,close,look,time,huge,cloud,bullish,wedg,trade,breakout
+iter72_cv_split3,bull,close,look,dip,trade,huge,cloud,volum,flag,bull flag
+iter72_cv_split4,bull,close,look,rsi,dip,div,bullish,huge,time,bull div
+iter72_cv_split5,look,bull,dip,bullish,close,cloud,div,soon,broke,huge
+iter73_cv_split1,bull,look,close,dip,time,cloud,huge,div,rsi,soon
+iter73_cv_split2,bull,close,look,huge,dip,volum,bullish,div,broke,ico
+iter73_cv_split3,bull,look,volum,dip,huge,soon,rsi,broke,support,breakout
+iter73_cv_split4,bull,look,close,trade,bullish,bull div,div,cloud,time,hidden bull
+iter73_cv_split5,bull,close,time,huge,cloud,rsi,dip,look,bull flag,updat
+iter74_cv_split1,bull,close,dip,div,bull div,rsi,look,time,breakout,wedg
+iter74_cv_split2,bull,close,look,rsi,cloud,dip,bullish,soon,time,volum
+iter74_cv_split3,bull,close,look,time,huge,cloud,bullish,div,bull div,love
+iter74_cv_split4,bull,look,close,trade,time,huge,broke,cloud,rsi,dip
+iter74_cv_split5,look,bull,dip,huge,close,cloud,support,volum,breakout,soon
+iter75_cv_split1,bull,close,look,huge,cloud,rsi,bullish,breakout,time,soon
+iter75_cv_split2,bull,huge,dip,time,broke,look,div,soon,volum,eye
+iter75_cv_split3,bull,close,time,cloud,dip,look,huge,broke,trade,breakout
+iter75_cv_split4,bull,look,close,dip,rsi,time,div,bullish,cloud,volum
+iter75_cv_split5,close,look,bull,dip,div,huge,amp,bull div,breakout,bullish
+iter76_cv_split1,bull,time,look,close,rsi,volum,div,bullish,breakout,bull div
+iter76_cv_split2,close,look,bull,dip,time,cloud,trade,div,huge,bullish
+iter76_cv_split3,bull,look,close,huge,rsi,cloud,dip,soon,bull flag,flag
+iter76_cv_split4,bull,look,time,close,huge,bullish,broke,volum,bull div,rsi
+iter76_cv_split5,bull,close,dip,look,broke,div,breakout,soon,huge,volum
+iter77_cv_split1,bull,look,time,dip,div,soon,huge,bull div,cloud,rsi
+iter77_cv_split2,close,look,bull,time,bullish,huge,rsi,dip,volum,absolut
+iter77_cv_split3,bull,close,look,huge,rsi,time,cloud,volum,div,bullish
+iter77_cv_split4,bull,close,dip,look,div,broke,support,bull flag,volum,trade
+iter77_cv_split5,bull,close,look,cloud,div,huge,time,breakout,bull div,rsi
+iter78_cv_split1,bull,close,look,huge,cloud,support,breakout,volum,rsi,broke
+iter78_cv_split2,bull,close,look,time,div,dip,breakout,bull div,bullish,resist
+iter78_cv_split3,bull,look,close,bullish,rsi,time,cloud,dip,soon,huge
+iter78_cv_split4,bull,close,huge,div,time,dip,cloud,rsi,bull div,look
+iter78_cv_split5,look,bull,dip,close,huge,soon,rsi,time,volum,cloud
+iter79_cv_split1,bull,close,dip,time,cloud,div,look,bullish,huge,bull div
+iter79_cv_split2,bull,look,cloud,breakout,div,huge,bull div,soon,rsi,close
+iter79_cv_split3,look,bull,close,time,rsi,cloud,huge,bull flag,dip,volum
+iter79_cv_split4,bull,close,time,look,bullish,dip,soon,cloud,huge,love
+iter79_cv_split5,bull,close,look,huge,rsi,dip,volum,bull div,broke,time
+iter80_cv_split1,bull,close,look,time,huge,rsi,cloud,broke,dip,updat
+iter80_cv_split2,close,bull,look,dip,rsi,love,bullish,updat,bull flag,cloud
+iter80_cv_split3,bull,look,time,huge,bullish,div,dip,volum,close,bull div
+iter80_cv_split4,bull,close,dip,bull div,absolut,breakout,div,cloud,retest,market cap
+iter80_cv_split5,bull,look,huge,div,cloud,close,time,bull div,volum,breakout
+iter81_cv_split1,bull,close,look,volum,huge,rsi,broke,trade,bull flag,bull div
+iter81_cv_split2,bull,look,close,time,dip,rsi,cloud,div,volum,huge
+iter81_cv_split3,bull,dip,look,huge,close,cloud,time,div,broke,trade
+iter81_cv_split4,bull,close,look,time,huge,breakout,bullish,cloud,div,dip
+iter81_cv_split5,close,look,bull,dip,bullish,breakout,rsi,soon,trade,huge
+iter82_cv_split1,close,bull,look,bullish,volum,breakout,time,huge,broke,soon
+iter82_cv_split2,bull,close,dip,look,huge,div,cloud,bull div,time,soon
+iter82_cv_split3,bull,look,close,trade,dip,rsi,div,huge,volum,bull flag
+iter82_cv_split4,bull,close,time,huge,cloud,look,dip,bullish,rsi,div
+iter82_cv_split5,bull,look,close,dip,rsi,volum,bullish,div,cloud,broke
+iter83_cv_split1,look,bull,huge,close,volum,dip,time,cloud,broke,soon
+iter83_cv_split2,bull,close,look,time,huge,div,rsi,cloud,bullish,dip
+iter83_cv_split3,close,look,bull,time,dip,breakout,rsi,absolut,div,bullish
+iter83_cv_split4,bull,huge,cloud,volum,dip,close,look,soon,broke,breakout
+iter83_cv_split5,bull,close,look,bullish,cloud,rsi,div,market cap,dip,trade
+iter84_cv_split1,bull,close,look,cloud,dip,huge,bullish,volum,bull flag,broke
+iter84_cv_split2,bull,close,look,dip,huge,cloud,time,div,breakout,bullish
+iter84_cv_split3,look,bull,huge,close,time,cloud,rsi,div,bullish,volum
+iter84_cv_split4,bull,close,time,look,soon,volum,div,bullish,rsi,dip
+iter84_cv_split5,bull,close,look,dip,div,bull div,rsi,broke,huge,breakout
+iter85_cv_split1,bull,look,close,div,breakout,bull div,broke,volum,dip,time
+iter85_cv_split2,bull,look,close,bullish,rsi,dip,time,bull div,cloud,volum
+iter85_cv_split3,look,bull,close,huge,cloud,dip,breakout,div,volum,bull div
+iter85_cv_split4,bull,close,time,huge,rsi,dip,cloud,soon,updat,div
+iter85_cv_split5,close,bull,look,time,huge,bullish,dip,volum,soon,support
+iter86_cv_split1,bull,close,look,time,huge,cloud,rsi,bullish,absolut,soon
+iter86_cv_split2,bull,close,look,huge,volum,bullish,breakout,dip,soon,cloud
+iter86_cv_split3,bull,close,look,dip,rsi,div,huge,bull div,volum,bull flag
+iter86_cv_split4,bull,close,look,time,trade,dip,rsi,cloud,volum,huge
+iter86_cv_split5,bull,look,close,dip,div,cloud,bull div,market cap,rsi,time
+iter87_cv_split1,bull,huge,close,look,dip,div,bull div,cloud,time,volum
+iter87_cv_split2,bull,close,look,volum,cloud,huge,soon,rsi,div,updat
+iter87_cv_split3,bull,look,time,close,rsi,huge,bull div,cloud,soon,bullish
+iter87_cv_split4,bull,close,time,look,dip,bullish,breakout,broke,volum,eye
+iter87_cv_split5,bull,look,close,dip,huge,bullish,cloud,soon,time,rsi
+iter88_cv_split1,bull,time,look,div,close,dip,breakout,bull div,cloud,soon
+iter88_cv_split2,bull,look,close,cloud,bullish,time,volum,div,broke,rsi
+iter88_cv_split3,look,bull,close,dip,huge,div,breakout,trade,eye,market cap
+iter88_cv_split4,bull,look,close,huge,cloud,dip,bullish,broke,ico,soon
+iter88_cv_split5,bull,close,time,huge,rsi,cloud,look,bullish,soon,dip
+iter89_cv_split1,bull,close,huge,cloud,dip,time,look,bullish,div,volum
+iter89_cv_split2,bull,look,close,cloud,rsi,dip,support,breakout,volum,soon
+iter89_cv_split3,bull,close,look,dip,div,huge,rsi,time,bull div,soon
+iter89_cv_split4,look,close,bull,time,huge,breakout,bullish,volum,dip,eye
+iter89_cv_split5,bull,look,close,cloud,div,bullish,huge,volum,dip,trade
+iter90_cv_split1,bull,look,close,huge,cloud,time,rsi,broke,dip,amp
+iter90_cv_split2,close,look,bull,time,bullish,breakout,cloud,absolut,volum,dip
+iter90_cv_split3,bull,close,look,cloud,dip,huge,time,div,updat,bull div
+iter90_cv_split4,bull,look,close,dip,div,huge,bull div,broke,bullish,eye
+iter90_cv_split5,bull,look,close,dip,time,rsi,volum,trade,soon,bullish
+iter91_cv_split1,look,bull,close,time,huge,bullish,cloud,rsi,dip,ico
+iter91_cv_split2,bull,look,volum,dip,close,div,bullish,breakout,bull div,rsi
+iter91_cv_split3,bull,close,look,dip,time,bullish,broke,div,huge,bull flag
+iter91_cv_split4,close,bull,huge,time,cloud,look,dip,rsi,breakout,soon
+iter91_cv_split5,bull,close,look,rsi,cloud,volum,broke,div,dip,huge
+iter92_cv_split1,bull,look,close,volum,support,breakout,cloud,trade,soon,dip
+iter92_cv_split2,bull,time,close,look,dip,bullish,cloud,huge,love,div
+iter92_cv_split3,close,bull,look,cloud,soon,dip,huge,div,breakout,rsi
+iter92_cv_split4,bull,close,look,dip,huge,bullish,rsi,div,bull div,trade
+iter92_cv_split5,bull,look,close,cloud,rsi,volum,huge,breakout,time,bull div
+iter93_cv_split1,bull,close,dip,look,volum,soon,huge,support,updat,breakout
+iter93_cv_split2,bull,look,huge,volum,close,breakout,bull div,rsi,broke,div
+iter93_cv_split3,close,bull,look,time,huge,dip,div,cloud,bullish,bull div
+iter93_cv_split4,bull,look,time,close,rsi,bullish,cloud,broke,div,dip
+iter93_cv_split5,bull,close,look,dip,huge,cloud,rsi,absolut,bullish,soon
+iter94_cv_split1,bull,look,close,time,bullish,div,dip,cloud,soon,breakout
+iter94_cv_split2,bull,close,look,bullish,rsi,huge,bull div,broke,cloud,dip
+iter94_cv_split3,bull,close,time,look,dip,huge,breakout,rsi,div,break
+iter94_cv_split4,bull,look,close,div,dip,soon,volum,rsi,cloud,time
+iter94_cv_split5,close,look,bull,dip,cloud,volum,huge,breakout,broke,love
+iter95_cv_split1,close,bull,look,huge,time,cloud,rsi,updat,bullish,eye
+iter95_cv_split2,bull,look,close,dip,div,bullish,bull div,wedg,support,time
+iter95_cv_split3,bull,close,look,dip,time,bullish,cloud,div,soon,huge
+iter95_cv_split4,bull,look,dip,close,div,volum,rsi,huge,time,breakout
+iter95_cv_split5,close,look,bull,huge,rsi,cloud,trade,volum,dip,soon
+iter96_cv_split1,look,close,bull,dip,huge,volum,time,support,breakout,div
+iter96_cv_split2,bull,look,close,huge,rsi,div,time,updat,bull div,broke
+iter96_cv_split3,bull,close,dip,bullish,look,time,cloud,soon,breakout,bull flag
+iter96_cv_split4,bull,close,look,bullish,time,huge,cloud,dip,rsi,soon
+iter96_cv_split5,bull,look,close,huge,cloud,volum,bullish,breakout,rsi,div
+iter97_cv_split1,bull,look,close,volum,breakout,huge,bull div,trade,div,rsi
+iter97_cv_split2,bull,close,look,bullish,breakout,huge,volum,cloud,broke,time
+iter97_cv_split3,bull,close,dip,look,cloud,rsi,time,div,bull div,soon
+iter97_cv_split4,bull,look,dip,div,huge,soon,bull div,time,broke,close
+iter97_cv_split5,bull,close,trade,dip,huge,cloud,rsi,time,volum,look
+iter98_cv_split1,bull,close,trade,div,look,breakout,volum,bull div,rsi,time
+iter98_cv_split2,bull,close,dip,huge,look,cloud,time,soon,div,rsi
+iter98_cv_split3,look,dip,bull,cloud,close,volum,bullish,breakout,updat,trade
+iter98_cv_split4,bull,close,look,time,huge,cloud,dip,div,bullish,bull div
+iter98_cv_split5,bull,look,huge,close,rsi,broke,time,dip,volum,wedg
+iter99_cv_split1,bull,look,time,dip,huge,bullish,bull div,div,close,rsi
+iter99_cv_split2,close,bull,huge,look,cloud,dip,breakout,bullish,soon,time
+iter99_cv_split3,close,bull,time,look,cloud,volum,rsi,dip,huge,breakout
+iter99_cv_split4,bull,close,look,cloud,volum,div,rsi,bull div,broke,dip
+iter99_cv_split5,bull,look,close,div,dip,huge,bull div,soon,rsi,broke
+iter100_cv_split1,bull,close,look,rsi,volum,div,dip,support,broke,soon
+iter100_cv_split2,bull,close,look,dip,soon,time,breakout,huge,bullish,market cap
+iter100_cv_split3,bull,look,close,huge,time,cloud,div,bull div,updat,rsi
+iter100_cv_split4,bull,close,look,dip,cloud,rsi,breakout,div,huge,bullish
+iter100_cv_split5,bull,look,close,time,huge,dip,cloud,rsi,breakout,volum

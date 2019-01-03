@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,need,gt,profit,realli,cryptocurr,chart,work,win,btc,mind
+iter1_cv_split2,need,bitcoin,ask,profit,trader,cryptocurr,tweet,token,mind,free
+iter1_cv_split3,need,gt,amp,ask,trader,btc,follow,pleas,twitter,away
+iter1_cv_split4,bitcoin,need,gt,profit,order,chart,trader,btc,ask,mind
+iter1_cv_split5,need,profit,gt,ask,trader,telegram,mind,order,gt gt,bcash
+iter2_cv_split1,bitcoin,gt,profit,chart,order,need,trader,new,pleas,token
+iter2_cv_split2,need,ask,profit,work,btc,insid,bcash,segwit,peopl,hunter
+iter2_cv_split3,need,gt,trader,tweet,profit,order,stop,ask,twitter,win
+iter2_cv_split4,need,profit,gt,bitcoin,ask,cryptocurr,twitter,trader,know,btc
+iter2_cv_split5,need,gt,profit,trader,cryptocurr,free,ask,win,mind,gt gt
+iter3_cv_split1,need,trade,gt,profit,ask,work,btc,use,trader,mind
+iter3_cv_split2,need,profit,gt,ask,btc,twitter,mind,gt gt,hunter,away
+iter3_cv_split3,bitcoin,need,gt,profit,order,ask,segwit,chart,cryptocurr,bcash
+iter3_cv_split4,need,gt,chart,best,trader,new,cryptocurr,btc,profit,discount
+iter3_cv_split5,bitcoin,need,profit,trader,ask,free,win,token,cryptocurr,order
+iter4_cv_split1,need,profit,new,amp,ask,chart,away,trader,mind,telegram
+iter4_cv_split2,bitcoin,need,gt,profit,think,ask,order,trader,work,pleas
+iter4_cv_split3,gt,profit,need,discount,best,free,cryptocurr,btc,gt gt,hunter
+iter4_cv_split4,need,gt,ask,profit,trader,chart,cryptocurr,twitter,year,know
+iter4_cv_split5,gt,need,trader,profit,chart,ask,cryptocurr,win,telegram,offici
+iter5_cv_split1,bitcoin,need,profit,chart,btc,best,ask,away,trader,know
+iter5_cv_split2,need,gt,trader,segwit,btc,profit,bcash,ask,cryptocurr,mind
+iter5_cv_split3,need,gt,ask,trader,trade,cryptocurr,profit,away,win,gt gt
+iter5_cv_split4,need,gt,profit,ask,stop,pleas,trader,work,mind,tweet
+iter5_cv_split5,bitcoin,new,gt,profit,need,order,chart,realli,year,cryptocurr
+iter6_cv_split1,need,profit,gt,ask,cryptocurr,long,away,twitter,trader,offici
+iter6_cv_split2,gt,need,ask,profit,btc,bitcoin,trader,realli,tweet,win
+iter6_cv_split3,need,gt,profit,trader,amp,bitcoin,ask,pleas,win,know
+iter6_cv_split4,need,gt,chart,profit,segwit,ask,twitter,away,win,cryptocurr
+iter6_cv_split5,bitcoin,best,need,order,profit,trader,bcash,chart,mind,btc
+iter7_cv_split1,profit,need,ask,free,bcash,win,mind,telegram,btc,whi
+iter7_cv_split2,need,profit,gt,btc,best,ask,bcash,away,trader,cryptocurr
+iter7_cv_split3,need,bitcoin,gt,profit,cryptocurr,btc,ask,trader,realli,chart
+iter7_cv_split4,bitcoin,need,gt,chart,profit,new,order,trader,ask,bcash
+iter7_cv_split5,need,trader,gt,ask,cryptocurr,segwit,profit,discount,token,chart
+iter8_cv_split1,need,gt,profit,btc,ask,free,amp,win,trader,mind
+iter8_cv_split2,need,ask,profit,trader,trade,realli,month,token,segwit,cryptocurr
+iter8_cv_split3,need,gt,chart,bitcoin,ask,order,twitter,cryptocurr,trader,profit
+iter8_cv_split4,profit,bitcoin,gt,need,follow,trader,twitter,pleas,win,mind
+iter8_cv_split5,bitcoin,need,profit,gt,trader,stop,away,order,cryptocurr,telegram
+iter9_cv_split1,need,gt,profit,amp,ask,cryptocurr,order,bcash,twitter,trader
+iter9_cv_split2,gt,need,profit,trader,bitcoin,ask,peopl,chart,away,crypto
+iter9_cv_split3,need,profit,stop,btc,trader,segwit,ask,away,cryptocurr,realli
+iter9_cv_split4,need,gt,realli,ask,profit,amp,best,trader,mind,order
+iter9_cv_split5,bitcoin,profit,gt,chart,need,order,twitter,year,win,free
+iter10_cv_split1,need,gt,ask,amp,bitcoin,profit,discount,bcash,month,trader
+iter10_cv_split2,need,profit,trader,amp,btc,twitter,order,token,cryptocurr,mind
+iter10_cv_split3,bitcoin,need,gt,profit,realli,ask,cryptocurr,order,insid,bcash
+iter10_cv_split4,need,best,gt,profit,ask,trader,order,stop,cryptocurr,mind
+iter10_cv_split5,need,gt,profit,trader,free,ask,token,gt gt,day,chart
+iter11_cv_split1,profit,need,gt,btc,bcash,win,cryptocurr,mind,order,realli
+iter11_cv_split2,need,amp,chart,gt,ask,trader,btc,twitter,away,gt gt
+iter11_cv_split3,gt,need,bitcoin,new,best,ask,trader,tweet,profit,stop
+iter11_cv_split4,bitcoin,need,profit,gt,order,ask,trader,segwit,chart,trade
+iter11_cv_split5,need,profit,ask,trader,start,cryptocurr,away,day,win,mind
+iter12_cv_split1,need,gt,bitcoin,work,profit,ask,like,trader,new,order
+iter12_cv_split2,need,profit,chart,gt,trader,ask,segwit,btc,discount,token
+iter12_cv_split3,profit,ask,need,cryptocurr,chart,token,mind,free,telegram,amp
+iter12_cv_split4,need,gt,crypto,trader,profit,bcash,ask,win,cryptocurr,know
+iter12_cv_split5,bitcoin,need,gt,profit,order,trader,realli,bcash,twitter,win
+iter13_cv_split1,need,gt,btc,trader,profit,realli,new,cryptocurr,ask,mind
+iter13_cv_split2,bitcoin,need,gt,profit,stop,trade,fee,order,discount,ask
+iter13_cv_split3,need,amp,gt,profit,ask,pleas,bcash,token,away,know
+iter13_cv_split4,need,gt,chart,profit,bitcoin,ask,free,trader,win,tweet
+iter13_cv_split5,need,profit,chart,trader,cryptocurr,ask,twitter,work,mind,telegram
+iter14_cv_split1,need,gt,profit,trader,ask,away,work,twitter,win,tweet
+iter14_cv_split2,need,chart,ask,profit,bcash,trader,pleas,order,hunter,futur
+iter14_cv_split3,bitcoin,need,profit,gt,new,btc,stop,order,cryptocurr,segwit
+iter14_cv_split4,need,gt,profit,bitcoin,amp,ask,realli,trader,bcash,chart
+iter14_cv_split5,gt,need,best,profit,order,ask,thank,month,cryptocurr,gt gt
+iter15_cv_split1,need,new,profit,gt,futur,ask,trader,stop,bitcoin,bcash
+iter15_cv_split2,need,profit,trader,twitter,mind,hunter,ask,fud,cryptocurr,ethereum
+iter15_cv_split3,need,bitcoin,profit,gt,trader,ask,segwit,telegram,chart,gt gt
+iter15_cv_split4,bitcoin,need,chart,gt,realli,order,cryptocurr,btc,bcash,ask
+iter15_cv_split5,need,btc,trader,onli,gt,ask,free,order,pleas,token
+iter16_cv_split1,gt,need,profit,trader,chart,ask,think,win,realli,telegram
+iter16_cv_split2,need,best,profit,chart,gt,cryptocurr,bitcoin,year,pleas,mind
+iter16_cv_split3,need,profit,gt,bitcoin,peopl,ask,new,order,twitter,tweet
+iter16_cv_split4,need,gt,profit,trader,btc,ask,token,mind,gt gt,hunter
+iter16_cv_split5,need,ask,trader,order,profit,know,bcash,btc,away,chart
+iter17_cv_split1,need,gt,profit,trader,btc,chart,bcash,cryptocurr,twitter,mind
+iter17_cv_split2,bitcoin,need,like,chart,order,trader,new,segwit,realli,amp
+iter17_cv_split3,need,gt,profit,amp,ask,bcash,work,trader,mind,peopl
+iter17_cv_split4,profit,need,gt,bitcoin,ask,stop,bcash,discount,away,trader
+iter17_cv_split5,need,profit,ask,pleas,win,cryptocurr,order,hunter,trader,work
+iter18_cv_split1,need,profit,ask,realli,cryptocurr,trader,free,btc,hunter,fud
+iter18_cv_split2,need,gt,trade,stop,bitcoin,ask,cryptocurr,profit,btc,work
+iter18_cv_split3,bitcoin,need,gt,profit,new,bcash,order,trader,away,amp
+iter18_cv_split4,need,profit,gt,chart,trader,order,ask,stop,token,month
+iter18_cv_split5,need,gt,profit,chart,ask,trader,tweet,peopl,away,twitter
+iter19_cv_split1,need,gt,stop,amp,bitcoin,trader,new,profit,chart,know
+iter19_cv_split2,need,profit,trader,btc,fee,realli,hunter,discount,ask,twitter
+iter19_cv_split3,need,bitcoin,gt,thank,work,cryptocurr,btc,ask,exchang,gt gt
+iter19_cv_split4,gt,profit,ask,need,chart,trader,twitter,away,token,win
+iter19_cv_split5,bitcoin,need,profit,gt,ask,order,cryptocurr,bcash,trader,mind
+iter20_cv_split1,gt,profit,need,cryptocurr,stop,ask,btc,gt gt,hunter,work
+iter20_cv_split2,need,profit,ask,amp,work,trader,token,mind,telegram,chart
+iter20_cv_split3,bitcoin,need,chart,profit,gt,ask,trader,twitter,cryptocurr,telegram
+iter20_cv_split4,bitcoin,need,new,gt,profit,order,ask,trader,btc,bcash
+iter20_cv_split5,need,gt,profit,trader,amp,best,bcash,away,token,cryptocurr
+iter21_cv_split1,need,profit,gt,trader,segwit,chart,order,ask,token,amp
+iter21_cv_split2,need,btc,bitcoin,trader,pleas,away,win,profit,token,mind
+iter21_cv_split3,bitcoin,need,gt,ask,new,cryptocurr,profit,order,twitter,work
+iter21_cv_split4,need,profit,gt,chart,realli,free,ask,trader,mind,telegram
+iter21_cv_split5,need,gt,trade,profit,trader,ask,know,cryptocurr,discount,bcash
+iter22_cv_split1,need,gt,chart,profit,ask,order,twitter,hunter,gt gt,amp
+iter22_cv_split2,bitcoin,need,order,gt,profit,trader,ask,work,cryptocurr,discount
+iter22_cv_split3,bitcoin,need,trader,profit,like,ask,btc,chart,twitter,fork
+iter22_cv_split4,need,exchang,gt,profit,new,bitcoin,best,btc,bcash,gt gt
+iter22_cv_split5,gt,need,btc,profit,cryptocurr,ask,token,trader,free,twitter
+iter23_cv_split1,profit,gt,need,order,cryptocurr,discount,work,ask,bcash,month
+iter23_cv_split2,chart,profit,need,ask,away,trader,token,mind,telegram,peopl
+iter23_cv_split3,need,gt,profit,ask,trader,cryptocurr,segwit,exchang,gt gt,hunter
+iter23_cv_split4,need,gt,ask,trader,btc,best,chart,pleas,gt gt,bitcoin
+iter23_cv_split5,need,gt,btc,profit,bitcoin,stop,trader,order,ask,amp
+iter24_cv_split1,gt,profit,need,ask,trader,bitcoin,chart,cryptocurr,twitter,win
+iter24_cv_split2,need,gt,ask,pleas,trader,profit,peopl,order,follow,coin
+iter24_cv_split3,profit,need,gt,cryptocurr,bcash,trade,trader,tweet,gt gt,hunter
+iter24_cv_split4,bitcoin,need,gt,order,ask,chart,bcash,trader,offici,btc
+iter24_cv_split5,need,profit,btc,bitcoin,realli,ask,new,order,amp,chart
+iter25_cv_split1,need,gt,insid,ask,btc,don,twitter,trader,best,offici
+iter25_cv_split2,gt,chart,need,order,profit,trader,cryptocurr,free,hunter,gt gt
+iter25_cv_split3,need,amp,profit,ask,tweet,cryptocurr,trader,order,trade,telegram
+iter25_cv_split4,need,profit,bitcoin,gt,stop,ask,trader,like,bcash,away
+iter25_cv_split5,profit,need,gt,cryptocurr,ask,pleas,mind,gt gt,btc,hunter
+iter26_cv_split1,need,gt,order,chart,stop,profit,peopl,know,setup,onli
+iter26_cv_split2,need,profit,bitcoin,gt,chart,trader,cryptocurr,ask,gt gt,follow
+iter26_cv_split3,profit,trade,need,btc,realli,ask,insid,away,twitter,trader
+iter26_cv_split4,need,amp,gt,ask,trader,bitcoin,work,twitter,cryptocurr,token
+iter26_cv_split5,need,gt,profit,bitcoin,segwit,trader,pleas,ask,win,mind
+iter27_cv_split1,need,profit,ask,order,trader,setup,btc,realli,discount,bcash
+iter27_cv_split2,bitcoin,need,gt,profit,peopl,new,ask,bcash,win,year
+iter27_cv_split3,need,gt,trader,btc,twitter,profit,token,gt gt,hunter,ask
+iter27_cv_split4,need,gt,profit,work,segwit,stop,ask,trader,away,cryptocurr
+iter27_cv_split5,need,gt,ask,trader,know,chart,profit,bcash,token,cryptocurr
+iter28_cv_split1,bitcoin,gt,profit,need,ask,trader,chart,follow,win,cryptocurr
+iter28_cv_split2,need,best,amp,gt,ask,twitter,token,gt gt,order,hunter
+iter28_cv_split3,need,gt,profit,btc,ask,trader,chart,bcash,work,cryptocurr
+iter28_cv_split4,need,profit,trader,free,ask,away,realli,telegram,order,twitter
+iter28_cv_split5,bitcoin,gt,need,profit,amp,ask,order,bcash,cryptocurr,trader
+iter29_cv_split1,need,profit,gt,new,bitcoin,ask,know,order,trader,cryptocurr
+iter29_cv_split2,bitcoin,gt,need,profit,cryptocurr,trader,mind,chart,gt gt,order
+iter29_cv_split3,need,gt,realli,trade,ask,trader,profit,discount,best,work
+iter29_cv_split4,need,amp,profit,btc,trader,token,segwit,mind,telegram,order
+iter29_cv_split5,need,gt,chart,profit,ask,trader,away,token,offici,gt gt
+iter30_cv_split1,bitcoin,need,gt,trader,ask,order,trade,stop,bcash,gt gt
+iter30_cv_split2,need,bitcoin,chart,ask,profit,realli,cryptocurr,btc,twitter,best
+iter30_cv_split3,profit,gt,need,btc,twitter,free,know,mind,amp,gt gt
+iter30_cv_split4,need,gt,profit,ask,trader,token,away,win,telegram,chart
+iter30_cv_split5,need,profit,gt,trader,cryptocurr,best,away,twitter,token,order
+iter31_cv_split1,bitcoin,gt,need,order,ask,chart,profit,new,bcash,realli
+iter31_cv_split2,bitcoin,need,ask,profit,gt,btc,stop,trader,away,gt gt
+iter31_cv_split3,need,amp,profit,btc,trader,ask,cryptocurr,free,twitter,segwit
+iter31_cv_split4,need,gt,profit,best,bcash,trader,twitter,token,mind,realli
+iter31_cv_split5,need,gt,profit,ask,work,trader,win,telegram,mind,gt gt
+iter32_cv_split1,gt,need,btc,profit,new,best,ask,trader,twitter,away
+iter32_cv_split2,profit,need,gt,chart,order,ask,bcash,know,year,tweet
+iter32_cv_split3,bitcoin,need,profit,order,chart,work,btc,ask,trader,mind
+iter32_cv_split4,need,stop,gt,ask,trader,order,away,cryptocurr,mind,gt gt
+iter32_cv_split5,bitcoin,need,gt,profit,trader,ask,cryptocurr,bcash,twitter,token
+iter33_cv_split1,gt,need,profit,btc,realli,pleas,trader,segwit,trade,order
+iter33_cv_split2,gt,profit,need,trader,chart,twitter,token,know,win,mind
+iter33_cv_split3,bitcoin,need,profit,ask,order,peopl,cryptocurr,trader,telegram,chart
+iter33_cv_split4,need,bitcoin,profit,gt,ask,trader,away,twitter,token,mind
+iter33_cv_split5,need,gt,ask,long,btc,cryptocurr,gt gt,amp,bcash,fud
+iter34_cv_split1,need,gt,profit,trader,cryptocurr,telegram,order,gt gt,realli,hunter
+iter34_cv_split2,need,gt,profit,ask,chart,token,peopl,hunter,gt gt,away
+iter34_cv_split3,need,profit,bitcoin,ask,realli,trader,btc,bcash,pleas,cryptocurr
+iter34_cv_split4,need,gt,ask,trader,profit,away,segwit,btc,gt gt,hunter
+iter34_cv_split5,gt,profit,amp,chart,best,need,work,order,ask,trader
+iter35_cv_split1,need,coin,bitcoin,gt,profit,trader,work,know,order,bcash
+iter35_cv_split2,gt,profit,need,stop,away,cryptocurr,win,offici,gt gt,hunter
+iter35_cv_split3,need,gt,ask,futur,trader,twitter,cryptocurr,tweet,profit,telegram
+iter35_cv_split4,bitcoin,need,profit,ask,realli,btc,best,trader,order,mind
+iter35_cv_split5,bitcoin,need,gt,profit,trader,chart,ask,cryptocurr,gt gt,like
+iter36_cv_split1,bitcoin,profit,need,order,cryptocurr,new,ask,pleas,trader,bcash
+iter36_cv_split2,gt,need,profit,ask,trader,twitter,away,gt gt,hunter,token
+iter36_cv_split3,need,gt,chart,profit,trader,cryptocurr,amp,ask,segwit,offici
+iter36_cv_split4,need,bitcoin,profit,gt,stop,order,discount,ask,trader,mind
+iter36_cv_split5,need,gt,chart,think,btc,bcash,ask,away,trader,cryptocurr
+iter37_cv_split1,bitcoin,need,profit,order,new,gt,ask,trader,away,gt gt
+iter37_cv_split2,stop,need,profit,cryptocurr,trader,chart,want,ask,discount,away
+iter37_cv_split3,need,gt,bitcoin,profit,realli,trader,ask,work,twitter,token
+iter37_cv_split4,gt,need,profit,order,amp,ask,know,telegram,mind,peopl
+iter37_cv_split5,need,gt,trader,cryptocurr,best,btc,ask,pleas,year,token
+iter38_cv_split1,need,profit,gt,ask,trader,order,know,mind,gt gt,hunter
+iter38_cv_split2,need,profit,gt,trader,order,stop,ask,away,gt gt,hunter
+iter38_cv_split3,bitcoin,gt,need,profit,realli,best,segwit,btc,ask,futur
+iter38_cv_split4,need,ask,cryptocurr,follow,bcash,away,token,telegram,peopl,realli
+iter38_cv_split5,need,gt,profit,chart,order,ask,trader,pleas,cryptocurr,mind
+iter39_cv_split1,need,gt,profit,order,ask,trader,stop,away,twitter,btc
+iter39_cv_split2,need,bitcoin,gt,profit,month,discount,chart,twitter,realli,cryptocurr
+iter39_cv_split3,need,new,ask,trader,tweet,segwit,day,cryptocurr,away,win
+iter39_cv_split4,need,profit,gt,trader,peopl,ask,away,market,free,chart
+iter39_cv_split5,need,gt,profit,bitcoin,btc,ask,insid,work,trader,cryptocurr
+iter40_cv_split1,need,gt,ask,profit,chart,trader,token,cryptocurr,mind,gt gt
+iter40_cv_split2,need,gt,bitcoin,free,want,profit,stop,discount,ask,twitter
+iter40_cv_split3,need,gt,ask,order,profit,trader,btc,follow,best,away
+iter40_cv_split4,need,bitcoin,profit,chart,ask,twitter,bcash,win,btc,realli
+iter40_cv_split5,gt,profit,need,bitcoin,trader,mind,btc,amp,gt gt,hunter
+iter41_cv_split1,gt,bitcoin,need,trader,ask,realli,cryptocurr,twitter,telegram,gt gt
+iter41_cv_split2,need,profit,gt,best,chart,stop,bcash,twitter,pleas,btc
+iter41_cv_split3,need,gt,profit,trade,token,cryptocurr,mind,gt gt,order,hunter
+iter41_cv_split4,need,new,gt,profit,bitcoin,ask,trader,away,token,win
+iter41_cv_split5,bitcoin,need,chart,profit,ask,order,trader,cryptocurr,btc,know
+iter42_cv_split1,bitcoin,profit,need,gt,ask,new,amp,bcash,trader,token
+iter42_cv_split2,need,profit,best,thank,ask,cryptocurr,order,token,trader,know
+iter42_cv_split3,need,gt,profit,chart,ask,btc,pleas,token,free,trader
+iter42_cv_split4,need,gt,profit,ask,trader,chart,btc,gt gt,hunter,discount
+iter42_cv_split5,need,gt,order,futur,trader,cryptocurr,away,profit,work,twitter
+iter43_cv_split1,need,gt,profit,coin,trader,btc,bcash,cryptocurr,win,mind
+iter43_cv_split2,need,gt,ask,order,btc,trader,twitter,pleas,cryptocurr,chart
+iter43_cv_split3,need,gt,profit,chart,ask,onli,order,month,trader,mind
+iter43_cv_split4,bitcoin,need,gt,profit,amp,best,realli,bcash,twitter,cryptocurr
+iter43_cv_split5,need,profit,ask,bitcoin,away,trader,telegram,btc,hunter,work
+iter44_cv_split1,need,gt,profit,trader,cryptocurr,btc,amp,twitter,work,ask
+iter44_cv_split2,need,gt,ask,trader,segwit,realli,win,cryptocurr,new,gt gt
+iter44_cv_split3,need,profit,gt,ask,trader,tweet,chart,gt gt,hunter,bcash
+iter44_cv_split4,bitcoin,need,chart,amp,profit,gt,order,ask,btc,mind
+iter44_cv_split5,bitcoin,profit,need,order,chart,discount,bcash,trader,mind,follow
+iter45_cv_split1,bitcoin,need,profit,gt,order,trader,cryptocurr,ask,twitter,token
+iter45_cv_split2,need,gt,profit,chart,ask,away,mind,realli,gt gt,hunter
+iter45_cv_split3,gt,need,profit,trader,free,chart,best,cryptocurr,telegram,bitcoin
+iter45_cv_split4,need,gt,profit,ask,pleas,btc,amp,token,want,mind
+iter45_cv_split5,need,ask,trader,segwit,win,realli,btc,hunter,bcash,wait
+iter46_cv_split1,need,bitcoin,gt,profit,ask,trader,cryptocurr,stop,telegram,gt gt
+iter46_cv_split2,gt,need,order,chart,trader,ask,work,best,gt gt,hunter
+iter46_cv_split3,profit,chart,need,trader,stop,twitter,win,mind,telegram,btc
+iter46_cv_split4,need,gt,profit,bitcoin,btc,order,follow,ask,fork,win
+iter46_cv_split5,need,profit,gt,futur,ask,bcash,token,btc,cryptocurr,gt gt
+iter47_cv_split1,need,gt,profit,chart,new,bitcoin,trader,cryptocurr,peopl,gt gt
+iter47_cv_split2,need,gt,ask,profit,bcash,away,segwit,cryptocurr,trader,chart
+iter47_cv_split3,need,gt,ask,profit,trader,twitter,order,cryptocurr,know,telegram
+iter47_cv_split4,profit,need,gt,bitcoin,best,order,token,cryptocurr,mind,day
+iter47_cv_split5,need,btc,trader,profit,ask,order,token,win,mind,hunter
+iter48_cv_split1,need,gt,stop,know,profit,follow,pleas,trader,token,cryptocurr
+iter48_cv_split2,bitcoin,need,gt,amp,realli,trader,ask,work,order,profit
+iter48_cv_split3,trade,profit,gt,need,trader,ask,discount,thank,think,btc
+iter48_cv_split4,need,profit,ask,best,chart,free,trader,cryptocurr,new,bitcoin
+iter48_cv_split5,need,gt,profit,btc,ask,cryptocurr,chart,twitter,win,mind
+iter49_cv_split1,need,ask,trader,btc,think,cryptocurr,setup,twitter,win,realli
+iter49_cv_split2,need,gt,chart,profit,stop,ask,trader,cryptocurr,new,btc
+iter49_cv_split3,profit,need,amp,gt,order,follow,ask,pleas,trader,year
+iter49_cv_split4,need,bitcoin,gt,profit,amp,trade,segwit,trader,tweet,win
+iter49_cv_split5,need,profit,gt,bitcoin,btc,bcash,cryptocurr,token,best,mind
+iter50_cv_split1,need,chart,gt,profit,bitcoin,btc,free,new,bcash,work
+iter50_cv_split2,need,gt,profit,ask,cryptocurr,trader,mind,gt gt,order,hunter
+iter50_cv_split3,bitcoin,profit,need,gt,ask,cryptocurr,order,bcash,mind,gt gt
+iter50_cv_split4,need,bitcoin,gt,trader,profit,best,btc,bcash,ask,away
+iter50_cv_split5,need,profit,ask,trader,order,twitter,segwit,token,win,telegram
+iter51_cv_split1,bitcoin,need,gt,profit,order,work,new,setup,ask,fork
+iter51_cv_split2,need,gt,profit,amp,ask,trader,follow,bcash,twitter,pleas
+iter51_cv_split3,need,ask,btc,profit,chart,trader,insid,cryptocurr,twitter,win
+iter51_cv_split4,profit,need,gt,realli,free,use,think,bcash,trader,know
+iter51_cv_split5,need,gt,bitcoin,cryptocurr,trader,chart,order,away,btc,hunter
+iter52_cv_split1,need,gt,order,trader,realli,profit,ask,btc,work,cryptocurr
+iter52_cv_split2,bitcoin,need,profit,gt,ask,order,win,chart,mind,gt gt
+iter52_cv_split3,need,profit,stop,trader,ask,tweet,btc,bitcoin,like,token
+iter52_cv_split4,need,gt,chart,follow,trader,ask,twitter,profit,cryptocurr,win
+iter52_cv_split5,gt,profit,need,peopl,token,mind,telegram,gt gt,hunter,bcash
+iter53_cv_split1,amp,gt,need,trader,pleas,profit,btc,ask,free,year
+iter53_cv_split2,need,gt,ask,peopl,best,profit,realli,twitter,away,segwit
+iter53_cv_split3,need,bitcoin,profit,gt,order,stop,trader,chart,ask,bcash
+iter53_cv_split4,need,bitcoin,profit,thank,trader,ask,away,cryptocurr,bear,fud
+iter53_cv_split5,need,gt,profit,trade,ask,token,btc,gt gt,want,hunter
+iter54_cv_split1,amp,gt,need,profit,btc,trader,ask,insid,bcash,pleas
+iter54_cv_split2,need,gt,stop,profit,trader,bitcoin,mind,gt gt,chart,new
+iter54_cv_split3,bitcoin,need,gt,profit,order,ask,like,discount,bcash,cryptocurr
+iter54_cv_split4,profit,need,trade,chart,amp,cryptocurr,win,trader,mind,telegram
+iter54_cv_split5,need,gt,ask,trader,segwit,tweet,chart,work,twitter,cryptocurr
+iter55_cv_split1,need,gt,trade,trader,stop,bcash,order,profit,win,cryptocurr
+iter55_cv_split2,profit,gt,need,chart,trader,order,ask,cryptocurr,telegram,mind
+iter55_cv_split3,need,ask,profit,bitcoin,cryptocurr,tweet,btc,offici,hunter,token
+iter55_cv_split4,gt,need,bitcoin,new,profit,stop,like,ask,chart,away
+iter55_cv_split5,need,gt,profit,btc,amp,trader,realli,bcash,twitter,ask
+iter56_cv_split1,need,profit,chart,ask,realli,cryptocurr,btc,bcash,trader,telegram
+iter56_cv_split2,bitcoin,need,gt,profit,pleas,peopl,twitter,away,cryptocurr,mind
+iter56_cv_split3,amp,need,gt,trader,know,chart,stop,ask,win,away
+iter56_cv_split4,bitcoin,profit,gt,best,ask,order,need,tweet,trader,year
+iter56_cv_split5,need,gt,profit,btc,coin,trader,cryptocurr,ask,work,token
+iter57_cv_split1,need,gt,profit,ask,pleas,token,cryptocurr,win,best,mind
+iter57_cv_split2,bitcoin,need,gt,profit,btc,ask,work,twitter,cryptocurr,token
+iter57_cv_split3,need,bitcoin,gt,think,trader,chart,ask,coin,new,realli
+iter57_cv_split4,need,gt,profit,order,trader,btc,cryptocurr,mind,telegram,gt gt
+iter57_cv_split5,need,profit,trade,ask,trader,chart,bcash,cryptocurr,realli,btc
+iter58_cv_split1,need,gt,profit,chart,ask,trader,realli,cryptocurr,btc,token
+iter58_cv_split2,need,gt,profit,cryptocurr,stop,token,win,mind,gt gt,order
+iter58_cv_split3,need,bitcoin,ask,work,profit,peopl,btc,use,twitter,cryptocurr
+iter58_cv_split4,need,gt,bitcoin,profit,trader,want,chart,order,ask,twitter
+iter58_cv_split5,gt,profit,amp,ask,need,trader,bcash,insid,win,mind
+iter59_cv_split1,need,gt,profit,peopl,bitcoin,best,realli,trader,cryptocurr,offici
+iter59_cv_split2,profit,need,gt,chart,work,order,tweet,btc,trader,ask
+iter59_cv_split3,need,gt,profit,trader,bitcoin,ask,cryptocurr,twitter,year,mind
+iter59_cv_split4,need,profit,chart,ask,trader,token,btc,hunter,order,fork
+iter59_cv_split5,need,gt,ask,amp,trader,cryptocurr,order,pleas,win,telegram
+iter60_cv_split1,need,gt,profit,ask,trader,cryptocurr,best,bcash,work,mind
+iter60_cv_split2,bitcoin,need,profit,order,ask,trader,free,discount,bcash,twitter
+iter60_cv_split3,gt,need,profit,trader,stop,twitter,away,token,cryptocurr,win
+iter60_cv_split4,bitcoin,need,gt,ask,chart,btc,profit,know,token,gt gt
+iter60_cv_split5,need,profit,gt,trader,btc,telegram,gt gt,want,chart,possibl
+iter61_cv_split1,need,gt,bitcoin,profit,trade,chart,trader,btc,ask,cryptocurr
+iter61_cv_split2,bitcoin,need,profit,gt,amp,trader,order,tweet,cryptocurr,new
+iter61_cv_split3,profit,gt,need,ask,insid,work,know,peopl,gt gt,chart
+iter61_cv_split4,need,best,bitcoin,gt,trader,cryptocurr,profit,ask,bcash,away
+iter61_cv_split5,need,amp,profit,ask,bcash,twitter,chart,order,btc,stop
+iter62_cv_split1,need,gt,trader,bitcoin,ask,profit,gt gt,btc,hunter,stop
+iter62_cv_split2,need,profit,gt,best,ask,trader,free,btc,stop,twitter
+iter62_cv_split3,need,profit,gt,amp,chart,trader,ask,order,trade,bcash
+iter62_cv_split4,gt,need,profit,chart,twitter,token,cryptocurr,win,offici,order
+iter62_cv_split5,need,bitcoin,profit,ask,bcash,win,cryptocurr,mind,realli,order
+iter63_cv_split1,need,gt,ask,profit,bitcoin,btc,pleas,mind,gt gt,hunter
+iter63_cv_split2,gt,profit,need,ask,best,twitter,trader,free,peopl,gt gt
+iter63_cv_split3,need,gt,trader,profit,cryptocurr,chart,want,good,discount,work
+iter63_cv_split4,need,gt,realli,profit,cryptocurr,best,bcash,trader,away,win
+iter63_cv_split5,bitcoin,need,profit,order,btc,chart,trader,amp,ask,token
+iter64_cv_split1,bitcoin,need,gt,order,profit,trader,start,futur,mind,peopl
+iter64_cv_split2,need,profit,realli,btc,cryptocurr,order,bcash,ask,twitter,trader
+iter64_cv_split3,gt,need,trader,profit,bitcoin,ask,use,btc,away,cryptocurr
+iter64_cv_split4,need,gt,profit,ask,work,cryptocurr,chart,bcash,away,free
+iter64_cv_split5,need,chart,gt,stop,ask,profit,setup,follow,twitter,tweet
+iter65_cv_split1,need,bitcoin,gt,profit,trader,chart,ask,mind,gt gt,follow
+iter65_cv_split2,need,gt,profit,cryptocurr,mind,offici,btc,gt gt,hunter,stop
+iter65_cv_split3,bitcoin,gt,profit,need,btc,trader,futur,order,amp,cryptocurr
+iter65_cv_split4,need,peopl,chart,bitcoin,ask,profit,tweet,bcash,away,twitter
+iter65_cv_split5,need,gt,profit,chart,ask,coin,trader,token,telegram,btc
+iter66_cv_split1,need,stop,ask,realli,cryptocurr,trader,profit,bcash,away,win
+iter66_cv_split2,need,profit,gt,chart,trader,pleas,cryptocurr,order,follow,ask
+iter66_cv_split3,bitcoin,gt,need,btc,profit,chart,like,away,telegram,new
+iter66_cv_split4,need,gt,profit,ask,twitter,know,trader,mind,free,telegram
+iter66_cv_split5,gt,profit,need,ask,trader,cryptocurr,btc,gt gt,hunter,whi
+iter67_cv_split1,bitcoin,need,profit,ask,cryptocurr,trader,stop,telegram,offici,chart
+iter67_cv_split2,profit,gt,need,order,bcash,trader,token,mind,gt gt,hunter
+iter67_cv_split3,gt,need,profit,trader,order,bcash,twitter,cryptocurr,telegram,chart
+iter67_cv_split4,need,gt,amp,ask,chart,work,free,trader,win,token
+iter67_cv_split5,need,profit,btc,gt,ask,peopl,new,pleas,twitter,trader
+iter68_cv_split1,need,gt,profit,ask,bitcoin,realli,new,cryptocurr,segwit,know
+iter68_cv_split2,profit,gt,btc,need,trader,order,bcash,ask,cryptocurr,work
+iter68_cv_split3,need,gt,profit,futur,best,twitter,trader,mind,gt gt,order
+iter68_cv_split4,bitcoin,need,gt,trader,ask,profit,away,year,cryptocurr,amp
+iter68_cv_split5,bitcoin,need,chart,profit,ask,twitter,trader,win,order,cryptocurr
+iter69_cv_split1,need,gt,chart,trader,work,pleas,bitcoin,ask,tweet,cryptocurr
+iter69_cv_split2,profit,amp,stop,need,hold,ask,cryptocurr,telegram,hunter,discount
+iter69_cv_split3,need,bitcoin,gt,profit,trader,realli,best,order,ask,bcash
+iter69_cv_split4,profit,need,gt,btc,ask,order,trader,twitter,mind,telegram
+iter69_cv_split5,need,gt,profit,trader,ask,peopl,btc,away,win,cryptocurr
+iter70_cv_split1,profit,need,bitcoin,gt,new,trader,order,twitter,tweet,gt gt
+iter70_cv_split2,need,bitcoin,profit,ask,win,hold,realli,btc,chart,coin
+iter70_cv_split3,need,gt,btc,ask,profit,work,trader,cryptocurr,twitter,order
+iter70_cv_split4,need,gt,ask,profit,cryptocurr,free,chart,twitter,amp,away
+iter70_cv_split5,need,gt,profit,trader,order,discount,ask,cryptocurr,segwit,chart
+iter71_cv_split1,need,gt,profit,segwit,bcash,ask,work,twitter,gt gt,hunter
+iter71_cv_split2,need,btc,trader,profit,gt,cryptocurr,realli,best,win,mind
+iter71_cv_split3,need,gt,profit,ask,trader,market,cryptocurr,peopl,pleas,mind
+iter71_cv_split4,bitcoin,need,profit,gt,chart,new,away,trader,gt gt,ask
+iter71_cv_split5,bitcoin,need,ask,chart,profit,order,best,twitter,token,win
+iter72_cv_split1,need,gt,profit,bitcoin,trader,tweet,chart,bcash,twitter,cryptocurr
+iter72_cv_split2,profit,need,gt,bitcoin,ask,amp,away,mind,gt gt,hunter
+iter72_cv_split3,chart,need,gt,follow,order,ask,trader,potenti,twitter,cryptocurr
+iter72_cv_split4,bitcoin,need,ask,order,btc,trader,crypto,realli,cryptocurr,trade
+iter72_cv_split5,need,profit,gt,trader,amp,ask,bcash,cryptocurr,win,mind
+iter73_cv_split1,gt,profit,need,thank,ask,away,trader,token,know,onli
+iter73_cv_split2,need,gt,profit,trader,tweet,cryptocurr,chart,peopl,btc,ask
+iter73_cv_split3,bitcoin,need,gt,order,trader,btc,profit,ask,cryptocurr,realli
+iter73_cv_split4,need,new,ask,gt,work,order,twitter,segwit,gt gt,bitcoin
+iter73_cv_split5,need,profit,chart,trader,bitcoin,telegram,mind,hunter,stop,bcash
+iter74_cv_split1,bitcoin,need,gt,chart,pleas,cryptocurr,ask,work,bcash,trader
+iter74_cv_split2,need,gt,profit,btc,peopl,know,new,ask,cryptocurr,trader
+iter74_cv_split3,need,gt,profit,ask,trader,chart,away,twitter,mind,btc
+iter74_cv_split4,need,profit,realli,best,exchang,segwit,tweet,btc,trader,bcash
+iter74_cv_split5,bitcoin,need,amp,gt,order,profit,trade,ask,stop,away
+iter75_cv_split1,need,amp,gt,bitcoin,profit,new,trader,know,bcash,btc
+iter75_cv_split2,need,gt,trader,ask,gt gt,chart,hunter,amp,twitter,cryptocurr
+iter75_cv_split3,bitcoin,need,gt,profit,order,ask,chart,btc,twitter,pleas
+iter75_cv_split4,need,realli,profit,ask,trader,cryptocurr,token,win,btc,order
+iter75_cv_split5,profit,need,gt,ask,work,bcash,trader,tweet,gt gt,hunter
+iter76_cv_split1,profit,need,gt,cryptocurr,btc,bcash,free,mind,gt gt,hunter
+iter76_cv_split2,need,profit,gt,ask,bitcoin,trader,cryptocurr,twitter,win,know
+iter76_cv_split3,bitcoin,gt,need,profit,best,trader,ask,cryptocurr,telegram,mind
+iter76_cv_split4,need,gt,trader,ask,pleas,chart,profit,cryptocurr,btc,gt gt
+iter76_cv_split5,need,amp,order,chart,profit,ask,realli,btc,bcash,twitter
+iter77_cv_split1,need,btc,profit,gt,long,trader,win,cryptocurr,gt gt,mind
+iter77_cv_split2,bitcoin,need,gt,ask,profit,work,trader,twitter,know,cryptocurr
+iter77_cv_split3,need,gt,profit,best,chart,pleas,ask,away,trader,twitter
+iter77_cv_split4,need,profit,ask,chart,trader,bitcoin,win,mind,new,stop
+iter77_cv_split5,need,profit,gt,realli,trade,ask,order,token,mind,trader
+iter78_cv_split1,need,profit,btc,bitcoin,know,amp,insid,twitter,tweet,cryptocurr
+iter78_cv_split2,need,gt,profit,ask,bitcoin,realli,think,mind,gt gt,hunter
+iter78_cv_split3,need,gt,profit,chart,trader,setup,ask,bcash,fork,mind
+iter78_cv_split4,bitcoin,need,gt,profit,chart,ask,trader,order,cryptocurr,twitter
+iter78_cv_split5,need,trader,profit,gt,cryptocurr,bcash,pleas,year,win,mind
+iter79_cv_split1,gt,chart,profit,need,trader,bitcoin,best,ask,away,btc
+iter79_cv_split2,need,gt,profit,amp,stop,trader,cryptocurr,ask,mind,offici
+iter79_cv_split3,need,profit,best,ask,cryptocurr,free,order,chart,telegram,mind
+iter79_cv_split4,need,gt,profit,ask,chart,bcash,work,trader,realli,pleas
+iter79_cv_split5,bitcoin,need,gt,tweet,profit,thank,order,token,win,btc
+iter80_cv_split1,new,need,gt,bitcoin,cryptocurr,profit,twitter,trader,peopl,btc
+iter80_cv_split2,need,profit,ask,market,order,trader,tweet,chart,stop,twitter
+iter80_cv_split3,need,gt,profit,stop,ask,trader,order,bcash,year,best
+iter80_cv_split4,need,gt,profit,realli,chart,order,follow,bcash,pleas,know
+iter80_cv_split5,gt,need,profit,chart,ask,btc,best,trader,away,segwit
+iter81_cv_split1,need,profit,gt,ask,realli,order,bcash,trader,cryptocurr,mind
+iter81_cv_split2,bitcoin,need,gt,trade,profit,order,chart,ask,like,segwit
+iter81_cv_split3,amp,gt,profit,btc,cryptocurr,twitter,need,trader,win,long
+iter81_cv_split4,need,profit,trader,btc,order,coin,amp,ask,away,free
+iter81_cv_split5,need,gt,profit,stop,ask,cryptocurr,btc,pleas,trader,token
+iter82_cv_split1,profit,gt,need,ask,trader,btc,know,away,realli,mind
+iter82_cv_split2,need,gt,trader,chart,ask,cryptocurr,order,bcash,win,peopl
+iter82_cv_split3,need,gt,profit,bitcoin,amp,ask,order,work,twitter,cryptocurr
+iter82_cv_split4,need,gt,profit,amp,pleas,cryptocurr,free,mind,hunter,gt gt
+iter82_cv_split5,need,profit,chart,trader,discount,ask,telegram,mind,offici,btc
+iter83_cv_split1,need,bitcoin,gt,ask,profit,trader,cryptocurr,peopl,order,gt gt
+iter83_cv_split2,need,profit,amp,trader,chart,stop,ask,token,win,mind
+iter83_cv_split3,profit,gt,trader,need,btc,ask,twitter,segwit,stop,telegram
+iter83_cv_split4,bitcoin,need,gt,profit,btc,ask,order,bcash,cryptocurr,mind
+iter83_cv_split5,need,gt,bitcoin,profit,cryptocurr,like,ask,futur,bcash,twitter
+iter84_cv_split1,need,gt,profit,chart,ask,free,know,bcash,trader,cryptocurr
+iter84_cv_split2,bitcoin,need,profit,order,amp,btc,stop,ask,away,trader
+iter84_cv_split3,need,gt,profit,ask,segwit,cryptocurr,bcash,twitter,win,trader
+iter84_cv_split4,need,chart,gt,trader,profit,order,ask,cryptocurr,year,token
+iter84_cv_split5,gt,need,bitcoin,profit,ask,trader,work,realli,token,win
+iter85_cv_split1,need,gt,ask,profit,pleas,trader,futur,twitter,work,btc
+iter85_cv_split2,bitcoin,need,stop,ask,realli,trader,cryptocurr,token,segwit,mind
+iter85_cv_split3,need,profit,gt,trader,btc,order,ask,bcash,cryptocurr,mind
+iter85_cv_split4,gt,need,profit,amp,want,chart,discount,twitter,token,free
+iter85_cv_split5,need,gt,profit,chart,btc,order,ask,trader,win,cryptocurr
+iter86_cv_split1,need,profit,chart,trader,cryptocurr,know,token,order,realli,hunter
+iter86_cv_split2,need,bitcoin,gt,profit,ask,btc,stop,bcash,trader,pleas
+iter86_cv_split3,bitcoin,need,profit,gt,order,chart,btc,stop,ask,trader
+iter86_cv_split4,need,gt,btc,chart,profit,amp,ask,mind,gt gt,hunter
+iter86_cv_split5,gt,need,profit,ask,trader,realli,cryptocurr,away,token,win
+iter87_cv_split1,need,gt,chart,ask,bitcoin,trader,twitter,cryptocurr,profit,win
+iter87_cv_split2,need,gt,profit,trader,ask,pleas,cryptocurr,realli,gt gt,hunter
+iter87_cv_split3,profit,need,gt,best,ask,segwit,discount,twitter,cryptocurr,know
+iter87_cv_split4,profit,need,bitcoin,trader,btc,cryptocurr,best,realli,mind,offici
+iter87_cv_split5,bitcoin,need,gt,new,peopl,order,profit,chart,ask,bcash
+iter88_cv_split1,chart,need,profit,ask,trader,cryptocurr,pleas,know,hunter,bcash
+iter88_cv_split2,need,gt,profit,trader,realli,stop,peopl,away,cryptocurr,order
+iter88_cv_split3,bitcoin,need,gt,ask,profit,segwit,order,work,trader,mind
+iter88_cv_split4,need,gt,profit,crypto,new,token,tweet,cryptocurr,mind,gt gt
+iter88_cv_split5,bitcoin,need,profit,btc,gt,order,ask,twitter,away,trader
+iter89_cv_split1,need,gt,profit,chart,trader,pleas,new,hold,hunter,gt gt
+iter89_cv_split2,gt,realli,cryptocurr,ask,fork,twitter,need,telegram,mind,profit
+iter89_cv_split3,need,gt,profit,trader,ask,tweet,segwit,away,cryptocurr,btc
+iter89_cv_split4,bitcoin,need,profit,ask,order,futur,token,year,trader,cryptocurr
+iter89_cv_split5,need,gt,bitcoin,profit,amp,chart,order,ask,bcash,trader
+iter90_cv_split1,bitcoin,need,gt,order,trader,ask,profit,twitter,bcash,gt gt
+iter90_cv_split2,need,gt,ask,profit,trade,know,trader,cryptocurr,away,realli
+iter90_cv_split3,gt,need,profit,trader,chart,twitter,away,token,btc,hunter
+iter90_cv_split4,need,bitcoin,profit,gt,chart,work,cryptocurr,ask,pleas,tweet
+iter90_cv_split5,need,profit,btc,amp,ask,free,order,best,bcash,twitter
+iter91_cv_split1,need,gt,profit,ask,trader,chart,cryptocurr,win,mind,telegram
+iter91_cv_split2,bitcoin,need,profit,gt,trader,btc,twitter,cryptocurr,mind,gt gt
+iter91_cv_split3,need,profit,ask,trader,free,bcash,segwit,telegram,chart,realli
+iter91_cv_split4,need,gt,amp,ask,chart,stop,order,year,profit,best
+iter91_cv_split5,need,profit,gt,order,tweet,bcash,token,cryptocurr,want,btc
+iter92_cv_split1,bitcoin,profit,btc,order,need,mind,cryptocurr,offici,hunter,trader
+iter92_cv_split2,need,gt,profit,stop,ask,trader,long,work,win,mind
+iter92_cv_split3,need,bitcoin,gt,ask,chart,best,segwit,trader,know,cryptocurr
+iter92_cv_split4,profit,bitcoin,need,gt,trader,chart,twitter,cryptocurr,away,year
+iter92_cv_split5,need,gt,ask,trade,realli,profit,btc,bcash,twitter,insid
+iter93_cv_split1,need,chart,gt,bitcoin,ask,btc,profit,tweet,token,telegram
+iter93_cv_split2,need,gt,profit,trader,ask,order,peopl,chart,twitter,away
+iter93_cv_split3,bitcoin,profit,need,ask,pleas,trader,order,bcash,away,hunter
+iter93_cv_split4,need,gt,realli,profit,stop,cryptocurr,twitter,trader,mind,btc
+iter93_cv_split5,gt,need,profit,new,stop,cryptocurr,trader,discount,ask,twitter
+iter94_cv_split1,bitcoin,gt,profit,need,btc,follow,best,twitter,win,mind
+iter94_cv_split2,profit,need,gt,trader,like,new,ask,chart,btc,stop
+iter94_cv_split3,bitcoin,need,gt,profit,order,trader,chart,ask,cryptocurr,mind
+iter94_cv_split4,need,ask,cryptocurr,twitter,chart,bcash,fud,trader,token,realli
+iter94_cv_split5,need,gt,profit,realli,ask,trader,chart,tweet,cryptocurr,mind
+iter95_cv_split1,need,gt,profit,segwit,btc,bitcoin,chart,discount,ask,twitter
+iter95_cv_split2,need,trader,ask,cryptocurr,amp,bcash,token,telegram,hunter,stop
+iter95_cv_split3,need,gt,profit,bitcoin,stop,trader,realli,futur,cryptocurr,order
+iter95_cv_split4,bitcoin,need,gt,profit,thank,order,ask,token,tweet,mind
+iter95_cv_split5,need,profit,gt,chart,ask,peopl,bcash,btc,cryptocurr,gt gt
+iter96_cv_split1,need,gt,profit,realli,ask,cryptocurr,token,pleas,trader,segwit
+iter96_cv_split2,need,gt,profit,chart,order,free,ask,twitter,win,cryptocurr
+iter96_cv_split3,need,profit,gt,amp,trader,stop,work,gt gt,order,ask
+iter96_cv_split4,bitcoin,gt,profit,peopl,need,ask,trader,bcash,away,token
+iter96_cv_split5,need,cryptocurr,btc,ask,bcash,trader,profit,win,hunter,order
+iter97_cv_split1,need,gt,profit,ask,amp,twitter,pleas,know,gt gt,hunter
+iter97_cv_split2,need,profit,gt,ask,trader,order,discount,away,realli,win
+iter97_cv_split3,gt,need,chart,profit,bitcoin,trader,new,twitter,cryptocurr,btc
+iter97_cv_split4,need,trader,ask,work,chart,trade,gt,bcash,cryptocurr,token
+iter97_cv_split5,bitcoin,need,btc,order,profit,cryptocurr,hunter,thank,away,futur
+iter98_cv_split1,need,gt,trader,ask,profit,bcash,cryptocurr,away,know,gt gt
+iter98_cv_split2,need,gt,profit,bitcoin,btc,ask,trader,new,chart,twitter
+iter98_cv_split3,need,chart,realli,profit,twitter,free,segwit,cryptocurr,mind,order
+iter98_cv_split4,need,gt,profit,ask,order,futur,bcash,trader,token,cryptocurr
+iter98_cv_split5,trade,gt,profit,need,order,trader,btc,stop,tweet,win
+iter99_cv_split1,need,profit,gt,trader,ask,bcash,twitter,cryptocurr,setup,win
+iter99_cv_split2,bitcoin,need,profit,trader,ask,know,chart,best,btc,token
+iter99_cv_split3,need,gt,profit,amp,chart,ask,twitter,segwit,mind,btc
+iter99_cv_split4,need,gt,chart,new,bitcoin,cryptocurr,order,best,bcash,year
+iter99_cv_split5,gt,need,profit,ask,order,twitter,work,cryptocurr,gt gt,whi
+iter100_cv_split1,bitcoin,need,gt,profit,realli,trader,order,ask,gt gt,btc
+iter100_cv_split2,gt,need,profit,chart,ask,order,best,pleas,work,twitter
+iter100_cv_split3,need,amp,gt,ask,twitter,trader,cryptocurr,gt gt,realli,hunter
+iter100_cv_split4,need,gt,profit,bitcoin,stop,ask,trader,token,telegram,mind
+iter100_cv_split5,need,profit,chart,trader,btc,ask,thank,token,year,cryptocurr

@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,leg,crash,lower,think,dow,mistak,instead,hold,altitud,drop
+iter1_cv_split2,trend,rebound,potenti,mistak,trader,instead,trendlin,leg,hold,current
+iter1_cv_split3,crash,drop,lower,potenti,think,dow,mistak,trendlin,trader,altitud
+iter1_cv_split4,leg,drop,lower,potenti,rebound,mistak,dow,crash,trend,instead
+iter1_cv_split5,leg,crash,drop,trend,think,rebound,dow,altitud,hold,mainstream media
+iter2_cv_split1,crash,lower,potenti,leg,dow,mistak,amp,instead,trader,mainstream media
+iter2_cv_split2,rebound,crash,dow,instead,leg,altitud,hold,drop,trend,lower
+iter2_cv_split3,leg,drop,trend,think,crash,trendlin,trader,mainstream,mainstream media,current
+iter2_cv_split4,drop,lower,think,potenti,rebound,dow,mistak,leg,crash,trader
+iter2_cv_split5,crash,leg,lower,potenti,trend,rebound,mistak,hold,instead,altitud
+iter3_cv_split1,leg,lower,think,potenti,trend,rebound,mistak,trader,instead,mainstream media
+iter3_cv_split2,crash,drop,lower,potenti,trendlin,rebound,leg,dow,hold,instead
+iter3_cv_split3,crash,drop,trend,think,dow,mistak,instead,altitud,leg,trader
+iter3_cv_split4,leg,crash,lower,potenti,rebound,trader,hold,altitud,mainstream,mainstream media
+iter3_cv_split5,drop,think,leg,dow,potenti,crash,mistak,instead,trendlin,trader
+iter4_cv_split1,drop,trend,lower,think,potenti,mistak,crash,instead,trader,altitud
+iter4_cv_split2,crash,lower,drop,trendlin,mistak,dow,leg,hold,altitud,mainstream
+iter4_cv_split3,leg,crash,trend,rebound,mistak,hold,instead,mainstream media,mainstream,trader
+iter4_cv_split4,leg,lower,potenti,crash,rebound,dow,mistak,instead,trader,mainstream
+iter4_cv_split5,leg,drop,lower,think,rebound,dow,potenti,crash,altitud,trendlin
+iter5_cv_split1,leg,think,rebound,crash,dow,trader,hold,mainstream,mainstream media,drop
+iter5_cv_split2,drop,lower,think,potenti,dow,mistak,crash,trader,trendlin,altitud
+iter5_cv_split3,crash,leg,lower,mistak,trader,instead,hold,altitud,mainstream media,mainstream
+iter5_cv_split4,crash,drop,lower,trend,potenti,think,rebound,dow,mistak,instead
+iter5_cv_split5,leg,drop,lower,potenti,rebound,trendlin,crash,hold,instead,mainstream media
+iter6_cv_split1,leg,trend,rebound,crash,instead,hold,mainstream,mainstream media,drop,lower
+iter6_cv_split2,leg,crash,lower,potenti,think,rebound,dow,mistak,instead,trader
+iter6_cv_split3,crash,drop,potenti,rebound,leg,dow,trendlin,hold,mainstream media,mainstream
+iter6_cv_split4,lower,drop,think,leg,potenti,dow,mistak,crash,instead,altitud
+iter6_cv_split5,lower,think,crash,trend,dow,mistak,hold,instead,trader,drop
+iter7_cv_split1,lower,trend,crash,leg,hold,trendlin,trader,altitud,current,drop
+iter7_cv_split2,lower,trend,potenti,think,crash,dow,mistak,leg,instead,mainstream
+iter7_cv_split3,leg,crash,drop,think,potenti,rebound,mistak,dow,trendlin,hold
+iter7_cv_split4,crash,drop,lower,think,trend,potenti,rebound,dow,leg,amp
+iter7_cv_split5,leg,drop,rebound,mistak,crash,instead,mainstream,mainstream media,hold,trend
+iter8_cv_split1,leg,lower,potenti,crash,rebound,dow,mistak,hold,trader,instead
+iter8_cv_split2,crash,drop,lower,rebound,potenti,dow,leg,mistak,hold,altitud
+iter8_cv_split3,crash,drop,trend,think,leg,dow,instead,altitud,mainstream media,mainstream
+iter8_cv_split4,leg,drop,think,trend,mistak,crash,trader,instead,mainstream media,mainstream
+iter8_cv_split5,lower,trend,potenti,rebound,crash,trendlin,trader,drop,altitud,hold
+iter9_cv_split1,crash,drop,lower,think,dow,leg,trader,trendlin,amp,altitud
+iter9_cv_split2,potenti,trend,crash,rebound,dow,mistak,leg,drop,instead,hold
+iter9_cv_split3,crash,drop,lower,potenti,rebound,mistak,dow,hold,altitud,leg
+iter9_cv_split4,leg,lower,trend,potenti,rebound,crash,hold,instead,altitud,mind
+iter9_cv_split5,leg,drop,trend,think,rebound,mistak,crash,instead,trader,altitud
+iter10_cv_split1,lower,potenti,mistak,trader,crash,leg,instead,trendlin,altitud,mainstream
+iter10_cv_split2,leg,lower,potenti,rebound,dow,mistak,hold,instead,altitud,mainstream
+iter10_cv_split3,crash,drop,trend,rebound,dow,potenti,leg,mistak,instead,trendlin
+iter10_cv_split4,leg,crash,drop,trend,think,rebound,dow,hold,altitud,mainstream
+iter10_cv_split5,crash,drop,lower,think,mistak,dow,trader,leg,altitud,hold
+iter11_cv_split1,leg,lower,trend,think,potenti,crash,rebound,dow,hold,mainstream media
+iter11_cv_split2,leg,drop,potenti,think,trend,rebound,crash,instead,trendlin,hold
+iter11_cv_split3,crash,drop,lower,leg,dow,mistak,mainstream,mainstream media,media,zone
+iter11_cv_split4,crash,lower,trend,potenti,rebound,mistak,hold,instead,altitud,mainstream
+iter11_cv_split5,leg,drop,think,rebound,dow,mistak,crash,trader,instead,altitud
+iter12_cv_split1,drop,lower,potenti,rebound,leg,dow,mistak,crash,instead,altitud
+iter12_cv_split2,leg,think,rebound,dow,crash,mistak,hold,trader,drop,mainstream media
+iter12_cv_split3,crash,lower,potenti,mistak,leg,instead,drop,trader,altitud,amp
+iter12_cv_split4,leg,drop,lower,think,trend,potenti,rebound,crash,hold,trendlin
+iter12_cv_split5,crash,trend,lower,dow,instead,leg,mainstream media,mainstream,hold,drop
+iter13_cv_split1,crash,drop,lower,trend,potenti,think,rebound,dow,trendlin,leg
+iter13_cv_split2,leg,trend,think,mistak,instead,hold,drop,trader,mainstream,mainstream media
+iter13_cv_split3,crash,lower,potenti,rebound,leg,mistak,trendlin,instead,trader,altitud
+iter13_cv_split4,drop,lower,think,potenti,leg,dow,crash,altitud,mainstream media,mainstream
+iter13_cv_split5,leg,crash,rebound,dow,mistak,hold,instead,mainstream media,mainstream,drop
+iter14_cv_split1,leg,lower,trend,think,mistak,trendlin,instead,altitud,drop,trader
+iter14_cv_split2,lower,rebound,potenti,crash,trader,trendlin,hold,altitud,mainstream media,mainstream
+iter14_cv_split3,crash,drop,potenti,leg,dow,mistak,trend,instead,trendlin,current
+iter14_cv_split4,leg,crash,lower,potenti,dow,rebound,mistak,hold,instead,trader
+iter14_cv_split5,leg,crash,drop,think,rebound,dow,altitud,hold,mainstream media,mainstream
+iter15_cv_split1,crash,drop,think,dow,hold,leg,altitud,mainstream,mainstream media,lower
+iter15_cv_split2,drop,potenti,rebound,leg,mistak,dow,crash,trend,instead,trendlin
+iter15_cv_split3,leg,crash,trend,lower,potenti,rebound,current,altitud,hold,mainstream media
+iter15_cv_split4,crash,drop,lower,potenti,think,dow,leg,mistak,instead,trader
+iter15_cv_split5,leg,lower,think,trend,rebound,potenti,mistak,instead,drop,trader
+iter16_cv_split1,leg,crash,drop,think,dow,mistak,trader,hold,trendlin,trend
+iter16_cv_split2,drop,trend,think,dow,mistak,crash,trader,instead,altitud,mainstream
+iter16_cv_split3,lower,potenti,rebound,hold,crash,trendlin,altitud,leg,current,mainstream media
+iter16_cv_split4,crash,leg,lower,think,potenti,trend,rebound,dow,instead,hold
+iter16_cv_split5,leg,lower,rebound,crash,potenti,dow,mistak,instead,trader,drop
+iter17_cv_split1,leg,crash,drop,lower,think,dow,instead,trendlin,altitud,mainstream
+iter17_cv_split2,trend,potenti,crash,leg,rebound,mistak,hold,trendlin,instead,trader
+iter17_cv_split3,crash,lower,potenti,trend,rebound,dow,mistak,trader,instead,leg
+iter17_cv_split4,leg,drop,lower,rebound,potenti,crash,hold,altitud,current,think
+iter17_cv_split5,drop,think,dow,mistak,crash,leg,instead,trader,altitud,mainstream media
+iter18_cv_split1,leg,lower,rebound,potenti,trendlin,altitud,hold,trader,mainstream,mainstream media
+iter18_cv_split2,crash,drop,think,rebound,mistak,dow,leg,hold,trader,instead
+iter18_cv_split3,leg,potenti,crash,rebound,dow,instead,hold,trendlin,mainstream media,mainstream
+iter18_cv_split4,crash,lower,trend,dow,mistak,trader,instead,hold,drop,leg
+iter18_cv_split5,crash,drop,lower,think,potenti,leg,dow,mistak,trendlin,trader
+iter19_cv_split1,leg,crash,drop,lower,potenti,rebound,dow,mistak,trader,instead
+iter19_cv_split2,leg,lower,trend,potenti,rebound,mistak,trader,crash,instead,hold
+iter19_cv_split3,trend,think,rebound,crash,dow,hold,instead,altitud,mainstream,mainstream media
+iter19_cv_split4,drop,lower,trend,think,leg,dow,mistak,crash,trendlin,instead
+iter19_cv_split5,leg,crash,potenti,rebound,dow,mainstream media,mainstream,hold,current,media
+iter20_cv_split1,leg,crash,drop,lower,dow,altitud,mainstream,mainstream media,point,trendlin
+iter20_cv_split2,leg,lower,potenti,think,crash,rebound,dow,mistak,trader,hold
+iter20_cv_split3,crash,trend,rebound,mistak,hold,instead,trader,drop,mainstream media,mainstream
+iter20_cv_split4,crash,drop,lower,think,potenti,leg,dow,instead,altitud,trendlin
+iter20_cv_split5,drop,trend,think,potenti,rebound,mistak,leg,hold,instead,amp
+iter21_cv_split1,drop,lower,potenti,rebound,mistak,instead,crash,altitud,leg,trendlin
+iter21_cv_split2,leg,crash,drop,lower,trend,think,dow,trendlin,hold,altitud
+iter21_cv_split3,trend,leg,dow,mistak,instead,trader,drop,mainstream media,mainstream,current
+iter21_cv_split4,leg,crash,lower,potenti,rebound,mistak,trader,altitud,hold,mainstream media
+iter21_cv_split5,crash,potenti,think,rebound,dow,leg,mistak,hold,instead,trader
+iter22_cv_split1,leg,trend,think,dow,mistak,hold,trader,instead,drop,mainstream
+iter22_cv_split2,crash,trend,dow,leg,trader,drop,current,lower,mind,point
+iter22_cv_split3,drop,lower,potenti,rebound,leg,crash,instead,trend,altitud,mainstream
+iter22_cv_split4,crash,lower,potenti,rebound,mistak,instead,trendlin,trader,altitud,hold
+iter22_cv_split5,leg,crash,lower,drop,potenti,think,rebound,trendlin,dow,mistak
+iter23_cv_split1,leg,crash,lower,potenti,rebound,mistak,hold,altitud,mainstream media,mainstream
+iter23_cv_split2,drop,think,rebound,crash,hold,trader,altitud,mainstream media,mainstream,lower
+iter23_cv_split3,leg,crash,drop,trend,dow,mistak,instead,trader,trendlin,mainstream
+iter23_cv_split4,leg,lower,trend,potenti,think,crash,rebound,dow,instead,drop
+iter23_cv_split5,drop,lower,potenti,think,dow,mistak,leg,crash,instead,altitud
+iter24_cv_split1,crash,lower,rebound,potenti,dow,leg,instead,hold,mainstream,mainstream media
+iter24_cv_split2,drop,lower,trend,think,potenti,rebound,mistak,crash,leg,hold
+iter24_cv_split3,lower,potenti,dow,leg,mistak,instead,trend,altitud,drop,think
+iter24_cv_split4,leg,crash,lower,potenti,rebound,mistak,trader,drop,altitud,mainstream media
+iter24_cv_split5,leg,crash,drop,trend,think,dow,trader,hold,mainstream,mainstream media
+iter25_cv_split1,leg,lower,trend,think,crash,trader,hold,amp,drop,mainstream media
+iter25_cv_split2,crash,lower,trend,potenti,mistak,instead,trendlin,trader,mainstream,mainstream media
+iter25_cv_split3,leg,drop,rebound,dow,mistak,crash,instead,mainstream media,mainstream,point
+iter25_cv_split4,leg,lower,potenti,think,crash,rebound,dow,mistak,hold,trader
+iter25_cv_split5,crash,drop,lower,think,rebound,potenti,leg,dow,hold,instead
+iter26_cv_split1,crash,leg,lower,potenti,rebound,mistak,instead,hold,altitud,mainstream media
+iter26_cv_split2,leg,lower,trend,think,potenti,crash,rebound,dow,hold,trader
+iter26_cv_split3,leg,drop,mistak,hold,crash,instead,trader,trendlin,mainstream,mainstream media
+iter26_cv_split4,leg,drop,lower,think,potenti,rebound,dow,mistak,crash,altitud
+iter26_cv_split5,crash,drop,trend,think,dow,instead,altitud,mainstream media,mainstream,lower
+iter27_cv_split1,leg,crash,drop,think,rebound,mistak,dow,trader,altitud,hold
+iter27_cv_split2,leg,drop,lower,trend,think,rebound,potenti,crash,hold,trader
+iter27_cv_split3,lower,crash,leg,dow,instead,hold,trendlin,mainstream,mainstream media,drop
+iter27_cv_split4,crash,potenti,mistak,trendlin,trader,instead,mainstream,mainstream media,drop,market
+iter27_cv_split5,leg,lower,potenti,rebound,mistak,dow,crash,instead,trend,altitud
+iter28_cv_split1,leg,lower,potenti,rebound,mistak,trader,altitud,trend,media,mainstream
+iter28_cv_split2,crash,drop,lower,potenti,dow,leg,altitud,trendlin,mainstream media,mainstream
+iter28_cv_split3,trend,think,leg,rebound,mistak,crash,instead,hold,mainstream media,mainstream
+iter28_cv_split4,leg,crash,drop,lower,think,potenti,rebound,dow,instead,hold
+iter28_cv_split5,crash,drop,lower,dow,mistak,instead,hold,trader,leg,mainstream
+iter29_cv_split1,leg,trend,think,dow,hold,trendlin,media,mainstream,mainstream media,drop
+iter29_cv_split2,leg,crash,drop,lower,potenti,rebound,mistak,dow,hold,altitud
+iter29_cv_split3,crash,lower,potenti,leg,mistak,instead,trader,altitud,mainstream media,mainstream
+iter29_cv_split4,leg,drop,trend,rebound,crash,mistak,instead,trader,hold,current
+iter29_cv_split5,crash,drop,lower,think,trend,rebound,potenti,mistak,dow,instead
+iter30_cv_split1,crash,drop,rebound,leg,dow,mistak,trend,instead,altitud,mainstream media
+iter30_cv_split2,leg,potenti,rebound,mistak,trendlin,crash,instead,hold,trader,mainstream
+iter30_cv_split3,leg,lower,think,dow,crash,hold,altitud,drop,mind,point
+iter30_cv_split4,crash,drop,lower,trend,rebound,potenti,dow,hold,trader,leg
+iter30_cv_split5,lower,trend,potenti,think,crash,dow,leg,mistak,instead,trader
+iter31_cv_split1,crash,potenti,think,dow,mistak,leg,instead,trader,mainstream media,mainstream
+iter31_cv_split2,crash,drop,think,rebound,dow,hold,trader,altitud,lower,mind
+iter31_cv_split3,leg,lower,trend,dow,mistak,amp,drop,instead,trader,trendlin
+iter31_cv_split4,crash,leg,lower,rebound,potenti,mistak,altitud,mainstream media,mainstream,current
+iter31_cv_split5,leg,drop,lower,trend,think,potenti,rebound,crash,trendlin,instead
+iter32_cv_split1,crash,drop,lower,dow,mistak,instead,leg,altitud,market,trendlin
+iter32_cv_split2,leg,think,potenti,rebound,dow,mistak,crash,trader,instead,amp
+iter32_cv_split3,leg,drop,trend,rebound,crash,hold,lower,mainstream,mainstream media,media
+iter32_cv_split4,crash,drop,lower,think,potenti,rebound,leg,dow,mistak,hold
+iter32_cv_split5,lower,crash,potenti,trend,mistak,trendlin,leg,instead,altitud,trader
+iter33_cv_split1,crash,lower,potenti,rebound,trader,hold,trendlin,current,altitud,leg
+iter33_cv_split2,drop,trend,potenti,think,dow,leg,mistak,crash,trader,instead
+iter33_cv_split3,leg,crash,drop,think,rebound,mistak,dow,trader,altitud,mainstream media
+iter33_cv_split4,lower,potenti,rebound,crash,dow,mistak,leg,trend,hold,instead
+iter33_cv_split5,leg,lower,trend,think,crash,instead,drop,altitud,mainstream,mainstream media
+iter34_cv_split1,lower,crash,mistak,leg,hold,trend,drop,trader,trendlin,altitud
+iter34_cv_split2,crash,think,leg,dow,mistak,instead,altitud,trader,mainstream,mainstream media
+iter34_cv_split3,lower,potenti,crash,rebound,dow,instead,hold,mainstream,mainstream media,drop
+iter34_cv_split4,leg,crash,drop,potenti,rebound,dow,trendlin,current,trend,think
+iter34_cv_split5,leg,drop,lower,potenti,trend,think,rebound,mistak,crash,trendlin
+iter35_cv_split1,crash,lower,potenti,trend,think,dow,mistak,trader,instead,drop
+iter35_cv_split2,leg,think,potenti,rebound,mistak,trendlin,instead,drop,mainstream media,mainstream
+iter35_cv_split3,leg,crash,drop,lower,trend,dow,instead,hold,trendlin,amp
+iter35_cv_split4,leg,drop,lower,potenti,rebound,crash,dow,trendlin,hold,altitud
+iter35_cv_split5,leg,crash,rebound,mistak,instead,altitud,trader,mainstream,mainstream media,hold
+iter36_cv_split1,leg,crash,rebound,instead,altitud,mainstream,mainstream media,trend,mind,lower
+iter36_cv_split2,drop,lower,potenti,rebound,mistak,hold,instead,altitud,trendlin,mainstream media
+iter36_cv_split3,crash,drop,lower,think,leg,trendlin,dow,mistak,trader,altitud
+iter36_cv_split4,leg,lower,trend,dow,rebound,crash,potenti,mistak,hold,trader
+iter36_cv_split5,crash,drop,potenti,think,rebound,leg,dow,trendlin,hold,trader
+iter37_cv_split1,leg,crash,drop,think,rebound,dow,altitud,lower,mainstream,mainstream media
+iter37_cv_split2,drop,lower,potenti,rebound,dow,mistak,crash,trader,instead,leg
+iter37_cv_split3,lower,trendlin,leg,mistak,crash,instead,trend,altitud,mainstream media,mainstream
+iter37_cv_split4,leg,crash,trend,potenti,think,rebound,dow,hold,current,trader
+iter37_cv_split5,lower,trend,think,crash,rebound,leg,dow,mistak,potenti,hold
+iter38_cv_split1,crash,drop,trend,think,rebound,leg,dow,mistak,instead,hold
+iter38_cv_split2,crash,lower,drop,potenti,rebound,dow,instead,trendlin,leg,altitud
+iter38_cv_split3,leg,lower,potenti,crash,rebound,hold,trader,altitud,trend,current
+iter38_cv_split4,leg,drop,lower,potenti,trend,rebound,dow,crash,mistak,trader
+iter38_cv_split5,drop,lower,trend,think,mistak,leg,crash,instead,altitud,mainstream media
+iter39_cv_split1,leg,lower,potenti,think,crash,rebound,dow,trendlin,hold,altitud
+iter39_cv_split2,crash,mistak,instead,altitud,trend,drop,mainstream media,mainstream,current,zone
+iter39_cv_split3,leg,drop,lower,think,rebound,potenti,crash,instead,hold,altitud
+iter39_cv_split4,leg,lower,trend,think,dow,crash,mistak,hold,instead,trader
+iter39_cv_split5,crash,drop,trend,rebound,potenti,dow,mistak,leg,hold,trader
+iter40_cv_split1,leg,trend,think,instead,amp,drop,mainstream media,mainstream,media,mind
+iter40_cv_split2,crash,drop,lower,potenti,mistak,dow,leg,trendlin,altitud,mainstream
+iter40_cv_split3,leg,drop,lower,trend,rebound,dow,potenti,mistak,crash,hold
+iter40_cv_split4,crash,trend,rebound,trader,altitud,hold,leg,lower,drop,mind
+iter40_cv_split5,crash,lower,think,potenti,rebound,dow,leg,mistak,hold,instead
+iter41_cv_split1,lower,think,trend,potenti,rebound,trendlin,hold,leg,altitud,drop
+iter41_cv_split2,leg,crash,drop,think,mistak,dow,trendlin,amp,instead,trader
+iter41_cv_split3,crash,trend,think,rebound,leg,dow,mistak,trader,instead,altitud
+iter41_cv_split4,leg,lower,potenti,rebound,crash,mistak,altitud,hold,mainstream media,mainstream
+iter41_cv_split5,crash,drop,lower,trend,potenti,leg,dow,instead,trendlin,mainstream media
+iter42_cv_split1,drop,think,trend,mistak,instead,hold,trader,altitud,leg,mainstream media
+iter42_cv_split2,crash,drop,lower,think,potenti,dow,trendlin,mistak,trader,altitud
+iter42_cv_split3,leg,lower,potenti,rebound,crash,dow,altitud,hold,think,mainstream media
+iter42_cv_split4,leg,crash,trend,potenti,rebound,dow,mistak,trader,hold,instead
+iter42_cv_split5,leg,crash,lower,potenti,rebound,mistak,instead,trader,hold,altitud
+iter43_cv_split1,leg,crash,drop,lower,think,potenti,rebound,dow,hold,trendlin
+iter43_cv_split2,leg,crash,trend,potenti,rebound,instead,hold,trendlin,drop,mind
+iter43_cv_split3,lower,potenti,think,rebound,dow,crash,mistak,leg,instead,trader
+iter43_cv_split4,crash,drop,dow,mistak,trend,instead,altitud,mainstream media,mainstream,lower
+iter43_cv_split5,leg,lower,trend,mistak,trendlin,trader,instead,hold,mainstream media,mainstream
+iter44_cv_split1,crash,trend,think,potenti,dow,instead,mainstream media,mainstream,point,media
+iter44_cv_split2,leg,crash,drop,lower,potenti,rebound,dow,trendlin,hold,altitud
+iter44_cv_split3,leg,crash,mistak,instead,trader,hold,altitud,drop,market,lower
+iter44_cv_split4,leg,lower,potenti,think,rebound,dow,mistak,trader,instead,altitud
+iter44_cv_split5,drop,lower,trend,rebound,potenti,mistak,leg,crash,hold,instead
+iter45_cv_split1,lower,think,trend,crash,dow,mistak,instead,leg,trader,hold
+iter45_cv_split2,crash,drop,potenti,rebound,dow,leg,trendlin,hold,trend,think
+iter45_cv_split3,mistak,crash,leg,trader,altitud,mainstream,mainstream media,trend,current,media
+iter45_cv_split4,leg,drop,lower,rebound,potenti,mistak,crash,instead,trader,mainstream media
+iter45_cv_split5,leg,crash,drop,lower,potenti,think,rebound,dow,instead,altitud
+iter46_cv_split1,crash,drop,think,potenti,dow,instead,trendlin,mainstream media,mainstream,point
+iter46_cv_split2,crash,drop,leg,rebound,dow,mistak,trader,hold,mainstream,mainstream media
+iter46_cv_split3,leg,lower,trend,think,potenti,crash,rebound,dow,hold,trader
+iter46_cv_split4,leg,drop,lower,potenti,rebound,dow,mistak,crash,instead,hold
+iter46_cv_split5,leg,lower,trend,crash,mistak,instead,trader,altitud,mainstream media,mainstream
+iter47_cv_split1,leg,drop,lower,think,mistak,hold,crash,trader,altitud,current
+iter47_cv_split2,leg,lower,potenti,crash,rebound,mistak,trendlin,hold,trader,instead
+iter47_cv_split3,leg,lower,potenti,rebound,crash,dow,hold,altitud,mainstream media,mainstream
+iter47_cv_split4,crash,drop,trend,rebound,dow,mistak,leg,instead,trader,hold
+iter47_cv_split5,crash,lower,think,trend,potenti,dow,instead,drop,altitud,mainstream
+iter48_cv_split1,lower,trend,potenti,rebound,crash,mistak,trader,instead,leg,altitud
+iter48_cv_split2,crash,leg,drop,lower,think,dow,mistak,hold,trader,instead
+iter48_cv_split3,crash,drop,lower,potenti,dow,price,trendlin,mainstream media,mainstream,media
+iter48_cv_split4,leg,crash,lower,potenti,rebound,dow,trend,hold,altitud,mainstream
+iter48_cv_split5,leg,trend,think,rebound,mistak,instead,drop,hold,current,mainstream
+iter49_cv_split1,crash,drop,lower,think,leg,dow,trendlin,instead,altitud,mind
+iter49_cv_split2,trend,lower,potenti,rebound,crash,leg,hold,trader,drop,mainstream
+iter49_cv_split3,leg,drop,lower,potenti,think,rebound,mistak,crash,instead,trendlin
+iter49_cv_split4,crash,lower,potenti,rebound,dow,mistak,instead,hold,altitud,current
+iter49_cv_split5,leg,think,rebound,crash,dow,mistak,trader,mainstream media,mainstream,hold
+iter50_cv_split1,leg,crash,lower,potenti,think,rebound,dow,trader,altitud,hold
+iter50_cv_split2,drop,lower,trend,potenti,crash,mistak,instead,trendlin,trader,amp
+iter50_cv_split3,leg,crash,mistak,trend,instead,market,altitud,drop,current,mainstream media
+iter50_cv_split4,drop,lower,trend,think,potenti,rebound,dow,crash,instead,hold
+iter50_cv_split5,leg,think,potenti,crash,rebound,dow,mistak,hold,instead,trendlin
+iter51_cv_split1,leg,lower,potenti,crash,dow,rebound,mistak,instead,drop,hold
+iter51_cv_split2,leg,crash,drop,think,dow,altitud,hold,mainstream,mainstream media,lower
+iter51_cv_split3,drop,lower,trend,think,rebound,potenti,dow,mistak,crash,instead
+iter51_cv_split4,crash,leg,trend,potenti,rebound,trendlin,drop,hold,trader,current
+iter51_cv_split5,lower,trend,potenti,think,leg,mistak,crash,instead,mainstream media,mainstream
+iter52_cv_split1,crash,drop,lower,trend,think,dow,mistak,hold,instead,leg
+iter52_cv_split2,lower,leg,crash,rebound,mistak,potenti,hold,mainstream,mainstream media,trendlin
+iter52_cv_split3,leg,trend,think,potenti,rebound,dow,crash,trader,mainstream media,mainstream
+iter52_cv_split4,leg,crash,drop,think,rebound,dow,instead,altitud,hold,mainstream media
+iter52_cv_split5,drop,lower,think,trend,potenti,leg,mistak,crash,instead,trader
+iter53_cv_split1,lower,trend,think,potenti,rebound,dow,instead,altitud,mainstream media,mainstream
+iter53_cv_split2,drop,lower,trend,potenti,leg,rebound,crash,trader,hold,amp
+iter53_cv_split3,leg,crash,rebound,dow,mistak,instead,altitud,drop,hold,current
+iter53_cv_split4,leg,crash,mistak,trader,hold,trendlin,mainstream,mainstream media,drop,mind
+iter53_cv_split5,crash,drop,lower,trend,think,potenti,dow,mistak,leg,instead
+iter54_cv_split1,leg,drop,rebound,crash,altitud,hold,mainstream,mainstream media,think,current
+iter54_cv_split2,drop,lower,think,mistak,leg,dow,crash,trendlin,trader,hold
+iter54_cv_split3,lower,think,potenti,rebound,crash,dow,mistak,instead,hold,leg
+iter54_cv_split4,crash,trend,potenti,leg,mistak,instead,trendlin,trader,mainstream,mainstream media
+iter54_cv_split5,leg,crash,lower,trend,dow,rebound,potenti,hold,instead,drop
+iter55_cv_split1,crash,potenti,rebound,mistak,dow,leg,hold,instead,mainstream,mainstream media
+iter55_cv_split2,crash,lower,drop,think,dow,trendlin,trader,altitud,mainstream media,mainstream
+iter55_cv_split3,leg,think,rebound,mistak,hold,drop,altitud,trader,media,mainstream media
+iter55_cv_split4,leg,crash,lower,potenti,trend,rebound,mistak,instead,hold,altitud
+iter55_cv_split5,leg,drop,lower,trend,rebound,dow,potenti,crash,trendlin,instead
+iter56_cv_split1,leg,crash,drop,lower,dow,trader,hold,mainstream,mainstream media,trendlin
+iter56_cv_split2,lower,trend,potenti,rebound,leg,mistak,instead,trendlin,trader,altitud
+iter56_cv_split3,crash,drop,trend,think,leg,dow,instead,mind,riski,strong
+iter56_cv_split4,crash,drop,lower,potenti,rebound,mistak,dow,instead,trendlin,hold
+iter56_cv_split5,leg,lower,think,potenti,rebound,dow,mistak,crash,instead,trader
+iter57_cv_split1,leg,lower,crash,rebound,potenti,mistak,instead,hold,current,trendlin
+iter57_cv_split2,leg,crash,drop,lower,potenti,think,rebound,mistak,dow,trader
+iter57_cv_split3,leg,lower,think,trend,crash,trader,mainstream,mainstream media,altitud,drop
+iter57_cv_split4,crash,drop,think,potenti,trend,dow,mistak,trendlin,instead,trader
+iter57_cv_split5,leg,drop,think,rebound,crash,dow,instead,hold,altitud,mainstream media
+iter58_cv_split1,crash,lower,potenti,dow,mistak,instead,altitud,mainstream media,mainstream,think
+iter58_cv_split2,leg,crash,drop,lower,think,dow,hold,trendlin,altitud,mainstream media
+iter58_cv_split3,drop,potenti,trend,rebound,mistak,trendlin,crash,trader,instead,hold
+iter58_cv_split4,leg,lower,trend,potenti,rebound,mistak,instead,trader,altitud,mainstream media
+iter58_cv_split5,leg,crash,drop,trend,think,rebound,dow,mistak,instead,trader
+iter59_cv_split1,drop,think,leg,dow,mistak,crash,trader,altitud,trend,mainstream media
+iter59_cv_split2,leg,drop,lower,trend,potenti,think,rebound,mistak,crash,instead
+iter59_cv_split3,leg,crash,drop,dow,mistak,instead,trendlin,hold,current,mainstream
+iter59_cv_split4,crash,lower,potenti,trend,rebound,hold,altitud,mainstream,mainstream media,trendlin
+iter59_cv_split5,leg,lower,think,potenti,trend,rebound,crash,dow,mistak,amp
+iter60_cv_split1,leg,drop,lower,potenti,think,rebound,trendlin,crash,instead,altitud
+iter60_cv_split2,leg,lower,think,trend,crash,rebound,dow,potenti,hold,altitud
+iter60_cv_split3,crash,trend,rebound,leg,mistak,hold,instead,trader,drop,strong
+iter60_cv_split4,drop,trend,think,dow,mistak,crash,trader,instead,trendlin,hold
+iter60_cv_split5,crash,drop,lower,potenti,leg,dow,mistak,altitud,current,mainstream
+iter61_cv_split1,crash,drop,lower,potenti,think,rebound,dow,leg,mistak,hold
+iter61_cv_split2,crash,drop,trend,leg,dow,instead,mainstream,mainstream media,media,mind
+iter61_cv_split3,lower,potenti,think,rebound,crash,dow,mistak,trendlin,trader,drop
+iter61_cv_split4,leg,lower,trend,rebound,potenti,crash,trader,altitud,mainstream,mainstream media
+iter61_cv_split5,leg,lower,dow,crash,mistak,instead,altitud,trend,hold,drop
+iter62_cv_split1,leg,crash,lower,dow,hold,altitud,mainstream,mainstream media,current,think
+iter62_cv_split2,think,trend,rebound,crash,leg,dow,mistak,hold,instead,trader
+iter62_cv_split3,crash,lower,trend,potenti,leg,mistak,trader,instead,altitud,trendlin
+iter62_cv_split4,drop,think,potenti,rebound,dow,crash,trendlin,trend,hold,mainstream media
+iter62_cv_split5,leg,drop,lower,potenti,rebound,mistak,crash,instead,hold,trader
+iter63_cv_split1,crash,rebound,mistak,trader,altitud,hold,leg,mainstream,mainstream media,lower
+iter63_cv_split2,leg,drop,lower,potenti,think,rebound,crash,instead,altitud,trendlin
+iter63_cv_split3,crash,drop,think,potenti,rebound,leg,dow,trader,amp,hold
+iter63_cv_split4,lower,potenti,crash,dow,mistak,leg,instead,mainstream media,mainstream,current
+iter63_cv_split5,leg,drop,lower,trend,think,mistak,crash,dow,hold,instead
+iter64_cv_split1,leg,crash,drop,mistak,dow,instead,altitud,hold,mainstream media,mainstream
+iter64_cv_split2,leg,drop,lower,think,potenti,rebound,trendlin,instead,altitud,hold
+iter64_cv_split3,lower,think,potenti,crash,rebound,dow,mistak,trader,altitud,drop
+iter64_cv_split4,crash,trend,lower,leg,potenti,trader,altitud,mainstream,mainstream media,market
+iter64_cv_split5,leg,crash,trend,potenti,rebound,dow,hold,mistak,instead,trader
+iter65_cv_split1,leg,drop,lower,think,trader,hold,trendlin,trend,altitud,mainstream
+iter65_cv_split2,lower,trend,think,potenti,rebound,crash,dow,mistak,leg,hold
+iter65_cv_split3,crash,drop,lower,think,potenti,mistak,dow,instead,trader,altitud
+iter65_cv_split4,leg,crash,rebound,hold,instead,mainstream,mainstream media,lower,mind,drop
+iter65_cv_split5,crash,leg,drop,potenti,rebound,dow,mistak,trendlin,instead,mainstream
+iter66_cv_split1,leg,potenti,trend,crash,rebound,hold,instead,mainstream,mainstream media,strong
+iter66_cv_split2,crash,drop,lower,potenti,rebound,dow,mistak,trader,hold,trendlin
+iter66_cv_split3,leg,think,mistak,instead,trader,hold,altitud,drop,mainstream media,mainstream
+iter66_cv_split4,crash,drop,lower,potenti,mistak,dow,leg,instead,altitud,mainstream media
+iter66_cv_split5,leg,crash,drop,lower,trend,think,rebound,potenti,dow,trader
+iter67_cv_split1,leg,trend,potenti,rebound,crash,mistak,trendlin,instead,trader,mainstream media
+iter67_cv_split2,drop,lower,potenti,leg,crash,trendlin,mainstream media,mainstream,media,amp
+iter67_cv_split3,lower,think,trend,potenti,rebound,crash,leg,dow,mistak,trendlin
+iter67_cv_split4,crash,drop,lower,think,mistak,dow,leg,instead,trader,point
+iter67_cv_split5,leg,crash,rebound,dow,mistak,hold,altitud,drop,think,current
+iter68_cv_split1,lower,think,rebound,potenti,leg,dow,crash,trader,hold,mainstream media
+iter68_cv_split2,leg,lower,crash,potenti,rebound,mistak,trader,hold,instead,trend
+iter68_cv_split3,crash,drop,lower,potenti,leg,dow,instead,altitud,mainstream,mainstream media
+iter68_cv_split4,leg,drop,lower,think,potenti,trend,rebound,mistak,crash,hold
+iter68_cv_split5,crash,drop,think,dow,mistak,trader,hold,instead,leg,mainstream
+iter69_cv_split1,leg,crash,rebound,mistak,trader,hold,altitud,mainstream media,mainstream,media
+iter69_cv_split2,crash,leg,lower,think,potenti,rebound,dow,amp,altitud,mainstream media
+iter69_cv_split3,crash,drop,lower,dow,mistak,instead,trader,hold,trendlin,mainstream
+iter69_cv_split4,drop,potenti,leg,dow,mistak,crash,instead,trendlin,mainstream media,mainstream
+iter69_cv_split5,leg,drop,lower,trend,think,potenti,rebound,mistak,crash,trader
+iter70_cv_split1,crash,potenti,rebound,leg,mistak,trendlin,instead,hold,trend,mainstream
+iter70_cv_split2,drop,lower,think,potenti,rebound,trader,crash,leg,hold,altitud
+iter70_cv_split3,leg,drop,lower,trend,think,dow,crash,trendlin,instead,hold
+iter70_cv_split4,leg,crash,lower,think,potenti,rebound,dow,mistak,trader,altitud
+iter70_cv_split5,trend,crash,dow,leg,mistak,instead,trader,drop,lower,zone
+iter71_cv_split1,lower,trend,think,potenti,rebound,leg,mistak,hold,instead,trader
+iter71_cv_split2,drop,lower,trend,mistak,dow,crash,leg,hold,instead,trader
+iter71_cv_split3,crash,leg,rebound,mistak,altitud,mainstream,mainstream media,current,drop,lower
+iter71_cv_split4,leg,crash,drop,potenti,think,rebound,dow,trendlin,trader,hold
+iter71_cv_split5,crash,drop,lower,trend,think,potenti,leg,dow,instead,altitud
+iter72_cv_split1,drop,lower,think,leg,mistak,crash,trendlin,trader,hold,altitud
+iter72_cv_split2,drop,potenti,dow,mistak,crash,leg,instead,think,trend,point
+iter72_cv_split3,leg,crash,drop,think,rebound,dow,mistak,instead,trader,hold
+iter72_cv_split4,leg,lower,trend,potenti,dow,amp,crash,rebound,trader,trendlin
+iter72_cv_split5,crash,lower,trend,potenti,rebound,instead,altitud,mainstream media,mainstream,leg
+iter73_cv_split1,leg,trend,think,crash,dow,instead,altitud,drop,hold,mainstream
+iter73_cv_split2,crash,drop,lower,potenti,dow,mistak,trader,instead,trendlin,mainstream media
+iter73_cv_split3,leg,potenti,rebound,mistak,crash,hold,instead,market,trend,trendlin
+iter73_cv_split4,crash,leg,lower,think,potenti,trend,rebound,dow,mainstream,mainstream media
+iter73_cv_split5,leg,drop,lower,think,dow,rebound,potenti,mistak,crash,altitud
+iter74_cv_split1,leg,drop,lower,think,potenti,rebound,mistak,dow,crash,hold
+iter74_cv_split2,crash,lower,potenti,dow,mistak,trader,drop,mainstream,media,mainstream media
+iter74_cv_split3,leg,crash,drop,potenti,rebound,dow,instead,trendlin,mainstream media,mainstream
+iter74_cv_split4,lower,crash,potenti,rebound,trader,hold,altitud,mainstream,mainstream media,leg
+iter74_cv_split5,leg,drop,think,trend,mistak,trader,crash,instead,hold,altitud
+iter75_cv_split1,leg,lower,trend,think,crash,potenti,rebound,dow,mistak,trader
+iter75_cv_split2,leg,drop,think,rebound,crash,instead,hold,altitud,mainstream,mainstream media
+iter75_cv_split3,crash,leg,lower,mistak,instead,trader,current,hold,altitud,mainstream media
+iter75_cv_split4,crash,drop,potenti,rebound,leg,dow,mistak,trader,hold,trendlin
+iter75_cv_split5,drop,lower,potenti,dow,crash,trendlin,altitud,mainstream,mainstream media,trend
+iter76_cv_split1,leg,drop,lower,mistak,crash,trader,instead,mainstream media,mainstream,media
+iter76_cv_split2,leg,crash,drop,think,rebound,dow,mistak,hold,trader,altitud
+iter76_cv_split3,trend,potenti,think,crash,dow,trader,mainstream media,mainstream,market,trendlin
+iter76_cv_split4,crash,leg,lower,potenti,rebound,instead,altitud,mainstream media,mainstream,hold
+iter76_cv_split5,drop,lower,potenti,rebound,leg,dow,trendlin,mistak,crash,instead
+iter77_cv_split1,leg,crash,lower,trend,think,dow,hold,altitud,mainstream media,media
+iter77_cv_split2,crash,drop,lower,think,potenti,leg,rebound,mistak,dow,instead
+iter77_cv_split3,lower,trend,crash,potenti,mistak,instead,trendlin,altitud,trader,mind
+iter77_cv_split4,leg,crash,drop,rebound,dow,mistak,hold,mainstream,mainstream media,media
+iter77_cv_split5,leg,drop,lower,trend,potenti,rebound,mistak,trader,instead,mainstream
+iter78_cv_split1,leg,crash,lower,think,dow,hold,altitud,trader,mainstream,mainstream media
+iter78_cv_split2,lower,potenti,crash,rebound,instead,hold,trendlin,leg,altitud,mainstream media
+iter78_cv_split3,crash,drop,trend,potenti,think,dow,mistak,instead,trendlin,mainstream media
+iter78_cv_split4,leg,drop,rebound,mistak,crash,hold,trader,mind,zone,trend
+iter78_cv_split5,leg,drop,lower,think,potenti,rebound,crash,dow,mistak,trader
+iter79_cv_split1,leg,lower,think,trend,crash,potenti,rebound,dow,trendlin,hold
+iter79_cv_split2,leg,drop,rebound,dow,mistak,crash,instead,trader,hold,current
+iter79_cv_split3,drop,lower,mistak,instead,crash,leg,trendlin,altitud,mainstream media,mainstream
+iter79_cv_split4,crash,trend,lower,think,potenti,dow,leg,mistak,trader,instead
+iter79_cv_split5,crash,leg,potenti,rebound,mistak,trader,trendlin,hold,mainstream media,mainstream
+iter80_cv_split1,crash,drop,lower,potenti,leg,rebound,dow,mistak,instead,trend
+iter80_cv_split2,drop,lower,mistak,leg,trendlin,trader,hold,mainstream media,mainstream,trend
+iter80_cv_split3,leg,crash,think,rebound,potenti,dow,mistak,instead,trader,hold
+iter80_cv_split4,leg,lower,crash,rebound,potenti,instead,hold,altitud,amp,mind
+iter80_cv_split5,crash,drop,think,trend,dow,leg,trader,altitud,mainstream,mainstream media
+iter81_cv_split1,crash,think,rebound,leg,dow,hold,altitud,mainstream,mainstream media,mind
+iter81_cv_split2,leg,lower,trend,think,crash,potenti,rebound,dow,mistak,instead
+iter81_cv_split3,leg,crash,lower,mistak,trendlin,instead,mainstream media,mainstream,drop,current
+iter81_cv_split4,drop,trend,lower,potenti,think,leg,crash,altitud,trader,mainstream media
+iter81_cv_split5,drop,think,potenti,rebound,dow,trendlin,mistak,trader,crash,instead
+iter82_cv_split1,lower,trend,think,potenti,rebound,crash,leg,instead,hold,altitud
+iter82_cv_split2,crash,drop,think,potenti,rebound,leg,mistak,dow,trendlin,trader
+iter82_cv_split3,leg,crash,drop,lower,potenti,rebound,dow,altitud,hold,mainstream media
+iter82_cv_split4,leg,lower,trend,rebound,potenti,mistak,trader,instead,trendlin,hold
+iter82_cv_split5,crash,drop,trend,think,mistak,leg,dow,trader,instead,altitud
+iter83_cv_split1,leg,drop,lower,potenti,rebound,trendlin,crash,hold,instead,altitud
+iter83_cv_split2,leg,think,rebound,dow,altitud,hold,lower,trader,mainstream media,mainstream
+iter83_cv_split3,crash,lower,trend,potenti,mistak,trader,instead,mainstream media,mainstream,media
+iter83_cv_split4,leg,crash,drop,lower,think,potenti,rebound,dow,mistak,trader
+iter83_cv_split5,crash,drop,trend,think,dow,leg,mistak,instead,trader,hold
+iter84_cv_split1,leg,lower,trend,potenti,rebound,mistak,instead,trader,mainstream media,mainstream
+iter84_cv_split2,crash,lower,rebound,potenti,instead,trendlin,altitud,drop,hold,mainstream
+iter84_cv_split3,crash,drop,lower,leg,think,mistak,dow,trader,altitud,trend
+iter84_cv_split4,leg,drop,rebound,dow,mistak,crash,instead,hold,current,mainstream
+iter84_cv_split5,crash,drop,lower,think,trend,potenti,dow,leg,trendlin,altitud
+iter85_cv_split1,drop,lower,potenti,dow,crash,mistak,leg,instead,trader,trendlin
+iter85_cv_split2,leg,crash,lower,potenti,dow,rebound,hold,altitud,mainstream,mainstream media
+iter85_cv_split3,lower,think,rebound,potenti,leg,mistak,trader,drop,hold,altitud
+iter85_cv_split4,leg,crash,drop,think,dow,mistak,trader,instead,hold,altitud
+iter85_cv_split5,crash,trend,potenti,rebound,mistak,trendlin,instead,drop,trader,leg
+iter86_cv_split1,crash,drop,lower,leg,dow,mistak,trendlin,instead,trend,altitud
+iter86_cv_split2,leg,lower,trend,potenti,rebound,hold,trader,trendlin,mainstream media,mainstream
+iter86_cv_split3,crash,lower,think,potenti,rebound,dow,mistak,trader,hold,leg
+iter86_cv_split4,leg,crash,drop,think,rebound,dow,instead,altitud,hold,mainstream media
+iter86_cv_split5,trend,think,rebound,crash,leg,potenti,dow,mistak,instead,drop
+iter87_cv_split1,leg,drop,lower,potenti,think,rebound,crash,dow,mistak,trendlin
+iter87_cv_split2,crash,lower,trend,market,trader,trendlin,altitud,media,mainstream media,mainstream
+iter87_cv_split3,crash,lower,potenti,rebound,dow,mistak,leg,instead,hold,drop
+iter87_cv_split4,leg,drop,think,trend,rebound,crash,hold,instead,mainstream,mainstream media
+iter87_cv_split5,leg,lower,think,crash,rebound,potenti,dow,mistak,trader,instead
+iter88_cv_split1,lower,potenti,crash,dow,mistak,leg,instead,drop,trendlin,trader
+iter88_cv_split2,crash,lower,think,dow,mistak,trader,instead,leg,hold,altitud
+iter88_cv_split3,leg,drop,rebound,dow,mistak,crash,instead,hold,trend,altitud
+iter88_cv_split4,leg,crash,potenti,rebound,mistak,trader,mainstream media,mainstream,hold,trendlin
+iter88_cv_split5,drop,trend,lower,think,rebound,potenti,crash,hold,leg,altitud
+iter89_cv_split1,leg,crash,think,trend,dow,instead,hold,altitud,mainstream,mainstream media
+iter89_cv_split2,potenti,crash,dow,mistak,instead,trendlin,mainstream media,mainstream,drop,media
+iter89_cv_split3,crash,leg,lower,potenti,rebound,mistak,instead,trader,amp,drop
+iter89_cv_split4,leg,drop,lower,trend,think,potenti,rebound,dow,crash,trendlin
+iter89_cv_split5,drop,lower,think,potenti,rebound,mistak,crash,trader,hold,leg
+iter90_cv_split1,trend,potenti,think,crash,mistak,dow,instead,drop,mainstream media,mainstream
+iter90_cv_split2,leg,crash,drop,lower,potenti,rebound,dow,mistak,hold,trendlin
+iter90_cv_split3,leg,drop,lower,trend,think,potenti,rebound,trendlin,crash,hold
+iter90_cv_split4,crash,leg,rebound,mistak,trader,hold,instead,altitud,mainstream media,mainstream
+iter90_cv_split5,lower,think,trend,crash,leg,dow,trendlin,hold,instead,amp
+iter91_cv_split1,crash,lower,potenti,trend,rebound,trendlin,hold,instead,leg,altitud
+iter91_cv_split2,lower,potenti,trend,mistak,leg,instead,drop,altitud,mainstream media,mainstream
+iter91_cv_split3,crash,leg,drop,lower,mistak,dow,trader,hold,mainstream,mainstream media
+iter91_cv_split4,leg,crash,drop,think,potenti,rebound,mistak,dow,instead,amp
+iter91_cv_split5,crash,trend,think,rebound,leg,dow,altitud,trader,hold,drop
+iter92_cv_split1,leg,drop,potenti,rebound,dow,mistak,crash,instead,trend,hold
+iter92_cv_split2,crash,drop,lower,think,trend,leg,dow,amp,altitud,mainstream media
+iter92_cv_split3,leg,lower,potenti,crash,rebound,dow,mistak,trader,drop,instead
+iter92_cv_split4,leg,lower,potenti,rebound,mistak,crash,instead,altitud,trader,mainstream media
+iter92_cv_split5,crash,drop,think,rebound,dow,mistak,hold,trader,altitud,mainstream media
+iter93_cv_split1,leg,lower,crash,mistak,trendlin,trend,trader,hold,current,mainstream
+iter93_cv_split2,crash,leg,drop,think,rebound,dow,mistak,instead,trader,altitud
+iter93_cv_split3,leg,crash,lower,potenti,rebound,dow,mistak,instead,altitud,mainstream
+iter93_cv_split4,drop,trend,think,potenti,rebound,dow,crash,hold,trendlin,leg
+iter93_cv_split5,drop,lower,trend,potenti,think,crash,instead,altitud,trendlin,mainstream
+iter94_cv_split1,lower,trend,potenti,dow,leg,crash,trader,drop,point,current
+iter94_cv_split2,leg,drop,lower,think,potenti,rebound,crash,trendlin,instead,hold
+iter94_cv_split3,potenti,rebound,crash,mistak,dow,instead,hold,trendlin,mainstream media,mainstream
+iter94_cv_split4,leg,crash,mistak,instead,hold,altitud,trader,mainstream,mainstream media,trend
+iter94_cv_split5,leg,crash,drop,lower,think,potenti,rebound,mistak,dow,trader
+iter95_cv_split1,lower,think,rebound,crash,potenti,leg,dow,mistak,trader,drop
+iter95_cv_split2,leg,crash,rebound,altitud,current,hold,lower,mainstream media,mainstream,market
+iter95_cv_split3,drop,lower,trend,mistak,trader,crash,instead,hold,leg,mainstream media
+iter95_cv_split4,lower,trend,think,potenti,leg,dow,crash,mistak,instead,trader
+iter95_cv_split5,leg,crash,drop,trend,think,potenti,rebound,dow,instead,hold
+iter96_cv_split1,leg,crash,think,trend,dow,instead,drop,hold,mainstream,mainstream media
+iter96_cv_split2,leg,crash,drop,lower,think,potenti,rebound,mistak,dow,instead
+iter96_cv_split3,drop,lower,potenti,rebound,dow,crash,hold,trendlin,trader,trend
+iter96_cv_split4,crash,lower,potenti,mistak,trader,instead,altitud,trendlin,mainstream,mainstream media
+iter96_cv_split5,leg,rebound,mistak,instead,hold,altitud,think,drop,lower,trend
+iter97_cv_split1,leg,crash,drop,potenti,trend,dow,rebound,mistak,trendlin,instead
+iter97_cv_split2,lower,think,rebound,potenti,mistak,leg,amp,instead,trader,drop
+iter97_cv_split3,crash,drop,lower,think,dow,mistak,trader,altitud,mainstream,mainstream media
+iter97_cv_split4,crash,leg,lower,trend,potenti,rebound,instead,altitud,mainstream,mainstream media
+iter97_cv_split5,leg,crash,drop,rebound,dow,hold,altitud,trend,mainstream,mainstream media
+iter98_cv_split1,lower,think,rebound,leg,potenti,mistak,instead,amp,altitud,current
+iter98_cv_split2,leg,crash,rebound,mistak,instead,hold,drop,trend,lower,current
+iter98_cv_split3,crash,leg,drop,potenti,think,rebound,dow,trendlin,hold,mainstream
+iter98_cv_split4,leg,crash,lower,think,mistak,dow,hold,trader,trend,altitud
+iter98_cv_split5,drop,lower,potenti,trend,think,dow,mistak,crash,trader,instead
+iter99_cv_split1,crash,drop,potenti,think,leg,mistak,dow,trader,trendlin,mainstream media
+iter99_cv_split2,leg,lower,potenti,rebound,dow,mistak,drop,instead,hold,mainstream media
+iter99_cv_split3,crash,drop,trend,rebound,think,dow,altitud,trader,mainstream,mainstream media
+iter99_cv_split4,leg,lower,trend,potenti,rebound,crash,mistak,instead,trader,hold
+iter99_cv_split5,crash,leg,drop,lower,think,dow,trendlin,instead,hold,altitud
+iter100_cv_split1,leg,lower,potenti,rebound,mistak,drop,instead,hold,altitud,think
+iter100_cv_split2,drop,trend,think,leg,dow,crash,trader,altitud,mainstream media,mainstream
+iter100_cv_split3,crash,lower,trend,potenti,rebound,leg,instead,altitud,mainstream,mainstream media
+iter100_cv_split4,crash,drop,think,dow,mistak,trendlin,hold,instead,leg,trader
+iter100_cv_split5,leg,crash,drop,lower,potenti,rebound,dow,mistak,trader,trendlin

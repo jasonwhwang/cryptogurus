@@ -1,0 +1,501 @@
+,0,1,2,3,4,5,6,7,8,9
+iter1_cv_split1,trigger,breakout,higher,revers,look,upsid,soon,higher low,low,high
+iter1_cv_split2,trigger,higher,breakout,revers,upsid,entri,break,amp,ema,higher low
+iter1_cv_split3,trigger,breakout,higher,upsid,entri,revers,break,look,retest,higher low
+iter1_cv_split4,trigger,breakout,revers,high,higher,trendlin,retest,look,upsid,entri
+iter1_cv_split5,trigger,revers,higher,breakout,upsid,break,trendlin,entri,higher low,volum
+iter2_cv_split1,trigger,higher,breakout,entri,upsid,revers,low,higher low,look,trendlin
+iter2_cv_split2,trigger,breakout,higher,revers,upsid,look,entri,trendlin,break,low
+iter2_cv_split3,trigger,higher,revers,breakout,high,upsid,entri,look,break,higher low
+iter2_cv_split4,trigger,breakout,revers,higher,break,trendlin,look,higher low,entri,retest
+iter2_cv_split5,trigger,breakout,revers,upsid,high,break,entri,higher,retest,soon
+iter3_cv_split1,trigger,revers,breakout,higher,trendlin,look,upsid,high,soon,entri
+iter3_cv_split2,trigger,higher,breakout,revers,entri,high,break,higher low,upsid,soon
+iter3_cv_split3,trigger,breakout,higher,revers,entri,look,trendlin,retest,break,upsid
+iter3_cv_split4,trigger,breakout,higher,upsid,revers,trendlin,entri,higher low,break,soon
+iter3_cv_split5,trigger,breakout,revers,higher,upsid,entri,high,retest,low,break
+iter4_cv_split1,trigger,breakout,revers,higher,break,trendlin,entri,look,upsid,soon
+iter4_cv_split2,trigger,higher,breakout,revers,entri,upsid,look,high,higher low,soon
+iter4_cv_split3,trigger,breakout,revers,higher,entri,trendlin,soon,upsid,retest,break
+iter4_cv_split4,trigger,revers,higher,breakout,upsid,trendlin,higher low,retest,high,entri
+iter4_cv_split5,trigger,revers,breakout,higher,upsid,look,high,entri,break,retest
+iter5_cv_split1,trigger,breakout,revers,higher,upsid,entri,trendlin,high,look,break
+iter5_cv_split2,trigger,higher,revers,upsid,breakout,entri,higher low,break,low,ema
+iter5_cv_split3,trigger,breakout,higher,revers,high,entri,break,trendlin,upsid,look
+iter5_cv_split4,trigger,breakout,higher,revers,look,high,entri,upsid,break,higher low
+iter5_cv_split5,trigger,breakout,revers,higher,upsid,entri,look,higher low,break,soon
+iter6_cv_split1,trigger,breakout,higher,revers,high,upsid,soon,look,entri,trendlin
+iter6_cv_split2,trigger,breakout,upsid,higher,revers,soon,break,entri,look,higher low
+iter6_cv_split3,trigger,higher,revers,break,breakout,upsid,high,entri,higher low,soon
+iter6_cv_split4,trigger,breakout,higher,revers,look,entri,upsid,low,higher low,high
+iter6_cv_split5,trigger,revers,breakout,higher,upsid,break,entri,amp,higher low,look
+iter7_cv_split1,trigger,breakout,higher,revers,entri,upsid,soon,higher low,low,break
+iter7_cv_split2,trigger,breakout,higher,high,upsid,revers,entri,break,trendlin,look
+iter7_cv_split3,trigger,higher,revers,breakout,break,upsid,higher low,high,entri,low
+iter7_cv_split4,trigger,higher,breakout,revers,upsid,look,high,trendlin,higher low,soon
+iter7_cv_split5,trigger,breakout,revers,upsid,trendlin,entri,retest,look,ema,break
+iter8_cv_split1,trigger,breakout,higher,entri,revers,look,trendlin,break,high,soon
+iter8_cv_split2,trigger,breakout,revers,upsid,higher,higher low,entri,retest,break,readi
+iter8_cv_split3,trigger,breakout,revers,higher,entri,look,upsid,break,soon,retest
+iter8_cv_split4,trigger,higher,breakout,revers,upsid,look,trendlin,entri,higher low,break
+iter8_cv_split5,trigger,breakout,higher,revers,high,upsid,soon,entri,higher low,volum
+iter9_cv_split1,trigger,breakout,revers,higher,upsid,entri,look,higher low,low,break
+iter9_cv_split2,trigger,higher,breakout,revers,entri,upsid,high,retest,trendlin,soon
+iter9_cv_split3,trigger,breakout,higher,revers,look,high,break,upsid,entri,retest
+iter9_cv_split4,trigger,breakout,revers,higher,upsid,look,soon,high,trendlin,break
+iter9_cv_split5,trigger,higher,revers,breakout,upsid,entri,look,break,higher low,trendlin
+iter10_cv_split1,trigger,revers,breakout,higher,look,high,entri,upsid,retest,soon
+iter10_cv_split2,trigger,higher,revers,breakout,trendlin,upsid,high,low,entri,higher low
+iter10_cv_split3,trigger,breakout,revers,higher,entri,look,upsid,break,higher low,high
+iter10_cv_split4,trigger,breakout,higher,revers,upsid,break,entri,high,look,low
+iter10_cv_split5,trigger,breakout,higher,upsid,revers,entri,break,look,soon,higher low
+iter11_cv_split1,trigger,breakout,revers,higher,look,high,entri,trendlin,upsid,break
+iter11_cv_split2,trigger,breakout,higher,high,upsid,revers,higher low,low,entri,break
+iter11_cv_split3,trigger,breakout,revers,higher,upsid,soon,break,look,entri,trendlin
+iter11_cv_split4,trigger,breakout,revers,higher,upsid,break,retest,look,entri,high
+iter11_cv_split5,trigger,revers,breakout,higher,entri,upsid,high,soon,trendlin,look
+iter12_cv_split1,trigger,breakout,higher,revers,upsid,look,break,entri,higher low,soon
+iter12_cv_split2,trigger,breakout,higher,look,revers,entri,high,trendlin,higher low,upsid
+iter12_cv_split3,trigger,breakout,revers,higher,upsid,trendlin,high,look,retest,break
+iter12_cv_split4,trigger,breakout,higher,revers,high,entri,upsid,break,look,retest
+iter12_cv_split5,trigger,breakout,revers,higher,entri,high,upsid,soon,trendlin,retest
+iter13_cv_split1,trigger,breakout,higher,revers,upsid,higher low,high,soon,entri,low
+iter13_cv_split2,trigger,breakout,revers,higher,trendlin,upsid,break,look,entri,retest
+iter13_cv_split3,trigger,breakout,revers,higher,entri,high,upsid,look,break,soon
+iter13_cv_split4,trigger,higher,breakout,revers,look,entri,upsid,high,higher low,break
+iter13_cv_split5,trigger,revers,breakout,higher,upsid,soon,break,retest,trendlin,entri
+iter14_cv_split1,trigger,breakout,revers,higher,upsid,entri,soon,higher low,high,readi
+iter14_cv_split2,trigger,higher,breakout,revers,retest,look,upsid,entri,low,higher low
+iter14_cv_split3,trigger,breakout,higher,revers,upsid,high,break,retest,soon,look
+iter14_cv_split4,trigger,higher,breakout,revers,upsid,entri,higher low,look,low,high
+iter14_cv_split5,trigger,breakout,revers,higher,break,entri,look,upsid,trendlin,higher low
+iter15_cv_split1,trigger,breakout,higher,upsid,revers,entri,break,higher low,high,trendlin
+iter15_cv_split2,trigger,breakout,revers,higher,entri,high,look,upsid,soon,low
+iter15_cv_split3,trigger,breakout,higher,revers,upsid,entri,trendlin,ema,soon,higher low
+iter15_cv_split4,trigger,higher,breakout,revers,high,upsid,entri,break,higher low,look
+iter15_cv_split5,trigger,revers,breakout,look,higher,trendlin,upsid,break,like,entri
+iter16_cv_split1,trigger,revers,break,breakout,higher,upsid,look,entri,higher low,retest
+iter16_cv_split2,trigger,breakout,higher,revers,look,entri,upsid,soon,higher low,retest
+iter16_cv_split3,trigger,breakout,higher,upsid,revers,entri,high,soon,retest,higher low
+iter16_cv_split4,trigger,breakout,revers,higher,upsid,look,high,trendlin,soon,entri
+iter16_cv_split5,trigger,higher,breakout,high,break,trendlin,revers,entri,low,look
+iter17_cv_split1,trigger,revers,breakout,higher,upsid,entri,look,high,break,soon
+iter17_cv_split2,trigger,breakout,higher,upsid,revers,high,higher low,low,break,entri
+iter17_cv_split3,trigger,breakout,revers,higher,look,upsid,soon,entri,trendlin,high
+iter17_cv_split4,trigger,revers,breakout,higher,break,upsid,high,higher low,trendlin,look
+iter17_cv_split5,trigger,breakout,higher,revers,entri,trendlin,look,retest,soon,bull
+iter18_cv_split1,trigger,breakout,higher,upsid,revers,look,high,break,entri,higher low
+iter18_cv_split2,trigger,revers,breakout,upsid,trendlin,entri,higher,break,retest,look
+iter18_cv_split3,trigger,revers,higher,breakout,high,break,upsid,look,entri,higher low
+iter18_cv_split4,trigger,breakout,higher,upsid,revers,entri,higher low,high,low,soon
+iter18_cv_split5,trigger,breakout,higher,revers,entri,break,look,high,higher low,soon
+iter19_cv_split1,trigger,breakout,revers,higher,entri,high,look,upsid,soon,retest
+iter19_cv_split2,trigger,higher,upsid,breakout,revers,entri,high,soon,look,higher low
+iter19_cv_split3,trigger,breakout,higher,revers,upsid,high,trendlin,break,retest,higher low
+iter19_cv_split4,trigger,breakout,higher,revers,upsid,look,entri,high,break,soon
+iter19_cv_split5,trigger,breakout,revers,break,higher,trendlin,look,entri,higher low,upsid
+iter20_cv_split1,trigger,breakout,upsid,higher,revers,break,entri,look,retest,high
+iter20_cv_split2,trigger,higher,revers,upsid,soon,breakout,break,entri,high,higher low
+iter20_cv_split3,trigger,breakout,higher,revers,upsid,trendlin,look,entri,break,higher low
+iter20_cv_split4,trigger,higher,revers,breakout,high,low,retest,entri,higher low,look
+iter20_cv_split5,trigger,breakout,revers,higher,look,entri,upsid,high,soon,retest
+iter21_cv_split1,trigger,breakout,revers,higher,entri,high,upsid,retest,higher low,break
+iter21_cv_split2,trigger,breakout,higher,upsid,revers,look,entri,high,soon,higher low
+iter21_cv_split3,trigger,revers,higher,break,trendlin,breakout,look,entri,retest,upsid
+iter21_cv_split4,trigger,breakout,higher,revers,upsid,entri,trendlin,higher low,break,soon
+iter21_cv_split5,trigger,breakout,revers,higher,high,look,upsid,trendlin,soon,break
+iter22_cv_split1,trigger,breakout,higher,revers,break,entri,trendlin,high,ema,upsid
+iter22_cv_split2,trigger,breakout,revers,higher,upsid,trendlin,look,high,entri,break
+iter22_cv_split3,trigger,higher,breakout,revers,upsid,look,entri,trendlin,low,higher low
+iter22_cv_split4,trigger,breakout,higher,revers,high,upsid,soon,higher low,entri,retest
+iter22_cv_split5,trigger,breakout,revers,higher,upsid,entri,soon,break,higher low,look
+iter23_cv_split1,trigger,breakout,revers,higher,upsid,entri,look,high,retest,higher low
+iter23_cv_split2,trigger,higher,revers,breakout,look,trendlin,upsid,entri,amp,higher low
+iter23_cv_split3,trigger,breakout,revers,higher,upsid,break,high,look,low,entri
+iter23_cv_split4,trigger,higher,breakout,revers,break,entri,high,upsid,higher low,trendlin
+iter23_cv_split5,trigger,breakout,higher,upsid,revers,entri,trendlin,soon,look,high
+iter24_cv_split1,trigger,higher,revers,breakout,entri,high,soon,look,higher low,upsid
+iter24_cv_split2,trigger,breakout,revers,higher,upsid,retest,high,look,higher low,bull
+iter24_cv_split3,trigger,higher,breakout,revers,upsid,look,break,trendlin,ema,higher low
+iter24_cv_split4,trigger,higher,revers,breakout,upsid,entri,break,low,higher low,soon
+iter24_cv_split5,trigger,breakout,higher,break,upsid,trendlin,entri,revers,high,look
+iter25_cv_split1,trigger,breakout,higher,high,upsid,revers,entri,trendlin,soon,higher low
+iter25_cv_split2,trigger,breakout,revers,look,higher,entri,upsid,break,volum,way
+iter25_cv_split3,trigger,breakout,higher,revers,upsid,look,trendlin,high,entri,higher low
+iter25_cv_split4,trigger,revers,breakout,upsid,entri,soon,higher,break,ema,look
+iter25_cv_split5,higher,trigger,revers,breakout,break,upsid,high,retest,look,higher low
+iter26_cv_split1,trigger,revers,higher,breakout,entri,upsid,break,look,retest,high
+iter26_cv_split2,trigger,higher,breakout,revers,entri,trendlin,break,look,upsid,higher low
+iter26_cv_split3,trigger,higher,revers,breakout,upsid,soon,high,look,low,higher low
+iter26_cv_split4,trigger,breakout,revers,higher,upsid,entri,trendlin,retest,high,look
+iter26_cv_split5,trigger,breakout,high,higher,revers,upsid,entri,look,break,trendlin
+iter27_cv_split1,trigger,revers,breakout,higher,entri,break,high,higher low,look,amp
+iter27_cv_split2,trigger,higher,breakout,revers,trendlin,upsid,higher low,soon,break,entri
+iter27_cv_split3,trigger,breakout,revers,higher,entri,upsid,high,look,retest,ema
+iter27_cv_split4,trigger,breakout,higher,upsid,revers,look,high,readi,break,entri
+iter27_cv_split5,trigger,breakout,higher,upsid,revers,look,trendlin,break,entri,higher low
+iter28_cv_split1,trigger,higher,breakout,high,look,revers,higher low,entri,soon,retest
+iter28_cv_split2,trigger,revers,higher,breakout,high,upsid,look,entri,break,soon
+iter28_cv_split3,trigger,breakout,revers,higher,upsid,break,trendlin,entri,look,high
+iter28_cv_split4,trigger,revers,breakout,higher,upsid,trendlin,entri,retest,higher low,look
+iter28_cv_split5,trigger,breakout,revers,higher,entri,break,upsid,high,higher low,look
+iter29_cv_split1,trigger,breakout,revers,higher,upsid,high,look,retest,soon,low
+iter29_cv_split2,trigger,breakout,higher,revers,entri,upsid,higher low,look,break,high
+iter29_cv_split3,trigger,breakout,revers,higher,entri,trendlin,break,high,upsid,look
+iter29_cv_split4,trigger,higher,revers,breakout,upsid,trendlin,look,high,entri,higher low
+iter29_cv_split5,trigger,revers,breakout,higher,upsid,look,break,retest,entri,higher low
+iter30_cv_split1,trigger,breakout,revers,higher,trendlin,break,look,upsid,entri,high
+iter30_cv_split2,trigger,breakout,higher,revers,high,upsid,entri,low,higher low,soon
+iter30_cv_split3,trigger,higher,revers,entri,upsid,look,breakout,higher low,retest,break
+iter30_cv_split4,trigger,higher,revers,breakout,look,entri,upsid,high,soon,higher low
+iter30_cv_split5,breakout,trigger,revers,upsid,higher,break,high,soon,look,trendlin
+iter31_cv_split1,trigger,breakout,higher,revers,trendlin,upsid,soon,break,entri,look
+iter31_cv_split2,trigger,revers,breakout,higher,upsid,break,look,entri,high,volum
+iter31_cv_split3,trigger,revers,higher,breakout,upsid,entri,high,look,break,retest
+iter31_cv_split4,trigger,breakout,revers,higher,look,upsid,trendlin,retest,entri,ema
+iter31_cv_split5,trigger,higher,breakout,revers,soon,entri,upsid,high,higher low,low
+iter32_cv_split1,trigger,breakout,higher,revers,look,upsid,high,volum,break,soon
+iter32_cv_split2,trigger,higher,breakout,upsid,high,revers,trendlin,look,entri,higher low
+iter32_cv_split3,trigger,higher,breakout,revers,upsid,trendlin,higher low,entri,high,look
+iter32_cv_split4,trigger,revers,breakout,entri,higher,upsid,break,soon,look,low
+iter32_cv_split5,trigger,breakout,revers,higher,upsid,high,soon,entri,retest,break
+iter33_cv_split1,trigger,breakout,revers,look,upsid,entri,soon,higher,like,readi
+iter33_cv_split2,trigger,revers,higher,upsid,breakout,high,trendlin,break,entri,soon
+iter33_cv_split3,trigger,breakout,higher,entri,revers,upsid,break,high,higher low,trendlin
+iter33_cv_split4,trigger,revers,breakout,higher,upsid,retest,look,high,break,entri
+iter33_cv_split5,trigger,breakout,higher,look,revers,entri,high,upsid,higher low,break
+iter34_cv_split1,trigger,breakout,upsid,higher,revers,entri,retest,look,way,higher low
+iter34_cv_split2,trigger,breakout,revers,higher,high,entri,look,trendlin,break,retest
+iter34_cv_split3,trigger,higher,breakout,revers,upsid,entri,soon,break,higher low,trendlin
+iter34_cv_split4,trigger,revers,breakout,higher,upsid,entri,look,higher low,high,break
+iter34_cv_split5,trigger,breakout,revers,higher,upsid,soon,high,break,higher low,low
+iter35_cv_split1,trigger,higher,breakout,revers,upsid,entri,trendlin,look,high,low
+iter35_cv_split2,trigger,breakout,higher,revers,high,upsid,look,retest,higher low,soon
+iter35_cv_split3,trigger,breakout,revers,higher,entri,upsid,look,break,high,higher low
+iter35_cv_split4,trigger,revers,higher,breakout,break,soon,upsid,entri,higher low,bullish
+iter35_cv_split5,trigger,breakout,higher,revers,upsid,look,high,trendlin,higher low,soon
+iter36_cv_split1,trigger,breakout,look,high,trendlin,entri,revers,soon,retest,upsid
+iter36_cv_split2,trigger,revers,breakout,higher,upsid,break,high,entri,soon,retest
+iter36_cv_split3,trigger,breakout,higher,entri,revers,upsid,higher low,break,low,look
+iter36_cv_split4,trigger,breakout,higher,revers,upsid,high,break,low,retest,higher low
+iter36_cv_split5,trigger,higher,revers,breakout,upsid,look,higher low,entri,break,retest
+iter37_cv_split1,trigger,revers,higher,breakout,entri,upsid,look,high,trendlin,break
+iter37_cv_split2,trigger,breakout,revers,higher,look,upsid,break,soon,higher low,way
+iter37_cv_split3,trigger,breakout,revers,higher,upsid,entri,high,retest,soon,ema
+iter37_cv_split4,trigger,breakout,higher,revers,upsid,entri,higher low,trendlin,break,retest
+iter37_cv_split5,trigger,higher,breakout,revers,look,upsid,entri,high,trendlin,break
+iter38_cv_split1,trigger,breakout,higher,revers,upsid,trendlin,look,high,entri,amp
+iter38_cv_split2,trigger,breakout,revers,higher,upsid,entri,higher low,break,retest,triangl
+iter38_cv_split3,trigger,breakout,higher,revers,break,low,upsid,trendlin,higher low,entri
+iter38_cv_split4,trigger,breakout,revers,higher,entri,upsid,look,high,break,retest
+iter38_cv_split5,trigger,higher,breakout,revers,upsid,look,entri,high,soon,higher low
+iter39_cv_split1,trigger,higher,breakout,upsid,revers,entri,look,high,retest,higher low
+iter39_cv_split2,trigger,breakout,revers,higher,look,soon,break,high,upsid,amp
+iter39_cv_split3,trigger,revers,breakout,higher,entri,break,upsid,high,bull,retest
+iter39_cv_split4,trigger,breakout,revers,higher,upsid,high,look,trendlin,higher low,entri
+iter39_cv_split5,trigger,breakout,higher,upsid,revers,entri,trendlin,higher low,low,soon
+iter40_cv_split1,trigger,breakout,revers,higher,trendlin,look,higher low,upsid,soon,entri
+iter40_cv_split2,trigger,breakout,higher,revers,entri,break,upsid,high,soon,volum
+iter40_cv_split3,trigger,breakout,higher,upsid,entri,revers,high,soon,higher low,look
+iter40_cv_split4,trigger,breakout,revers,higher,upsid,entri,look,break,retest,trendlin
+iter40_cv_split5,trigger,revers,higher,breakout,upsid,break,high,higher low,look,retest
+iter41_cv_split1,trigger,breakout,higher,revers,entri,retest,upsid,look,high,higher low
+iter41_cv_split2,trigger,higher,breakout,entri,revers,high,upsid,soon,break,look
+iter41_cv_split3,trigger,breakout,higher,revers,entri,look,break,upsid,trendlin,higher low
+iter41_cv_split4,trigger,breakout,revers,higher,upsid,break,trendlin,high,soon,look
+iter41_cv_split5,trigger,breakout,revers,higher,upsid,look,break,retest,entri,higher low
+iter42_cv_split1,trigger,breakout,higher,trendlin,revers,upsid,entri,break,soon,volum
+iter42_cv_split2,trigger,higher,breakout,revers,upsid,high,entri,higher low,look,break
+iter42_cv_split3,trigger,revers,breakout,look,entri,upsid,trendlin,ema,higher,soon
+iter42_cv_split4,trigger,breakout,revers,higher,upsid,break,trendlin,retest,soon,high
+iter42_cv_split5,trigger,higher,breakout,revers,look,upsid,high,entri,higher low,low
+iter43_cv_split1,trigger,breakout,higher,revers,high,upsid,soon,higher low,entri,retest
+iter43_cv_split2,trigger,higher,breakout,upsid,revers,entri,low,higher low,break,retest
+iter43_cv_split3,trigger,breakout,revers,upsid,break,look,trendlin,entri,higher,soon
+iter43_cv_split4,trigger,higher,revers,look,high,entri,breakout,trendlin,higher low,upsid
+iter43_cv_split5,trigger,breakout,revers,higher,upsid,break,entri,way,look,bull
+iter44_cv_split1,trigger,higher,breakout,high,upsid,entri,revers,trendlin,break,higher low
+iter44_cv_split2,trigger,breakout,higher,revers,look,upsid,soon,entri,higher low,low
+iter44_cv_split3,trigger,breakout,revers,upsid,higher,entri,high,look,retest,trendlin
+iter44_cv_split4,trigger,breakout,higher,revers,upsid,higher low,break,high,trendlin,soon
+iter44_cv_split5,trigger,revers,higher,breakout,look,trendlin,break,entri,upsid,volum
+iter45_cv_split1,trigger,breakout,upsid,higher,break,high,revers,entri,trendlin,higher low
+iter45_cv_split2,trigger,breakout,revers,higher,upsid,look,high,entri,soon,retest
+iter45_cv_split3,trigger,higher,breakout,revers,entri,upsid,low,higher low,look,soon
+iter45_cv_split4,trigger,revers,breakout,higher,upsid,entri,trendlin,look,higher low,high
+iter45_cv_split5,trigger,revers,higher,breakout,entri,trendlin,retest,look,soon,break
+iter46_cv_split1,trigger,breakout,higher,revers,high,look,entri,upsid,retest,higher low
+iter46_cv_split2,trigger,breakout,revers,break,higher,trendlin,upsid,look,ema,high
+iter46_cv_split3,trigger,revers,higher,upsid,breakout,entri,soon,trendlin,retest,break
+iter46_cv_split4,trigger,higher,breakout,upsid,revers,entri,higher low,soon,look,high
+iter46_cv_split5,trigger,breakout,revers,higher,entri,look,upsid,trendlin,higher low,break
+iter47_cv_split1,trigger,breakout,revers,higher,upsid,trendlin,entri,break,high,soon
+iter47_cv_split2,trigger,higher,breakout,revers,upsid,higher low,high,entri,low,soon
+iter47_cv_split3,trigger,higher,breakout,revers,trendlin,upsid,break,entri,look,higher low
+iter47_cv_split4,trigger,breakout,revers,higher,look,entri,high,retest,volum,higher low
+iter47_cv_split5,trigger,breakout,revers,upsid,higher,look,entri,soon,high,trendlin
+iter48_cv_split1,trigger,breakout,revers,higher,upsid,retest,entri,high,break,higher low
+iter48_cv_split2,trigger,breakout,revers,higher,upsid,high,break,look,entri,trendlin
+iter48_cv_split3,trigger,higher,breakout,revers,upsid,entri,higher low,high,break,low
+iter48_cv_split4,trigger,breakout,higher,revers,look,entri,trendlin,upsid,high,higher low
+iter48_cv_split5,trigger,breakout,revers,higher,upsid,look,entri,trendlin,break,soon
+iter49_cv_split1,trigger,breakout,higher,revers,upsid,break,look,retest,high,entri
+iter49_cv_split2,trigger,higher,entri,upsid,breakout,high,look,break,low,trendlin
+iter49_cv_split3,trigger,revers,breakout,higher,look,entri,upsid,soon,higher low,high
+iter49_cv_split4,trigger,breakout,higher,revers,upsid,trendlin,retest,high,higher low,look
+iter49_cv_split5,trigger,breakout,revers,higher,break,entri,trendlin,high,upsid,retest
+iter50_cv_split1,trigger,breakout,higher,upsid,revers,entri,look,soon,retest,higher low
+iter50_cv_split2,trigger,higher,breakout,revers,upsid,high,break,higher low,entri,soon
+iter50_cv_split3,trigger,breakout,higher,revers,upsid,look,entri,high,trendlin,break
+iter50_cv_split4,trigger,breakout,revers,higher,upsid,entri,break,soon,trendlin,look
+iter50_cv_split5,trigger,revers,breakout,higher,entri,soon,high,look,bull,higher low
+iter51_cv_split1,trigger,revers,breakout,higher,upsid,entri,break,trend,higher low,trendlin
+iter51_cv_split2,trigger,breakout,revers,higher,look,upsid,entri,trendlin,break,higher low
+iter51_cv_split3,trigger,breakout,higher,revers,entri,trendlin,upsid,look,higher low,high
+iter51_cv_split4,trigger,breakout,higher,revers,entri,look,upsid,break,high,volum
+iter51_cv_split5,trigger,breakout,higher,revers,upsid,high,soon,trendlin,retest,break
+iter52_cv_split1,trigger,breakout,higher,revers,upsid,higher low,break,soon,look,entri
+iter52_cv_split2,trigger,breakout,revers,higher,entri,break,upsid,higher low,high,soon
+iter52_cv_split3,trigger,look,breakout,revers,upsid,higher,entri,break,trendlin,ema
+iter52_cv_split4,trigger,higher,revers,high,breakout,break,upsid,entri,higher low,soon
+iter52_cv_split5,trigger,breakout,higher,revers,upsid,entri,high,trendlin,look,volum
+iter53_cv_split1,trigger,breakout,revers,trendlin,break,look,entri,upsid,higher,high
+iter53_cv_split2,trigger,breakout,higher,revers,upsid,entri,higher low,break,way,look
+iter53_cv_split3,trigger,revers,higher,breakout,high,retest,trendlin,look,upsid,higher low
+iter53_cv_split4,trigger,higher,revers,breakout,upsid,high,entri,break,look,higher low
+iter53_cv_split5,trigger,breakout,higher,revers,upsid,entri,higher low,volum,low,look
+iter54_cv_split1,trigger,breakout,revers,higher,entri,high,look,upsid,higher low,break
+iter54_cv_split2,trigger,higher,breakout,revers,upsid,break,high,higher low,entri,soon
+iter54_cv_split3,trigger,revers,breakout,trendlin,higher,break,upsid,retest,look,high
+iter54_cv_split4,trigger,breakout,higher,upsid,break,look,entri,revers,higher low,soon
+iter54_cv_split5,trigger,revers,higher,breakout,upsid,entri,trendlin,soon,look,high
+iter55_cv_split1,trigger,breakout,revers,upsid,higher,trendlin,entri,look,high,higher low
+iter55_cv_split2,trigger,higher,revers,upsid,breakout,high,retest,higher low,look,low
+iter55_cv_split3,trigger,higher,revers,breakout,entri,upsid,trendlin,high,retest,higher low
+iter55_cv_split4,trigger,breakout,higher,look,break,revers,trendlin,entri,soon,upsid
+iter55_cv_split5,trigger,breakout,revers,higher,upsid,entri,high,break,look,higher low
+iter56_cv_split1,trigger,breakout,higher,upsid,revers,entri,higher low,low,break,look
+iter56_cv_split2,trigger,higher,revers,breakout,upsid,higher low,entri,look,low,high
+iter56_cv_split3,trigger,breakout,revers,higher,look,entri,high,trendlin,break,upsid
+iter56_cv_split4,trigger,breakout,revers,higher,upsid,break,entri,high,soon,look
+iter56_cv_split5,trigger,higher,revers,breakout,trendlin,high,entri,break,look,upsid
+iter57_cv_split1,trigger,higher,breakout,revers,upsid,high,higher low,look,retest,break
+iter57_cv_split2,trigger,breakout,revers,upsid,entri,break,soon,trendlin,higher,look
+iter57_cv_split3,trigger,revers,breakout,higher,entri,upsid,trendlin,retest,higher low,high
+iter57_cv_split4,trigger,higher,breakout,revers,upsid,high,entri,look,low,higher low
+iter57_cv_split5,trigger,breakout,higher,upsid,revers,look,break,trendlin,entri,high
+iter58_cv_split1,trigger,breakout,revers,upsid,higher,entri,break,trendlin,soon,look
+iter58_cv_split2,trigger,breakout,higher,revers,high,upsid,entri,trend,higher low,break
+iter58_cv_split3,trigger,higher,breakout,revers,upsid,look,high,retest,like,break
+iter58_cv_split4,trigger,higher,breakout,entri,revers,upsid,look,higher low,trendlin,break
+iter58_cv_split5,trigger,revers,breakout,higher,trendlin,upsid,look,high,break,soon
+iter59_cv_split1,trigger,higher,breakout,revers,upsid,entri,higher low,high,break,low
+iter59_cv_split2,trigger,higher,revers,breakout,look,entri,soon,upsid,higher low,high
+iter59_cv_split3,trigger,revers,breakout,higher,upsid,entri,high,break,look,retest
+iter59_cv_split4,breakout,trigger,revers,look,upsid,break,high,higher,soon,entri
+iter59_cv_split5,trigger,breakout,higher,revers,upsid,trendlin,entri,look,higher low,ema
+iter60_cv_split1,trigger,breakout,higher,revers,upsid,entri,look,break,amp,soon
+iter60_cv_split2,trigger,breakout,higher,revers,upsid,high,break,entri,trendlin,look
+iter60_cv_split3,trigger,higher,revers,breakout,entri,retest,trendlin,upsid,higher low,ema
+iter60_cv_split4,trigger,breakout,higher,revers,look,soon,high,entri,retest,break
+iter60_cv_split5,trigger,breakout,revers,higher,upsid,look,break,entri,higher low,high
+iter61_cv_split1,trigger,higher,revers,breakout,upsid,entri,look,retest,high,higher low
+iter61_cv_split2,trigger,higher,breakout,revers,upsid,high,look,low,entri,break
+iter61_cv_split3,trigger,breakout,higher,revers,break,look,upsid,higher low,soon,retest
+iter61_cv_split4,trigger,breakout,revers,higher,entri,break,high,upsid,trendlin,retest
+iter61_cv_split5,trigger,higher,revers,breakout,entri,upsid,higher low,high,trendlin,soon
+iter62_cv_split1,trigger,higher,revers,breakout,break,upsid,soon,higher low,high,entri
+iter62_cv_split2,trigger,breakout,revers,higher,look,upsid,entri,trendlin,retest,high
+iter62_cv_split3,trigger,higher,breakout,upsid,entri,revers,higher low,high,break,look
+iter62_cv_split4,trigger,breakout,upsid,revers,entri,break,look,higher,high,ema
+iter62_cv_split5,trigger,breakout,higher,revers,look,entri,high,trendlin,upsid,higher low
+iter63_cv_split1,trigger,breakout,higher,revers,entri,break,high,upsid,higher low,trendlin
+iter63_cv_split2,trigger,breakout,revers,higher,upsid,break,look,entri,high,higher low
+iter63_cv_split3,trigger,revers,higher,upsid,breakout,break,high,look,entri,soon
+iter63_cv_split4,trigger,breakout,upsid,higher,revers,look,entri,soon,trendlin,high
+iter63_cv_split5,trigger,breakout,higher,revers,trendlin,higher low,high,upsid,low,entri
+iter64_cv_split1,trigger,breakout,revers,higher,look,upsid,trendlin,entri,high,trend
+iter64_cv_split2,trigger,breakout,higher,upsid,break,entri,look,revers,higher low,retest
+iter64_cv_split3,trigger,breakout,higher,entri,revers,upsid,higher low,low,break,volum
+iter64_cv_split4,trigger,revers,breakout,higher,upsid,look,trendlin,break,higher low,high
+iter64_cv_split5,trigger,revers,higher,breakout,high,upsid,soon,trendlin,entri,break
+iter65_cv_split1,trigger,higher,revers,breakout,high,higher low,entri,upsid,soon,ema
+iter65_cv_split2,trigger,breakout,revers,higher,trendlin,break,look,upsid,high,entri
+iter65_cv_split3,trigger,breakout,higher,revers,entri,upsid,trendlin,look,amp,higher low
+iter65_cv_split4,trigger,breakout,higher,upsid,revers,break,entri,look,trendlin,higher low
+iter65_cv_split5,trigger,breakout,higher,revers,upsid,high,entri,look,soon,higher low
+iter66_cv_split1,trigger,breakout,revers,upsid,higher,soon,entri,way,confirm,break
+iter66_cv_split2,trigger,higher,breakout,revers,break,entri,higher low,look,upsid,low
+iter66_cv_split3,trigger,breakout,higher,revers,upsid,trendlin,high,entri,look,higher low
+iter66_cv_split4,trigger,breakout,higher,revers,look,upsid,entri,high,higher low,trendlin
+iter66_cv_split5,trigger,breakout,revers,higher,upsid,entri,high,break,look,retest
+iter67_cv_split1,trigger,breakout,revers,higher,upsid,entri,look,higher low,volum,break
+iter67_cv_split2,trigger,higher,breakout,revers,upsid,look,entri,higher low,high,soon
+iter67_cv_split3,trigger,breakout,revers,entri,higher,look,break,amp,high,upsid
+iter67_cv_split4,trigger,revers,breakout,higher,upsid,high,trendlin,entri,look,break
+iter67_cv_split5,trigger,breakout,revers,higher,upsid,break,high,retest,low,soon
+iter68_cv_split1,trigger,breakout,higher,upsid,revers,break,higher low,look,high,entri
+iter68_cv_split2,trigger,higher,breakout,revers,high,entri,break,upsid,higher low,look
+iter68_cv_split3,trigger,higher,revers,breakout,upsid,entri,trendlin,look,break,higher low
+iter68_cv_split4,trigger,breakout,revers,look,higher,upsid,entri,trendlin,soon,retest
+iter68_cv_split5,trigger,breakout,revers,higher,upsid,entri,soon,amp,trendlin,low
+iter69_cv_split1,trigger,breakout,revers,higher,entri,upsid,break,trendlin,higher low,retest
+iter69_cv_split2,trigger,breakout,higher,revers,high,soon,trendlin,higher low,upsid,entri
+iter69_cv_split3,trigger,breakout,revers,higher,upsid,look,volum,entri,soon,retest
+iter69_cv_split4,trigger,revers,breakout,higher,look,upsid,entri,break,soon,low
+iter69_cv_split5,trigger,higher,revers,upsid,breakout,high,break,entri,higher low,look
+iter70_cv_split1,trigger,higher,breakout,revers,upsid,entri,look,break,higher low,low
+iter70_cv_split2,trigger,breakout,higher,revers,upsid,break,look,trendlin,soon,higher low
+iter70_cv_split3,trigger,breakout,upsid,higher,entri,revers,look,high,break,soon
+iter70_cv_split4,trigger,revers,breakout,higher,entri,upsid,soon,trendlin,retest,high
+iter70_cv_split5,trigger,breakout,revers,higher,high,higher low,trendlin,entri,soon,retest
+iter71_cv_split1,trigger,revers,higher,breakout,high,trendlin,higher low,upsid,entri,low
+iter71_cv_split2,trigger,higher,breakout,revers,upsid,break,look,trendlin,higher low,soon
+iter71_cv_split3,trigger,breakout,entri,higher,upsid,high,revers,amp,break,look
+iter71_cv_split4,trigger,breakout,higher,revers,upsid,break,entri,higher low,soon,low
+iter71_cv_split5,trigger,revers,breakout,higher,soon,look,upsid,entri,high,bull
+iter72_cv_split1,trigger,revers,higher,breakout,upsid,entri,look,higher low,break,low
+iter72_cv_split2,trigger,higher,breakout,entri,revers,upsid,soon,higher low,high,retest
+iter72_cv_split3,trigger,breakout,higher,revers,high,trendlin,look,upsid,higher low,entri
+iter72_cv_split4,trigger,breakout,revers,higher,upsid,break,soon,entri,higher low,high
+iter72_cv_split5,breakout,trigger,revers,upsid,look,higher,entri,break,soon,high
+iter73_cv_split1,trigger,breakout,revers,higher,upsid,trendlin,entri,high,break,look
+iter73_cv_split2,trigger,breakout,revers,break,entri,higher,upsid,high,higher low,soon
+iter73_cv_split3,trigger,higher,revers,breakout,upsid,entri,low,higher low,look,soon
+iter73_cv_split4,trigger,breakout,higher,revers,look,upsid,entri,high,trendlin,higher low
+iter73_cv_split5,trigger,breakout,revers,higher,upsid,break,high,entri,look,soon
+iter74_cv_split1,trigger,higher,revers,high,trendlin,upsid,breakout,entri,look,break
+iter74_cv_split2,trigger,breakout,higher,revers,entri,upsid,high,look,soon,higher low
+iter74_cv_split3,trigger,breakout,revers,higher,upsid,soon,break,retest,higher low,readi
+iter74_cv_split4,trigger,breakout,revers,higher,trendlin,entri,look,break,upsid,volum
+iter74_cv_split5,trigger,breakout,higher,revers,upsid,trendlin,soon,break,higher low,look
+iter75_cv_split1,trigger,higher,breakout,upsid,revers,entri,high,break,trendlin,higher low
+iter75_cv_split2,trigger,revers,higher,breakout,trendlin,upsid,break,soon,look,higher low
+iter75_cv_split3,trigger,breakout,higher,revers,look,entri,upsid,high,soon,low
+iter75_cv_split4,trigger,revers,breakout,higher,entri,upsid,high,higher low,low,break
+iter75_cv_split5,trigger,breakout,higher,revers,entri,upsid,look,retest,volum,break
+iter76_cv_split1,trigger,higher,revers,breakout,upsid,look,entri,high,higher low,soon
+iter76_cv_split2,trigger,breakout,upsid,revers,higher,look,trendlin,break,entri,high
+iter76_cv_split3,trigger,higher,breakout,revers,high,break,entri,higher low,low,upsid
+iter76_cv_split4,trigger,breakout,higher,revers,upsid,entri,retest,trendlin,break,low
+iter76_cv_split5,trigger,breakout,revers,higher,upsid,high,soon,entri,look,break
+iter77_cv_split1,trigger,breakout,higher,revers,upsid,high,entri,trendlin,break,higher low
+iter77_cv_split2,trigger,revers,breakout,higher,entri,soon,upsid,look,break,way
+iter77_cv_split3,trigger,breakout,revers,higher,upsid,look,break,soon,entri,high
+iter77_cv_split4,trigger,breakout,revers,higher,entri,upsid,trendlin,high,look,higher low
+iter77_cv_split5,trigger,breakout,higher,revers,upsid,higher low,break,look,soon,retest
+iter78_cv_split1,trigger,breakout,revers,higher,upsid,trendlin,break,retest,higher low,entri
+iter78_cv_split2,trigger,higher,breakout,look,revers,entri,break,upsid,high,higher low
+iter78_cv_split3,trigger,breakout,higher,revers,upsid,break,entri,high,look,soon
+iter78_cv_split4,trigger,breakout,higher,revers,high,entri,higher low,look,upsid,soon
+iter78_cv_split5,trigger,revers,breakout,higher,upsid,soon,entri,high,look,trendlin
+iter79_cv_split1,trigger,breakout,revers,higher,entri,look,upsid,soon,higher low,bull
+iter79_cv_split2,trigger,breakout,revers,higher,high,entri,break,upsid,trendlin,higher low
+iter79_cv_split3,trigger,higher,revers,breakout,look,upsid,break,high,entri,higher low
+iter79_cv_split4,trigger,breakout,higher,revers,entri,trendlin,break,upsid,soon,low
+iter79_cv_split5,trigger,higher,upsid,breakout,revers,higher low,high,look,soon,way
+iter80_cv_split1,trigger,breakout,revers,higher,upsid,high,look,break,higher low,entri
+iter80_cv_split2,trigger,higher,breakout,revers,upsid,break,entri,retest,look,higher low
+iter80_cv_split3,trigger,higher,revers,breakout,upsid,soon,look,high,trendlin,entri
+iter80_cv_split4,trigger,breakout,revers,higher,upsid,break,trendlin,entri,higher low,look
+iter80_cv_split5,trigger,breakout,higher,entri,revers,upsid,high,break,look,retest
+iter81_cv_split1,trigger,higher,breakout,revers,trendlin,upsid,break,higher low,look,high
+iter81_cv_split2,trigger,higher,revers,breakout,entri,look,soon,retest,upsid,low
+iter81_cv_split3,trigger,breakout,upsid,revers,higher,entri,break,high,higher low,soon
+iter81_cv_split4,trigger,breakout,revers,upsid,higher,high,look,entri,trendlin,break
+iter81_cv_split5,trigger,higher,revers,breakout,upsid,entri,high,higher low,break,look
+iter82_cv_split1,trigger,breakout,revers,higher,entri,upsid,look,soon,break,trendlin
+iter82_cv_split2,trigger,breakout,revers,higher,entri,upsid,soon,look,break,high
+iter82_cv_split3,trigger,breakout,higher,upsid,revers,high,retest,trendlin,look,break
+iter82_cv_split4,trigger,revers,higher,upsid,look,breakout,higher low,entri,break,soon
+iter82_cv_split5,trigger,breakout,higher,revers,upsid,trendlin,high,entri,higher low,break
+iter83_cv_split1,trigger,revers,higher,breakout,upsid,entri,ema,retest,higher low,break
+iter83_cv_split2,trigger,breakout,higher,revers,upsid,high,trendlin,look,higher low,entri
+iter83_cv_split3,trigger,breakout,higher,revers,upsid,break,look,trendlin,entri,soon
+iter83_cv_split4,trigger,breakout,revers,higher,upsid,break,look,entri,higher low,high
+iter83_cv_split5,trigger,breakout,higher,revers,entri,high,trendlin,look,soon,break
+iter84_cv_split1,trigger,higher,breakout,upsid,revers,look,high,entri,soon,trendlin
+iter84_cv_split2,trigger,breakout,revers,higher,upsid,entri,look,break,retest,bull
+iter84_cv_split3,trigger,higher,breakout,revers,break,upsid,low,higher low,entri,soon
+iter84_cv_split4,trigger,breakout,revers,entri,upsid,higher,trendlin,look,way,retest
+iter84_cv_split5,trigger,breakout,higher,revers,high,entri,upsid,higher low,break,look
+iter85_cv_split1,trigger,breakout,revers,higher,upsid,high,look,entri,retest,soon
+iter85_cv_split2,trigger,breakout,revers,upsid,higher,look,trendlin,higher low,soon,amp
+iter85_cv_split3,trigger,higher,breakout,break,entri,revers,trendlin,higher low,upsid,look
+iter85_cv_split4,trigger,higher,revers,breakout,trendlin,entri,upsid,higher low,high,break
+iter85_cv_split5,trigger,breakout,revers,higher,upsid,look,entri,high,break,way
+iter86_cv_split1,trigger,revers,breakout,higher,break,upsid,high,entri,volum,look
+iter86_cv_split2,trigger,breakout,higher,revers,upsid,entri,break,higher low,low,look
+iter86_cv_split3,trigger,breakout,higher,upsid,revers,look,entri,higher low,retest,trendlin
+iter86_cv_split4,trigger,revers,breakout,higher,look,break,soon,trendlin,upsid,high
+iter86_cv_split5,trigger,higher,breakout,revers,high,upsid,entri,higher low,trendlin,soon
+iter87_cv_split1,trigger,higher,breakout,entri,revers,break,upsid,look,low,higher low
+iter87_cv_split2,trigger,breakout,revers,higher,upsid,look,high,volum,retest,entri
+iter87_cv_split3,trigger,breakout,revers,higher,upsid,higher low,trend,trendlin,soon,break
+iter87_cv_split4,trigger,revers,breakout,high,higher,upsid,entri,look,trendlin,break
+iter87_cv_split5,trigger,breakout,higher,upsid,revers,entri,trendlin,break,higher low,soon
+iter88_cv_split1,trigger,higher,breakout,upsid,revers,retest,higher low,high,entri,low
+iter88_cv_split2,trigger,breakout,revers,higher,upsid,soon,look,entri,high,break
+iter88_cv_split3,trigger,breakout,revers,higher,trendlin,upsid,soon,entri,look,break
+iter88_cv_split4,trigger,revers,breakout,higher,high,entri,break,look,higher low,upsid
+iter88_cv_split5,trigger,higher,breakout,revers,upsid,entri,higher low,break,look,high
+iter89_cv_split1,trigger,revers,breakout,higher,look,upsid,trendlin,high,entri,higher low
+iter89_cv_split2,trigger,breakout,higher,look,high,upsid,entri,low,higher low,soon
+iter89_cv_split3,trigger,higher,revers,breakout,upsid,break,trendlin,entri,higher low,look
+iter89_cv_split4,trigger,breakout,revers,higher,entri,upsid,break,higher low,soon,confirm
+iter89_cv_split5,trigger,breakout,revers,higher,upsid,entri,amp,high,trendlin,look
+iter90_cv_split1,trigger,breakout,higher,upsid,revers,break,look,trendlin,entri,amp
+iter90_cv_split2,trigger,breakout,revers,higher,entri,upsid,high,look,break,higher low
+iter90_cv_split3,trigger,revers,higher,breakout,high,look,upsid,soon,higher low,break
+iter90_cv_split4,trigger,revers,higher,breakout,trendlin,entri,high,upsid,higher low,break
+iter90_cv_split5,trigger,breakout,higher,upsid,soon,entri,revers,break,low,higher low
+iter91_cv_split1,trigger,breakout,higher,revers,upsid,entri,break,look,soon,higher low
+iter91_cv_split2,trigger,breakout,revers,higher,upsid,break,low,higher low,entri,retest
+iter91_cv_split3,trigger,revers,high,breakout,higher,entri,upsid,look,higher low,trend
+iter91_cv_split4,trigger,breakout,higher,revers,high,look,entri,upsid,higher low,retest
+iter91_cv_split5,trigger,revers,higher,breakout,upsid,entri,soon,look,trendlin,break
+iter92_cv_split1,trigger,higher,breakout,revers,trendlin,higher low,low,entri,high,retest
+iter92_cv_split2,trigger,higher,revers,high,breakout,upsid,look,entri,break,soon
+iter92_cv_split3,trigger,breakout,higher,revers,upsid,trendlin,break,entri,higher low,look
+iter92_cv_split4,trigger,breakout,revers,upsid,higher,soon,entri,break,look,higher low
+iter92_cv_split5,trigger,breakout,higher,revers,upsid,entri,look,soon,high,break
+iter93_cv_split1,trigger,breakout,revers,higher,look,upsid,entri,break,higher low,high
+iter93_cv_split2,trigger,higher,breakout,revers,trendlin,high,higher low,entri,break,upsid
+iter93_cv_split3,trigger,revers,higher,breakout,entri,trendlin,higher low,look,soon,upsid
+iter93_cv_split4,trigger,breakout,higher,upsid,revers,entri,high,soon,break,look
+iter93_cv_split5,trigger,breakout,revers,higher,upsid,break,retest,look,high,entri
+iter94_cv_split1,trigger,revers,breakout,higher,upsid,trendlin,break,entri,high,higher low
+iter94_cv_split2,trigger,breakout,revers,higher,upsid,entri,look,soon,break,amp
+iter94_cv_split3,trigger,breakout,higher,revers,high,upsid,entri,higher low,look,soon
+iter94_cv_split4,trigger,higher,breakout,look,revers,trendlin,upsid,break,high,entri
+iter94_cv_split5,trigger,breakout,revers,higher,upsid,entri,trendlin,high,break,retest
+iter95_cv_split1,trigger,higher,breakout,revers,upsid,break,higher low,retest,low,entri
+iter95_cv_split2,trigger,revers,higher,breakout,trendlin,look,upsid,entri,break,higher low
+iter95_cv_split3,trigger,breakout,higher,revers,high,upsid,look,entri,trendlin,soon
+iter95_cv_split4,trigger,breakout,higher,upsid,entri,revers,look,high,break,trendlin
+iter95_cv_split5,trigger,breakout,revers,higher,high,upsid,look,entri,break,retest
+iter96_cv_split1,trigger,breakout,higher,entri,upsid,revers,high,retest,trendlin,look
+iter96_cv_split2,trigger,revers,breakout,higher,break,upsid,entri,trendlin,soon,bull
+iter96_cv_split3,trigger,breakout,revers,higher,entri,upsid,high,amp,soon,low
+iter96_cv_split4,trigger,higher,breakout,upsid,revers,look,higher low,break,ema,entri
+iter96_cv_split5,trigger,revers,breakout,higher,look,upsid,trendlin,high,entri,break
+iter97_cv_split1,trigger,breakout,higher,revers,look,upsid,high,entri,higher low,break
+iter97_cv_split2,trigger,breakout,revers,upsid,higher,entri,break,high,ema,retest
+iter97_cv_split3,trigger,higher,breakout,revers,entri,trendlin,higher low,retest,break,soon
+iter97_cv_split4,trigger,breakout,higher,revers,look,upsid,high,soon,entri,break
+iter97_cv_split5,trigger,breakout,revers,higher,entri,upsid,higher low,break,high,low
+iter98_cv_split1,trigger,breakout,higher,revers,high,trendlin,upsid,entri,higher low,break
+iter98_cv_split2,trigger,revers,breakout,higher,upsid,look,higher low,entri,retest,low
+iter98_cv_split3,trigger,breakout,revers,higher,upsid,entri,look,high,break,higher low
+iter98_cv_split4,trigger,breakout,higher,break,upsid,revers,high,soon,look,entri
+iter98_cv_split5,trigger,breakout,revers,higher,look,upsid,entri,soon,break,trendlin
+iter99_cv_split1,trigger,breakout,revers,higher,upsid,high,look,break,entri,soon
+iter99_cv_split2,trigger,breakout,revers,higher,upsid,entri,high,trendlin,retest,break
+iter99_cv_split3,trigger,breakout,higher,revers,upsid,higher low,trendlin,high,retest,entri
+iter99_cv_split4,trigger,higher,upsid,revers,breakout,break,look,entri,trendlin,high
+iter99_cv_split5,trigger,higher,breakout,revers,upsid,entri,look,higher low,break,high
+iter100_cv_split1,trigger,breakout,revers,upsid,higher,high,entri,look,soon,trendlin
+iter100_cv_split2,trigger,breakout,revers,higher,upsid,entri,soon,trendlin,break,higher low
+iter100_cv_split3,trigger,higher,breakout,look,break,trendlin,upsid,high,entri,higher low
+iter100_cv_split4,trigger,higher,revers,breakout,high,upsid,entri,higher low,look,break
+iter100_cv_split5,trigger,revers,breakout,higher,upsid,entri,look,higher low,break,low
